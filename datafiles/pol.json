@@ -1,0 +1,3016 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ogden Street",
+                "description": "Named for Anthony Ogden, mayor (1924-1926) and MLA for Townsville in the early 20<sup>th</sup> century (Mathew, 2008, 95).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8187834,
+                        -19.2587387
+                    ],
+                    [
+                        146.8186956,
+                        -19.258771
+                    ],
+                    [
+                        146.8184904,
+                        -19.2588585
+                    ],
+                    [
+                        146.8183213,
+                        -19.2590391
+                    ],
+                    [
+                        146.817489,
+                        -19.2601274
+                    ],
+                    [
+                        146.8160786,
+                        -19.2617819
+                    ],
+                    [
+                        146.8147406,
+                        -19.2633714
+                    ],
+                    [
+                        146.8146703,
+                        -19.263455
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hanran Street",
+                "description": "Named for Patrick Francis Hanran, mayor from 1870 onwards for multiple terms. He was also a general merchant in Townsville. (Mathew, 2008, p. 58-59).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8147406,
+                        -19.2633714
+                    ],
+                    [
+                        146.8148678,
+                        -19.2634418
+                    ],
+                    [
+                        146.8150569,
+                        -19.2634414
+                    ],
+                    [
+                        146.8150569,
+                        -19.2634414
+                    ],
+                    [
+                        146.8156214,
+                        -19.2632128
+                    ],
+                    [
+                        146.8165423,
+                        -19.2621445
+                    ],
+                    [
+                        146.8172655,
+                        -19.261253
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hanran Street",
+                "description": "Named for Patrick Francis Hanran, mayor from 1870 onwards for multiple terms. He was also a general merchant in Townsville. (Mathew, 2008, pp. 58-59).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8150569,
+                        -19.2634414
+                    ],
+                    [
+                        146.8148161,
+                        -19.2634977
+                    ],
+                    [
+                        146.8146703,
+                        -19.263455
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Thorpe Street",
+                "description": "\"Named after Thomas Edward Thorpe, sharebroker and Alderman\" (Mathew, 2008, p. 118).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8213573,
+                        -19.2561615
+                    ],
+                    [
+                        146.8218905,
+                        -19.2563479
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Herbert Street",
+                "description": "\"Named after Sir Robert George Wyndham Herbert, secretary to Sir George Bowen (first governor of QLD) and Colonial Secretary for just over six years from December 1859 - February 1866 (Mathew, 2008, p. 62).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8176952,
+                        -19.2553552
+                    ],
+                    [
+                        146.8177625,
+                        -19.2553617
+                    ],
+                    [
+                        146.819138,
+                        -19.2555312
+                    ],
+                    [
+                        146.8200446,
+                        -19.2556428
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Knapp Street",
+                "description": "Named for Henry Knapp, a solicitor who held various political positions during the latter half of the 19<sup>th</sup>century who left office permanently after being sued for larceny (his legal licence was also suspended later). (Mathew, 2008, p. 73).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8069043,
+                        -19.2643269
+                    ],
+                    [
+                        146.8077339,
+                        -19.265295
+                    ],
+                    [
+                        146.8077339,
+                        -19.265295
+                    ],
+                    [
+                        146.8079307,
+                        -19.2655902
+                    ],
+                    [
+                        146.8079307,
+                        -19.2655902
+                    ],
+                    [
+                        146.808392,
+                        -19.2662227
+                    ],
+                    [
+                        146.808434,
+                        -19.2662846
+                    ],
+                    [
+                        146.8090367,
+                        -19.2672195
+                    ],
+                    [
+                        146.8090928,
+                        -19.2673003
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Knapp Street",
+                "description": "Named for Henry Knapp, a solicitor who held various political positions during the latter half of the 19<sup>th</sup>century who left office permanently after being sued for larceny (his legal licence was also suspended later) (Mathew, 2008, p. 73).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8089999,
+                        -19.2673564
+                    ],
+                    [
+                        146.8089459,
+                        -19.2672737
+                    ],
+                    [
+                        146.808329,
+                        -19.2663471
+                    ],
+                    [
+                        146.8082862,
+                        -19.2662851
+                    ],
+                    [
+                        146.8079307,
+                        -19.2655902
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kennedy Street",
+                "description": "Named for Sir Arthur Edward Kennedy, governor of QLD from 1877-1883 (Mathew, 2008, p. 73).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8067934,
+                        -19.2553519
+                    ],
+                    [
+                        146.8068781,
+                        -19.2552249
+                    ],
+                    [
+                        146.8074083,
+                        -19.25443
+                    ],
+                    [
+                        146.8074739,
+                        -19.2543077
+                    ],
+                    [
+                        146.8080556,
+                        -19.253338
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kennedy Street",
+                "description": "Named for Sir Arthur Edward Kennedy, governor of QLD from 1877-1883 (Mathew, 2008, p. 73).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8124719,
+                        -19.2492785
+                    ],
+                    [
+                        146.8116112,
+                        -19.2500678
+                    ],
+                    [
+                        146.8116112,
+                        -19.2500678
+                    ],
+                    [
+                        146.8112272,
+                        -19.2503662
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kennedy Street",
+                "description": "Named for Sir Arthur Edward Kennedy, governor of QLD from 1877-1883 (Mathew, 2008, p. 73).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8133071,
+                        -19.2485202
+                    ],
+                    [
+                        146.8125817,
+                        -19.2491795
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Isley Street",
+                "description": "Named for John Bacey Isley, a Queensland Native Mounted Police Inspector in the late 19<sup>th</sup> century (Mathew, 2008, p. 67).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8016864,
+                        -19.2435705
+                    ],
+                    [
+                        146.802285,
+                        -19.2424187
+                    ],
+                    [
+                        146.8031913,
+                        -19.2416255
+                    ],
+                    [
+                        146.8031913,
+                        -19.2416255
+                    ],
+                    [
+                        146.8040698,
+                        -19.2408019
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bundock Street",
+                "description": "Named for Arthur Glennie Bundock, who served in a variety of public service roles including Alderman and Mayor in the late 19<sup>th</sup> century (Mathew, 2008, p. 24).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.7857867,
+                        -19.2620895
+                    ],
+                    [
+                        146.7858482,
+                        -19.261863
+                    ],
+                    [
+                        146.7862776,
+                        -19.2604855
+                    ],
+                    [
+                        146.7862776,
+                        -19.2604855
+                    ],
+                    [
+                        146.7872426,
+                        -19.2574233
+                    ],
+                    [
+                        146.7875089,
+                        -19.2560734
+                    ],
+                    [
+                        146.787723,
+                        -19.2548948
+                    ],
+                    [
+                        146.7878548,
+                        -19.2542292
+                    ],
+                    [
+                        146.7879398,
+                        -19.2538333
+                    ],
+                    [
+                        146.7880237,
+                        -19.2535288
+                    ],
+                    [
+                        146.7881307,
+                        -19.2531845
+                    ],
+                    [
+                        146.7882531,
+                        -19.2528098
+                    ],
+                    [
+                        146.7887444,
+                        -19.2513872
+                    ],
+                    [
+                        146.7888732,
+                        -19.2511161
+                    ],
+                    [
+                        146.788934,
+                        -19.2510067
+                    ],
+                    [
+                        146.788934,
+                        -19.2510067
+                    ],
+                    [
+                        146.7890296,
+                        -19.250835
+                    ],
+                    [
+                        146.7892062,
+                        -19.2506049
+                    ],
+                    [
+                        146.789909,
+                        -19.2501282
+                    ],
+                    [
+                        146.7907743,
+                        -19.2495446
+                    ],
+                    [
+                        146.7925126,
+                        -19.2483702
+                    ],
+                    [
+                        146.7927544,
+                        -19.2481216
+                    ],
+                    [
+                        146.7929815,
+                        -19.2474438
+                    ],
+                    [
+                        146.7930567,
+                        -19.2472397
+                    ],
+                    [
+                        146.7931118,
+                        -19.2471125
+                    ],
+                    [
+                        146.7931879,
+                        -19.2469772
+                    ],
+                    [
+                        146.7933134,
+                        -19.2468111
+                    ],
+                    [
+                        146.7934645,
+                        -19.2466806
+                    ],
+                    [
+                        146.7938862,
+                        -19.2463834
+                    ],
+                    [
+                        146.7943979,
+                        -19.2460646
+                    ],
+                    [
+                        146.7946123,
+                        -19.246001
+                    ],
+                    [
+                        146.7948231,
+                        -19.2459545
+                    ],
+                    [
+                        146.7957398,
+                        -19.2458051
+                    ],
+                    [
+                        146.7978749,
+                        -19.2454418
+                    ],
+                    [
+                        146.7996702,
+                        -19.2451048
+                    ],
+                    [
+                        146.7996702,
+                        -19.2451048
+                    ],
+                    [
+                        146.8000397,
+                        -19.2450318
+                    ],
+                    [
+                        146.8005404,
+                        -19.2449454
+                    ],
+                    [
+                        146.8007528,
+                        -19.2449305
+                    ],
+                    [
+                        146.8010281,
+                        -19.24493
+                    ],
+                    [
+                        146.8013281,
+                        -19.2449784
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bundock Street",
+                "description": "Named for Arthur Glennie Bundock, who served in a variety of public service roles including Alderman and Mayor in the late 19<sup>th</sup> century (Mathew, 2008, p. 24).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8012566,
+                        -19.2450742
+                    ],
+                    [
+                        146.8008371,
+                        -19.2450395
+                    ],
+                    [
+                        146.8004397,
+                        -19.2450707
+                    ],
+                    [
+                        146.7996877,
+                        -19.2451985
+                    ],
+                    [
+                        146.7983943,
+                        -19.2454659
+                    ],
+                    [
+                        146.7979038,
+                        -19.2455493
+                    ],
+                    [
+                        146.7971614,
+                        -19.2456698
+                    ],
+                    [
+                        146.7957588,
+                        -19.2459025
+                    ],
+                    [
+                        146.7951879,
+                        -19.2459984
+                    ],
+                    [
+                        146.7948765,
+                        -19.2460486
+                    ],
+                    [
+                        146.7946501,
+                        -19.2460924
+                    ],
+                    [
+                        146.7944542,
+                        -19.2461556
+                    ],
+                    [
+                        146.7942904,
+                        -19.2462702
+                    ],
+                    [
+                        146.7938912,
+                        -19.246515
+                    ],
+                    [
+                        146.7934483,
+                        -19.246837
+                    ],
+                    [
+                        146.7933323,
+                        -19.2469627
+                    ],
+                    [
+                        146.7932074,
+                        -19.2471561
+                    ],
+                    [
+                        146.7931015,
+                        -19.2474442
+                    ],
+                    [
+                        146.7929996,
+                        -19.247786
+                    ],
+                    [
+                        146.7929214,
+                        -19.2480295
+                    ],
+                    [
+                        146.7928937,
+                        -19.2480897
+                    ],
+                    [
+                        146.7928547,
+                        -19.2481748
+                    ],
+                    [
+                        146.7927533,
+                        -19.2483223
+                    ],
+                    [
+                        146.7925741,
+                        -19.2484628
+                    ],
+                    [
+                        146.7916794,
+                        -19.2490517
+                    ],
+                    [
+                        146.7908331,
+                        -19.2496266
+                    ],
+                    [
+                        146.7904403,
+                        -19.2498819
+                    ],
+                    [
+                        146.7894896,
+                        -19.2505205
+                    ],
+                    [
+                        146.7892933,
+                        -19.2506859
+                    ],
+                    [
+                        146.7891608,
+                        -19.250848
+                    ],
+                    [
+                        146.7890885,
+                        -19.2509374
+                    ],
+                    [
+                        146.7889893,
+                        -19.2511161
+                    ],
+                    [
+                        146.7889893,
+                        -19.2511161
+                    ],
+                    [
+                        146.7886635,
+                        -19.252005
+                    ],
+                    [
+                        146.7885705,
+                        -19.2522718
+                    ],
+                    [
+                        146.7882095,
+                        -19.253307
+                    ],
+                    [
+                        146.788126,
+                        -19.2535465
+                    ],
+                    [
+                        146.7880063,
+                        -19.2540083
+                    ],
+                    [
+                        146.7879199,
+                        -19.2544039
+                    ],
+                    [
+                        146.7878523,
+                        -19.254799
+                    ],
+                    [
+                        146.7878341,
+                        -19.2549157
+                    ],
+                    [
+                        146.7878341,
+                        -19.2549157
+                    ],
+                    [
+                        146.7876219,
+                        -19.2560983
+                    ],
+                    [
+                        146.7874155,
+                        -19.2571093
+                    ],
+                    [
+                        146.7873297,
+                        -19.2574658
+                    ],
+                    [
+                        146.7872842,
+                        -19.2576284
+                    ],
+                    [
+                        146.7872053,
+                        -19.2578943
+                    ],
+                    [
+                        146.7863838,
+                        -19.2605058
+                    ],
+                    [
+                        146.7863838,
+                        -19.2605058
+                    ],
+                    [
+                        146.7860168,
+                        -19.2617135
+                    ],
+                    [
+                        146.7858878,
+                        -19.2621168
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Palmer Street",
+                "description": "Named for Sir Arthur Hunter Palmer (1819-1898), a politician and banker who became Colonial Secretary in the mid to late 19<sup>th</sup> century (Mathew, 2008, pp. 97-98).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8218512,
+                        -19.2598712
+                    ],
+                    [
+                        146.8221142,
+                        -19.2598479
+                    ],
+                    [
+                        146.8221142,
+                        -19.2598479
+                    ],
+                    [
+                        146.8241231,
+                        -19.2593225
+                    ],
+                    [
+                        146.8245408,
+                        -19.2592287
+                    ],
+                    [
+                        146.8253435,
+                        -19.2591167
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Palmer Street",
+                "description": "Named for Sir Arthur Hunter Palmer (1819-1898), a politician and banker who became Colonial Secretary in the mid to late 19<sup>th</sup> century (Mathew, 2008, pp. 97-98).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8221142,
+                        -19.2598479
+                    ],
+                    [
+                        146.8218801,
+                        -19.2599489
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Palmer Street",
+                "description": "Named for Sir Arthur Hunter Palmer (1819-1898), a politician and banker who became Colonial Secretary in the mid to late 19<sup>th</sup> century (Mathew, 2008, pp. 97-98).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8217242,
+                        -19.2599857
+                    ],
+                    [
+                        146.8199796,
+                        -19.2604629
+                    ],
+                    [
+                        146.8196677,
+                        -19.2605492
+                    ],
+                    [
+                        146.8193492,
+                        -19.2606574
+                    ],
+                    [
+                        146.8192455,
+                        -19.2606931
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Palmer Street",
+                "description": "Named for Sir Arthur Hunter Palmer (1819-1898), a politician and banker who became Colonial Secretary in the mid to late 19<sup>th</sup> century (Mathew, 2008, pp. 97-98).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8193203,
+                        -19.2605504
+                    ],
+                    [
+                        146.8196456,
+                        -19.2604571
+                    ],
+                    [
+                        146.8199553,
+                        -19.2603792
+                    ],
+                    [
+                        146.8217068,
+                        -19.2599182
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Palmer Street",
+                "description": "Named for Sir Arthur Hunter Palmer (1819-1898), a politician and banker who became Colonial Secretary in the mid to late 19<sup>th</sup> century (Mathew, 2008, pp. 97-98).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8256492,
+                        -19.2589614
+                    ],
+                    [
+                        146.8257104,
+                        -19.2589856
+                    ],
+                    [
+                        146.8257388,
+                        -19.2590675
+                    ],
+                    [
+                        146.8256805,
+                        -19.2591172
+                    ],
+                    [
+                        146.8256092,
+                        -19.2591125
+                    ],
+                    [
+                        146.8253435,
+                        -19.2591167
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Palmer Street",
+                "description": "Named for Sir Arthur Hunter Palmer (1819-1898), a politician and banker who became Colonial Secretary in the mid to late 19<sup>th</sup> century (Mathew, 2008, pp. 97-98).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8253435,
+                        -19.2591167
+                    ],
+                    [
+                        146.8255771,
+                        -19.2590024
+                    ],
+                    [
+                        146.8256492,
+                        -19.2589614
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Palmer Street",
+                "description": "Named for Sir Arthur Hunter Palmer (1819-1898), a politician and banker who became Colonial Secretary in the mid to late 19<sup>th</sup> century (Mathew, 2008, pp. 97-98).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8259568,
+                        -19.259237
+                    ],
+                    [
+                        146.825764,
+                        -19.2591733
+                    ],
+                    [
+                        146.8256092,
+                        -19.2591125
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Palmer Street",
+                "description": "Named for Sir Arthur Hunter Palmer (1819-1898), a politician and banker who became Colonial Secretary in the mid to late 19<sup>th</sup> century (Mathew, 2008, pp. 97-98).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8256492,
+                        -19.2589614
+                    ],
+                    [
+                        146.8257489,
+                        -19.2588936
+                    ],
+                    [
+                        146.8258387,
+                        -19.2588961
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mcilwraith Street",
+                "description": "Named for Sir Thomas McIlwraith, conservative politician who proposed railroad development and the Divisional Boards Act of 1879 (Mathew, 2008, p. 80).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8220868,
+                        -19.2611103
+                    ],
+                    [
+                        146.8218725,
+                        -19.2611131
+                    ],
+                    [
+                        146.8218725,
+                        -19.2611131
+                    ],
+                    [
+                        146.8196879,
+                        -19.261741
+                    ],
+                    [
+                        146.8195563,
+                        -19.2617812
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mcilwraith Street",
+                "description": "Named for Sir Thomas McIlwraith, conservative politician who proposed railroad development and the Divisional Boards Act of 1879 (Mathew, 2008, p. 80).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8218725,
+                        -19.2611131
+                    ],
+                    [
+                        146.8220502,
+                        -19.2609991
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mcilwraith Street",
+                "description": "Named for Sir Thomas McIlwraith, conservative politician who proposed railroad development and the Divisional Boards Act of 1879 (Mathew, 2008, p. 80).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8222822,
+                        -19.2609372
+                    ],
+                    [
+                        146.8224741,
+                        -19.2609335
+                    ],
+                    [
+                        146.8224741,
+                        -19.2609335
+                    ],
+                    [
+                        146.8235247,
+                        -19.2606673
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mcilwraith Street",
+                "description": "Named for Sir Thomas McIlwraith, conservative politician who proposed railroad development and the Divisional Boards Act of 1879 (Mathew, 2008, p. 80).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8224741,
+                        -19.2609335
+                    ],
+                    [
+                        146.8223126,
+                        -19.2610504
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mcilwraith Street",
+                "description": "Named for Sir Thomas McIlwraith, conservative politician who proposed railroad development and the Divisional Boards Act of 1879 (Mathew, 2008, p. 80).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8235247,
+                        -19.2606673
+                    ],
+                    [
+                        146.8237554,
+                        -19.2605787
+                    ],
+                    [
+                        146.8240155,
+                        -19.2604788
+                    ],
+                    [
+                        146.8240948,
+                        -19.2604555
+                    ],
+                    [
+                        146.8244205,
+                        -19.2603598
+                    ],
+                    [
+                        146.8253048,
+                        -19.2602505
+                    ],
+                    [
+                        146.8262832,
+                        -19.2601296
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mcilwraith Street",
+                "description": "Named for Sir Thomas McIlwraith, conservative politician who proposed railroad development and the Divisional Boards Act of 1879 (Mathew, 2008, p. 80).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8263574,
+                        -19.2602232
+                    ],
+                    [
+                        146.8261708,
+                        -19.2602514
+                    ],
+                    [
+                        146.8253211,
+                        -19.2603473
+                    ],
+                    [
+                        146.8248195,
+                        -19.2603994
+                    ],
+                    [
+                        146.8244057,
+                        -19.2604563
+                    ],
+                    [
+                        146.8242206,
+                        -19.2604942
+                    ],
+                    [
+                        146.8241308,
+                        -19.2605166
+                    ],
+                    [
+                        146.8239236,
+                        -19.2605661
+                    ],
+                    [
+                        146.8235247,
+                        -19.2606673
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Archer Street",
+                "description": "Named for Archibald Archer, member of the Legislative Assembly in the late 19<sup>th</sup> century. He later, \"served in the McIlwraith Ministry as Colonial Treasurer and Secretary for Public Instruction in 1882-83\" (Mathew, 2008, p. 10).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.826229,
+                        -19.2593171
+                    ],
+                    [
+                        146.8259568,
+                        -19.259237
+                    ],
+                    [
+                        146.8258613,
+                        -19.2591167
+                    ],
+                    [
+                        146.8258294,
+                        -19.2589581
+                    ],
+                    [
+                        146.8258387,
+                        -19.2588961
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Archer Street",
+                "description": "Named for Archibald Archer, member of the Legislative Assembly in the late 19<sup>th</sup> century. He later, \"served in the McIlwraith Ministry as Colonial Treasurer and Secretary for Public Instruction in 1882-83\" (Mathew, 2008, p. 10).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8267577,
+                        -19.2594773
+                    ],
+                    [
+                        146.8268106,
+                        -19.2594977
+                    ],
+                    [
+                        146.8268753,
+                        -19.2595225
+                    ],
+                    [
+                        146.8269331,
+                        -19.2595379
+                    ],
+                    [
+                        146.826987,
+                        -19.2595589
+                    ],
+                    [
+                        146.826987,
+                        -19.2595589
+                    ],
+                    [
+                        146.8274191,
+                        -19.2597111
+                    ],
+                    [
+                        146.8274816,
+                        -19.2597581
+                    ],
+                    [
+                        146.8274816,
+                        -19.2597581
+                    ],
+                    [
+                        146.8279897,
+                        -19.2600392
+                    ],
+                    [
+                        146.8290964,
+                        -19.2605229
+                    ],
+                    [
+                        146.8324756,
+                        -19.2620597
+                    ],
+                    [
+                        146.834575,
+                        -19.2630306
+                    ],
+                    [
+                        146.8358297,
+                        -19.2635774
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Archer Street",
+                "description": "Named for Archibald Archer, member of the Legislative Assembly in the late 19<sup>th</sup> century. He later, \"served in the McIlwraith Ministry as Colonial Treasurer and Secretary for Public Instruction in 1882-83\" (Mathew, 2008, p. 10).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8274816,
+                        -19.2597581
+                    ],
+                    [
+                        146.8270391,
+                        -19.2596509
+                    ],
+                    [
+                        146.8270391,
+                        -19.2596509
+                    ],
+                    [
+                        146.8269523,
+                        -19.2596154
+                    ],
+                    [
+                        146.8269012,
+                        -19.2596025
+                    ],
+                    [
+                        146.8267836,
+                        -19.2595573
+                    ],
+                    [
+                        146.8267836,
+                        -19.2595573
+                    ],
+                    [
+                        146.8267181,
+                        -19.2595335
+                    ],
+                    [
+                        146.8267132,
+                        -19.2595325
+                    ],
+                    [
+                        146.8266842,
+                        -19.2595266
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ross Street",
+                "description": "Named for William Alfred Ross, hotel operator and \"elected a member of the first Townsville Council in the following year. He was Mayor in 1868.\" (Mathew, 2008, p. 109).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8258387,
+                        -19.2588961
+                    ],
+                    [
+                        146.8258917,
+                        -19.2588085
+                    ],
+                    [
+                        146.8263788,
+                        -19.2582516
+                    ],
+                    [
+                        146.8271197,
+                        -19.2570345
+                    ],
+                    [
+                        146.8272191,
+                        -19.2568059
+                    ],
+                    [
+                        146.8277455,
+                        -19.2559004
+                    ],
+                    [
+                        146.827775,
+                        -19.2558496
+                    ],
+                    [
+                        146.8280277,
+                        -19.2553349
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Griffith Street",
+                "description": "Named for Sir Samuel Griffith, a premier of Queensland. \"At the first Federal Convention held in Sydney during March 1891,\" Mathew (2008) notes, \"he was largely responsible for the draft constitution which was adopted.\" (p. 56).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8201643,
+                        -19.2628647
+                    ],
+                    [
+                        146.8215103,
+                        -19.2625127
+                    ],
+                    [
+                        146.8223047,
+                        -19.2622487
+                    ],
+                    [
+                        146.8223047,
+                        -19.2622487
+                    ],
+                    [
+                        146.8225509,
+                        -19.2621534
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Barlow Street",
+                "description": "Named for Andrew Henry Barlow, a member of the Legislative Assembly in the late 19<sup>th</sup> century. As Mathew (2008) argues, \"Barlow opposed Chinese immigration, supported the Eight-Hour Bill but favoured plural voting because he believed that unrestrained democracy fostered despotism\" (p. 15).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.820874,
+                        -19.2637667
+                    ],
+                    [
+                        146.8215103,
+                        -19.2625127
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Morehead Street",
+                "description": "Named for Boyd Dunlop Morehead, a businessperson and politician (Mathew, 2008, p. 15). He became Premier of Queensland later in life from 1888 - 1890, resigning as he \"felt unable to continue with such diminished support\" after imposing unfavourable tax measures (p. 42)",
+                "refs": "Fitzgerald, R., Megarrity, L., &amp; Symons, D. (2009). <i>Made in Queensland: A New History</i>. St Lucia, QLD: University of Queensland Press.<br \\>Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8237554,
+                        -19.2605787
+                    ],
+                    [
+                        146.8238612,
+                        -19.2604715
+                    ],
+                    [
+                        146.823955,
+                        -19.2603297
+                    ],
+                    [
+                        146.8240681,
+                        -19.260161
+                    ],
+                    [
+                        146.8240681,
+                        -19.260161
+                    ],
+                    [
+                        146.8245408,
+                        -19.2592287
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Morehead Street",
+                "description": "Named for Boyd Dunlop Morehead, a businessperson and politician (Mathew, 2008, p. 15). He became Premier of Queensland later in life from 1888 - 1890, resigning as he \"felt unable to continue with such diminished support\" after imposing unfavourable tax measures (p. 42)",
+                "refs": "Fitzgerald, R., Megarrity, L., &amp; Symons, D. (2009). <i>Made in Queensland: A New History</i>. St Lucia, QLD: University of Queensland Press.<br \\>Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8240681,
+                        -19.260161
+                    ],
+                    [
+                        146.8240409,
+                        -19.2603069
+                    ],
+                    [
+                        146.8240948,
+                        -19.2604555
+                    ],
+                    [
+                        146.8241308,
+                        -19.2605166
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Morehead Street",
+                "description": "Named for Boyd Dunlop Morehead, a businessperson and politician (Mathew, 2008, p. 15). He became Premier of Queensland later in life from 1888 - 1890, resigning as he \"felt unable to continue with such diminished support\" after imposing unfavourable tax measures (p. 42)",
+                "refs": "Fitzgerald, R., Megarrity, L., &amp; Symons, D. (2009). <i>Made in Queensland: A New History</i>. St Lucia, QLD: University of Queensland Press.<br \\>Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8229837,
+                        -19.2623204
+                    ],
+                    [
+                        146.8236824,
+                        -19.2609436
+                    ],
+                    [
+                        146.8236824,
+                        -19.2609436
+                    ],
+                    [
+                        146.8237056,
+                        -19.2608386
+                    ],
+                    [
+                        146.8236976,
+                        -19.2607525
+                    ],
+                    [
+                        146.823652,
+                        -19.2606968
+                    ],
+                    [
+                        146.8235247,
+                        -19.2606673
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Morehead Street",
+                "description": "Named for Boyd Dunlop Morehead, a businessperson and politician (Mathew, 2008, p. 15). He became Premier of Queensland later in life from 1888 - 1890, resigning as he \"felt unable to continue with such diminished support\" after imposing unfavourable tax measures (p. 42)",
+                "refs": "Fitzgerald, R., Megarrity, L., &amp; Symons, D. (2009). <i>Made in Queensland: A New History</i>. St Lucia, QLD: University of Queensland Press.<br \\>Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8210987,
+                        -19.2660015
+                    ],
+                    [
+                        146.8219544,
+                        -19.2642496
+                    ],
+                    [
+                        146.8229159,
+                        -19.2624524
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Davidson Street",
+                "description": "Named for William Montgomerie Davenport Davidson, Assistant Surveyor General from 1878-1889 and Surveyor General from 1889-1891 (Mathew, 2008, p. 40).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8240842,
+                        -19.2628456
+                    ],
+                    [
+                        146.8249659,
+                        -19.2611224
+                    ],
+                    [
+                        146.8250163,
+                        -19.2610336
+                    ],
+                    [
+                        146.8252827,
+                        -19.2605649
+                    ],
+                    [
+                        146.8253255,
+                        -19.2604508
+                    ],
+                    [
+                        146.8253211,
+                        -19.2603473
+                    ],
+                    [
+                        146.8253048,
+                        -19.2602505
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Davidson Street",
+                "description": "Named for William Montgomerie Davenport Davidson, Assistant Surveyor General from 1878-1889 and Surveyor General from 1889-1891 (Mathew, 2008, p. 40).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8240164,
+                        -19.2629777
+                    ],
+                    [
+                        146.8230656,
+                        -19.2647514
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Morey Street",
+                "description": "Named for Edmund Morey, Police Magistrate (1882-1885) and subsequenlty \"warden of the Clermont Gold Field\" (Mathew, 2008, p. 87).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8274107,
+                        -19.2667458
+                    ],
+                    [
+                        146.8283759,
+                        -19.267203
+                    ],
+                    [
+                        146.8285325,
+                        -19.2672719
+                    ],
+                    [
+                        146.8295802,
+                        -19.2677329
+                    ],
+                    [
+                        146.8303677,
+                        -19.2680782
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Morey Street",
+                "description": "Named for Edmund Morey, Police Magistrate (1882-1885) and subsequenlty \"warden of the Clermont Gold Field\" (Mathew, 2008, p. 87).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.825199,
+                        -19.265734
+                    ],
+                    [
+                        146.8262105,
+                        -19.2662058
+                    ],
+                    [
+                        146.8272723,
+                        -19.266679
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Morey Street",
+                "description": "Named for Edmund Morey, Police Magistrate (1882-1885) and subsequenlty \"warden of the Clermont Gold Field\" (Mathew, 2008, p. 87).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8197296,
+                        -19.2631551
+                    ],
+                    [
+                        146.8198319,
+                        -19.2632339
+                    ],
+                    [
+                        146.820874,
+                        -19.2637667
+                    ],
+                    [
+                        146.8219544,
+                        -19.2642496
+                    ],
+                    [
+                        146.8230656,
+                        -19.2647514
+                    ],
+                    [
+                        146.8238079,
+                        -19.265095
+                    ],
+                    [
+                        146.8240339,
+                        -19.2651889
+                    ],
+                    [
+                        146.8241129,
+                        -19.2652217
+                    ],
+                    [
+                        146.8243574,
+                        -19.2653395
+                    ],
+                    [
+                        146.8249847,
+                        -19.2656367
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Benwell Road",
+                "description": "Named for Hugh Percy Hamilton Benwell (1852-1901), \"the first secretary of the Townsville Chamber of Commerce when it was formed in 1882 and in the same year was appointed surveyor and valuator to the Thuringowa Divisional Board at a salary of seventy-five pounds per annum\" (Mathew, 2008, p. 18).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8370397,
+                        -19.2586523
+                    ],
+                    [
+                        146.8365639,
+                        -19.2562717
+                    ],
+                    [
+                        146.8360231,
+                        -19.2538976
+                    ],
+                    [
+                        146.8360489,
+                        -19.2536869
+                    ],
+                    [
+                        146.8361642,
+                        -19.2533759
+                    ],
+                    [
+                        146.8370102,
+                        -19.2510939
+                    ],
+                    [
+                        146.8375976,
+                        -19.2495235
+                    ],
+                    [
+                        146.8380316,
+                        -19.2483631
+                    ],
+                    [
+                        146.8380487,
+                        -19.24812
+                    ],
+                    [
+                        146.8379801,
+                        -19.2479418
+                    ],
+                    [
+                        146.8378771,
+                        -19.2478526
+                    ],
+                    [
+                        146.83689,
+                        -19.2475204
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Benwell Road",
+                "description": "Named for Hugh Percy Hamilton Benwell (1852-1901), \"the first secretary of the Townsville Chamber of Commerce when it was formed in 1882 and in the same year was appointed surveyor and valuator to the Thuringowa Divisional Board at a salary of seventy-five pounds per annum\" (Mathew, 2008, p. 18).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8350061,
+                        -19.2673807
+                    ],
+                    [
+                        146.8350003,
+                        -19.2668812
+                    ],
+                    [
+                        146.8350344,
+                        -19.2661451
+                    ],
+                    [
+                        146.8358297,
+                        -19.2635774
+                    ],
+                    [
+                        146.8358297,
+                        -19.2635774
+                    ],
+                    [
+                        146.837096,
+                        -19.2595534
+                    ],
+                    [
+                        146.837114,
+                        -19.259408
+                    ],
+                    [
+                        146.837114,
+                        -19.259408
+                    ],
+                    [
+                        146.8371046,
+                        -19.2591482
+                    ],
+                    [
+                        146.8370397,
+                        -19.2586523
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tully Road",
+                "description": "Named for William Alcock Tully (1830-1905), who, after arriving in Queensland, became, \"Commissioner of Crown Lands for the Kennedy and Warrego pastoral districts\" and eventually Surveyor General of Queensland (Mathew, 2008, ppp. 119-120).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8231424,
+                        -19.2696984
+                    ],
+                    [
+                        146.8231362,
+                        -19.2695382
+                    ],
+                    [
+                        146.8241613,
+                        -19.2675992
+                    ],
+                    [
+                        146.8250278,
+                        -19.2657886
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tully Road",
+                "description": "Named for William Alcock Tully (1830-1905), who, after arriving in Queensland, became, \"Commissioner of Crown Lands for the Kennedy and Warrego pastoral districts\" and eventually Surveyor General of Queensland (Mathew, 2008, ppp. 119-120).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8260147,
+                        -19.2638882
+                    ],
+                    [
+                        146.8251456,
+                        -19.265596
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tully Road",
+                "description": "Named for William Alcock Tully (1830-1905), who, after arriving in Queensland, became, \"Commissioner of Crown Lands for the Kennedy and Warrego pastoral districts\" and eventually Surveyor General of Queensland (Mathew, 2008, ppp. 119-120).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8270118,
+                        -19.2619292
+                    ],
+                    [
+                        146.8270164,
+                        -19.2620343
+                    ],
+                    [
+                        146.8261876,
+                        -19.2637155
+                    ],
+                    [
+                        146.8260837,
+                        -19.2637513
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tully Road",
+                "description": "Named for William Alcock Tully (1830-1905), who, after arriving in Queensland, became, \"Commissioner of Crown Lands for the Kennedy and Warrego pastoral districts\" and eventually Surveyor General of Queensland (Mathew, 2008, ppp. 119-120).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8260837,
+                        -19.2637513
+                    ],
+                    [
+                        146.8260662,
+                        -19.2636509
+                    ],
+                    [
+                        146.8268914,
+                        -19.2619859
+                    ],
+                    [
+                        146.8270118,
+                        -19.2619292
+                    ],
+                    [
+                        146.8270118,
+                        -19.2619292
+                    ],
+                    [
+                        146.8271699,
+                        -19.2616237
+                    ],
+                    [
+                        146.8279897,
+                        -19.2600392
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Macrossan Road",
+                "description": "Named for John Murtagh Macrossan (1833-1891), politician. \"In 1886\" Mathew (2008) argues, \"he came out openly for complete separation for the North and in parliament made one of Australia’s great statements for local self-government\" (p. 81).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8272151,
+                        -19.2642661
+                    ],
+                    [
+                        146.8281307,
+                        -19.2624551
+                    ],
+                    [
+                        146.8290964,
+                        -19.2605229
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Macrossan Road",
+                "description": "Named for John Murtagh Macrossan (1833-1891), politician. \"In 1886\" Mathew (2008) argues, \"he came out openly for complete separation for the North and in parliament made one of Australia’s great statements for local self-government\" (p. 81).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8262105,
+                        -19.2662058
+                    ],
+                    [
+                        146.8271474,
+                        -19.2643982
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bell Street",
+                "description": "Named for Sir Joshua Peter Bell (1827-1881), politician who held various posts including, at the end of his career, \"administrator of the Colony from 19th March to 20th December 1880\" (Mathew, 2008, p. 81).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8296712,
+                        -19.2611008
+                    ],
+                    [
+                        146.8296932,
+                        -19.2620635
+                    ],
+                    [
+                        146.8292512,
+                        -19.262956
+                    ],
+                    [
+                        146.8283506,
+                        -19.2648221
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bell Street",
+                "description": "Named for Sir Joshua Peter Bell (1827-1881), politician who held various posts including, at the end of his career, \"administrator of the Colony from 19th March to 20th December 1880\" (Mathew, 2008, p. 81).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8282465,
+                        -19.2649123
+                    ],
+                    [
+                        146.8273728,
+                        -19.2666497
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bell Street",
+                "description": "Named for Sir Joshua Peter Bell (1827-1881), politician who held various posts including, at the end of his career, \"administrator of the Colony from 19th March to 20th December 1880\" (Mathew, 2008, p. 81).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8273069,
+                        -19.2667828
+                    ],
+                    [
+                        146.8261071,
+                        -19.2691294
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nelson Street",
+                "description": "Named for Sir Hugh Muir Nelson (1833-1906), politician. \"His handling of the Queensland National Bank crisis\" Mathew (2008) argues, \"was his greatest and shrewdest service to colonial bourgeois society. When the Queensland National Bank suspended payment on 15th May 189? he declared it basically sound, although aware of its true state. The government then rescued the bank at its own and depositors’ expense.\" (p. 92).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8277852,
+                        -19.2685182
+                    ],
+                    [
+                        146.8277477,
+                        -19.2684777
+                    ],
+                    [
+                        146.8277532,
+                        -19.2684221
+                    ],
+                    [
+                        146.8283759,
+                        -19.267203
+                    ],
+                    [
+                        146.8292896,
+                        -19.2654235
+                    ],
+                    [
+                        146.8294247,
+                        -19.2653545
+                    ],
+                    [
+                        146.8294247,
+                        -19.2653545
+                    ],
+                    [
+                        146.8303742,
+                        -19.2634754
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nelson Street",
+                "description": "Named for Sir Hugh Muir Nelson (1833-1906), politician. \"His handling of the Queensland National Bank crisis\" Mathew (2008) argues, \"was his greatest and shrewdest service to colonial bourgeois society. When the Queensland National Bank suspended payment on 15th May 189? he declared it basically sound, although aware of its true state. The government then rescued the bank at its own and depositors’ expense.\" (p. 92).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8294247,
+                        -19.2653545
+                    ],
+                    [
+                        146.8294375,
+                        -19.26549
+                    ],
+                    [
+                        146.8285325,
+                        -19.2672719
+                    ],
+                    [
+                        146.8279086,
+                        -19.2684828
+                    ],
+                    [
+                        146.827855,
+                        -19.2685182
+                    ],
+                    [
+                        146.8277852,
+                        -19.2685182
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Boundary Street",
+                "description": "Named for the fact that it served as the boundary between South Townsville and Railway Estate (Mathew, 2008, p. 21). In Townsville, as in other Australian communities such as Brisbane, Boundary Street also marked the line across which Indigenous peoples were not allowed to cross.",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8045086,
+                        -19.2723377
+                    ],
+                    [
+                        146.8050191,
+                        -19.2724127
+                    ],
+                    [
+                        146.8050191,
+                        -19.2724127
+                    ],
+                    [
+                        146.8054711,
+                        -19.2725117
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Boundary Street",
+                "description": "Named for the fact that it served as the boundary between South Townsville and Railway Estate (Mathew, 2008, p. 21). In Townsville, as in other Australian communities such as Brisbane, Boundary Street also marked the line across which Indigenous peoples were not allowed to cross.",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8163504,
+                        -19.2710175
+                    ],
+                    [
+                        146.8148624,
+                        -19.271338
+                    ],
+                    [
+                        146.8147367,
+                        -19.2713639
+                    ],
+                    [
+                        146.8146101,
+                        -19.2713888
+                    ],
+                    [
+                        146.8145189,
+                        -19.2714067
+                    ],
+                    [
+                        146.8138538,
+                        -19.2715372
+                    ],
+                    [
+                        146.8131801,
+                        -19.2716839
+                    ],
+                    [
+                        146.8131801,
+                        -19.2716839
+                    ],
+                    [
+                        146.8125571,
+                        -19.271778
+                    ],
+                    [
+                        146.8120705,
+                        -19.2718639
+                    ],
+                    [
+                        146.8116482,
+                        -19.2719434
+                    ],
+                    [
+                        146.8113133,
+                        -19.2720064
+                    ],
+                    [
+                        146.8105404,
+                        -19.2721611
+                    ],
+                    [
+                        146.8098483,
+                        -19.2722962
+                    ],
+                    [
+                        146.8091066,
+                        -19.2724289
+                    ],
+                    [
+                        146.80811,
+                        -19.2726303
+                    ],
+                    [
+                        146.8079113,
+                        -19.2726702
+                    ],
+                    [
+                        146.8076312,
+                        -19.2727089
+                    ],
+                    [
+                        146.8074325,
+                        -19.2727384
+                    ],
+                    [
+                        146.8074325,
+                        -19.2727384
+                    ],
+                    [
+                        146.8067391,
+                        -19.2726777
+                    ],
+                    [
+                        146.8067391,
+                        -19.2726777
+                    ],
+                    [
+                        146.8065199,
+                        -19.2726568
+                    ],
+                    [
+                        146.8065199,
+                        -19.2726568
+                    ],
+                    [
+                        146.8056017,
+                        -19.2725293
+                    ],
+                    [
+                        146.8054711,
+                        -19.2725117
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Boundary Street",
+                "description": "Named for the fact that it served as the boundary between South Townsville and Railway Estate (Mathew, 2008, p. 21). In Townsville, as in other Australian communities such as Brisbane, Boundary Street also marked the line across which Indigenous peoples were not allowed to cross.",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8163504,
+                        -19.2710175
+                    ],
+                    [
+                        146.8171467,
+                        -19.2708556
+                    ],
+                    [
+                        146.817334,
+                        -19.2708184
+                    ],
+                    [
+                        146.817334,
+                        -19.2708184
+                    ],
+                    [
+                        146.8195418,
+                        -19.2703944
+                    ],
+                    [
+                        146.8211137,
+                        -19.2700958
+                    ],
+                    [
+                        146.8211137,
+                        -19.2700958
+                    ],
+                    [
+                        146.8216858,
+                        -19.2699887
+                    ],
+                    [
+                        146.8216858,
+                        -19.2699887
+                    ],
+                    [
+                        146.8220807,
+                        -19.2699124
+                    ],
+                    [
+                        146.8220807,
+                        -19.2699124
+                    ],
+                    [
+                        146.8223778,
+                        -19.269854
+                    ],
+                    [
+                        146.8223778,
+                        -19.269854
+                    ],
+                    [
+                        146.8231424,
+                        -19.2696984
+                    ],
+                    [
+                        146.8231424,
+                        -19.2696984
+                    ],
+                    [
+                        146.8244428,
+                        -19.2694627
+                    ],
+                    [
+                        146.8261071,
+                        -19.2691294
+                    ],
+                    [
+                        146.8266606,
+                        -19.2690151
+                    ],
+                    [
+                        146.8272291,
+                        -19.2689072
+                    ],
+                    [
+                        146.8279368,
+                        -19.2687729
+                    ],
+                    [
+                        146.8292177,
+                        -19.2685299
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Boundary Street",
+                "description": "Named for the fact that it served as the boundary between South Townsville and Railway Estate (Mathew, 2008, p. 21). In Townsville, as in other Australian communities such as Brisbane, Boundary Street also marked the line across which Indigenous peoples were not allowed to cross.",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8350061,
+                        -19.2673807
+                    ],
+                    [
+                        146.8343963,
+                        -19.2674949
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Boundary Street",
+                "description": "Named for the fact that it served as the boundary between South Townsville and Railway Estate (Mathew, 2008, p. 21). In Townsville, as in other Australian communities such as Brisbane, Boundary Street also marked the line across which Indigenous peoples were not allowed to cross.",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8292177,
+                        -19.2685299
+                    ],
+                    [
+                        146.8304703,
+                        -19.2682702
+                    ],
+                    [
+                        146.8307181,
+                        -19.2682221
+                    ],
+                    [
+                        146.8317729,
+                        -19.2680297
+                    ],
+                    [
+                        146.8343963,
+                        -19.2674949
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Boundary Street",
+                "description": "Named for the fact that it served as the boundary between South Townsville and Railway Estate (Mathew, 2008, p. 21). In Townsville, as in other Australian communities such as Brisbane, Boundary Street also marked the line across which Indigenous peoples were not allowed to cross.",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8054711,
+                        -19.2725117
+                    ],
+                    [
+                        146.8044211,
+                        -19.2724158
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Boundary Street",
+                "description": "Named for the fact that it served as the boundary between South Townsville and Railway Estate (Mathew, 2008, p. 21). In Townsville, as in other Australian communities such as Brisbane, Boundary Street also marked the line across which Indigenous peoples were not allowed to cross.",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8074325,
+                        -19.2727384
+                    ],
+                    [
+                        146.808097,
+                        -19.2725664
+                    ],
+                    [
+                        146.8085939,
+                        -19.2724535
+                    ],
+                    [
+                        146.8096999,
+                        -19.2722447
+                    ],
+                    [
+                        146.8106549,
+                        -19.2720727
+                    ],
+                    [
+                        146.8117214,
+                        -19.2718633
+                    ],
+                    [
+                        146.8121722,
+                        -19.2717712
+                    ],
+                    [
+                        146.8125786,
+                        -19.271702
+                    ],
+                    [
+                        146.8128221,
+                        -19.2716528
+                    ],
+                    [
+                        146.8130376,
+                        -19.2716152
+                    ],
+                    [
+                        146.8132483,
+                        -19.2715591
+                    ],
+                    [
+                        146.8138054,
+                        -19.2714258
+                    ],
+                    [
+                        146.8144616,
+                        -19.271298
+                    ],
+                    [
+                        146.8145543,
+                        -19.271282
+                    ],
+                    [
+                        146.8146704,
+                        -19.2712573
+                    ],
+                    [
+                        146.8147906,
+                        -19.2712399
+                    ],
+                    [
+                        146.8163504,
+                        -19.2710175
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dean Street",
+                "description": "Named for William Handley Dean (b. 1826), member of the Wesleyan ministry and political actor in the area including rols such as Land Agent, \"member of the committee of the Townsville Aboriginal Protection Society in 1877/78\" and Police Magistrate (Mathew, 2008, p. 41).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8188418,
+                        -19.2588892
+                    ],
+                    [
+                        146.8191687,
+                        -19.2600967
+                    ],
+                    [
+                        146.8191687,
+                        -19.2600967
+                    ],
+                    [
+                        146.8193203,
+                        -19.2605504
+                    ],
+                    [
+                        146.8193203,
+                        -19.2605504
+                    ],
+                    [
+                        146.8193492,
+                        -19.2606574
+                    ],
+                    [
+                        146.8193492,
+                        -19.2606574
+                    ],
+                    [
+                        146.8195041,
+                        -19.2612298
+                    ],
+                    [
+                        146.8195041,
+                        -19.2612298
+                    ],
+                    [
+                        146.8196879,
+                        -19.261741
+                    ],
+                    [
+                        146.8196879,
+                        -19.261741
+                    ],
+                    [
+                        146.8198199,
+                        -19.2622378
+                    ],
+                    [
+                        146.8198199,
+                        -19.2622378
+                    ],
+                    [
+                        146.8198578,
+                        -19.2625218
+                    ],
+                    [
+                        146.8198687,
+                        -19.2627475
+                    ],
+                    [
+                        146.8198549,
+                        -19.2629862
+                    ],
+                    [
+                        146.8198319,
+                        -19.2632339
+                    ],
+                    [
+                        146.8197051,
+                        -19.2635428
+                    ],
+                    [
+                        146.8196148,
+                        -19.2637342
+                    ],
+                    [
+                        146.8193701,
+                        -19.264118
+                    ],
+                    [
+                        146.81897,
+                        -19.264652
+                    ],
+                    [
+                        146.8185646,
+                        -19.265224
+                    ],
+                    [
+                        146.8185646,
+                        -19.265224
+                    ],
+                    [
+                        146.818511,
+                        -19.2653015
+                    ],
+                    [
+                        146.818511,
+                        -19.2653015
+                    ],
+                    [
+                        146.8181,
+                        -19.2658956
+                    ],
+                    [
+                        146.817234,
+                        -19.2671476
+                    ],
+                    [
+                        146.8168621,
+                        -19.2676679
+                    ],
+                    [
+                        146.8163864,
+                        -19.2682804
+                    ],
+                    [
+                        146.8157456,
+                        -19.2688872
+                    ],
+                    [
+                        146.8157456,
+                        -19.2688872
+                    ],
+                    [
+                        146.8153579,
+                        -19.2692548
+                    ],
+                    [
+                        146.8153579,
+                        -19.2692548
+                    ],
+                    [
+                        146.8147825,
+                        -19.2697806
+                    ],
+                    [
+                        146.8146129,
+                        -19.2699916
+                    ],
+                    [
+                        146.814542,
+                        -19.2701737
+                    ],
+                    [
+                        146.8144952,
+                        -19.2703776
+                    ],
+                    [
+                        146.8145134,
+                        -19.2706245
+                    ],
+                    [
+                        146.8145615,
+                        -19.2708124
+                    ],
+                    [
+                        146.8146607,
+                        -19.271047
+                    ],
+                    [
+                        146.8147906,
+                        -19.2712399
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dean Street",
+                "description": "Named for William Handley Dean (b. 1826), member of the Wesleyan ministry and political actor in the area including rols such as Land Agent, \"member of the committee of the Townsville Aboriginal Protection Society in 1877/78\" and Police Magistrate (Mathew, 2008, p. 41).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8146715,
+                        -19.2712624
+                    ],
+                    [
+                        146.8144511,
+                        -19.2708422
+                    ],
+                    [
+                        146.8144065,
+                        -19.2706123
+                    ],
+                    [
+                        146.8144183,
+                        -19.2702576
+                    ],
+                    [
+                        146.8145306,
+                        -19.2699678
+                    ],
+                    [
+                        146.8147277,
+                        -19.2697384
+                    ],
+                    [
+                        146.8152764,
+                        -19.2692305
+                    ],
+                    [
+                        146.8152764,
+                        -19.2692305
+                    ],
+                    [
+                        146.8156653,
+                        -19.2688691
+                    ],
+                    [
+                        146.8156653,
+                        -19.2688691
+                    ],
+                    [
+                        146.8162622,
+                        -19.2682952
+                    ],
+                    [
+                        146.8168347,
+                        -19.2675328
+                    ],
+                    [
+                        146.8171381,
+                        -19.2671051
+                    ],
+                    [
+                        146.8180284,
+                        -19.2658298
+                    ],
+                    [
+                        146.8184555,
+                        -19.2652277
+                    ],
+                    [
+                        146.8184555,
+                        -19.2652277
+                    ],
+                    [
+                        146.8185062,
+                        -19.2651478
+                    ],
+                    [
+                        146.8185062,
+                        -19.2651478
+                    ],
+                    [
+                        146.8189016,
+                        -19.2646019
+                    ],
+                    [
+                        146.8195018,
+                        -19.2637057
+                    ],
+                    [
+                        146.819658,
+                        -19.263352
+                    ],
+                    [
+                        146.8197296,
+                        -19.2631551
+                    ],
+                    [
+                        146.8197588,
+                        -19.2629044
+                    ],
+                    [
+                        146.8197645,
+                        -19.2626979
+                    ],
+                    [
+                        146.8197277,
+                        -19.2624508
+                    ],
+                    [
+                        146.8197277,
+                        -19.2624508
+                    ],
+                    [
+                        146.8195563,
+                        -19.2617812
+                    ],
+                    [
+                        146.8195563,
+                        -19.2617812
+                    ],
+                    [
+                        146.8194924,
+                        -19.2615573
+                    ],
+                    [
+                        146.8192788,
+                        -19.2608096
+                    ],
+                    [
+                        146.8192455,
+                        -19.2606931
+                    ],
+                    [
+                        146.8192455,
+                        -19.2606931
+                    ],
+                    [
+                        146.8192149,
+                        -19.2605811
+                    ],
+                    [
+                        146.8192149,
+                        -19.2605811
+                    ],
+                    [
+                        146.8190877,
+                        -19.2601281
+                    ],
+                    [
+                        146.8190877,
+                        -19.2601281
+                    ],
+                    [
+                        146.8187792,
+                        -19.2589731
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hubert Lane",
+                "description": "Named for Henry Barbenson Le Touzel Hubert, auctioneer who became an Alderman and one term mayor. During the late 19<sup>th</sup> century, \"he was one of the few North Queensland politicians of his time not to favour Separation\" (Mathew, 2008, p. 65).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8365639,
+                        -19.2562717
+                      ],
+                      [
+                        146.8364437,
+                        -19.2562879
+                      ],
+                      [
+                        146.8358944,
+                        -19.2564014
+                      ],
+                      [
+                        146.8355511,
+                        -19.256531
+                      ],
+                      [
+                        146.8353279,
+                        -19.2567093
+                      ],
+                      [
+                        146.8350876,
+                        -19.2569767
+                      ],
+                      [
+                        146.8338096,
+                        -19.259483
+                      ],
+                      [
+                        146.8324756,
+                        -19.2620597
+                      ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hubert Lane",
+                "description": "Named for Henry Barbenson Le Touzel Hubert, auctioneer who became an Alderman and one term mayor. During the late 19<sup>th</sup> century, \"he was one of the few North Queensland politicians of his time not to favour Separation\" (Mathew, 2008, p. 65).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8315563,
+                        -19.2638792
+                      ],
+                      [
+                        146.831658,
+                        -19.263678
+                      ],
+                      [
+                        146.8324756,
+                        -19.2620597
+                      ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hubert Lane",
+                "description": "Named for Henry Barbenson Le Touzel Hubert, auctioneer who became an Alderman and one term mayor. During the late 19<sup>th</sup> century, \"he was one of the few North Queensland politicians of his time not to favour Separation\" (Mathew, 2008, p. 65).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8292177,
+                        -19.2685299
+                      ],
+                      [
+                        146.8295802,
+                        -19.2677329
+                      ],
+                      [
+                        146.8305295,
+                        -19.2658639
+                      ],
+                      [
+                        146.8305295,
+                        -19.2658639
+                      ],
+                      [
+                        146.8314801,
+                        -19.2639886
+                      ]
+                ]
+            }
+        }
+    ]
+}

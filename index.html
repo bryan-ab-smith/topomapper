@@ -1,0 +1,553 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset='utf-8' />
+	<meta http-equiv="Cache-Control" content="no-store" />
+	<!-- http://stackoverflow.com/a/10077359 -->
+	<meta name='viewport' content='viewport-fit=cover, width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no' />
+	<link rel="apple-touch-icon" href="img/apple-touch-icon.png">
+	<link rel="apple-touch-startup-image" href="img/TopomapperPWASplash.png">
+	<meta name="mobile-web-app-capable" content="yes">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="apple-mobile-web-app-status-bar-style" content="black">
+	<!-- https://developers.google.com/web/updates/2014/11/Support-for-theme-color-in-Chrome-39-for-Android?hl=en -->
+    <meta name="theme-color" content="#FAF9F5">
+    <link rel='manifest' href='manifest.json'>
+	<title>Topomapper</title>
+	<script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.44.2/mapbox-gl.js'></script>
+	<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js'></script>
+	<script src='https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.10/semantic.min.js'></script>
+	<script src='js/mapbox_prefs.js'></script>
+	<!--<script src='https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js'></script>-->
+	<script src='sw_loader.js'></script>
+	<script src='js/main.js'></script>
+	<script src='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v2.2.0/mapbox-gl-geocoder.min.js'></script>
+	<link rel='stylesheet' href='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v2.2.0/mapbox-gl-geocoder.css'
+	 type='text/css' />
+	<link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.44.2/mapbox-gl.css' rel='stylesheet' />
+	<link href='https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.10/semantic.min.css' rel='stylesheet' />
+	<!--<link href='https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/css/toastr.min.css' rel='stylesheet' />-->
+	<link href='css/main.css' rel='stylesheet' />
+</head>
+
+<body>
+	<div id='sideBar' class='ui right sidebar vertical menu'>
+		<a class="ui grey fluid label" onclick='toggleMenu();'>
+			<i class='icon remove'></i>
+			Close
+		</a>
+		<p></p>
+		<h5 id='storyHeader' class='ui blue header'>Story</h5>
+		<h5 id='descLabel' class="ui grey header"></h5>
+		<h5 id='tagHeader' class='ui blue header'>Tag</h5>
+		<h5 id='tagLabel' class='ui grey header'></h5>
+		<h5 id='dateHeader' class='ui blue header'>Date</h5>
+		<h5 id='dateLabel' class='ui grey header'></h5>
+		<h5 id='refHeader' class='ui blue header'>Reference</h5>
+		<h5 id='refLabel' class='ui grey header'></h5>
+	</div>
+
+	<div class='pusher'>
+		<div id='map'></div>
+		<span id='toolbarButtons'>
+			<button class="ui basic icon tiny button" id="walkingSitButton" onclick="tourShow();">
+				<i class="street view icon"></i>
+			</button>
+			<button class="ui basic icon tiny button" id="visibleButton" onclick="toggleMapLayers();">
+				<i class="low vision icon"></i>
+			</button>
+			<!--<button class="ui basic icon tiny button" id="visibleButton" onclick="toggleLayers();">
+				<i class="low vision icon"></i>
+			</button>
+			<button class="ui basic icon tiny button" id="legendButton" onclick="showLegend();">
+				<i class="tint icon"></i>
+			</button>-->
+			<button class="ui basic icon tiny button" id="aboutButton" onclick="showAbout();">
+				<i class="info icon"></i>
+			</button>
+            <!--<button class="circular ui icon large button" id="walkingSitButton" onclick="tourShow();">
+                <i class="street view icon"></i>
+            </button>
+			<button class="circular ui icon large button" id="visibleButton" onclick="toggleLayers();">
+				<i class="low vision icon"></i>
+			</button>
+			<button class="circular ui icon large button" id="legendButton" onclick="showLegend();">
+				<i class="tint icon"></i>
+			</button>-->		
+        </span>
+        
+        <span id='tourbarButtons'>
+            <button class="circular ui icon red large button" id="tourRemoveButton" onclick="tourRemove();">
+                <i class="remove icon"></i>
+            </button>
+            <button class="circular ui icon black large button" id="tourUpButton" onclick="tourUp();">
+                <i class="chevron up icon"></i>
+            </button>
+			<button class="circular ui icon black large button" id="tourDownButton" onclick="tourDown();">
+				<i class="chevron down icon"></i>
+			</button>
+			<button class="circular ui icon black large button" id="tourLeftButton" onclick="tourLeft();">
+				<i class="chevron left icon"></i>
+			</button>
+			<button class="circular ui icon black large button" id="tourRightButton" onclick="tourRight();">
+				<i class="chevron right icon"></i>
+			</button>
+			<!--<button class="circular ui icon large button" id="refreshButton" onclick="getPoints('', false);">
+                    <i class="icon refresh"></i>
+                </button>-->
+		</span>
+
+		<!--<div id='searchInput' class='ui left icon input'>
+                <input id='textSearch' type='text' placeholder='Search...'>
+                <i class='search icon'></i>
+            </div>-->
+
+		<!--<div class="ui segments" id='searchInput'>
+				<div class="ui segment">
+					<i id='iconToolbar' class='ellipsis horizontal grey icon' onclick='toolbarToggle();'></i>
+					<div class='ui transparent left icon input'>
+						<input id='textSearch' type='text' placeholder='Search...'>
+						<i class='search icon'></i>
+					</div>
+				</div>
+				<div class="ui secondary segment" id='buttonToolbar'>
+					<div class='ui center aligned three column grid'>
+						<div class='row'>
+							<div class='four wide column'>
+								<label class='' onclick="getPoints('', false);">
+									<i class='icon refresh'></i>
+								</label>
+							</div>
+							<div class='two wide column'></div>
+							<div class='four wide column'>
+								<label class='' onclick='reCentreMap()'>
+									<i class='icon location arrow'></i>
+								</label>
+							</div>
+							<div class='two wide column'></div>
+							<div class='four wide column'>
+								<label class='' onclick='showShare()'>
+									<i class='icon external share'></i>
+								</label>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>-->
+		<!--<div id='searchInput' class='ui raised segment'>
+				<div class='ui transparent left icon input'>
+					<input id='textSearch' type='text' placeholder='Search...'>
+					<i class='search icon'></i>
+				</div>
+				<p></p>
+				<label class='ui circular icon small button'onclick="showAdd();">
+					<i class='icon plus'></i>
+				</label>
+			</div>
+			<label class='ui circular icon huge button' id='addStoryButton' onclick="showAdd();">
+				<i class='icon plus' id='uploadButtonIcon'></i>
+			</label>
+			<label class='ui circular icon huge button' id='refreshStoriesButton' onclick="getPoints('', false);">
+				<i class='icon refresh' id='refreshButtonIcon'></i>
+			</label>
+			<label class='ui circular icon huge button' id='centerLocButton' onclick='reCentreMap()'>
+				<i class='icon location arrow' id='centerLocButtonIcon'></i>
+			</label>
+		</div>-->
+		<div id='firstOverlay'>
+			<a class="ui fluid label" onclick='closeFirst();'>
+				<i class='icon remove'></i>
+				Close
+			</a>
+			<p></p>
+			<label>
+				<h4>Welcome!</h4>
+				As this is your first time using Topomapper, take a moment to read over the privacy and license statements below. Please note:
+				your use of the site is an acceptance of the following.
+				<p></p>
+				<h4 class='privacyLabel'>Privacy</h4>
+				<p></p>
+				<span class='privacyLabel'>Anything you submit through Topomapper is made publically available. Any uploaded content, text or pictorial, will be
+					viewable by anyone who uses the app. You are not required to provide any personally identifiable information and you
+					are encouraged not to include this information in your submissions.</span>
+				<p></p>
+				<h4 class='licenseLabel'>License</h4>
+				<p></p>
+				<span class='licenseLabel'>Content submitted to Topomapper is covered by the Creative Commons Attribution-NonCommercial 4.0 International License
+					including all text and picture submissions. Please see
+					<a id='licenseLink' href='https://creativecommons.org/licenses/by-nc/4.0/'>
+						<i class='world icon'></i>here</a> for more information.</span>
+			</label>
+		</div>
+
+		<div id='addOverlay'>
+			<a class="ui right floated icon basic button" onclick='closeAdd();'>
+				<i class='icon remove'></i>
+				Close
+			</a>
+			<p></p>
+			<h4>Add Note</h4>
+			<p></p>
+			<form id='formStory' class='ui form transition visible' method='post' enctype='multipart/form-data'>
+				<span class='storyInputLabel'>Location</span>
+				<br \>
+				<div class="ui transparent fluid input">
+					<input id='textLocation' name='location' type='text'>
+				</div>
+				<p></p>
+
+				<span class='storyInputLabel'>Note</span>
+				<br \>
+				<div class="ui transparent fluid input">
+					<input type='text' id='textAreaStory' name='story' placeholder='eg. This is my story.'></input>
+				</div>
+				<p></p>
+
+				<span class='storyInputLabel'>Reference</span>
+				<br \>
+				<div class="ui transparent fluid input">
+					<input id='refInput' name='ref' type='text' placeholder='eg. Mathew, J. (2008). Highways and Byways: The Origin of Townsville Street Names (Revised ed.). Townsville, QLD: Townsville Library Service.'
+					 onblur='javascript:window.scrollTo(0,0);'>
+				</div>
+				<p></p>
+
+				<!--<span class='storyInputLabel'>Tag</span>
+                <br \>
+                <div class="ui transparent fluid input">
+					<input id='storyTag' name='tag' type='text' placeholder='eg. mystory' onblur='javascript:window.scrollTo(0,0);'>
+				</div>-->
+			</form>
+			<p></p>
+			<button id='buttonSubmit' class="ui teal basic fluid button" onclick="javascript:submitStory();">
+				<!-- <i class="cloud upload icon"></i> -->
+				<i class="cloud upload icon"></i> Submit
+			</button>
+		</div>
+
+		<div id='shareOverlay'>
+			<a class="ui right floated icon basic button" onclick='closeShare();'>
+				<i class='icon remove'></i>
+				Close
+			</a>
+			<p></p>
+			<h4>Sharing URL</h4>
+			<p></p>
+			Use the URL below to share what you've found with others:
+			<p></p>
+			<span id='shareSpan'></span>
+		</div>
+
+		<div id='helpOverlay'>
+			<a class="ui fluid label" onclick='closeHelp();'>
+				<i class='icon remove'></i>
+				Close
+			</a>
+			<h3>Toolbar</h3>
+			<div class="ui segments">
+				<div class="ui segment">
+					<i class='ellipsis horizontal grey icon' onclick='toolbarToggle();'></i>
+					<div class='ui transparent left icon input'>
+						<input type='text' placeholder='Search...'>
+						<i class='search icon'></i>
+					</div>
+				</div>
+				<div class="ui secondary segment">
+					<div class='ui center aligned three column grid'>
+						<div class='row'>
+							<div class='four wide column'>
+								<label class=''>
+									<i class='icon large plus'></i>
+								</label>
+								<p></p>
+								<div class="ui basic label">
+									Add a story
+								</div>
+							</div>
+							<div class='four wide column'>
+								<label class=''>
+									<i class='icon large refresh'></i>
+								</label>
+								<p></p>
+								<div class="ui basic label">
+									Reload the stories.
+								</div>
+							</div>
+							<div class='four wide column'>
+								<label class=''>
+									<i class='icon large location arrow'></i>
+								</label>
+								<p></p>
+								<div class="ui basic label">
+									Centre on your location.
+								</div>
+							</div>
+							<div class='four wide column'>
+								<label class=''>
+									<i class='icon large help'></i>
+								</label>
+								<p></p>
+								<div class="ui basic label">
+									Show this help info.
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<!--<div class='ui segments'>
+				<div class='ui grey inverted secondary segment'>
+					<i class="plus icon"></i> Add a story
+				</div>
+				<div class='ui secondary segment grey inverted tertiary'>
+					Clicking this will recentre the map on your current location and will allow you to add a story to the map from your current location.
+				</div>
+			</div>
+			<p></p>
+			<div class='ui segments'>
+				<div class='ui grey inverted secondary segment'>
+					<i class="refresh icon"></i> Reload the stories
+				</div>
+				<div class='ui secondary segment grey inverted tertiary'>
+					Clicking this will reload the points in case some are hidden (ie. points that are hidden because of a search).
+				</div>
+			</div>
+			<p></p>
+			<div class='ui segments'>
+				<div class='ui grey inverted secondary segment'>
+					<i class="location arrow icon"></i> Recentre the map
+				</div>
+				<div class='ui secondary segment grey inverted tertiary'>
+					Clicking this will recentre the map on your current location.
+				</div>
+			</div>
+			<p></p>
+			<div class='ui segments'>
+				<div class='ui grey inverted secondary segment'>
+					<i class="help icon"></i> View the help information (this screen).
+				</div>
+				<div class='ui secondary segment grey inverted tertiary'>
+					Clicking this brings up this dialog.
+				</div>
+			</div>-->
+			<p></p>
+			<h3>FAQ</h3>
+			<div class='ui segments'>
+				<div class='ui grey inverted secondary segment'>
+					I can't see some of my points.
+				</div>
+				<div class='ui secondary segment grey inverted tertiary'>
+					Points may not be visible if you are zoomed out too far. Try zooming in.
+				</div>
+			</div>
+			<h3>About</h3>
+			<span id='aboutSpan'>Version 2.0.
+				<br \>&copy; 2017 Bryan Smith.</span>
+		</div>
+
+		<div id='uploadOverlay'>
+			<div class='ui items'>
+				<div class='item'>
+					<div id='uploadingDiv' class='middle aligned content'>
+						<div class='header'>
+							<i class="spinner loading icon"></i> Submitting story...
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div id='legendOverlay'>
+			<div class='ui items'>
+				<div class='item'>
+					<div id='legendDiv' class='middle aligned content'>
+						<a class="ui right floated icon basic button" onclick='closeLegend();'>
+							<i class='icon remove'></i>
+							Close
+						</a>
+						<p></p>
+						<div class='header'>
+							Legend
+						</div>
+						<div id='legendGrid' class='ui stackable grid'>
+							<div class='eight wide column'>
+								<a class='ui orange large fluid label'>Aboriginal and Torres Strait Islander Peoples.</a>
+							</div>
+							<div class='eight wide column'>
+								<a class='ui blue large fluid label'>European explorers.</a>
+							</div>
+							<div class='eight wide column'>
+								<a class='ui teal large fluid label'>Politicians/state.</a>
+							</div>
+							<div class='eight wide column'>
+								<a class='ui red large fluid label'>Business people.</a>
+							</div>
+							<div class='eight wide column'>
+								<a class='ui violet large fluid label'>European monarchy.</a>
+							</div>
+							<div class='eight wide column'>
+								<a class='ui yellow large fluid label'>Religious figures/events.</a>
+							</div>
+							<div class='eight wide column'>
+								<a class='ui brown large fluid label'>War/soldiers.</a>
+							</div>
+						</div>
+						<!--<p></p>
+						<a class='ui orange large fluid label' style='margin-top: 5vh;'>Aboriginal and Torres Strait Islander Peoples.</a>
+						<p></p>
+						<a class='ui blue large fluid label'>European explorers.</a>
+						<p></p>
+						<a class='ui teal large fluid label'>Politicians/state.</a>
+						<p></p>
+						<a class='ui red large fluid label'>Business people.</a>
+						<p></p>
+						<a class='ui violet large fluid label'>European monarchy.</a>
+						<p></p>
+						<a class='ui yellow large fluid label'>Religious figures/events.</a>
+						<p></p>
+						<a class='ui brown large fluid label'>War/soldiers.</a>-->
+						<!--<table class='ui celled padded table'>
+							<thead>
+								<tr>
+									<th class='single line'>Colour</th>
+									<th>Theme</th>
+								  </tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td>
+											<a class='ui orange empty huge circular label'></a>
+									</td>
+									<td>
+											Aboriginal and Torres Strait Islander peoples.
+									</td>
+								</tr>
+								<tr>
+									<td>
+											<a class='ui blue empty huge circular label'></a>
+									</td>
+									<td>
+											European explorers
+									</td>
+								</tr>
+							</tbody>
+						</table>-->
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div id='toggleOverlay'>
+			<div class='ui items'>
+				<div class='item'>
+					<div id='legendDiv' class='middle aligned content'>
+						<a class="ui right floated icon basic button" onclick='closeToggle();'>
+							<i class='icon remove'></i>
+							Close
+						</a>
+						<p></p>
+						<div class='header'>
+							Toggles
+						</div>
+                        <p style='margin-bottom: 5vh'></p>
+                        <div id='legendGrid' class='ui stackable grid'>
+                            <div class='eight wide column'>
+                                <div id='atsiVisButton' class='ui orange inverted raised segment' onclick='showTopoLayer("atsiLayer", "atsiVisButton");'>
+                                    Aboriginal and Torres Strait Islander
+                                </div>
+                            </div>
+                            <div class='eight wide column'>
+                                <div id='euExplVisButton' class='ui blue inverted raised segment' onclick='showTopoLayer("euExplLayer", "euExplVisButton");'>
+                                    European explorers
+                                </div>
+                            </div>
+                            <div class='eight wide column'>
+                                <div id='polVisButton' class='ui teal inverted raised segment' onclick='showTopoLayer("polLayer", "polVisButton");'>
+                                    Politicians/state
+                                </div>
+                            </div>
+                            <div class='eight wide column'>
+                                <div id='busVisButton' class='ui red inverted raised segment' onclick='showTopoLayer("busLayer", "busVisButton");'>
+                                    Business people
+                                </div>
+                            </div>
+                            <div class='eight wide column'>
+                                <div id='monarVisButton' class='ui purple inverted raised segment' onclick='showTopoLayer("monarLayer", "monarVisButton");'>
+                                    European monarchy
+                                </div>
+                            </div>
+                            <div class='eight wide column'>
+                                <div id='relVisButton' class='ui yellow inverted raised segment' onclick='showTopoLayer("relLayer", "relVisButton");'>
+                                    Religious figures/events
+                                </div>
+                            </div>
+                            <div class='eight wide column'>
+                                <div id='warVisButton' class='ui brown inverted raised segment' onclick='showTopoLayer("warLayer", "warVisButton");'>
+                                    War/soldiers
+                                </div>
+                            </div>
+                        </div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div id='aboutOverlay'>
+			<div class='ui items'>
+				<div class='item'>
+					<div id='aboutDiv' class='middle aligned content'>
+						<a class="ui right floated icon basic button" onclick='closeAbout();'>
+							<i class='icon remove'></i>
+							Close
+						</a>
+						<p></p>
+						<h3>Context</h3>
+						<p class='lead'>"It is the ostensible ordinariness of street names that allows them to effectively implicate politics and ideology into the practices of everyday life and ordinary urban experiences" &mdash; Maoz Azaryahu (2009, p. 56).</p>
+						<br />
+						This project was born out of a preoccupation with everyday commemorative practices and a concern for the ways in which we all too often fail to recognize how space makes particular types of history appear normal. Building on prior theoretical scholarship (Smith, 2017a, 2017b, 2018), this web application is designed to begin documenting the history and politics of place as it works through and is made normal via the naming of streets in Townsville, Queensland (Australia).
+						<p></p>
+						<h3>Legend</h3>
+						<table class='ui very basic collapsing celled table' style='width: 100%;'>
+							<thead>
+								<tr>
+									<th>Icon</th>
+									<th>Description</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td><i class="street view icon"></i></td>
+									<td>This opens up the "touring" function that allows you to pan over the map as if from a birds eye view.</td>
+								</tr>
+								<tr>
+									<td><i class="low vision icon"></i></td>
+									<td>This toggles the map layers between the default "blueprint" style and the satellite view.</td>
+								</tr>
+								<tr>
+									<td><i class="info icon"></i></td>
+									<td>This opens up this dialog.</td>
+								</tr>
+							</tbody>
+						</table>
+						<p></p>
+						<h3>Source Code</h3>
+						Topomapper is planned to be an open sourced web application. Currently, the code is undergoing some cleaning up and review and will be made available once this is complete.
+						<p></p>
+						<h3>References</h3>
+						<div class='apa-ref' style='margin-left: 2em;'>
+							<p>Azaryahu, M. (2009). Naming the Past: The Significance of Commemorative Street Names. In L. D. Berg &amp; J. Vuolteenaho (Eds.), <i>Critical Toponymies: The Contested Politics of Naming</i> (pp. 53-70). Burlington, VT: Ashgate Publishing Company.</p>
+							<p>Smith, B. (2017a). Cartographies of Colonial Commemoration: Critical Toponymy and Historical Geographies in Toronto. <i>Journal of the Canadian Association for Curriculum Studies, 15</i>(2), 34–47.</p>
+							<p>Smith, B. (2017b). Reconsidering the Summer Residence: The City-Text, Historical Commemoration and Banal Settler Geography. <i>Canadian Social Studies, 49</i>(1), 24–29.</p>
+							<p>Smith, B. (2018). Engaging Geography at Every Street Corner: Using Place-Names as Critical Heuristic in Social Studies. <i>The Social Studies, 109</i>(2), 112–124.</p>
+						</div>
+					</div>
+				</div>
+			</div>
+        </div>
+        
+        <div id='pointLoadingInfo' class='ui center aligned inverted segment' style='display: none;'>
+            <p id='pointsLoadingText'>Loading street information. Please wait.</p>
+        </div>
+</body>
+
+</html>

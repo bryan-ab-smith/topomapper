@@ -1,0 +1,6 @@
+// These two variables set the MapBox GL token and style.
+// If you are rolling your own instance of HereStory, you will need to replace these with your own.
+// See the Quickstart section here: https://www.mapbox.com/mapbox-gl-js/api/.
+var mbToken = '';
+var mbStyleLight = '';
+var mbStyleSat = '';

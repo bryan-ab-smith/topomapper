@@ -1,0 +1,1545 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Armati Street",
+                "description": "Named for Pio Vico Armati (see Mathew, 1979), late 19th and early 20th century. Owned and operated multiple chemist shops on Flinders Street (Mathew, 2008, p. 10).",
+                "refs": "Mathew, J. Details Armati Family [Letter to D. Armati]. (1979, August 03). Townsville, QLD.<p></p>Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8177891,
+                        -19.2548096
+                    ],
+                    [
+                        146.8177539,
+                        -19.2550503
+                    ],
+                    [
+                        146.8176952,
+                        -19.2553552
+                    ],
+                    [
+                        146.8176681,
+                        -19.2555111
+                    ],
+                    [
+                        146.8176788,
+                        -19.2557289
+                    ],
+                    [
+                        146.817813,
+                        -19.2558251
+                    ],
+                    [
+                        146.8180919,
+                        -19.2558958
+                    ],
+                    [
+                        146.8190736,
+                        -19.2560173
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hamilton Street",
+                "description": "Named for Frederick Hamilton, hotel owner and butcher who was elected to municipal council for one year (Mathew, 2008, p. 58).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8181885,
+                        -19.2573816
+                    ],
+                    [
+                        146.8181957,
+                        -19.2572995
+                    ],
+                    [
+                        146.8181722,
+                        -19.2571697
+                    ],
+                    [
+                        146.8169765,
+                        -19.2562652
+                    ],
+                    [
+                        146.8168955,
+                        -19.2562379
+                    ],
+                    [
+                        146.8168955,
+                        -19.2562379
+                    ],
+                    [
+                        146.8168188,
+                        -19.25626
+                    ],
+                    [
+                        146.8164816,
+                        -19.2566251
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sir Leslie Thiess Street",
+                "description": "Named for Sir Leslie Thiess, \"the chairman of the Breakwater Casino operating company\" (Mathew, 2008, p. 112).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8266745,
+                        -19.25227
+                    ],
+                    [
+                        146.8267228,
+                        -19.2522974
+                    ],
+                    [
+                        146.82676,
+                        -19.2523977
+                    ],
+                    [
+                        146.8268125,
+                        -19.2525401
+                    ],
+                    [
+                        146.8267985,
+                        -19.2527565
+                    ],
+                    [
+                        146.8267045,
+                        -19.2530017
+                    ],
+                    [
+                        146.8265715,
+                        -19.2531956
+                    ],
+                    [
+                        146.8256531,
+                        -19.2544515
+                    ],
+                    [
+                        146.8255158,
+                        -19.2547027
+                    ],
+                    [
+                        146.8253355,
+                        -19.2553834
+                    ],
+                    [
+                        146.8252325,
+                        -19.2556265
+                    ],
+                    [
+                        146.8244659,
+                        -19.2567598
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sir Leslie Thiess Street",
+                "description": "Named for Sir Leslie Thiess, \"the chairman of the Breakwater Casino operating company\" (Mathew, 2008, p. 112).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8242753,
+                        -19.2566153
+                    ],
+                    [
+                        146.8244617,
+                        -19.2565998
+                    ],
+                    [
+                        146.8251531,
+                        -19.255588
+                    ],
+                    [
+                        146.8252448,
+                        -19.2553772
+                    ],
+                    [
+                        146.8254223,
+                        -19.2546645
+                    ],
+                    [
+                        146.8266492,
+                        -19.2529613
+                    ],
+                    [
+                        146.8267049,
+                        -19.2526119
+                    ],
+                    [
+                        146.8266773,
+                        -19.252468
+                    ],
+                    [
+                        146.8266442,
+                        -19.2523209
+                    ],
+                    [
+                        146.8266745,
+                        -19.25227
+                    ],
+                    [
+                        146.8266745,
+                        -19.25227
+                    ],
+                    [
+                        146.8265192,
+                        -19.2519698
+                    ],
+                    [
+                        146.8263047,
+                        -19.2517964
+                    ],
+                    [
+                        146.8257539,
+                        -19.2512803
+                    ],
+                    [
+                        146.8257539,
+                        -19.2512803
+                    ],
+                    [
+                        146.825441,
+                        -19.2511837
+                    ],
+                    [
+                        146.825382,
+                        -19.2511331
+                    ],
+                    [
+                        146.8253927,
+                        -19.251052
+                    ],
+                    [
+                        146.8254665,
+                        -19.251007
+                    ],
+                    [
+                        146.825559,
+                        -19.2510419
+                    ],
+                    [
+                        146.8257539,
+                        -19.2512803
+                    ],
+                    [
+                        146.8257539,
+                        -19.2512803
+                    ],
+                    [
+                        146.825905,
+                        -19.2511837
+                    ],
+                    [
+                        146.8263342,
+                        -19.2512774
+                    ],
+                    [
+                        146.8264254,
+                        -19.2514648
+                    ],
+                    [
+                        146.8262685,
+                        -19.2516755
+                    ],
+                    [
+                        146.8263047,
+                        -19.2517964
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fryer Street",
+                "description": "Named for Frederick Augustus Fryer, \"a shareholder and a director of the Cleveland Bay Express Newspaper Company [... and] licensee of the Townsville Hotel\" in the middle of the 19<sup>th</sup> century (Mathew, 2008, p. 51).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8163177,
+                        -19.2542149
+                    ],
+                    [
+                        146.816318,
+                        -19.2543749
+                    ],
+                    [
+                        146.8163492,
+                        -19.2544464
+                    ],
+                    [
+                        146.8164223,
+                        -19.2544786
+                    ],
+                    [
+                        146.8165038,
+                        -19.2544336
+                    ],
+                    [
+                        146.8169199,
+                        -19.2541322
+                    ],
+                    [
+                        146.8179579,
+                        -19.2531903
+                    ],
+                    [
+                        146.8180231,
+                        -19.2531214
+                    ],
+                    [
+                        146.8182182,
+                        -19.2529151
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Carter Street",
+                "description": "Named for Thomas Roe Carter, a businessperson who entered partnerships with Frederick Augustus Fryer (see Fryer Street) who later, \"traded on his own account as T.R. Carter and Company\" (Mathew, 2008, p. 28).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8180231,
+                        -19.2531214
+                    ],
+                    [
+                        146.8192274,
+                        -19.2542136
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fletcher Street",
+                "description": "Named for Joseph Fletcher, businessperson who owned a butcher shop, timber yard, and \"a soap and candle works.\" He eventually served as Alderman and Mayor of Townsville (Mathew, 2008, p. 48).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8105615,
+                        -19.2664205
+                    ],
+                    [
+                        146.810505,
+                        -19.2663356
+                    ],
+                    [
+                        146.810505,
+                        -19.2663356
+                    ],
+                    [
+                        146.8104522,
+                        -19.2662116
+                    ],
+                    [
+                        146.8104522,
+                        -19.2662116
+                    ],
+                    [
+                        146.8099316,
+                        -19.2654083
+                    ],
+                    [
+                        146.8099316,
+                        -19.2654083
+                    ],
+                    [
+                        146.8098843,
+                        -19.2653279
+                    ],
+                    [
+                        146.8098843,
+                        -19.2653279
+                    ],
+                    [
+                        146.8092605,
+                        -19.2643544
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fletcher Street",
+                "description": "Named for Joseph Fletcher, businessperson who owned a butcher shop, timber yard, and \"a soap and candle works.\" He eventually served as Alderman and Mayor of Townsville (Mathew, 2008, p. 48).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8104522,
+                        -19.2662116
+                    ],
+                    [
+                        146.8105544,
+                        -19.2663058
+                    ],
+                    [
+                        146.8105544,
+                        -19.2663058
+                    ],
+                    [
+                        146.8106271,
+                        -19.2663816
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Little Fletcher Street",
+                "description": "Named for Joseph Fletcher, businessperson who owned a butcher shop, timber yard, and \"a soap and candle works.\" He eventually served as Alderman and Mayor of Townsville (Mathew, 2008, p. 48).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8106271,
+                        -19.2663816
+                    ],
+                    [
+                        146.8107903,
+                        -19.2665704
+                    ],
+                    [
+                        146.8109534,
+                        -19.2668017
+                    ],
+                    [
+                        146.8114497,
+                        -19.2675054
+                    ],
+                    [
+                        146.8114019,
+                        -19.2675607
+                    ],
+                    [
+                        146.8112987,
+                        -19.2675505
+                    ],
+                    [
+                        146.8108769,
+                        -19.2669052
+                    ],
+                    [
+                        146.8105615,
+                        -19.2664205
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jones Street",
+                "description": "Named for Alfred Raymond Jones, owner of various properties with John Henry Mayer (Mathew, 2008, p. 69).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8113523,
+                        -19.2646924
+                    ],
+                    [
+                        146.8119218,
+                        -19.2654818
+                    ],
+                    [
+                        146.8119856,
+                        -19.2655629
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jones Street",
+                "description": "Named for Alfred Raymond Jones, owner of various properties with John Henry Mayer (Mathew, 2008, p. 69).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8098843,
+                        -19.2653279
+                    ],
+                    [
+                        146.8099821,
+                        -19.2651833
+                    ],
+                    [
+                        146.8109246,
+                        -19.2646188
+                    ],
+                    [
+                        146.8110467,
+                        -19.2644914
+                    ],
+                    [
+                        146.8111242,
+                        -19.2643033
+                    ],
+                    [
+                        146.8111074,
+                        -19.2640948
+                    ],
+                    [
+                        146.8110025,
+                        -19.2639375
+                    ],
+                    [
+                        146.8108577,
+                        -19.2637603
+                    ],
+                    [
+                        146.8107182,
+                        -19.2636286
+                    ],
+                    [
+                        146.8106699,
+                        -19.2635071
+                    ],
+                    [
+                        146.8106675,
+                        -19.2634111
+                    ],
+                    [
+                        146.810686,
+                        -19.2633096
+                    ],
+                    [
+                        146.8106529,
+                        -19.2631673
+                    ],
+                    [
+                        146.8106836,
+                        -19.2630617
+                    ],
+                    [
+                        146.8107924,
+                        -19.2629526
+                    ],
+                    [
+                        146.8108836,
+                        -19.2628373
+                    ],
+                    [
+                        146.8109257,
+                        -19.2626052
+                    ],
+                    [
+                        146.8109624,
+                        -19.262297
+                    ],
+                    [
+                        146.8108458,
+                        -19.2622243
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Morris Street",
+                "description": "Named for William Thomas Morris, \"auctioneer and commission agent, who was an unsuccessful applicant in 1866 for the position of Council Inspector of Nuisances\" (Mathew, 2008, p. 87).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8069043,
+                        -19.2643269
+                    ],
+                    [
+                        146.8069511,
+                        -19.2638165
+                    ],
+                    [
+                        146.8069607,
+                        -19.2635505
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Morris Street",
+                "description": "Named for William Thomas Morris, \"auctioneer and commission agent, who was an unsuccessful applicant in 1866 for the position of Council Inspector of Nuisances\" (Mathew, 2008, p. 87).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.806325,
+                        -19.2688577
+                    ],
+                    [
+                        146.8063652,
+                        -19.2686628
+                    ],
+                    [
+                        146.8064222,
+                        -19.2684284
+                    ],
+                    [
+                        146.8064222,
+                        -19.2684284
+                    ],
+                    [
+                        146.8065697,
+                        -19.2673941
+                    ],
+                    [
+                        146.8065895,
+                        -19.2672859
+                    ],
+                    [
+                        146.8065895,
+                        -19.2672859
+                    ],
+                    [
+                        146.8066879,
+                        -19.2664196
+                    ],
+                    [
+                        146.8067618,
+                        -19.2658429
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Morris Street",
+                "description": "Named for William Thomas Morris, \"auctioneer and commission agent, who was an unsuccessful applicant in 1866 for the position of Council Inspector of Nuisances\" (Mathew, 2008, p. 87).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8064222,
+                        -19.2684284
+                    ],
+                    [
+                        146.8064457,
+                        -19.2685944
+                    ],
+                    [
+                        146.8065158,
+                        -19.2686573
+                    ],
+                    [
+                        146.8066828,
+                        -19.2686278
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Paxton Street",
+                "description": "Named for W.H. Paxton, \"master of the schooner Mystery, which was employed for labour recruitment in the South Sea Islands\" (Mathew, 2008, p. 99).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.802429,
+                        -19.2501783
+                    ],
+                    [
+                        146.8042277,
+                        -19.2511579
+                    ],
+                    [
+                        146.8043643,
+                        -19.2512309
+                    ],
+                    [
+                        146.8061709,
+                        -19.2522371
+                    ],
+                    [
+                        146.8080556,
+                        -19.253338
+                    ],
+                    [
+                        146.8099582,
+                        -19.2543955
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Upper Clifton Street",
+                "description": "Named for William Clifton, merchant involved with the Australasian Steam Navigation Company and Clifton and Aplin Brothers (with William and Henry Aplin). He was also \"vice-president of both the Hospital and School of Arts Committees in 1874 and was active in collecting subscriptions for the establishment of a grammar school at Townsville\" (Mathew, 2008, p. 33).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8122003,
+                        -19.2538667
+                    ],
+                    [
+                        146.812637,
+                        -19.2542564
+                    ],
+                    [
+                        146.8129492,
+                        -19.2543762
+                    ],
+                    [
+                        146.8131105,
+                        -19.2543773
+                    ],
+                    [
+                        146.8133369,
+                        -19.2542114
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dibbs Street",
+                "description": "Named for G.S.B. Dibbs, \"a member of the Townsville Harbour Board from 1943 until 1960\" (Mathew, 2008, p. 41).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8199796,
+                        -19.2604629
+                    ],
+                    [
+                        146.8199553,
+                        -19.2603792
+                    ],
+                    [
+                        146.8197143,
+                        -19.2595552
+                    ],
+                    [
+                        146.8196456,
+                        -19.2593126
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tomlins Street",
+                "description": "Named for L.E.D. Tomlins, a solicitor and Chairman of the Townsville Harbour Board (Mathew, 2008, p. 118).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8212777,
+                        -19.2585694
+                    ],
+                    [
+                        146.8211208,
+                        -19.2585599
+                    ],
+                    [
+                        146.820033,
+                        -19.2590152
+                    ],
+                    [
+                        146.8196456,
+                        -19.2593126
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Anthony Street",
+                "description": "Named for Albert Joseph Anthony, Chairman of the Townsville Harbour Board in the mid 20<sup>th</sup> century (Mathew, 2008, p. 9).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8197143,
+                        -19.2595552
+                    ],
+                    [
+                        146.8214542,
+                        -19.2590581
+                    ],
+                    [
+                        146.8218885,
+                        -19.2589523
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Perkins Street",
+                "description": "Named for Patrick Perkins. While he became a politician, he is most known as a brewer, having opened the Toowoomba Brewery and creating the well regarded Castlemaine XXXX ale (Mathew, 2008, p. 100).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8262832,
+                        -19.2601296
+                    ],
+                    [
+                        146.8263909,
+                        -19.2600933
+                    ],
+                    [
+                        146.8264794,
+                        -19.2600097
+                    ],
+                    [
+                        146.8267016,
+                        -19.2595521
+                    ],
+                    [
+                        146.8267132,
+                        -19.2595325
+                    ],
+                    [
+                        146.8267436,
+                        -19.2594676
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Perkins Street",
+                "description": "Named for Patrick Perkins. While he became a politician, he is most known as a brewer, having opened the Toowoomba Brewery and creating the well regarded Castlemaine XXXX ale (Mathew, 2008, p. 100).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8268106,
+                        -19.2594977
+                    ],
+                    [
+                        146.8267836,
+                        -19.2595573
+                    ],
+                    [
+                        146.8265404,
+                        -19.2600664
+                    ],
+                    [
+                        146.8264596,
+                        -19.2601739
+                    ],
+                    [
+                        146.8263574,
+                        -19.2602232
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Perkins Street",
+                "description": "Named for Patrick Perkins. While he became a politician, he is most known as a brewer, having opened the Toowoomba Brewery and creating the well regarded Castlemaine XXXX ale (Mathew, 2008, p. 100).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8262332,
+                        -19.2604482
+                    ],
+                    [
+                        146.8257561,
+                        -19.2613455
+                    ],
+                    [
+                        146.8250834,
+                        -19.2626572
+                    ],
+                    [
+                        146.82479,
+                        -19.2632455
+                    ],
+                    [
+                        146.8238079,
+                        -19.265095
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Perkins Street",
+                "description": "Named for Patrick Perkins. While he became a politician, he is most known as a brewer, having opened the Toowoomba Brewery and creating the well regarded Castlemaine XXXX ale (Mathew, 2008, p. 100).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8221011,
+                        -19.2696904
+                    ],
+                    [
+                        146.8228803,
+                        -19.2682217
+                    ],
+                    [
+                        146.8234404,
+                        -19.2672589
+                    ],
+                    [
+                        146.8243574,
+                        -19.2653395
+                    ],
+                    [
+                        146.8253323,
+                        -19.2634929
+                    ],
+                    [
+                        146.8262847,
+                        -19.2615827
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Perkins Street West",
+                "description": "Named for Patrick Perkins. While he became a politician, he is most known as a brewer, having opened the Toowoomba Brewery and creating the well regarded Castlemaine XXXX ale (Mathew, 2008, p. 100).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8147175,
+                        -19.2707059
+                    ],
+                    [
+                        146.8152687,
+                        -19.2699748
+                    ],
+                    [
+                        146.8154487,
+                        -19.2698581
+                    ],
+                    [
+                        146.8171335,
+                        -19.2698781
+                    ],
+                    [
+                        146.8195522,
+                        -19.2699407
+                    ],
+                    [
+                        146.8195758,
+                        -19.2695069
+                    ],
+                    [
+                        146.8212219,
+                        -19.2691567
+                    ],
+                    [
+                        146.8228803,
+                        -19.2682217
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rooney Street",
+                "description": "Named for the Rooney Family, developers who were responsible for \"the Magistrate’s Courthouse, the North Ward gaol and Bartlam’s building\" (Mathew, 2008, p. 108).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8190028,
+                        -19.2656318
+                    ],
+                    [
+                        146.8193547,
+                        -19.2658019
+                    ],
+                    [
+                        146.8196208,
+                        -19.265891
+                    ],
+                    [
+                        146.8199469,
+                        -19.2659559
+                    ],
+                    [
+                        146.8203332,
+                        -19.2659802
+                    ],
+                    [
+                        146.8210987,
+                        -19.2660015
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rooney Street",
+                "description": "Named for the Rooney Family, developers who were responsible for \"the Magistrate’s Courthouse, the North Ward gaol and Bartlam’s building\" (Mathew, 2008, p. 108).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8178209,
+                        -19.2637497
+                    ],
+                    [
+                        146.81795,
+                        -19.2641579
+                    ],
+                    [
+                        146.8180183,
+                        -19.2643741
+                    ],
+                    [
+                        146.8180334,
+                        -19.2644218
+                    ],
+                    [
+                        146.8180663,
+                        -19.264526
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Allen Street",
+                "description": "Named for Samuel Allen, a businessperson and owner of a produce store on Flinders and a hotel. He later became an Alderman as well. (Mathew, 2008, p. 7).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8239789,
+                        -19.2628727
+                    ],
+                    [
+                        146.823002,
+                        -19.2624353
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Allen Street",
+                "description": "Named for Samuel Allen, a businessperson and owner of a produce store on Flinders and a hotel. He later became an Alderman as well. (Mathew, 2008, p. 7).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8259788,
+                        -19.2637777
+                    ],
+                    [
+                        146.8253323,
+                        -19.2634929
+                    ],
+                    [
+                        146.8250686,
+                        -19.2633788
+                    ],
+                    [
+                        146.8249843,
+                        -19.2633385
+                    ],
+                    [
+                        146.82479,
+                        -19.2632455
+                    ],
+                    [
+                        146.8241174,
+                        -19.2629394
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Allen Street",
+                "description": "Named for Samuel Allen, a businessperson and owner of a produce store on Flinders and a hotel. He later became an Alderman as well. (Mathew, 2008, p. 7).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8271094,
+                        -19.2642939
+                    ],
+                    [
+                        146.8261178,
+                        -19.2638431
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Allen Street",
+                "description": "Named for Samuel Allen, a businessperson and owner of a produce store on Flinders and a hotel. He later became an Alderman as well. (Mathew, 2008, p. 7).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8282032,
+                        -19.2648188
+                    ],
+                    [
+                        146.8272486,
+                        -19.264359
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Allen Street",
+                "description": "Named for Samuel Allen, a businessperson and owner of a produce store on Flinders and a hotel. He later became an Alderman as well. (Mathew, 2008, p. 7).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8305295,
+                        -19.2658639
+                    ],
+                    [
+                        146.8294247,
+                        -19.2653545
+                    ],
+                    [
+                        146.82835,
+                        -19.2648683
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Allen Street",
+                "description": "Named for Samuel Allen, a businessperson and owner of a produce store on Flinders and a hotel. He later became an Alderman as well. (Mathew, 2008, p. 7).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8315685,
+                        -19.2664567
+                    ],
+                    [
+                        146.8315084,
+                        -19.2663271
+                    ],
+                    [
+                        146.8305295,
+                        -19.2658639
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lennon Street",
+                "description": "Named for William Allen, banker and business manager during the middle of the 19<sup>th</sup> which included roles in \"the Bank of North Queensland and the Townsville Gas and Coke Company\" (Mathew, 2008, p. 75).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8281215,
+                        -19.2550896
+                    ],
+                    [
+                        146.8280495,
+                        -19.2549429
+                    ],
+                    [
+                        146.8277662,
+                        -19.2546593
+                    ],
+                    [
+                        146.8276718,
+                        -19.2545215
+                    ],
+                    [
+                        146.8276375,
+                        -19.2544243
+                    ],
+                    [
+                        146.8276546,
+                        -19.2543027
+                    ],
+                    [
+                        146.8277491,
+                        -19.2541488
+                    ],
+                    [
+                        146.8285734,
+                        -19.2533639
+                    ],
+                    [
+                        146.8292483,
+                        -19.2527213
+                    ],
+                    [
+                        146.8294414,
+                        -19.2526262
+                    ],
+                    [
+                        146.8295397,
+                        -19.2525777
+                    ],
+                    [
+                        146.8295397,
+                        -19.2525777
+                    ],
+                    [
+                        146.8297678,
+                        -19.252488
+                    ],
+                    [
+                        146.8302113,
+                        -19.2524521
+                    ],
+                    [
+                        146.8307016,
+                        -19.2525525
+                    ],
+                    [
+                        146.8309677,
+                        -19.252674
+                    ],
+                    [
+                        146.8311565,
+                        -19.2528199
+                    ],
+                    [
+                        146.8313368,
+                        -19.2529414
+                    ],
+                    [
+                        146.8314741,
+                        -19.2530792
+                    ],
+                    [
+                        146.8316544,
+                        -19.2531683
+                    ],
+                    [
+                        146.8320537,
+                        -19.2530694
+                    ],
+                    [
+                        146.8331213,
+                        -19.2530947
+                    ],
+                    [
+                        146.8340091,
+                        -19.2532492
+                    ],
+                    [
+                        146.834178,
+                        -19.2532466
+                    ],
+                    [
+                        146.8342961,
+                        -19.2531605
+                    ],
+                    [
+                        146.8346198,
+                        -19.2528232
+                    ],
+                    [
+                        146.8352154,
+                        -19.25288
+                    ],
+                    [
+                        146.8355986,
+                        -19.2529488
+                    ],
+                    [
+                        146.8359566,
+                        -19.2531671
+                    ],
+                    [
+                        146.8361642,
+                        -19.2533759
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lennon Street",
+                "description": "Named for William Allen, banker and business manager during the middle of the 19<sup>th</sup> which included roles in \"the Bank of North Queensland and the Townsville Gas and Coke Company\" (Mathew, 2008, p. 75).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8281215,
+                        -19.2550896
+                    ],
+                    [
+                        146.8282999,
+                        -19.2560641
+                    ],
+                    [
+                        146.8282654,
+                        -19.2563387
+                    ],
+                    [
+                        146.827762,
+                        -19.2573585
+                    ],
+                    [
+                        146.827762,
+                        -19.2573585
+                    ],
+                    [
+                        146.8272368,
+                        -19.2582466
+                    ],
+                    [
+                        146.8272368,
+                        -19.2582466
+                    ],
+                    [
+                        146.8269977,
+                        -19.2585916
+                    ],
+                    [
+                        146.826849,
+                        -19.2587644
+                    ],
+                    [
+                        146.8266861,
+                        -19.2588762
+                    ],
+                    [
+                        146.8265932,
+                        -19.2589964
+                    ],
+                    [
+                        146.8265531,
+                        -19.2591006
+                    ],
+                    [
+                        146.8265514,
+                        -19.2592131
+                    ],
+                    [
+                        146.8265701,
+                        -19.2593189
+                    ],
+                    [
+                        146.8266272,
+                        -19.2593876
+                    ],
+                    [
+                        146.8267334,
+                        -19.2594606
+                    ],
+                    [
+                        146.8267436,
+                        -19.2594676
+                    ],
+                    [
+                        146.8267577,
+                        -19.2594773
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lennon Street",
+                "description": "Named for William Allen, banker and business manager during the middle of the 19<sup>th</sup> which included roles in \"the Bank of North Queensland and the Townsville Gas and Coke Company\" (Mathew, 2008, p. 75).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8266842,
+                        -19.2595266
+                    ],
+                    [
+                        146.8265521,
+                        -19.2594486
+                    ],
+                    [
+                        146.8264932,
+                        -19.2593455
+                    ],
+                    [
+                        146.8264704,
+                        -19.2592189
+                    ],
+                    [
+                        146.8264724,
+                        -19.2590866
+                    ],
+                    [
+                        146.8265211,
+                        -19.2589602
+                    ],
+                    [
+                        146.8266283,
+                        -19.2588215
+                    ],
+                    [
+                        146.8267929,
+                        -19.2587085
+                    ],
+                    [
+                        146.8269548,
+                        -19.2585527
+                    ],
+                    [
+                        146.8272368,
+                        -19.2582466
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Martin Street Street",
+                "description": "Named for William Martin, business person who ran the <i>The Great Northern Railway Store</i> and opened the first shop on Ross Island (Mathew, 2008, p. 84).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8307181,
+                        -19.2682221
+                    ],
+                    [
+                        146.8315685,
+                        -19.2666269
+                    ],
+                    [
+                        146.8315685,
+                        -19.2664567
+                    ]
+                ]
+            }
+        }
+    ]
+}

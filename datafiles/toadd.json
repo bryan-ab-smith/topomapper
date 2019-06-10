@@ -1,0 +1,63 @@
+{
+    "type": "Feature",
+    "properties": {
+        "name": "Noongah Street",
+        "description": "Aboriginal word for \"shade tree\" (Mathew, 2008, p. 93).",
+        "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+    },
+    "geometry": {
+        "type": "LineString",
+        "coordinates": [
+            [
+                146.7694666,
+                -19.2770694
+            ],
+            [
+                146.7723323,
+                -19.2773683
+            ]
+        ]
+    }
+}
+
+{
+    "type": "Feature",
+    "properties": {
+        "name": "Tingha Street",
+        "description": "Aboriginal word for \"flat\" or \"level\" (Mathew, 2008, p. 118).",
+        "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+    },
+    "geometry": {
+        "type": "LineString",
+        "coordinates": [
+            [
+                146.758196,
+                -19.3024634
+            ],
+            [
+                146.758467,
+                -19.3026813
+            ],
+            [
+                146.7585382,
+                -19.3028122
+            ],
+            [
+                146.7585346,
+                -19.3030429
+            ],
+            [
+                146.7585161,
+                -19.3032843
+            ],
+            [
+                146.7586283,
+                -19.3034123
+            ],
+            [
+                146.7588854,
+                -19.3036065
+            ]
+        ]
+    }
+}

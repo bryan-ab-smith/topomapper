@@ -1,0 +1,4427 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sturt Street",
+                "description": "Named for Captain Charles Sturt, one time Surveyor General of South Australia (Mathew, 2008, p. 115).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8016937,
+                        -19.2718665
+                    ],
+                    [
+                        146.8023965,
+                        -19.2716492
+                    ],
+                    [
+                        146.8027141,
+                        -19.2714603
+                    ],
+                    [
+                        146.8030118,
+                        -19.2711856
+                    ],
+                    [
+                        146.8030118,
+                        -19.2711856
+                    ],
+                    [
+                        146.80314,
+                        -19.271019
+                    ],
+                    [
+                        146.80314,
+                        -19.271019
+                    ],
+                    [
+                        146.803438,
+                        -19.2704722
+                    ],
+                    [
+                        146.8039945,
+                        -19.2694285
+                    ],
+                    [
+                        146.804221,
+                        -19.2690037
+                    ],
+                    [
+                        146.8043002,
+                        -19.2688507
+                    ],
+                    [
+                        146.8043278,
+                        -19.2688168
+                    ],
+                    [
+                        146.8043731,
+                        -19.268761
+                    ],
+                    [
+                        146.8044366,
+                        -19.2686894
+                    ],
+                    [
+                        146.8044366,
+                        -19.2686894
+                    ],
+                    [
+                        146.8046673,
+                        -19.2684527
+                    ],
+                    [
+                        146.8047979,
+                        -19.2683738
+                    ],
+                    [
+                        146.8049466,
+                        -19.2682842
+                    ],
+                    [
+                        146.8065269,
+                        -19.267324
+                    ],
+                    [
+                        146.8065895,
+                        -19.2672859
+                    ],
+                    [
+                        146.8082862,
+                        -19.2662851
+                    ],
+                    [
+                        146.808392,
+                        -19.2662227
+                    ],
+                    [
+                        146.8098843,
+                        -19.2653279
+                    ],
+                    [
+                        146.8098843,
+                        -19.2653279
+                    ],
+                    [
+                        146.8112062,
+                        -19.2645526
+                    ],
+                    [
+                        146.811398,
+                        -19.2644187
+                    ],
+                    [
+                        146.8115618,
+                        -19.2642405
+                    ],
+                    [
+                        146.8122693,
+                        -19.2632209
+                    ],
+                    [
+                        146.8130924,
+                        -19.2622611
+                    ],
+                    [
+                        146.8131986,
+                        -19.2621408
+                    ],
+                    [
+                        146.8145596,
+                        -19.2605854
+                    ],
+                    [
+                        146.8145804,
+                        -19.2605541
+                    ],
+                    [
+                        146.8159533,
+                        -19.2589406
+                    ],
+                    [
+                        146.8159533,
+                        -19.2589406
+                    ],
+                    [
+                        146.8172907,
+                        -19.2573634
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sturt Street",
+                "description": "Named for Captain Charles Sturt, one time Surveyor General of South Australia (Mathew, 2008, p. 115).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8173859,
+                        -19.2574376
+                    ],
+                    [
+                        146.8160366,
+                        -19.2590066
+                    ],
+                    [
+                        146.8160366,
+                        -19.2590066
+                    ],
+                    [
+                        146.8146385,
+                        -19.2606488
+                    ],
+                    [
+                        146.8132988,
+                        -19.2622136
+                    ],
+                    [
+                        146.8131961,
+                        -19.2623335
+                    ],
+                    [
+                        146.8123765,
+                        -19.2632537
+                    ],
+                    [
+                        146.8121226,
+                        -19.2635655
+                    ],
+                    [
+                        146.8115937,
+                        -19.2643314
+                    ],
+                    [
+                        146.8113998,
+                        -19.2645296
+                    ],
+                    [
+                        146.8099316,
+                        -19.2654083
+                    ],
+                    [
+                        146.8099316,
+                        -19.2654083
+                    ],
+                    [
+                        146.808434,
+                        -19.2662846
+                    ],
+                    [
+                        146.808329,
+                        -19.2663471
+                    ],
+                    [
+                        146.8065697,
+                        -19.2673941
+                    ],
+                    [
+                        146.8064647,
+                        -19.2674549
+                    ],
+                    [
+                        146.8049928,
+                        -19.2683637
+                    ],
+                    [
+                        146.8048739,
+                        -19.2684371
+                    ],
+                    [
+                        146.8047513,
+                        -19.2685412
+                    ],
+                    [
+                        146.8045633,
+                        -19.2687008
+                    ],
+                    [
+                        146.8045048,
+                        -19.268779
+                    ],
+                    [
+                        146.8045048,
+                        -19.268779
+                    ],
+                    [
+                        146.8044613,
+                        -19.2688285
+                    ],
+                    [
+                        146.8044334,
+                        -19.2688603
+                    ],
+                    [
+                        146.80425,
+                        -19.2691185
+                    ],
+                    [
+                        146.8040074,
+                        -19.2695928
+                    ],
+                    [
+                        146.8036554,
+                        -19.2702812
+                    ],
+                    [
+                        146.8036554,
+                        -19.2702812
+                    ],
+                    [
+                        146.8032488,
+                        -19.2710469
+                    ],
+                    [
+                        146.8031521,
+                        -19.2712291
+                    ],
+                    [
+                        146.8029652,
+                        -19.271581
+                    ],
+                    [
+                        146.8027651,
+                        -19.2717993
+                    ],
+                    [
+                        146.8027644,
+                        -19.2719436
+                    ],
+                    [
+                        146.8028839,
+                        -19.2720844
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kennedy Street",
+                "description": "Named for E.B. Kenendy, \"who set out in April 1848 from Rockingham Bay to find a route along the coast to Cape York\" (Mathew, 2008, p. 71).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8067934,
+                        -19.2553519
+                    ],
+                    [
+                        146.8068781,
+                        -19.2552249
+                    ],
+                    [
+                        146.8074083,
+                        -19.25443
+                    ],
+                    [
+                        146.8074739,
+                        -19.2543077
+                    ],
+                    [
+                        146.8080556,
+                        -19.253338
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Blackwood Street",
+                "description": "Named for \"Captain Francis Price Blackwood, naval officer and marine surveyor\" (Mathew, 2008, p. 19).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8121932,
+                        -19.2615055
+                    ],
+                    [
+                        146.8122805,
+                        -19.2615252
+                    ],
+                    [
+                        146.8124082,
+                        -19.2615782
+                    ],
+                    [
+                        146.8131986,
+                        -19.2621408
+                    ],
+                    [
+                        146.8132988,
+                        -19.2622136
+                    ],
+                    [
+                        146.8141572,
+                        -19.2629014
+                    ],
+                    [
+                        146.8142483,
+                        -19.2629676
+                    ],
+                    [
+                        146.8142483,
+                        -19.2629676
+                    ],
+                    [
+                        146.8147406,
+                        -19.2633714
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Blackwood Street",
+                "description": "Named for \"Captain Francis Price Blackwood, naval officer and marine surveyor\" (Mathew, 2008, p. 19).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8146703,
+                        -19.263455
+                    ],
+                    [
+                        146.8141635,
+                        -19.2630675
+                    ],
+                    [
+                        146.8140699,
+                        -19.2630025
+                    ],
+                    [
+                        146.8140699,
+                        -19.2630025
+                    ],
+                    [
+                        146.8131961,
+                        -19.2623335
+                    ],
+                    [
+                        146.8130924,
+                        -19.2622611
+                    ],
+                    [
+                        146.8122304,
+                        -19.2615763
+                    ],
+                    [
+                        146.8121932,
+                        -19.2615055
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Walker Street",
+                "description": "Named for Frederick Walker, \"the leader of the Rockhampton search party for Burke and Wills in 1861-62\" (Mathew, 2008, p. 123).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8127014,
+                        -19.2609482
+                    ],
+                    [
+                        146.8128663,
+                        -19.2606272
+                    ],
+                    [
+                        146.8135385,
+                        -19.2598189
+                    ],
+                    [
+                        146.8135385,
+                        -19.2598189
+                    ],
+                    [
+                        146.8149935,
+                        -19.2581814
+                    ],
+                    [
+                        146.8149935,
+                        -19.2581814
+                    ],
+                    [
+                        146.8163037,
+                        -19.256622
+                    ],
+                    [
+                        146.8163037,
+                        -19.256622
+                    ],
+                    [
+                        146.8163746,
+                        -19.2565396
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Walker Street",
+                "description": "Named for Frederick Walker, \"the leader of the Rockhampton search party for Burke and Wills in 1861-62\" (Mathew, 2008, p. 123).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8164816,
+                        -19.2566251
+                    ],
+                    [
+                        146.8164098,
+                        -19.2567079
+                    ],
+                    [
+                        146.8150844,
+                        -19.2582521
+                    ],
+                    [
+                        146.8150844,
+                        -19.2582521
+                    ],
+                    [
+                        146.8136488,
+                        -19.2599064
+                    ],
+                    [
+                        146.8136488,
+                        -19.2599064
+                    ],
+                    [
+                        146.8127014,
+                        -19.2609482
+                    ],
+                    [
+                        146.8127014,
+                        -19.2609482
+                    ],
+                    [
+                        146.8121932,
+                        -19.2615055
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Walker Street",
+                "description": "Named for Frederick Walker, \"the leader of the Rockhampton search party for Burke and Wills in 1861-62\" (Mathew, 2008, p. 123).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8067618,
+                        -19.2658429
+                    ],
+                    [
+                        146.8077339,
+                        -19.265295
+                    ],
+                    [
+                        146.8092605,
+                        -19.2643544
+                    ],
+                    [
+                        146.8095595,
+                        -19.2640591
+                    ],
+                    [
+                        146.8095595,
+                        -19.2640591
+                    ],
+                    [
+                        146.8096829,
+                        -19.2639932
+                    ],
+                    [
+                        146.8098331,
+                        -19.2639071
+                    ],
+                    [
+                        146.809938,
+                        -19.2638517
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cook Street",
+                "description": "Named for James Cook, first European to 'discover' Ka-may (see Attenbrow, 2009), or what is now called Botany Bay (Mathew, 2008, p. 35).",
+                "refs": "Attenbrow, V. (2009). Aboriginal Placenames Around Port Jackson and Botany Bay, New South Wales, Australia: Sources and Uncertainties. In H. Koch & L. Hercus (Eds.), <i>Aboriginal Placenames: Naming and Re-naming the Australian Landscape</i> (pp. 9–54). Canberra, ACT: ANU E Press and Aboriginal History Incorporated.<br \\>Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service.<br \\>Macintyre, S. (2004). <i>A Concise History of Australia</i> (2nd ed.). Port Melbourne, VIC: Cambridge University Press."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.7997847,
+                        -19.2399809
+                    ],
+                    [
+                        146.8008723,
+                        -19.2410723
+                    ],
+                    [
+                        146.802285,
+                        -19.2424187
+                    ],
+                    [
+                        146.8030916,
+                        -19.2432975
+                    ],
+                    [
+                        146.8046525,
+                        -19.244779
+                    ],
+                    [
+                        146.8060955,
+                        -19.2462485
+                    ],
+                    [
+                        146.8062094,
+                        -19.2463696
+                    ],
+                    [
+                        146.8076755,
+                        -19.2477826
+                    ],
+                    [
+                        146.8084588,
+                        -19.2485374
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stokes Street",
+                "description": "Named for Captain John Lort Stokes, surveyor of the Australian coast (Mathew, 2008, p. 115)",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8116477,
+                        -19.2564663
+                    ],
+                    [
+                        146.811795,
+                        -19.2565098
+                    ],
+                    [
+                        146.8131048,
+                        -19.2568487
+                    ],
+                    [
+                        146.8137528,
+                        -19.2572435
+                    ],
+                    [
+                        146.8139994,
+                        -19.2574401
+                    ],
+                    [
+                        146.8141071,
+                        -19.2575214
+                    ],
+                    [
+                        146.8147222,
+                        -19.2579855
+                    ],
+                    [
+                        146.8149935,
+                        -19.2581814
+                    ],
+                    [
+                        146.8149935,
+                        -19.2581814
+                    ],
+                    [
+                        146.8150844,
+                        -19.2582521
+                    ],
+                    [
+                        146.8159533,
+                        -19.2589406
+                    ],
+                    [
+                        146.8160366,
+                        -19.2590066
+                    ],
+                    [
+                        146.8167891,
+                        -19.259606
+                    ],
+                    [
+                        146.8160366,
+                        -19.2590066
+                    ],
+                    [
+                        146.8169214,
+                        -19.2597198
+                    ],
+                    [
+                        146.8167891,
+                        -19.259606
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "James Cook Drive",
+                "description": "Named for James Cook, first European to 'discover' Ka-may (see Attenbrow, 2009), or what is now called Botany Bay (Mathew, 2008, p. 35).",
+                "refs": "Attenbrow, V. (2009). Aboriginal Placenames Around Port Jackson and Botany Bay, New South Wales, Australia: Sources and Uncertainties. In H. Koch & L. Hercus (Eds.), <i>Aboriginal Placenames: Naming and Re-naming the Australian Landscape</i> (pp. 9–54). Canberra, ACT: ANU E Press and Aboriginal History Incorporated.<br \\>Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.7558083,
+                        -19.3316255
+                    ],
+                    [
+                        146.7558001,
+                        -19.3318116
+                    ],
+                    [
+                        146.7557852,
+                        -19.3321505
+                    ],
+                    [
+                        146.7557707,
+                        -19.3327088
+                    ],
+                    [
+                        146.7558029,
+                        -19.3329442
+                    ],
+                    [
+                        146.7559129,
+                        -19.3331492
+                    ],
+                    [
+                        146.7560497,
+                        -19.3332757
+                    ],
+                    [
+                        146.7562321,
+                        -19.3333769
+                    ],
+                    [
+                        146.7564171,
+                        -19.3334453
+                    ],
+                    [
+                        146.7566451,
+                        -19.3334579
+                    ],
+                    [
+                        146.7580184,
+                        -19.3332555
+                    ],
+                    [
+                        146.7582598,
+                        -19.3331719
+                    ],
+                    [
+                        146.7584663,
+                        -19.333053
+                    ],
+                    [
+                        146.7586407,
+                        -19.3328986
+                    ],
+                    [
+                        146.7587936,
+                        -19.3327341
+                    ],
+                    [
+                        146.7589384,
+                        -19.3325215
+                    ],
+                    [
+                        146.7590105,
+                        -19.3323862
+                    ],
+                    [
+                        146.7593048,
+                        -19.3318346
+                    ],
+                    [
+                        146.7593475,
+                        -19.3317644
+                    ],
+                    [
+                        146.7594429,
+                        -19.3315942
+                    ],
+                    [
+                        146.7594429,
+                        -19.3315942
+                    ],
+                    [
+                        146.7597514,
+                        -19.331035
+                    ],
+                    [
+                        146.7601726,
+                        -19.3302713
+                    ],
+                    [
+                        146.7602034,
+                        -19.3302168
+                    ],
+                    [
+                        146.7602969,
+                        -19.3300047
+                    ],
+                    [
+                        146.7604082,
+                        -19.329708
+                    ],
+                    [
+                        146.760419,
+                        -19.3296792
+                    ],
+                    [
+                        146.7605236,
+                        -19.3292438
+                    ],
+                    [
+                        146.7605236,
+                        -19.3292438
+                    ],
+                    [
+                        146.7605306,
+                        -19.3291081
+                    ],
+                    [
+                        146.7605493,
+                        -19.328955
+                    ],
+                    [
+                        146.7605493,
+                        -19.328955
+                    ],
+                    [
+                        146.7605558,
+                        -19.3289022
+                    ],
+                    [
+                        146.7605571,
+                        -19.3285985
+                    ],
+                    [
+                        146.7605593,
+                        -19.328072
+                    ],
+                    [
+                        146.7605599,
+                        -19.3279426
+                    ],
+                    [
+                        146.7605495,
+                        -19.3274199
+                    ],
+                    [
+                        146.7605495,
+                        -19.3269643
+                    ],
+                    [
+                        146.7605602,
+                        -19.3268903
+                    ],
+                    [
+                        146.7605751,
+                        -19.3267874
+                    ],
+                    [
+                        146.7605751,
+                        -19.3267874
+                    ],
+                    [
+                        146.7605947,
+                        -19.3266523
+                    ],
+                    [
+                        146.7606131,
+                        -19.3265266
+                    ],
+                    [
+                        146.7607026,
+                        -19.3261496
+                    ],
+                    [
+                        146.760845,
+                        -19.3257205
+                    ],
+                    [
+                        146.7609253,
+                        -19.325563
+                    ],
+                    [
+                        146.7611529,
+                        -19.3251167
+                    ],
+                    [
+                        146.7612502,
+                        -19.3249078
+                    ],
+                    [
+                        146.7614966,
+                        -19.32439
+                    ],
+                    [
+                        146.7615497,
+                        -19.3242945
+                    ],
+                    [
+                        146.7616163,
+                        -19.3241287
+                    ],
+                    [
+                        146.7616643,
+                        -19.3239417
+                    ],
+                    [
+                        146.761694,
+                        -19.3237887
+                    ],
+                    [
+                        146.7616577,
+                        -19.323596
+                    ],
+                    [
+                        146.7615928,
+                        -19.3234621
+                    ],
+                    [
+                        146.7615481,
+                        -19.32342
+                    ],
+                    [
+                        146.7615481,
+                        -19.32342
+                    ],
+                    [
+                        146.7614692,
+                        -19.3233458
+                    ],
+                    [
+                        146.7610472,
+                        -19.32305
+                    ],
+                    [
+                        146.760632,
+                        -19.3228443
+                    ],
+                    [
+                        146.7603055,
+                        -19.3226406
+                    ],
+                    [
+                        146.7597667,
+                        -19.3222921
+                    ],
+                    [
+                        146.7597127,
+                        -19.3222572
+                    ],
+                    [
+                        146.7595086,
+                        -19.3221731
+                    ],
+                    [
+                        146.7592798,
+                        -19.3221371
+                    ],
+                    [
+                        146.7590895,
+                        -19.322162
+                    ],
+                    [
+                        146.7589148,
+                        -19.3222258
+                    ],
+                    [
+                        146.7589148,
+                        -19.3222258
+                    ],
+                    [
+                        146.758677,
+                        -19.3223225
+                    ],
+                    [
+                        146.7586566,
+                        -19.3223296
+                    ],
+                    [
+                        146.7585184,
+                        -19.3223777
+                    ],
+                    [
+                        146.7584111,
+                        -19.3224261
+                    ],
+                    [
+                        146.7583342,
+                        -19.3224664
+                    ],
+                    [
+                        146.7582447,
+                        -19.3225279
+                    ],
+                    [
+                        146.7581931,
+                        -19.3225658
+                    ],
+                    [
+                        146.7581732,
+                        -19.3226448
+                    ],
+                    [
+                        146.758151,
+                        -19.3227301
+                    ],
+                    [
+                        146.758151,
+                        -19.3227301
+                    ],
+                    [
+                        146.7580793,
+                        -19.3229325
+                    ],
+                    [
+                        146.7579781,
+                        -19.3232168
+                    ],
+                    [
+                        146.7578988,
+                        -19.3234125
+                    ],
+                    [
+                        146.7578359,
+                        -19.3236152
+                    ],
+                    [
+                        146.7577908,
+                        -19.3237556
+                    ],
+                    [
+                        146.7577219,
+                        -19.3239825
+                    ],
+                    [
+                        146.7576514,
+                        -19.3241939
+                    ],
+                    [
+                        146.7575748,
+                        -19.3244437
+                    ],
+                    [
+                        146.7575018,
+                        -19.324548
+                    ],
+                    [
+                        146.7572731,
+                        -19.325057
+                    ],
+                    [
+                        146.7568521,
+                        -19.3259942
+                    ],
+                    [
+                        146.7567831,
+                        -19.3261477
+                    ],
+                    [
+                        146.7567831,
+                        -19.3261477
+                    ],
+                    [
+                        146.7567379,
+                        -19.3262669
+                    ],
+                    [
+                        146.7565441,
+                        -19.3267081
+                    ],
+                    [
+                        146.7562106,
+                        -19.3274671
+                    ],
+                    [
+                        146.7560014,
+                        -19.3280391
+                    ],
+                    [
+                        146.7559129,
+                        -19.3285529
+                    ],
+                    [
+                        146.7558726,
+                        -19.3294564
+                    ],
+                    [
+                        146.755858,
+                        -19.3298689
+                    ],
+                    [
+                        146.7558378,
+                        -19.3304385
+                    ],
+                    [
+                        146.7558512,
+                        -19.3308257
+                    ],
+                    [
+                        146.7558083,
+                        -19.3316255
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "James Cook Drive",
+                "description": "Named for James Cook, first European to 'discover' Ka-may (see Attenbrow, 2009), or what is now called Botany Bay (Mathew, 2008, p. 35).",
+                "refs": "Attenbrow, V. (2009). Aboriginal Placenames Around Port Jackson and Botany Bay, New South Wales, Australia: Sources and Uncertainties. In H. Koch & L. Hercus (Eds.), <i>Aboriginal Placenames: Naming and Re-naming the Australian Landscape</i> (pp. 9–54). Canberra, ACT: ANU E Press and Aboriginal History Incorporated.<br \\>Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.7558083,
+                        -19.3316255
+                    ],
+                    [
+                        146.7557868,
+                        -19.3312788
+                    ],
+                    [
+                        146.7557171,
+                        -19.3310738
+                    ],
+                    [
+                        146.7557247,
+                        -19.3308185
+                    ],
+                    [
+                        146.755751,
+                        -19.3299325
+                    ],
+                    [
+                        146.7557654,
+                        -19.3294489
+                    ],
+                    [
+                        146.7558378,
+                        -19.3283074
+                    ],
+                    [
+                        146.755878,
+                        -19.3280062
+                    ],
+                    [
+                        146.7559773,
+                        -19.3277303
+                    ],
+                    [
+                        146.7560926,
+                        -19.3274316
+                    ],
+                    [
+                        146.7561805,
+                        -19.3272216
+                    ],
+                    [
+                        146.7564189,
+                        -19.3266599
+                    ],
+                    [
+                        146.7566567,
+                        -19.3260994
+                    ],
+                    [
+                        146.7566567,
+                        -19.3260994
+                    ],
+                    [
+                        146.7567256,
+                        -19.3259478
+                    ],
+                    [
+                        146.7572728,
+                        -19.3247436
+                    ],
+                    [
+                        146.7573213,
+                        -19.32451
+                    ],
+                    [
+                        146.7574193,
+                        -19.3242993
+                    ],
+                    [
+                        146.7575088,
+                        -19.3242475
+                    ],
+                    [
+                        146.7575624,
+                        -19.3241868
+                    ],
+                    [
+                        146.7576451,
+                        -19.3240386
+                    ],
+                    [
+                        146.7577502,
+                        -19.323742
+                    ],
+                    [
+                        146.757778,
+                        -19.3236634
+                    ],
+                    [
+                        146.7578439,
+                        -19.3234493
+                    ],
+                    [
+                        146.7579171,
+                        -19.3231892
+                    ],
+                    [
+                        146.7579817,
+                        -19.3229578
+                    ],
+                    [
+                        146.7580208,
+                        -19.3227886
+                    ],
+                    [
+                        146.7580256,
+                        -19.322692
+                    ],
+                    [
+                        146.758011,
+                        -19.3225895
+                    ],
+                    [
+                        146.7579826,
+                        -19.3225033
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "James Cook Drive",
+                "description": "Named for James Cook, first European to 'discover' Ka-may (see Attenbrow, 2009), or what is now called Botany Bay (Mathew, 2008, p. 35).",
+                "refs": "Attenbrow, V. (2009). Aboriginal Placenames Around Port Jackson and Botany Bay, New South Wales, Australia: Sources and Uncertainties. In H. Koch & L. Hercus (Eds.), <i>Aboriginal Placenames: Naming and Re-naming the Australian Landscape</i> (pp. 9–54). Canberra, ACT: ANU E Press and Aboriginal History Incorporated.<br \\>Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.7582409,
+                        -19.3223285
+                    ],
+                    [
+                        146.7583351,
+                        -19.3223318
+                    ],
+                    [
+                        146.7584559,
+                        -19.3223261
+                    ],
+                    [
+                        146.7585611,
+                        -19.3223115
+                    ],
+                    [
+                        146.7586585,
+                        -19.3222887
+                    ],
+                    [
+                        146.7589148,
+                        -19.3222258
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Solander Road",
+                "description": "TBD",
+                "refs": "TBD"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.7646776,
+                        -19.3247543
+                    ],
+                    [
+                        146.7646912,
+                        -19.3240729
+                    ],
+                    [
+                        146.7646697,
+                        -19.3239894
+                    ],
+                    [
+                        146.7646268,
+                        -19.3239464
+                    ],
+                    [
+                        146.7645249,
+                        -19.3239312
+                    ],
+                    [
+                        146.7642271,
+                        -19.3239312
+                    ],
+                    [
+                        146.7640099,
+                        -19.3239135
+                    ],
+                    [
+                        146.7637616,
+                        -19.323881
+                    ],
+                    [
+                        146.7635834,
+                        -19.3238578
+                    ],
+                    [
+                        146.7632776,
+                        -19.3238122
+                    ],
+                    [
+                        146.7632186,
+                        -19.3238046
+                    ],
+                    [
+                        146.762945,
+                        -19.3237388
+                    ],
+                    [
+                        146.7627841,
+                        -19.3236958
+                    ],
+                    [
+                        146.7626446,
+                        -19.3236502
+                    ],
+                    [
+                        146.7625025,
+                        -19.3236072
+                    ],
+                    [
+                        146.7623013,
+                        -19.3235414
+                    ],
+                    [
+                        146.7621672,
+                        -19.3234579
+                    ],
+                    [
+                        146.7620841,
+                        -19.3233566
+                    ],
+                    [
+                        146.7620197,
+                        -19.3232731
+                    ],
+                    [
+                        146.761954,
+                        -19.3231841
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Joseph Banks Drive",
+                "description": "TBD",
+                "refs": "TBD"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.7573156,
+                        -19.3243606
+                    ],
+                    [
+                        146.7571219,
+                        -19.3242184
+                    ],
+                    [
+                        146.7563501,
+                        -19.3236932
+                    ],
+                    [
+                        146.7560517,
+                        -19.323499
+                    ],
+                    [
+                        146.7551324,
+                        -19.322901
+                    ],
+                    [
+                        146.7549017,
+                        -19.3227061
+                    ],
+                    [
+                        146.7547756,
+                        -19.3225188
+                    ],
+                    [
+                        146.7546549,
+                        -19.3222226
+                    ],
+                    [
+                        146.7545342,
+                        -19.3218404
+                    ],
+                    [
+                        146.754518,
+                        -19.3215881
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Discovery Drive",
+                "description": "TBD",
+                "refs": "TBD"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.7615481,
+                        -19.32342
+                    ],
+                    [
+                        146.7616394,
+                        -19.3233617
+                    ],
+                    [
+                        146.761954,
+                        -19.3231841
+                    ],
+                    [
+                        146.7633211,
+                        -19.3224125
+                    ],
+                    [
+                        146.7647722,
+                        -19.3216833
+                    ],
+                    [
+                        146.7650887,
+                        -19.3214732
+                    ],
+                    [
+                        146.7652979,
+                        -19.3212757
+                    ],
+                    [
+                        146.7654642,
+                        -19.3210404
+                    ],
+                    [
+                        146.7655822,
+                        -19.3208179
+                    ],
+                    [
+                        146.7656708,
+                        -19.3205546
+                    ],
+                    [
+                        146.765711,
+                        -19.3203013
+                    ],
+                    [
+                        146.7656869,
+                        -19.3200178
+                    ],
+                    [
+                        146.7653945,
+                        -19.3190154
+                    ],
+                    [
+                        146.7653945,
+                        -19.3190154
+                    ],
+                    [
+                        146.7652067,
+                        -19.3183497
+                    ],
+                    [
+                        146.7652067,
+                        -19.3183497
+                    ],
+                    [
+                        146.7648688,
+                        -19.3174841
+                    ],
+                    [
+                        146.764842,
+                        -19.3173426
+                    ],
+                    [
+                        146.7648715,
+                        -19.3171449
+                    ],
+                    [
+                        146.7649439,
+                        -19.3169778
+                    ],
+                    [
+                        146.7649693,
+                        -19.3168029
+                    ],
+                    [
+                        146.76517,
+                        -19.3169112
+                    ],
+                    [
+                        146.7650726,
+                        -19.3169907
+                    ],
+                    [
+                        146.7649948,
+                        -19.3170942
+                    ],
+                    [
+                        146.7649412,
+                        -19.317216
+                    ],
+                    [
+                        146.7649412,
+                        -19.3173828
+                    ],
+                    [
+                        146.7650139,
+                        -19.3176049
+                    ],
+                    [
+                        146.7651209,
+                        -19.3179321
+                    ],
+                    [
+                        146.7652067,
+                        -19.3183497
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Flinders Street",
+                "description": "Named for Matthew Flinders, explorer of what is now called Australia, wrote \"A Voyage to Terra Australis\" which was published just before his death (Mathew, 2008, p. 49). Macintyre (2004) suggests that it was Flinders who came up with the name Australia since it was, in Flinders' words, \"more agreeable to the ear\" (p. 50).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service.<br \\>Macintyre, S. (2004). <i>A Concise History of Australia</i> (2nd ed.). Port Melbourne, VIC: Cambridge University Press."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.806325,
+                        -19.2688577
+                    ],
+                    [
+                        146.8063588,
+                        -19.2688358
+                    ],
+                    [
+                        146.8065176,
+                        -19.2687328
+                    ],
+                    [
+                        146.8066828,
+                        -19.2686278
+                    ],
+                    [
+                        146.8068992,
+                        -19.2684946
+                    ],
+                    [
+                        146.8089459,
+                        -19.2672737
+                    ],
+                    [
+                        146.8090367,
+                        -19.2672195
+                    ],
+                    [
+                        146.810505,
+                        -19.2663356
+                    ],
+                    [
+                        146.8105544,
+                        -19.2663058
+                    ],
+                    [
+                        146.8119218,
+                        -19.2654818
+                    ],
+                    [
+                        146.8121157,
+                        -19.2653227
+                    ],
+                    [
+                        146.8140699,
+                        -19.2630025
+                    ],
+                    [
+                        146.8140699,
+                        -19.2630025
+                    ],
+                    [
+                        146.8141572,
+                        -19.2629014
+                    ],
+                    [
+                        146.8154061,
+                        -19.2614553
+                    ],
+                    [
+                        146.8155486,
+                        -19.2613558
+                    ],
+                    [
+                        146.8155486,
+                        -19.2613558
+                    ],
+                    [
+                        146.8164313,
+                        -19.2603039
+                    ],
+                    [
+                        146.8169214,
+                        -19.2597198
+                    ],
+                    [
+                        146.8182724,
+                        -19.258153
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Flinders Street",
+                "description": "Named for Matthew Flinders, explorer of what is now called Australia, wrote \"A Voyage to Terra Australis\" which was published just before his death (Mathew, 2008, p. 49). Macintyre (2004) suggests that it was Flinders who came up with the name Australia since it was, in Flinders' words, \"more agreeable to the ear\" (p. 50).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service.<br \\>Macintyre, S. (2004). <i>A Concise History of Australia</i> (2nd ed.). Port Melbourne, VIC: Cambridge University Press."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.821613,
+                        -19.2571273
+                    ],
+                    [
+                        146.821294,
+                        -19.2571895
+                    ],
+                    [
+                        146.8206977,
+                        -19.2573308
+                    ],
+                    [
+                        146.8206977,
+                        -19.2573308
+                    ],
+                    [
+                        146.8183532,
+                        -19.2580843
+                    ],
+                    [
+                        146.8182724,
+                        -19.258153
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Flinders Street",
+                "description": "Named for Matthew Flinders, explorer of what is now called Australia, wrote \"A Voyage to Terra Australis\" which was published just before his death (Mathew, 2008, p. 49). Macintyre (2004) suggests that it was Flinders who came up with the name Australia since it was, in Flinders' words, \"more agreeable to the ear\" (p. 50).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service.<br \\>Macintyre, S. (2004). <i>A Concise History of Australia</i> (2nd ed.). Port Melbourne, VIC: Cambridge University Press."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8206977,
+                        -19.2573308
+                    ],
+                    [
+                        146.8211137,
+                        -19.2571748
+                    ],
+                    [
+                        146.8214289,
+                        -19.2571065
+                    ],
+                    [
+                        146.821595,
+                        -19.2570278
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Flinders Street",
+                "description": "Named for Matthew Flinders, explorer of what is now called Australia, wrote \"A Voyage to Terra Australis\" which was published just before his death (Mathew, 2008, p. 49). Macintyre (2004) suggests that it was Flinders who came up with the name Australia since it was, in Flinders' words, \"more agreeable to the ear\" (p. 50).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service.<br \\>Macintyre, S. (2004). <i>A Concise History of Australia</i> (2nd ed.). Port Melbourne, VIC: Cambridge University Press."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8155486,
+                        -19.2613558
+                    ],
+                    [
+                        146.8154877,
+                        -19.2615074
+                    ],
+                    [
+                        146.8142483,
+                        -19.2629676
+                    ],
+                    [
+                        146.8142483,
+                        -19.2629676
+                    ],
+                    [
+                        146.8141635,
+                        -19.2630675
+                    ],
+                    [
+                        146.8122209,
+                        -19.2653581
+                    ],
+                    [
+                        146.8119856,
+                        -19.2655629
+                    ],
+                    [
+                        146.8106271,
+                        -19.2663816
+                    ],
+                    [
+                        146.8105615,
+                        -19.2664205
+                    ],
+                    [
+                        146.8090928,
+                        -19.2673003
+                    ],
+                    [
+                        146.8089999,
+                        -19.2673564
+                    ],
+                    [
+                        146.8066495,
+                        -19.2687767
+                    ],
+                    [
+                        146.8066495,
+                        -19.2687767
+                    ],
+                    [
+                        146.8064429,
+                        -19.2689642
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Flinders Street",
+                "description": "Named for Matthew Flinders, explorer of what is now called Australia, wrote \"A Voyage to Terra Australis\" which was published just before his death (Mathew, 2008, p. 49). Macintyre (2004) suggests that it was Flinders who came up with the name Australia since it was, in Flinders' words, \"more agreeable to the ear\" (p. 50).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service.<br \\>Macintyre, S. (2004). <i>A Concise History of Australia</i> (2nd ed.). Port Melbourne, VIC: Cambridge University Press."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8233378,
+                        -19.2572021
+                    ],
+                    [
+                        146.8232315,
+                        -19.2572493
+                    ],
+                    [
+                        146.8229752,
+                        -19.2572957
+                    ],
+                    [
+                        146.8217537,
+                        -19.2570974
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mount Stuart Street",
+                "description": "TBD",
+                "refs": "TBD"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.7577502,
+                        -19.323742
+                    ],
+                    [
+                        146.7577908,
+                        -19.3237556
+                    ],
+                    [
+                        146.7579607,
+                        -19.3238555
+                    ],
+                    [
+                        146.7586678,
+                        -19.3243411
+                    ],
+                    [
+                        146.7587492,
+                        -19.3243971
+                    ],
+                    [
+                        146.7598432,
+                        -19.3252986
+                    ],
+                    [
+                        146.7599348,
+                        -19.3253741
+                    ],
+                    [
+                        146.7600045,
+                        -19.3254298
+                    ],
+                    [
+                        146.7600796,
+                        -19.3254754
+                    ],
+                    [
+                        146.7601976,
+                        -19.3255108
+                    ],
+                    [
+                        146.7602835,
+                        -19.3255159
+                    ],
+                    [
+                        146.7604122,
+                        -19.3255058
+                    ],
+                    [
+                        146.7605141,
+                        -19.3254754
+                    ],
+                    [
+                        146.7606053,
+                        -19.3254703
+                    ],
+                    [
+                        146.760718,
+                        -19.3254906
+                    ],
+                    [
+                        146.7608038,
+                        -19.3255108
+                    ],
+                    [
+                        146.7609253,
+                        -19.325563
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Wills Street",
+                "description": "Names for William John Wills, surveyor and astronomer (Mathew, 2008, p. 126).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8120767,
+                        -19.2597735
+                    ],
+                    [
+                        146.8126392,
+                        -19.2591287
+                    ],
+                    [
+                        146.8126392,
+                        -19.2591287
+                    ],
+                    [
+                        146.8126828,
+                        -19.2589894
+                    ],
+                    [
+                        146.8139994,
+                        -19.2574401
+                    ],
+                    [
+                        146.8146822,
+                        -19.2566316
+                    ],
+                    [
+                        146.814787,
+                        -19.2565927
+                    ],
+                    [
+                        146.8148971,
+                        -19.2565647
+                    ],
+                    [
+                        146.8148971,
+                        -19.2565647
+                    ],
+                    [
+                        146.8153376,
+                        -19.2561169
+                    ],
+                    [
+                        146.815468,
+                        -19.2560139
+                    ],
+                    [
+                        146.815468,
+                        -19.2560139
+                    ],
+                    [
+                        146.8159231,
+                        -19.2559512
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Wills Street",
+                "description": "Names for William John Wills, surveyor and astronomer (Mathew, 2008, p. 126).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8148971,
+                        -19.2565647
+                    ],
+                    [
+                        146.8141071,
+                        -19.2575214
+                    ],
+                    [
+                        146.8127654,
+                        -19.2590504
+                    ],
+                    [
+                        146.8126392,
+                        -19.2591287
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Wills Street",
+                "description": "Names for William John Wills, surveyor and astronomer (Mathew, 2008, p. 126).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8069043,
+                        -19.2643269
+                    ],
+                    [
+                        146.8069847,
+                        -19.2642821
+                    ],
+                    [
+                        146.8071485,
+                        -19.264191
+                    ],
+                    [
+                        146.8080443,
+                        -19.2637048
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cleveland Terrace",
+                "description": "Named after Cleveland Bay, itself \"named in 1770 by Captain Cook possibly after John Cleveland, the Secretary of the Admiralty\" (Mathew, 2008, p. 33).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8165382,
+                        -19.2553096
+                    ],
+                    [
+                        146.8177891,
+                        -19.2548096
+                    ],
+                    [
+                        146.8182179,
+                        -19.254842
+                    ],
+                    [
+                        146.8191215,
+                        -19.2549243
+                    ],
+                    [
+                        146.8199287,
+                        -19.2550417
+                    ],
+                    [
+                        146.8201798,
+                        -19.2551124
+                    ],
+                    [
+                        146.8205025,
+                        -19.2551983
+                    ],
+                    [
+                        146.8208924,
+                        -19.2553568
+                    ],
+                    [
+                        146.8215011,
+                        -19.2556036
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cleveland Terrace",
+                "description": "Named after Cleveland Bay, itself \"named in 1770 by Captain Cook possibly after John Cleveland, the Secretary of the Admiralty\" (Mathew, 2008, p. 33).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8161822,
+                        -19.2552088
+                    ],
+                    [
+                        146.8162311,
+                        -19.2553311
+                    ],
+                    [
+                        146.8162972,
+                        -19.2553593
+                    ],
+                    [
+                        146.816377,
+                        -19.2553544
+                    ],
+                    [
+                        146.8165382,
+                        -19.2553096
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cleveland Terrace",
+                "description": "Named after Cleveland Bay, itself \"named in 1770 by Captain Cook possibly after John Cleveland, the Secretary of the Admiralty\" (Mathew, 2008, p. 33).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8165382,
+                        -19.2553096
+                    ],
+                    [
+                        146.8163816,
+                        -19.2553738
+                    ],
+                    [
+                        146.8162989,
+                        -19.2554145
+                    ],
+                    [
+                        146.8162308,
+                        -19.2554492
+                    ],
+                    [
+                        146.8161179,
+                        -19.255602
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stanley Street (West)",
+                "description": "Named for Captain Owen Stanley,\"naval officer and marine surveyor\" and commander of the HMS Rattlesnake who surveyed North QLD up to the Torres Strait (Mathew, 2008, p. 114).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8053983,
+                        -19.2544892
+                    ],
+                    [
+                        146.8056803,
+                        -19.2546784
+                    ],
+                    [
+                        146.8061207,
+                        -19.2549914
+                    ],
+                    [
+                        146.8064633,
+                        -19.2551716
+                    ],
+                    [
+                        146.8064633,
+                        -19.2551716
+                    ],
+                    [
+                        146.8067934,
+                        -19.2553519
+                    ],
+                    [
+                        146.8070748,
+                        -19.2554757
+                    ],
+                    [
+                        146.8080584,
+                        -19.2557856
+                    ],
+                    [
+                        146.8083541,
+                        -19.2558855
+                    ],
+                    [
+                        146.8083541,
+                        -19.2558855
+                    ],
+                    [
+                        146.8092746,
+                        -19.256547
+                    ],
+                    [
+                        146.8092746,
+                        -19.256547
+                    ],
+                    [
+                        146.8107848,
+                        -19.2577173
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stanley Street (West)",
+                "description": "Named for Captain Owen Stanley,\"naval officer and marine surveyor\" and commander of the HMS Rattlesnake who surveyed North QLD up to the Torres Strait (Mathew, 2008, p. 114).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8045764,
+                        -19.2539721
+                    ],
+                    [
+                        146.8031524,
+                        -19.2531838
+                    ],
+                    [
+                        146.8030392,
+                        -19.2531212
+                    ],
+                    [
+                        146.8018366,
+                        -19.2525128
+                    ],
+                    [
+                        146.8015614,
+                        -19.2524181
+                    ],
+                    [
+                        146.8012686,
+                        -19.252343
+                    ],
+                    [
+                        146.8009719,
+                        -19.2523003
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stanley Street (West)",
+                "description": "Named for Captain Owen Stanley,\"naval officer and marine surveyor\" and commander of the HMS Rattlesnake who surveyed North QLD up to the Torres Strait (Mathew, 2008, p. 114).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8175436,
+                        -19.2629198
+                    ],
+                    [
+                        146.8167473,
+                        -19.2623491
+                    ],
+                    [
+                        146.8165423,
+                        -19.2621445
+                    ],
+                    [
+                        146.8165423,
+                        -19.2621445
+                    ],
+                    [
+                        146.8160786,
+                        -19.2617819
+                    ],
+                    [
+                        146.8155486,
+                        -19.2613558
+                    ],
+                    [
+                        146.8155486,
+                        -19.2613558
+                    ],
+                    [
+                        146.8146385,
+                        -19.2606488
+                    ],
+                    [
+                        146.8145596,
+                        -19.2605854
+                    ],
+                    [
+                        146.8136488,
+                        -19.2599064
+                    ],
+                    [
+                        146.8135385,
+                        -19.2598189
+                    ],
+                    [
+                        146.8135385,
+                        -19.2598189
+                    ],
+                    [
+                        146.8126392,
+                        -19.2591287
+                    ],
+                    [
+                        146.812495,
+                        -19.2590125
+                    ],
+                    [
+                        146.812495,
+                        -19.2590125
+                    ],
+                    [
+                        146.8121237,
+                        -19.2587135
+                    ],
+                    [
+                        146.8116529,
+                        -19.2583428
+                    ],
+                    [
+                        146.8115399,
+                        -19.2582647
+                    ],
+                    [
+                        146.8107848,
+                        -19.2577173
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stanley Street (West)",
+                "description": "Named for Captain Owen Stanley,\"naval officer and marine surveyor\" and commander of the HMS Rattlesnake who surveyed North QLD up to the Torres Strait (Mathew, 2008, p. 114).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8092746,
+                        -19.256547
+                    ],
+                    [
+                        146.8107848,
+                        -19.2577173
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stanley Street (West)",
+                "description": "Named for Captain Owen Stanley,\"naval officer and marine surveyor\" and commander of the HMS Rattlesnake who surveyed North QLD up to the Torres Strait (Mathew, 2008, p. 114).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8165423,
+                        -19.2621445
+                    ],
+                    [
+                        146.8168021,
+                        -19.2622767
+                    ],
+                    [
+                        146.8174378,
+                        -19.2627451
+                    ],
+                    [
+                        146.8174503,
+                        -19.2627658
+                    ],
+                    [
+                        146.8175436,
+                        -19.2629198
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Denham Street",
+                "description": "Named for Captain Henry Mangl(e)s Denham, a sailor who mapped the coast, starting in 1853 (Mathew, 2008, p. 41).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.816125,
+                        -19.2562537
+                    ],
+                    [
+                        146.816236,
+                        -19.2564254
+                    ],
+                    [
+                        146.8163746,
+                        -19.2565396
+                    ],
+                    [
+                        146.8164816,
+                        -19.2566251
+                    ],
+                    [
+                        146.8164816,
+                        -19.2566251
+                    ],
+                    [
+                        146.8173508,
+                        -19.2572784
+                    ],
+                    [
+                        146.8173508,
+                        -19.2572784
+                    ],
+                    [
+                        146.8174482,
+                        -19.2573519
+                    ],
+                    [
+                        146.8174482,
+                        -19.2573519
+                    ],
+                    [
+                        146.8176896,
+                        -19.2575267
+                    ],
+                    [
+                        146.818098,
+                        -19.2578641
+                    ],
+                    [
+                        146.8183532,
+                        -19.2580843
+                    ],
+                    [
+                        146.8183532,
+                        -19.2580843
+                    ],
+                    [
+                        146.8185158,
+                        -19.2582736
+                    ],
+                    [
+                        146.8186241,
+                        -19.2584162
+                    ],
+                    [
+                        146.818751,
+                        -19.2586552
+                    ],
+                    [
+                        146.8187834,
+                        -19.2587387
+                    ],
+                    [
+                        146.8188418,
+                        -19.2588892
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Denham Street",
+                "description": "Named for Captain Henry Mangl(e)s Denham, a sailor who mapped the coast, starting in 1853 (Mathew, 2008, p. 41).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8187792,
+                        -19.2589731
+                    ],
+                    [
+                        146.8187634,
+                        -19.2589351
+                    ],
+                    [
+                        146.8186956,
+                        -19.258771
+                    ],
+                    [
+                        146.8185504,
+                        -19.2584527
+                    ],
+                    [
+                        146.8182724,
+                        -19.258153
+                    ],
+                    [
+                        146.8182724,
+                        -19.258153
+                    ],
+                    [
+                        146.8179509,
+                        -19.2578765
+                    ],
+                    [
+                        146.8176203,
+                        -19.2576146
+                    ],
+                    [
+                        146.8173859,
+                        -19.2574376
+                    ],
+                    [
+                        146.8173859,
+                        -19.2574376
+                    ],
+                    [
+                        146.8172907,
+                        -19.2573634
+                    ],
+                    [
+                        146.8172907,
+                        -19.2573634
+                    ],
+                    [
+                        146.8164098,
+                        -19.2567079
+                    ],
+                    [
+                        146.8163037,
+                        -19.256622
+                    ],
+                    [
+                        146.8163037,
+                        -19.256622
+                    ],
+                    [
+                        146.8161006,
+                        -19.2564389
+                    ],
+                    [
+                        146.8161006,
+                        -19.2564389
+                    ],
+                    [
+                        146.815468,
+                        -19.2560139
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Denham Street",
+                "description": "Named for Captain Henry Mangl(e)s Denham, a sailor who mapped the coast, starting in 1853 (Mathew, 2008, p. 41).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.815253,
+                        -19.2553111
+                    ],
+                    [
+                        146.814929,
+                        -19.2544304
+                    ],
+                    [
+                        146.8148549,
+                        -19.2542577
+                    ],
+                    [
+                        146.8147011,
+                        -19.2541112
+                    ],
+                    [
+                        146.8144709,
+                        -19.2539059
+                    ],
+                    [
+                        146.8140283,
+                        -19.2535449
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Melton Terrace",
+                "description": "Named for John Melton Black (Mathew, 2008, p. 85). In an article from the <i>Townsville Daily Bulletin</i>, W. J. Doherty (1934) argues that Melton, \"came to a coastal creek in North Queensland and planted a city\" (p. 9).",
+                "refs": "<a href='https://trove.nla.gov.au/newspaper/article/61964570#' target='_blank'>Doherty, W. J. (1934, July 10). John Melton Black: The founder of Townsville. <i>Townsville Daily Bulletin</i>, p. 9.</a><br \\>Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8176203,
+                        -19.2576146
+                    ],
+                    [
+                        146.8176896,
+                        -19.2575267
+                    ],
+                    [
+                        146.8178016,
+                        -19.2574744
+                    ],
+                    [
+                        146.8179193,
+                        -19.2574282
+                    ],
+                    [
+                        146.8181885,
+                        -19.2573816
+                    ],
+                    [
+                        146.8182504,
+                        -19.2573745
+                    ],
+                    [
+                        146.8182504,
+                        -19.2573745
+                    ],
+                    [
+                        146.8185301,
+                        -19.2573575
+                    ],
+                    [
+                        146.8188138,
+                        -19.2573063
+                    ],
+                    [
+                        146.8191467,
+                        -19.2572101
+                    ],
+                    [
+                        146.8193909,
+                        -19.2570833
+                    ],
+                    [
+                        146.8196192,
+                        -19.2569229
+                    ],
+                    [
+                        146.8198402,
+                        -19.256794
+                    ],
+                    [
+                        146.8202887,
+                        -19.2566555
+                    ],
+                    [
+                        146.8206975,
+                        -19.2565084
+                    ],
+                    [
+                        146.821054,
+                        -19.2564214
+                    ],
+                    [
+                        146.8212388,
+                        -19.2563122
+                    ],
+                    [
+                        146.8213573,
+                        -19.2561615
+                    ],
+                    [
+                        146.8213573,
+                        -19.2561615
+                    ],
+                    [
+                        146.8214264,
+                        -19.2558752
+                    ],
+                    [
+                        146.8215011,
+                        -19.2556036
+                    ],
+                    [
+                        146.8216859,
+                        -19.255076
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "King Street",
+                "description": "Named for Phillip Parker King, explored \"the coastline from Hervey Bay to Torres Strait\" starting in 1817 for four and half years (Mathew, 2008, p. 72).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8238015,
+                        -19.2565778
+                    ],
+                    [
+                        146.8234706,
+                        -19.2570724
+                    ],
+                    [
+                        146.8233378,
+                        -19.2572021
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Wickham Street",
+                "description": "Named for Captain John Clements Wickham who, on board the HMS Beagle, surveyed the Australian coast (Mathew, 2008, p. 126).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8217386,
+                        -19.2570122
+                    ],
+                    [
+                        146.8217865,
+                        -19.2569119
+                    ],
+                    [
+                        146.8222804,
+                        -19.2556032
+                    ],
+                    [
+                        146.8223384,
+                        -19.2555737
+                    ],
+                    [
+                        146.8223981,
+                        -19.2555799
+                    ],
+                    [
+                        146.822902,
+                        -19.2558184
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Wickham Street",
+                "description": "Named for Captain John Clements Wickham who, on board the HMS Beagle, surveyed the Australian coast (Mathew, 2008, p. 126).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8216638,
+                        -19.2569842
+                    ],
+                    [
+                        146.8218905,
+                        -19.2563479
+                    ],
+                    [
+                        146.8221435,
+                        -19.2556544
+                    ],
+                    [
+                        146.8221705,
+                        -19.2555088
+                    ],
+                    [
+                        146.8220944,
+                        -19.2553367
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Oxley Street",
+                "description": "Named for John Joseph William Molesworth Oxley, \"surveyor-general and explorer, arrived in Australia in 1802, where he engaged in coastal survey work, including an expedition to Western Port in 1804-05\" (Mathew, 2008, p. 97).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8159983,
+                        -19.2537346
+                    ],
+                    [
+                        146.8161755,
+                        -19.2543792
+                    ],
+                    [
+                        146.8161999,
+                        -19.2546154
+                    ],
+                    [
+                        146.8161931,
+                        -19.2549071
+                    ],
+                    [
+                        146.8161822,
+                        -19.2552088
+                    ],
+                    [
+                        146.8161179,
+                        -19.255602
+                    ],
+                    [
+                        146.8161179,
+                        -19.255602
+                    ],
+                    [
+                        146.8160717,
+                        -19.2557578
+                    ],
+                    [
+                        146.8160421,
+                        -19.2559091
+                    ],
+                    [
+                        146.8160642,
+                        -19.2560935
+                    ],
+                    [
+                        146.816125,
+                        -19.2562537
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Oxley Street",
+                "description": "Named for John Joseph William Molesworth Oxley, \"surveyor-general and explorer, arrived in Australia in 1802, where he engaged in coastal survey work, including an expedition to Western Port in 1804-05\" (Mathew, 2008, p. 97).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8161006,
+                        -19.2564389
+                    ],
+                    [
+                        146.8159579,
+                        -19.2561782
+                    ],
+                    [
+                        146.8159231,
+                        -19.2559512
+                    ],
+                    [
+                        146.8160125,
+                        -19.255561
+                    ],
+                    [
+                        146.8160682,
+                        -19.255205
+                    ],
+                    [
+                        146.8160713,
+                        -19.254892
+                    ],
+                    [
+                        146.8160603,
+                        -19.2546078
+                    ],
+                    [
+                        146.8160155,
+                        -19.2543091
+                    ],
+                    [
+                        146.8159665,
+                        -19.2540774
+                    ],
+                    [
+                        146.8159081,
+                        -19.2539566
+                    ],
+                    [
+                        146.8158145,
+                        -19.2538531
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Oxley Street",
+                "description": "Named for John Joseph William Molesworth Oxley, \"surveyor-general and explorer, arrived in Australia in 1802, where he engaged in coastal survey work, including an expedition to Western Port in 1804-05\" (Mathew, 2008, p. 97).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8158642,
+                        -19.2535071
+                    ],
+                    [
+                        146.8161502,
+                        -19.2533496
+                    ],
+                    [
+                        146.816276,
+                        -19.2532243
+                    ],
+                    [
+                        146.8163013,
+                        -19.2531738
+                    ],
+                    [
+                        146.8164225,
+                        -19.2529446
+                    ],
+                    [
+                        146.8164861,
+                        -19.2526963
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Oxley Street",
+                "description": "Named for John Joseph William Molesworth Oxley, \"surveyor-general and explorer, arrived in Australia in 1802, where he engaged in coastal survey work, including an expedition to Western Port in 1804-05\" (Mathew, 2008, p. 97).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8166169,
+                        -19.2517109
+                    ],
+                    [
+                        146.8164861,
+                        -19.2526963
+                    ],
+                    [
+                        146.8164861,
+                        -19.2526963
+                    ],
+                    [
+                        146.8164828,
+                        -19.2529734
+                    ],
+                    [
+                        146.8164,
+                        -19.253202
+                    ],
+                    [
+                        146.8163167,
+                        -19.2533311
+                    ],
+                    [
+                        146.8161267,
+                        -19.2534606
+                    ],
+                    [
+                        146.8159863,
+                        -19.2535952
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Oxley Street",
+                "description": "Named for John Joseph William Molesworth Oxley, \"surveyor-general and explorer, arrived in Australia in 1802, where he engaged in coastal survey work, including an expedition to Western Port in 1804-05\" (Mathew, 2008, p. 97).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8163177,
+                        -19.2542149
+                    ],
+                    [
+                        146.8164482,
+                        -19.2534382
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eyre Street",
+                "description": "Named for Edward John Eyre, \"explorer, best remembered for his trek around the Great Australian Bight in 1840-41\" (Mathew, 2008, p. 46).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8131724,
+                        -19.2515088
+                    ],
+                    [
+                        146.8146107,
+                        -19.2529757
+                    ],
+                    [
+                        146.8149196,
+                        -19.2531639
+                    ],
+                    [
+                        146.815204,
+                        -19.2533098
+                    ],
+                    [
+                        146.8154057,
+                        -19.253443
+                    ],
+                    [
+                        146.8155778,
+                        -19.2535212
+                    ],
+                    [
+                        146.8157392,
+                        -19.2535212
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eyre Street",
+                "description": "Named for Edward John Eyre, \"explorer, best remembered for his trek around the Great Australian Bight in 1840-41\" (Mathew, 2008, p. 46).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.812467,
+                        -19.2508564
+                    ],
+                    [
+                        146.8123435,
+                        -19.2507772
+                    ],
+                    [
+                        146.8116112,
+                        -19.2500678
+                    ],
+                    [
+                        146.8116112,
+                        -19.2500678
+                    ],
+                    [
+                        146.8101294,
+                        -19.2485525
+                    ],
+                    [
+                        146.8031913,
+                        -19.2416255
+                    ],
+                    [
+                        146.8040106,
+                        -19.2424457
+                    ],
+                    [
+                        146.8055398,
+                        -19.2439633
+                    ],
+                    [
+                        146.8070433,
+                        -19.245489
+                    ],
+                    [
+                        146.8085552,
+                        -19.2469954
+                    ],
+                    [
+                        146.8100347,
+                        -19.2484677
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eyre Street",
+                "description": "Named for Edward John Eyre, \"explorer, best remembered for his trek around the Great Australian Bight in 1840-41\" (Mathew, 2008, p. 46).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8156584,
+                        -19.25376
+                    ],
+                    [
+                        146.8154716,
+                        -19.2536078
+                    ],
+                    [
+                        146.8151763,
+                        -19.2533976
+                    ],
+                    [
+                        146.8148743,
+                        -19.2532352
+                    ],
+                    [
+                        146.8145355,
+                        -19.2530287
+                    ],
+                    [
+                        146.8138552,
+                        -19.2523338
+                    ],
+                    [
+                        146.8130844,
+                        -19.2515812
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Leichhardt Street",
+                "description": "Named for Ludwig Leichhardt, explorer who disappeared in 1848 while attempting to get to Perth (Mathew, 2008, p. 75).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8146107,
+                        -19.2529757
+                    ],
+                    [
+                        146.8148975,
+                        -19.2527641
+                    ],
+                    [
+                        146.8151,
+                        -19.252608
+                    ],
+                    [
+                        146.8154961,
+                        -19.2522387
+                    ],
+                    [
+                        146.8154961,
+                        -19.2522387
+                    ],
+                    [
+                        146.8162756,
+                        -19.2515268
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Leichhardt Street",
+                "description": "Named for Ludwig Leichhardt, explorer who disappeared in 1848 while attempting to get to Perth (Mathew, 2008, p. 75).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.813041,
+                        -19.2545433
+                    ],
+                    [
+                        146.8133094,
+                        -19.2543382
+                    ],
+                    [
+                        146.8133369,
+                        -19.2542114
+                    ],
+                    [
+                        146.8133581,
+                        -19.254191
+                    ],
+                    [
+                        146.8140283,
+                        -19.2535449
+                    ],
+                    [
+                        146.8145355,
+                        -19.2530287
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mitchell Street",
+                "description": "Named for Sir Thomas Livingstone Mitchell, a surveyor who became Surveyor General in 1828 (Mathew, 2008, p. 86).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8032035,
+                        -19.2394413
+                    ],
+                    [
+                        146.8032486,
+                        -19.2393842
+                    ],
+                    [
+                        146.8033112,
+                        -19.2393672
+                    ],
+                    [
+                        146.8033826,
+                        -19.2394009
+                    ],
+                    [
+                        146.8034293,
+                        -19.2394269
+                    ],
+                    [
+                        146.80366,
+                        -19.239471
+                    ],
+                    [
+                        146.8040005,
+                        -19.2397562
+                    ],
+                    [
+                        146.8039224,
+                        -19.2398497
+                    ],
+                    [
+                        146.8039248,
+                        -19.2399203
+                    ],
+                    [
+                        146.8039273,
+                        -19.2399912
+                    ],
+                    [
+                        146.8038285,
+                        -19.2399974
+                    ],
+                    [
+                        146.8037231,
+                        -19.2400192
+                    ],
+                    [
+                        146.8036128,
+                        -19.240058
+                    ],
+                    [
+                        146.8035338,
+                        -19.2400984
+                    ],
+                    [
+                        146.8034352,
+                        -19.2401931
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mitchell Street",
+                "description": "Named for Sir Thomas Livingstone Mitchell, a surveyor who became Surveyor General in 1828 (Mathew, 2008, p. 86).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8032035,
+                        -19.2394413
+                    ],
+                    [
+                        146.8032658,
+                        -19.2400177
+                    ],
+                    [
+                        146.8033672,
+                        -19.2401278
+                    ],
+                    [
+                        146.8034352,
+                        -19.2401931
+                    ],
+                    [
+                        146.8039823,
+                        -19.240718
+                    ],
+                    [
+                        146.8040698,
+                        -19.2408019
+                    ],
+                    [
+                        146.8046181,
+                        -19.24134
+                    ],
+                    [
+                        146.8048291,
+                        -19.2415605
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mitchell Street",
+                "description": "Named for Sir Thomas Livingstone Mitchell, a surveyor who became Surveyor General in 1828 (Mathew, 2008, p. 86).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.804979,
+                        -19.2417125
+                    ],
+                    [
+                        146.8064614,
+                        -19.2431881
+                    ],
+                    [
+                        146.8079548,
+                        -19.2447115
+                    ],
+                    [
+                        146.809401,
+                        -19.2461435
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mitchell Street",
+                "description": "Named for Sir Thomas Livingstone Mitchell, a surveyor who became Surveyor General in 1828 (Mathew, 2008, p. 86).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8094947,
+                        -19.246244
+                    ],
+                    [
+                        146.8109716,
+                        -19.2477073
+                    ],
+                    [
+                        146.8124772,
+                        -19.2491757
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mitchell Street",
+                "description": "Named for Sir Thomas Livingstone Mitchell, a surveyor who became Surveyor General in 1828 (Mathew, 2008, p. 86).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.813994,
+                        -19.2506886
+                    ],
+                    [
+                        146.8125805,
+                        -19.2492806
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mitchell Street",
+                "description": "Named for Sir Thomas Livingstone Mitchell, a surveyor who became Surveyor General in 1828 (Mathew, 2008, p. 86).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8163013,
+                        -19.2531738
+                    ],
+                    [
+                        146.8162775,
+                        -19.2530537
+                    ],
+                    [
+                        146.8162042,
+                        -19.2529197
+                    ],
+                    [
+                        146.8162042,
+                        -19.2529197
+                    ],
+                    [
+                        146.8160885,
+                        -19.2528114
+                    ],
+                    [
+                        146.8154961,
+                        -19.2522387
+                    ],
+                    [
+                        146.8140928,
+                        -19.250797
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Warburton Street",
+                "description": "Named for Major Warburton, explorer who explored west South Australia and who led an expedition toward Perth in 1873 to lay a telegraph line (Mathew, 2008, p. 123).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8013281,
+                        -19.2449784
+                    ],
+                    [
+                        146.801487,
+                        -19.2450158
+                    ],
+                    [
+                        146.8016409,
+                        -19.2450626
+                    ],
+                    [
+                        146.8019698,
+                        -19.2452097
+                    ],
+                    [
+                        146.8021185,
+                        -19.24529
+                    ],
+                    [
+                        146.8026019,
+                        -19.2455699
+                    ],
+                    [
+                        146.8033208,
+                        -19.2459577
+                    ],
+                    [
+                        146.8038491,
+                        -19.2462615
+                    ],
+                    [
+                        146.8046086,
+                        -19.2466832
+                    ],
+                    [
+                        146.8051072,
+                        -19.246952
+                    ],
+                    [
+                        146.8052076,
+                        -19.2470056
+                    ],
+                    [
+                        146.805322,
+                        -19.2470666
+                    ],
+                    [
+                        146.8054367,
+                        -19.2471294
+                    ],
+                    [
+                        146.8055741,
+                        -19.2472075
+                    ],
+                    [
+                        146.8069754,
+                        -19.2480039
+                    ],
+                    [
+                        146.8073044,
+                        -19.2481237
+                    ],
+                    [
+                        146.8076662,
+                        -19.2482875
+                    ],
+                    [
+                        146.8085041,
+                        -19.248753
+                    ],
+                    [
+                        146.8092728,
+                        -19.2492552
+                    ],
+                    [
+                        146.8101994,
+                        -19.2497922
+                    ],
+                    [
+                        146.8106574,
+                        -19.2500538
+                    ],
+                    [
+                        146.8112272,
+                        -19.2503662
+                    ],
+                    [
+                        146.8112272,
+                        -19.2503662
+                    ],
+                    [
+                        146.8125101,
+                        -19.2510377
+                    ],
+                    [
+                        146.8127131,
+                        -19.2511335
+                    ],
+                    [
+                        146.8128965,
+                        -19.2512539
+                    ],
+                    [
+                        146.8131724,
+                        -19.2515088
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Warburton Street",
+                "description": "Named for Major Warburton, explorer who explored west South Australia and who led an expedition toward Perth in 1873 to lay a telegraph line (Mathew, 2008, p. 123).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8130844,
+                        -19.2515812
+                    ],
+                    [
+                        146.8128082,
+                        -19.2513453
+                    ],
+                    [
+                        146.8124255,
+                        -19.2511299
+                    ],
+                    [
+                        146.8117152,
+                        -19.2507373
+                    ],
+                    [
+                        146.8117152,
+                        -19.2507373
+                    ],
+                    [
+                        146.811075,
+                        -19.2503785
+                    ],
+                    [
+                        146.809177,
+                        -19.2493345
+                    ],
+                    [
+                        146.8084179,
+                        -19.2488543
+                    ],
+                    [
+                        146.8079248,
+                        -19.2485902
+                    ],
+                    [
+                        146.8071925,
+                        -19.2482289
+                    ],
+                    [
+                        146.8069077,
+                        -19.2480886
+                    ],
+                    [
+                        146.8056813,
+                        -19.2473967
+                    ],
+                    [
+                        146.8053892,
+                        -19.2472374
+                    ],
+                    [
+                        146.805292,
+                        -19.2471885
+                    ],
+                    [
+                        146.8050996,
+                        -19.2470822
+                    ],
+                    [
+                        146.8037848,
+                        -19.246355
+                    ],
+                    [
+                        146.8022306,
+                        -19.2454587
+                    ],
+                    [
+                        146.8018601,
+                        -19.2452653
+                    ],
+                    [
+                        146.8015289,
+                        -19.2451298
+                    ],
+                    [
+                        146.8012566,
+                        -19.2450742
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gregory Street",
+                "description": "Named for Sir Augustus Charles Gregory, surveyor and explorer who worked in Western Australia who outlined the souther border of Queensland (Mathew, 2008, p. 55).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8076365,
+                        -19.2564389
+                    ],
+                    [
+                        146.8080572,
+                        -19.25602
+                    ],
+                    [
+                        146.8082028,
+                        -19.2559291
+                    ],
+                    [
+                        146.8083541,
+                        -19.2558855
+                    ],
+                    [
+                        146.8090352,
+                        -19.2552295
+                    ],
+                    [
+                        146.8095175,
+                        -19.2548207
+                    ],
+                    [
+                        146.8099582,
+                        -19.2543955
+                    ],
+                    [
+                        146.81154,
+                        -19.253005
+                    ],
+                    [
+                        146.8130844,
+                        -19.2515812
+                    ],
+                    [
+                        146.8131724,
+                        -19.2515088
+                    ],
+                    [
+                        146.8139845,
+                        -19.2507944
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gregory Street",
+                "description": "Named for Sir Augustus Charles Gregory, surveyor and explorer who worked in Western Australia who outlined the souther border of Queensland (Mathew, 2008, p. 55).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8140943,
+                        -19.2506955
+                    ],
+                    [
+                        146.81478,
+                        -19.2500559
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Burke Street",
+                "description": "Named for Robert O’Hara Burke, explorer from the mid-19<sup>th</sup> century (Mathew, 2008, p. 25).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service.<br \\>Macintyre, S. (2004). <i>A Concise History of Australia</i> (2nd ed.). Port Melbourne, VIC: Cambridge University Press."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8101251,
+                        -19.248465
+                    ],
+                    [
+                        146.8109716,
+                        -19.2477073
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Burke Street",
+                "description": "Named for Robert O’Hara Burke, explorer from the mid-19<sup>th</sup> century (Mathew, 2008, p. 25).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service.<br \\>Macintyre, S. (2004). <i>A Concise History of Australia</i> (2nd ed.). Port Melbourne, VIC: Cambridge University Press."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8053646,
+                        -19.253488
+                    ],
+                    [
+                        146.8054825,
+                        -19.2533383
+                    ],
+                    [
+                        146.8055768,
+                        -19.2532185
+                    ],
+                    [
+                        146.8061709,
+                        -19.2522371
+                    ],
+                    [
+                        146.8061709,
+                        -19.2522371
+                    ],
+                    [
+                        146.809177,
+                        -19.2493345
+                    ],
+                    [
+                        146.8092728,
+                        -19.2492552
+                    ],
+                    [
+                        146.8100361,
+                        -19.2485551
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stuart Street",
+                "description": "Named for John McDouall Stuart, explorer who crossed what is now called Australia in the middle of the 19<sup>th</sup> century (Mathew, 2008, p. 115).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service.<br \\>Macintyre, S. (2004). <i>A Concise History of Australia</i> (2nd ed.). Port Melbourne, VIC: Cambridge University Press."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8073044,
+                        -19.2481237
+                    ],
+                    [
+                        146.8076235,
+                        -19.2478354
+                    ],
+                    [
+                        146.8076755,
+                        -19.2477826
+                    ],
+                    [
+                        146.8085552,
+                        -19.2469954
+                    ],
+                    [
+                        146.8094089,
+                        -19.2462479
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stuart Street",
+                "description": "Named for John McDouall Stuart, explorer who crossed what is now called Australia in the middle of the 19<sup>th</sup> century (Mathew, 2008, p. 115).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service.<br \\>Macintyre, S. (2004). <i>A Concise History of Australia</i> (2nd ed.). Port Melbourne, VIC: Cambridge University Press."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8095083,
+                        -19.2461558
+                    ],
+                    [
+                        146.8098853,
+                        -19.2458318
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stuart Street",
+                "description": "Named for John McDouall Stuart, explorer who crossed what is now called Australia in the middle of the 19<sup>th</sup> century (Mathew, 2008, p. 115).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service.<br \\>Macintyre, S. (2004). <i>A Concise History of Australia</i> (2nd ed.). Port Melbourne, VIC: Cambridge University Press."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8030392,
+                        -19.2531212
+                    ],
+                    [
+                        146.8036456,
+                        -19.2521466
+                    ],
+                    [
+                        146.8042277,
+                        -19.2511579
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stuart Street",
+                "description": "Named for John McDouall Stuart, explorer who crossed what is now called Australia in the middle of the 19<sup>th</sup> century (Mathew, 2008, p. 115).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service.<br \\>Macintyre, S. (2004). <i>A Concise History of Australia</i> (2nd ed.). Port Melbourne, VIC: Cambridge University Press."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8043643,
+                        -19.2512309
+                    ],
+                    [
+                        146.8037663,
+                        -19.2522099
+                    ],
+                    [
+                        146.8031524,
+                        -19.2531838
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Landsborough Street",
+                "description": "Named for William Landsborough, leader of the QLD search party for the Burke and Wills expedition. Changing course in response to Frederick Walker's search, Landsborough headed south and ended up, \"the beautiful ‘downs’ country through which the Leichhardt River flows\" (Mathew, 2008, p. 74).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8062224,
+                        -19.2462446
+                    ],
+                    [
+                        146.8070433,
+                        -19.245489
+                    ],
+                    [
+                        146.8079548,
+                        -19.2447115
+                    ],
+                    [
+                        146.8088652,
+                        -19.2438156
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Landsborough Street",
+                "description": "Named for William Landsborough, leader of the QLD search party for the Burke and Wills expedition. Changing course in response to Frederick Walker's search, Landsborough headed south and ended up, \"the beautiful ‘downs’ country through which the Leichhardt River flows\" (Mathew, 2008, p. 74).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.802429,
+                        -19.2501783
+                    ],
+                    [
+                        146.804681,
+                        -19.2480419
+                    ],
+                    [
+                        146.8047337,
+                        -19.2479856
+                    ],
+                    [
+                        146.8047337,
+                        -19.2479856
+                    ],
+                    [
+                        146.8049416,
+                        -19.247725
+                    ],
+                    [
+                        146.8051526,
+                        -19.2474931
+                    ],
+                    [
+                        146.805292,
+                        -19.2471885
+                    ],
+                    [
+                        146.805322,
+                        -19.2470666
+                    ],
+                    [
+                        146.8053704,
+                        -19.2469607
+                    ],
+                    [
+                        146.805449,
+                        -19.2468614
+                    ],
+                    [
+                        146.8057788,
+                        -19.246648
+                    ],
+                    [
+                        146.8057788,
+                        -19.246648
+                    ],
+                    [
+                        146.8060939,
+                        -19.2463537
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Landsborough Street",
+                "description": "Named for William Landsborough, leader of the QLD search party for the Burke and Wills expedition. Changing course in response to Frederick Walker's search, Landsborough headed south and ended up, \"the beautiful ‘downs’ country through which the Leichhardt River flows\" (Mathew, 2008, p. 74).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8057788,
+                        -19.246648
+                    ],
+                    [
+                        146.80557,
+                        -19.2468616
+                    ],
+                    [
+                        146.8054771,
+                        -19.2469745
+                    ],
+                    [
+                        146.8054367,
+                        -19.2471294
+                    ],
+                    [
+                        146.8053892,
+                        -19.2472374
+                    ],
+                    [
+                        146.8052452,
+                        -19.2474922
+                    ],
+                    [
+                        146.8050336,
+                        -19.2477337
+                    ],
+                    [
+                        146.8047337,
+                        -19.2479856
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Landsborough Street",
+                "description": "Named for William Landsborough, leader of the QLD search party for the Burke and Wills expedition. Changing course in response to Frederick Walker's search, Landsborough headed south and ended up, \"the beautiful ‘downs’ country through which the Leichhardt River flows\" (Mathew, 2008, p. 74).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8020079,
+                        -19.2511033
+                    ],
+                    [
+                        146.8020459,
+                        -19.2507027
+                    ],
+                    [
+                        146.8022888,
+                        -19.2502524
+                    ],
+                    [
+                        146.802429,
+                        -19.2501783
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Landsborough Street",
+                "description": "Named for William Landsborough, leader of the QLD search party for the Burke and Wills expedition. Changing course in response to Frederick Walker's search, Landsborough headed south and ended up, \"the beautiful ‘downs’ country through which the Leichhardt River flows\" (Mathew, 2008, p. 74).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.802429,
+                        -19.2501783
+                    ],
+                    [
+                        146.8024381,
+                        -19.2502883
+                    ],
+                    [
+                        146.8021776,
+                        -19.2507027
+                    ],
+                    [
+                        146.8020079,
+                        -19.2511033
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "McKinley Street",
+                "description": "Named for \"John McKinlay [who] was in charge of a relief party searching for Burke and Wills\" (Mathew, 2008, p. 80).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8033208,
+                        -19.2459577
+                    ],
+                    [
+                        146.8037442,
+                        -19.2455832
+                    ],
+                    [
+                        146.8046525,
+                        -19.244779
+                    ],
+                    [
+                        146.8055398,
+                        -19.2439633
+                    ],
+                    [
+                        146.8064614,
+                        -19.2431881
+                    ],
+                    [
+                        146.8075457,
+                        -19.2421505
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rose Street",
+                "description": "According to Mathew (2008), it was \"either named after the flowering bush or, more likely misspelt, after C.S. Rowe an early pioneer in the settlement of Townsville\" (p. 108).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8022664,
+                        -19.2441628
+                    ],
+                    [
+                        146.8037442,
+                        -19.2455832
+                    ],
+                    [
+                        146.8042443,
+                        -19.2460504
+                    ],
+                    [
+                        146.8047356,
+                        -19.2465316
+                    ],
+                    [
+                        146.8050698,
+                        -19.2468351
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rose Street",
+                "description": "According to Mathew (2008), it was \"either named after the flowering bush or, more likely misspelt, after C.S. Rowe an early pioneer in the settlement of Townsville\" (p. 108).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.7991045,
+                        -19.2409722
+                    ],
+                    [
+                        146.7999852,
+                        -19.2418831
+                    ],
+                    [
+                        146.8016864,
+                        -19.2435705
+                    ],
+                    [
+                        146.8021316,
+                        -19.2440098
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Howitt Street",
+                "description": "Named for Alfred W. Howitt, a member of the Burke and Wills expedition who, \"found the sole survivor of the party, John King, near Coopers Creek on 15th September 1861.\" (Mathew, 2008, p. 64)",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8049911,
+                        -19.2415571
+                    ],
+                    [
+                        146.8058642,
+                        -19.2407963
+                    ],
+                    [
+                        146.8061492,
+                        -19.2405384
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Howitt Street",
+                "description": "Named for Alfred W. Howitt, a member of the Burke and Wills expedition who, \"found the sole survivor of the party, John King, near Coopers Creek on 15th September 1861.\" (Mathew, 2008, p. 64)",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8048257,
+                        -19.2416951
+                    ],
+                    [
+                        146.8046483,
+                        -19.2418725
+                    ],
+                    [
+                        146.8040106,
+                        -19.2424457
+                    ],
+                    [
+                        146.8030916,
+                        -19.2432975
+                    ],
+                    [
+                        146.8022785,
+                        -19.2440182
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Howitt Street",
+                "description": "Named for Alfred W. Howitt, a member of the Burke and Wills expedition who, \"found the sole survivor of the party, John King, near Coopers Creek on 15th September 1861.\" (Mathew, 2008, p. 64)",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8021359,
+                        -19.2441638
+                    ],
+                    [
+                        146.8016131,
+                        -19.2446294
+                    ],
+                    [
+                        146.8014573,
+                        -19.2447475
+                    ],
+                    [
+                        146.8013501,
+                        -19.2448843
+                    ],
+                    [
+                        146.8013281,
+                        -19.2449784
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gilbert Crescent",
+                "description": "Named for John Gilbert, explorer and naturalist (Queensland Government, 2019).",
+                "refs": "Queensland Government. (2009). <i>Queensland place names search</i>. Retrieved from https://www.dnrm.qld.gov.au/qld/environment/land/place-names/search#/search=Gilbert_River&types=0&place=Gilbert_River13736."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8038491,
+                        -19.2462615
+                    ],
+                    [
+                        146.8037848,
+                        -19.246355
+                    ],
+                    [
+                        146.803689,
+                        -19.2464943
+                    ],
+                    [
+                        146.8034315,
+                        -19.2467374
+                    ],
+                    [
+                        146.8032341,
+                        -19.2468265
+                    ],
+                    [
+                        146.8030024,
+                        -19.2468832
+                    ],
+                    [
+                        146.8027621,
+                        -19.2468346
+                    ],
+                    [
+                        146.8020583,
+                        -19.2465186
+                    ],
+                    [
+                        146.8015519,
+                        -19.2462431
+                    ],
+                    [
+                        146.8014145,
+                        -19.2461377
+                    ],
+                    [
+                        146.8012686,
+                        -19.2459756
+                    ],
+                    [
+                        146.8010712,
+                        -19.2457893
+                    ],
+                    [
+                        146.8008051,
+                        -19.2456758
+                    ],
+                    [
+                        146.8004103,
+                        -19.2456758
+                    ],
+                    [
+                        146.7996979,
+                        -19.245846
+                    ],
+                    [
+                        146.7996979,
+                        -19.245846
+                    ],
+                    [
+                        146.7996121,
+                        -19.2459594
+                    ],
+                    [
+                        146.7996378,
+                        -19.2461134
+                    ],
+                    [
+                        146.7997322,
+                        -19.2462836
+                    ],
+                    [
+                        146.7999507,
+                        -19.246396
+                    ],
+                    [
+                        146.8000155,
+                        -19.2464294
+                    ],
+                    [
+                        146.8004704,
+                        -19.2466239
+                    ],
+                    [
+                        146.8005906,
+                        -19.2467374
+                    ],
+                    [
+                        146.8007584,
+                        -19.2469725
+                    ],
+                    [
+                        146.8010369,
+                        -19.2473319
+                    ],
+                    [
+                        146.8011914,
+                        -19.247653
+                    ],
+                    [
+                        146.8011738,
+                        -19.2478945
+                    ]
+                ]
+            }
+        }
+    ]
+}
