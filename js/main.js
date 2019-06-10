@@ -363,91 +363,6 @@ function getData() {
     $('#pointLoadingInfo').hide();
 }
 
-/* This function gets the points and plots them on the map.
-    Parameters:
-        - term: The search criteria. If this is blank, all points are loaded.
-        - zoom: If true, zoom in on the points returned.
-*/
-function getPoints(term, zoom) {
-
-    // Clear any toasts and tell the user to wait while the points are loading.
-    //toastr.clear();
-    //toastr.info('Please wait...', 'Getting stories');
-    $('#pointLoadingInfo').show();
-
-    // This houses the request URL.
-    var url;
-
-    // If the term is undefined or empty, set the request url to the script without parameters.
-    // If there is a a term, parse it and add it to the request URL.
-    if (term === undefined || term === '') {
-        url = 'db_scripts/viewPoints.php';
-        shareURL = '/index.html';
-    } else {
-        // If the first character is a pound sign, the user is searching for a theme so get every character after that and then create a URL based on that.
-        if (term.charAt(0) == '#') {
-            url = 'db_scripts/viewPoints.php?searchtype=tag&value=' + term.substr(term.indexOf("#") + 1);
-            shareURL = '/index.html?searchtype=tag&value=' + term.substr(term.indexOf("#") + 1);
-        } else {
-            url = 'db_scripts/viewPoints.php?searchtype=story&value=' + term;
-            shareURL = '/index.html?searchtype=story&value=' + term;
-        }
-    }
-
-    // Change the icon on the load all button from the refresh icon to the spinning/loading icon.
-    /*$('#refreshButtonIcon').removeClass('refresh');
-    $('#refreshButtonIcon').addClass('asterisk loading');*/
-
-    // The main GET request. It's synchronous for now as a way of accommodating the increasingly large dataset.
-    // This will need to be improved but for now, this works.
-    var gjPoints = $.get(url, { async: false }).done(function (data) {
-
-        // This block gets the pointSource (see document load) and sets the data to the points gathered in the gjPoints GET request.
-        // Source: https://www.mapbox.com/mapbox-gl-js/example/live-geojson/
-        $.when(map.getSource('pointSource').setData(JSON.parse(data))).then(function () {
-            // Clear any toasts available.
-            //toastr.clear();
-            $('#pointLoadingInfo').hide();
-            console.log('Done getting info.');
-        });
-        // If the term is not undefined or empty, the user has requested a subset of the data.
-        // This block sets up an array that contains the points so that the map is bounded by the points.
-        if (term !== undefined || term !== '') {
-            parsedData = JSON.parse(data);
-            // This loop adds all the points to the coords array.
-            for (var x in data) {
-                try {
-                    var lng = parseFloat(parsedData.features[x].geometry.coordinates[0]);
-                    var lat = parseFloat(parsedData.features[x].geometry.coordinates[1]);
-                    coords.push([lng, lat]);
-                } catch (e) { }
-            }
-
-            // Set the bounds of the map to the coordinates in the coords array.
-            // Here, the southwest and northeast corners.
-            // Source: https://www.mapbox.com/mapbox-gl-js/example/zoomto-linestring/
-            var bounds = coords.reduce(function (bounds, coord) {
-                return bounds.extend(coord);
-            }, new mapboxgl.LngLatBounds(coords[0], coords[0]));
-
-            // If the zoom parameter is true, zoom in on the bouns set up above.
-            if (zoom === true) {
-                map.fitBounds(bounds, {
-                    padding: 30
-                });
-            }
-
-            // Empty the coors variable for the next search.
-            coords = [];
-        } else {
-            // If the term isn't set (and thus all points are being loaded), centre the map on the user's location.
-            navigator.geolocation.getCurrentPosition(centreMap);
-        }
-        // Clear the search box.
-        $('#textSearch').val('');
-    });
-}
-
 // This is the main geolocation handler.
 function centreMap(position) {
 
@@ -511,23 +426,6 @@ function centreMap(position) {
                 }
             }]
         }));
-    }
-
-    // If the url for the GET request is set to a search result of some kind (by tag or story), set the bounds of the map to those points and the user's location.
-    if (url != 'db_scripts/viewPoints.php') {
-        // http://stackoverflow.com/a/35715102
-        var bounds = new mapboxgl.LngLatBounds();
-        parsedData.features.forEach(function (feature) {
-            bounds.extend(feature.geometry.coordinates);
-        });
-
-        // Set the view on the map to the bounds of the points and provide some padding around them.
-        map.fitBounds(bounds, {
-            padding: 30
-        });
-    } else {
-        // Zoom in on where the user is.
-        map.setZoom(16);
     }
 
     /* -------------------------

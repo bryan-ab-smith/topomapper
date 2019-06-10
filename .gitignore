@@ -1,2 +1,3 @@
 db_scripts/credentials.php
+db_scripts/viewPoints.php
 js/mapbox_prefs.js
