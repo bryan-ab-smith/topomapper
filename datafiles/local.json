@@ -1,0 +1,51 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rowland Street",
+                "description": "Named for Percy Fritz Rowland, headmaster of Townsville Grammar, 1905-1938 (Mathew, 2008, p. 109).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.804681,
+                        -19.2480419
+                    ],
+                    [
+                        146.8060923,
+                        -19.2489171
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Marshall Street",
+                "description": "Named for Alfred Marshall, local surveyor in Townsville during the 1880s (Mathew, 2008, p. 84).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.7978749,
+                        -19.2454418
+                    ],
+                    [
+                        146.7977198,
+                        -19.2443504
+                    ],
+                    [
+                        146.7974718,
+                        -19.2432556
+                    ]
+                ]
+            }
+        }
+    ]
+}

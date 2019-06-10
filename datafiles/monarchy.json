@@ -1,0 +1,271 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Queen Street",
+                "description": "Named during the reign of Queen Victoria (Mathew, 2008, p. 104).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8122003,
+                        -19.2538667
+                    ],
+                    [
+                        146.8108545,
+                        -19.2550997
+                    ],
+                    [
+                        146.8092746,
+                        -19.256547
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Alexandra Street",
+                "description": "Named for \"Alexandra of Denmark (1844-1925) [who] married Albert Edward (later Edward VII), the eldest son of Queen Victoria in 1863\" (Mathew, 2008, p. 6).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8024445,
+                        -19.2515264
+                    ],
+                    [
+                        146.8036456,
+                        -19.2521466
+                    ],
+                    [
+                        146.8037663,
+                        -19.2522099
+                    ],
+                    [
+                        146.8055768,
+                        -19.2532185
+                    ],
+                    [
+                        146.8055768,
+                        -19.2532185
+                    ],
+                    [
+                        146.8074739,
+                        -19.2543077
+                    ],
+                    [
+                        146.8074739,
+                        -19.2543077
+                    ],
+                    [
+                        146.8090352,
+                        -19.2552295
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Alexandra Street",
+                "description": "Named for \"Alexandra of Denmark (1844-1925) married Albert Edward (later Edward VII), the eldest son of Queen Victoria in 1863\" (Mathew, 2008, p. 6).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8074083,
+                        -19.25443
+                    ],
+                    [
+                        146.8054825,
+                        -19.2533383
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Victoria Street",
+                "description": "Named for Queen Victoria (Mathew, 2008, p. 122).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8100182,
+                        -19.2583568
+                    ],
+                    [
+                        146.810053,
+                        -19.2582935
+                    ],
+                    [
+                        146.8101094,
+                        -19.2582328
+                    ],
+                    [
+                        146.8105471,
+                        -19.2577169
+                    ],
+                    [
+                        146.8105471,
+                        -19.2577169
+                    ],
+                    [
+                        146.8107822,
+                        -19.2574369
+                    ],
+                    [
+                        146.8107822,
+                        -19.2574369
+                    ],
+                    [
+                        146.8116477,
+                        -19.2564663
+                    ],
+                    [
+                        146.8124454,
+                        -19.2555161
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Balmoral Drive",
+                "description": "Named for \"the royal residence in Aberdeenshire,\" purchased by Prince Albert (Mathew, 2008, p. 13).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.7982821,
+                        -19.2523703
+                    ],
+                    [
+                        146.7982845,
+                        -19.2521227
+                    ],
+                    [
+                        146.7986135,
+                        -19.2517777
+                    ],
+                    [
+                        146.7986431,
+                        -19.2516541
+                    ],
+                    [
+                        146.7986431,
+                        -19.2516541
+                    ],
+                    [
+                        146.7992688,
+                        -19.2511536
+                    ],
+                    [
+                        146.7994865,
+                        -19.250886
+                    ],
+                    [
+                        146.7995633,
+                        -19.2506449
+                    ],
+                    [
+                        146.7995633,
+                        -19.2506449
+                    ],
+                    [
+                        146.79967,
+                        -19.2506796
+                    ],
+                    [
+                        146.7998138,
+                        -19.2506553
+                    ],
+                    [
+                        146.8000871,
+                        -19.2504191
+                    ],
+                    [
+                        146.8003965,
+                        -19.2501006
+                    ],
+                    [
+                        146.8006506,
+                        -19.2497761
+                    ],
+                    [
+                        146.8008951,
+                        -19.2492069
+                    ],
+                    [
+                        146.8012944,
+                        -19.2483985
+                    ],
+                    [
+                        146.8014403,
+                        -19.2480825
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Braemar Crescent",
+                "description": "\"Braemar is a village and district in Aberdeenshire, Scotland where Balmoral and Abergeldie castles are situated\" (Mathew, 2008, p. 121).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.797535,
+                        -19.2476692
+                    ],
+                    [
+                        146.7980156,
+                        -19.2473532
+                    ],
+                    [
+                        146.7980866,
+                        -19.2473074
+                    ],
+                    [
+                        146.7982561,
+                        -19.2472217
+                    ],
+                    [
+                        146.7983075,
+                        -19.2472073
+                    ],
+                    [
+                        146.7985049,
+                        -19.2472155
+                    ],
+                    [
+                        146.7998524,
+                        -19.2475882
+                    ],
+                    [
+                        146.8000989,
+                        -19.2477563
+                    ]
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,512 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hale Street",
+                "description": "Named for Rev. Mathew Blazden Hale (possibly), Bishop of QLD in the last 19<sup>th</sup> century (Mathew, 2008, p. 57).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8119927,
+                        -19.2581264
+                    ],
+                    [
+                        146.8120482,
+                        -19.2580696
+                    ],
+                    [
+                        146.8129964,
+                        -19.2569539
+                    ],
+                    [
+                        146.8131048,
+                        -19.2568487
+                    ],
+                    [
+                        146.8132454,
+                        -19.256724
+                    ],
+                    [
+                        146.8134458,
+                        -19.256474
+                    ],
+                    [
+                        146.8134458,
+                        -19.256474
+                    ],
+                    [
+                        146.8138158,
+                        -19.2560715
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hale Street",
+                "description": "Named for Rev. Mathew Blazden Hale (possibly), Bishop of QLD in the last 19<sup>th</sup> century (Mathew, 2008, p. 57).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8134458,
+                        -19.256474
+                    ],
+                    [
+                        146.8135159,
+                        -19.2560914
+                    ],
+                    [
+                        146.8137754,
+                        -19.2557979
+                    ],
+                    [
+                        146.8141402,
+                        -19.2556637
+                    ],
+                    [
+                        146.8142507,
+                        -19.2555411
+                    ],
+                    [
+                        146.814238,
+                        -19.255449
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hale Street",
+                "description": "Named for Rev. Mathew Blazden Hale (possibly), Bishop of QLD in the last 19<sup>th</sup> century (Mathew, 2008, p. 57).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.814929,
+                        -19.2544304
+                    ],
+                    [
+                        146.8148041,
+                        -19.2548324
+                    ],
+                    [
+                        146.8147183,
+                        -19.2550026
+                    ],
+                    [
+                        146.8147183,
+                        -19.2550026
+                    ],
+                    [
+                        146.8145704,
+                        -19.2551502
+                    ],
+                    [
+                        146.814447,
+                        -19.2552442
+                    ],
+                    [
+                        146.814238,
+                        -19.255449
+                    ],
+                    [
+                        146.8141562,
+                        -19.2554371
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stanton Terrace",
+                "description": "Named for \"George Henry Stanton, the first Anglican Bishop of North Queensland\" (Mathew, 2008, p. 114).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8076365,
+                        -19.2564389
+                    ],
+                    [
+                        146.8076173,
+                        -19.2565373
+                    ],
+                    [
+                        146.8076403,
+                        -19.2566492
+                    ],
+                    [
+                        146.8077971,
+                        -19.2568064
+                    ],
+                    [
+                        146.8089345,
+                        -19.2576959
+                    ],
+                    [
+                        146.8093946,
+                        -19.2580328
+                    ],
+                    [
+                        146.809704,
+                        -19.2582499
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stanton Terrace",
+                "description": "Named for \"George Henry Stanton, the first Anglican Bishop of North Queensland\" (Mathew, 2008, p. 114).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8108356,
+                        -19.2594568
+                    ],
+                    [
+                        146.8107928,
+                        -19.2593561
+                    ],
+                    [
+                        146.8105727,
+                        -19.2591431
+                    ],
+                    [
+                        146.8104353,
+                        -19.2589486
+                    ],
+                    [
+                        146.8101778,
+                        -19.2586326
+                    ],
+                    [
+                        146.8100772,
+                        -19.2585239
+                    ],
+                    [
+                        146.8100289,
+                        -19.2584379
+                    ],
+                    [
+                        146.8100198,
+                        -19.2583696
+                    ],
+                    [
+                        146.8100182,
+                        -19.2583568
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Plume Street",
+                "description": "Named for Henry Plume, \"the first Archdeacon of the Anglican Diocese of North Queensland\" (Mathew, 2008, p. 102).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8217161,
+                        -19.2598939
+                    ],
+                    [
+                        146.821653,
+                        -19.2597137
+                    ],
+                    [
+                        146.821653,
+                        -19.2597137
+                    ],
+                    [
+                        146.8214542,
+                        -19.2590581
+                    ],
+                    [
+                        146.8212777,
+                        -19.2585694
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Plume Street",
+                "description": "Named for Henry Plume, \"the first Archdeacon of the Anglican Diocese of North Queensland\" (Mathew, 2008, p. 102).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.821653,
+                        -19.2597137
+                    ],
+                    [
+                        146.8217172,
+                        -19.259807
+                    ],
+                    [
+                        146.8217894,
+                        -19.2598509
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Plume Street",
+                "description": "Named for Henry Plume, \"the first Archdeacon of the Anglican Diocese of North Queensland\" (Mathew, 2008, p. 102).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8220901,
+                        -19.2609294
+                    ],
+                    [
+                        146.8220819,
+                        -19.2607168
+                    ],
+                    [
+                        146.8220819,
+                        -19.2607168
+                    ],
+                    [
+                        146.8218873,
+                        -19.2601313
+                    ],
+                    [
+                        146.8218873,
+                        -19.2601313
+                    ],
+                    [
+                        146.8217931,
+                        -19.2600173
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Plume Street",
+                "description": "Named for Henry Plume, \"the first Archdeacon of the Anglican Diocese of North Queensland\" (Mathew, 2008, p. 102).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8218712,
+                        -19.2599732
+                    ],
+                    [
+                        146.8218873,
+                        -19.2601313
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Plume Street",
+                "description": "Named for Henry Plume, \"the first Archdeacon of the Anglican Diocese of North Queensland\" (Mathew, 2008, p. 102).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8220819,
+                        -19.2607168
+                    ],
+                    [
+                        146.8222092,
+                        -19.2608975
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Plume Street",
+                "description": "Named for Henry Plume, \"the first Archdeacon of the Anglican Diocese of North Queensland\" (Mathew, 2008, p. 102).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8228785,
+                        -19.2623475
+                    ],
+                    [
+                        146.8225509,
+                        -19.2621534
+                    ],
+                    [
+                        146.8222576,
+                        -19.2613208
+                    ],
+                    [
+                        146.8222576,
+                        -19.2613208
+                    ],
+                    [
+                        146.8221596,
+                        -19.2611461
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Plume Street",
+                "description": "Named for Henry Plume, \"the first Archdeacon of the Anglican Diocese of North Queensland\" (Mathew, 2008, p. 102).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8222721,
+                        -19.2611152
+                    ],
+                    [
+                        146.8222576,
+                        -19.2613208
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Plume Street",
+                "description": "Named for Henry Plume, \"the first Archdeacon of the Anglican Diocese of North Queensland\" (Mathew, 2008, p. 102).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8223047,
+                        -19.2622487
+                    ],
+                    [
+                        146.8225509,
+                        -19.2621534
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bishop Street",
+                "description": "Named as a celebration of \"the establishment of the Anglican Diocese of North Queensland with Bishop Stanton as the first Bishop of North Queensland\" (Mathew, 2008, p. 19).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.7896121,
+                        -19.2437563
+                    ],
+                    [
+                        146.7900144,
+                        -19.2429915
+                    ],
+                    [
+                        146.7902023,
+                        -19.2429871
+                    ],
+                    [
+                        146.7910776,
+                        -19.2439236
+                    ],
+                    [
+                        146.7925756,
+                        -19.2459015
+                    ],
+                    [
+                        146.793122,
+                        -19.2466341
+                    ],
+                    [
+                        146.793122,
+                        -19.2466341
+                    ],
+                    [
+                        146.7932322,
+                        -19.2467034
+                    ],
+                    [
+                        146.7933556,
+                        -19.2467059
+                    ],
+                    [
+                        146.7934645,
+                        -19.2466806
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bishop Street",
+                "description": "Named as a celebration of \"the establishment of the Anglican Diocese of North Queensland with Bishop Stanton as the first Bishop of North Queensland\" (Mathew, 2008, p. 19).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.7931879,
+                        -19.2469772
+                    ],
+                    [
+                        146.7931925,
+                        -19.2468114
+                    ],
+                    [
+                        146.793122,
+                        -19.2466341
+                    ]
+                ]
+            }
+        }
+    ]
+}

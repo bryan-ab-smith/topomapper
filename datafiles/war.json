@@ -1,0 +1,269 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Murray Street",
+                "description": "Named for J.C. and M.R. Murray, soldiers killed during WWI (Mathew, 2008, p. 90).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8095175,
+                        -19.2548207
+                    ],
+                    [
+                        146.8108545,
+                        -19.2550997
+                    ],
+                    [
+                        146.8122277,
+                        -19.255421
+                    ],
+                    [
+                        146.8124454,
+                        -19.2555161
+                    ],
+                    [
+                        146.8124454,
+                        -19.2555161
+                    ],
+                    [
+                        146.8127724,
+                        -19.2556164
+                    ],
+                    [
+                        146.8130576,
+                        -19.255602
+                    ],
+                    [
+                        146.8133278,
+                        -19.2556427
+                    ],
+                    [
+                        146.8137718,
+                        -19.2556702
+                    ],
+                    [
+                        146.8140145,
+                        -19.2555698
+                    ],
+                    [
+                        146.8141562,
+                        -19.2554371
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Murray Street",
+                "description": "Named for J.C. and M.R. Murray, soldiers killed during WWI (Mathew, 2008, p. 90).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8135396,
+                        -19.2558816
+                    ],
+                    [
+                        146.8130809,
+                        -19.2557296
+                    ],
+                    [
+                        146.8130576,
+                        -19.255602
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Scully Street",
+                "description": "Named for James Scully, killed during WWI (1917) (Mathew, 2008, p. 111).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8059469,
+                        -19.2638392
+                    ],
+                    [
+                        146.8060989,
+                        -19.2638423
+                    ],
+                    [
+                        146.8062955,
+                        -19.2638088
+                    ],
+                    [
+                        146.8065791,
+                        -19.2638221
+                    ],
+                    [
+                        146.8067542,
+                        -19.2637885
+                    ],
+                    [
+                        146.8069511,
+                        -19.2638165
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hayes Street",
+                "description": "Named for Richard John Hayes, killed during WWI (1917) (Mathew, 2008, p. 60).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.7991336,
+                        -19.2426753
+                    ],
+                    [
+                        146.7999852,
+                        -19.2418831
+                    ],
+                    [
+                        146.8008723,
+                        -19.2410723
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ryan Street",
+                "description": "Named for John Laurence Ryan, killed during WWI (1916) (Mathew, 2008, p. 110).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.7996877,
+                        -19.2451985
+                    ],
+                    [
+                        146.7996851,
+                        -19.2451739
+                    ],
+                    [
+                        146.7996702,
+                        -19.2451048
+                    ],
+                    [
+                        146.7994692,
+                        -19.2440131
+                    ],
+                    [
+                        146.7992158,
+                        -19.2427882
+                    ],
+                    [
+                        146.7991336,
+                        -19.2426753
+                    ],
+                    [
+                        146.7984548,
+                        -19.2419416
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cannan Street",
+                "description": "Named for John Kearsey Cannan, a banker in Townsville during the late 19<sup>th</sup> century. His son, J.H. Cannan, became a Major General involved with both World Wars (Mathew, 2008, p. 27).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8262847,
+                        -19.2615827
+                    ],
+                    [
+                        146.8270118,
+                        -19.2619292
+                    ],
+                    [
+                        146.8281307,
+                        -19.2624551
+                    ],
+                    [
+                        146.8292512,
+                        -19.262956
+                    ],
+                    [
+                        146.8303742,
+                        -19.2634754
+                    ],
+                    [
+                        146.8314801,
+                        -19.2639886
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cannan Street",
+                "description": "Named for John Kearsey Cannan, a banker in Townsville during the late 19<sup>th</sup> century. His son, J.H. Cannan, became a Major General involved with both World Wars (Mathew, 2008, p. 27).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8250163,
+                        -19.2610336
+                    ],
+                    [
+                        146.8257561,
+                        -19.2613455
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Redpath Street",
+                "description": "Named for G. Redpath, soldier killed in France, 1917 (Mathew, 2008, p. 105).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8060923,
+                        -19.2489171
+                    ],
+                    [
+                        146.8069077,
+                        -19.2480886
+                    ]
+                ]
+            }
+        }
+    ]
+}
