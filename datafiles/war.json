@@ -264,6 +264,55 @@
                     ]
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hooper Street",
+                "description": "Named for Lewis William Hooper, \"who was killed in action at Villers- Bretonneux on 25th April 1918.\" (Mathew, 2008, p. 90).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.7875963,
+                        -19.249222
+                      ],
+                      [
+                        146.7883668,
+                        -19.2487136
+                      ],
+                      [
+                        146.789498,
+                        -19.2479619
+                      ],
+                      [
+                        146.789563,
+                        -19.2479244
+                      ],
+                      [
+                        146.7897074,
+                        -19.2478263
+                      ],
+                      [
+                        146.7908282,
+                        -19.2470556
+                      ],
+                      [
+                        146.7916055,
+                        -19.2465391
+                      ],
+                      [
+                        146.7925756,
+                        -19.2459015
+                      ],
+                      [
+                        146.7938698,
+                        -19.2450212
+                      ]
+                ]
+            }
         }
     ]
 }

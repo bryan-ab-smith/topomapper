@@ -507,6 +507,48 @@
                     ]
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stanton Street",
+                "description": "George Henry Stanton (1835-1905) \"the first Anglican Bishop of North Queensland\", chosen in 1878. (Mathew, 2008, p. 114).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.7901486,
+                        -19.2445666
+                    ],
+                    [
+                        146.7916055,
+                        -19.2465391
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eden St",
+                "description": "Named for a road in the Eden Garden Estate (Mathew, 2008, p. 43). One might speculate that Eden here derives from the <i>Garden of Eden</i>",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.7951879,
+                        -19.2459984
+                      ],
+                      [
+                        146.7962218,
+                        -19.2473694
+                      ]
+                ]
+            }
         }
     ]
 }

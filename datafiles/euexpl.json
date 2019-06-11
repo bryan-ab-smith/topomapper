@@ -3017,32 +3017,49 @@
                 "type": "LineString",
                 "coordinates": [
                     [
-                        146.8131724,
-                        -19.2515088
+                        146.8031913,
+                        -19.2416255
                     ],
                     [
-                        146.8146107,
-                        -19.2529757
+                        146.8040106,
+                        -19.2424457
                     ],
                     [
-                        146.8149196,
-                        -19.2531639
+                        146.8055398,
+                        -19.2439633
                     ],
                     [
-                        146.815204,
-                        -19.2533098
+                        146.8070433,
+                        -19.245489
                     ],
                     [
-                        146.8154057,
-                        -19.253443
+                        146.8085552,
+                        -19.2469954
                     ],
                     [
-                        146.8155778,
-                        -19.2535212
+                        146.810024,
+                        -19.248457
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eyre Street",
+                "description": "Named for Edward John Eyre, \"explorer, best remembered for his trek around the Great Australian Bight in 1840-41\" (Mathew, 2008, p. 46).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8116112,
+                        -19.2500678
                     ],
                     [
-                        146.8157392,
-                        -19.2535212
+                        146.8101233,
+                        -19.2485453
                     ]
                 ]
             }
@@ -3068,39 +3085,48 @@
                     [
                         146.8116112,
                         -19.2500678
-                    ],
-                    [
-                        146.8116112,
-                        -19.2500678
-                    ],
-                    [
-                        146.8101294,
-                        -19.2485525
-                    ],
-                    [
-                        146.8031913,
-                        -19.2416255
-                    ],
-                    [
-                        146.8040106,
-                        -19.2424457
-                    ],
-                    [
-                        146.8055398,
-                        -19.2439633
-                    ],
-                    [
-                        146.8070433,
-                        -19.245489
-                    ],
-                    [
-                        146.8085552,
-                        -19.2469954
-                    ],
-                    [
-                        146.8100347,
-                        -19.2484677
                     ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eyre Street",
+                "description": "Named for Edward John Eyre, \"explorer, best remembered for his trek around the Great Australian Bight in 1840-41\" (Mathew, 2008, p. 46).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8131724,
+                        -19.2515088
+                      ],
+                      [
+                        146.8146107,
+                        -19.2529757
+                      ],
+                      [
+                        146.8149196,
+                        -19.2531639
+                      ],
+                      [
+                        146.815204,
+                        -19.2533098
+                      ],
+                      [
+                        146.8154057,
+                        -19.253443
+                      ],
+                      [
+                        146.8155778,
+                        -19.2535212
+                      ],
+                      [
+                        146.8157392,
+                        -19.2535212
+                      ]
                 ]
             }
         },
@@ -3117,31 +3143,31 @@
                     [
                         146.8156584,
                         -19.25376
-                    ],
-                    [
+                      ],
+                      [
                         146.8154716,
                         -19.2536078
-                    ],
-                    [
+                      ],
+                      [
                         146.8151763,
                         -19.2533976
-                    ],
-                    [
+                      ],
+                      [
                         146.8148743,
                         -19.2532352
-                    ],
-                    [
+                      ],
+                      [
                         146.8145355,
                         -19.2530287
-                    ],
-                    [
+                      ],
+                      [
                         146.8138552,
                         -19.2523338
-                    ],
-                    [
+                      ],
+                      [
                         146.8130844,
                         -19.2515812
-                    ]
+                      ]
                 ]
             }
         },
@@ -3232,108 +3258,35 @@
                     [
                         146.8032035,
                         -19.2394413
-                    ],
-                    [
-                        146.8032486,
-                        -19.2393842
-                    ],
-                    [
-                        146.8033112,
-                        -19.2393672
-                    ],
-                    [
-                        146.8033826,
-                        -19.2394009
-                    ],
-                    [
-                        146.8034293,
-                        -19.2394269
-                    ],
-                    [
-                        146.80366,
-                        -19.239471
-                    ],
-                    [
-                        146.8040005,
-                        -19.2397562
-                    ],
-                    [
-                        146.8039224,
-                        -19.2398497
-                    ],
-                    [
-                        146.8039248,
-                        -19.2399203
-                    ],
-                    [
-                        146.8039273,
-                        -19.2399912
-                    ],
-                    [
-                        146.8038285,
-                        -19.2399974
-                    ],
-                    [
-                        146.8037231,
-                        -19.2400192
-                    ],
-                    [
-                        146.8036128,
-                        -19.240058
-                    ],
-                    [
-                        146.8035338,
-                        -19.2400984
-                    ],
-                    [
-                        146.8034352,
-                        -19.2401931
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Mitchell Street",
-                "description": "Named for Sir Thomas Livingstone Mitchell, a surveyor who became Surveyor General in 1828 (Mathew, 2008, p. 86).",
-                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        146.8032035,
-                        -19.2394413
-                    ],
-                    [
+                      ],
+                      [
                         146.8032658,
                         -19.2400177
-                    ],
-                    [
+                      ],
+                      [
                         146.8033672,
                         -19.2401278
-                    ],
-                    [
+                      ],
+                      [
                         146.8034352,
                         -19.2401931
-                    ],
-                    [
+                      ],
+                      [
                         146.8039823,
                         -19.240718
-                    ],
-                    [
+                      ],
+                      [
                         146.8040698,
                         -19.2408019
-                    ],
-                    [
+                      ],
+                      [
                         146.8046181,
                         -19.24134
-                    ],
-                    [
-                        146.8048291,
-                        -19.2415605
-                    ]
+                      ],
+                      [
+                        146.804809,
+                        -19.2415567
+                      ]
                 ]
             }
         },
@@ -3348,21 +3301,21 @@
                 "type": "LineString",
                 "coordinates": [
                     [
-                        146.804979,
-                        -19.2417125
-                    ],
-                    [
+                        146.8049589,
+                        -19.2417087
+                      ],
+                      [
                         146.8064614,
                         -19.2431881
-                    ],
-                    [
+                      ],
+                      [
                         146.8079548,
                         -19.2447115
-                    ],
-                    [
+                      ],
+                      [
                         146.809401,
                         -19.2461435
-                    ]
+                      ]
                 ]
             }
         },
@@ -3379,15 +3332,19 @@
                     [
                         146.8094947,
                         -19.246244
-                    ],
-                    [
+                      ],
+                      [
+                        146.8108647,
+                        -19.2476014
+                      ],
+                      [
                         146.8109716,
                         -19.2477073
-                    ],
-                    [
+                      ],
+                      [
                         146.8124772,
                         -19.2491757
-                    ]
+                      ]
                 ]
             }
         },
@@ -3404,11 +3361,40 @@
                     [
                         146.813994,
                         -19.2506886
-                    ],
-                    [
+                      ],
+                      [
                         146.8125805,
                         -19.2492806
-                    ]
+                      ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mitchell Street",
+                "description": "Named for Sir Thomas Livingstone Mitchell, a surveyor who became Surveyor General in 1828 (Mathew, 2008, p. 86).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8162042,
+                        -19.2529197
+                      ],
+                      [
+                        146.8160885,
+                        -19.2528114
+                      ],
+                      [
+                        146.8154961,
+                        -19.2522387
+                      ],
+                      [
+                        146.8140928,
+                        -19.250797
+                      ]
                 ]
             }
         },
@@ -3425,31 +3411,15 @@
                     [
                         146.8163013,
                         -19.2531738
-                    ],
-                    [
+                      ],
+                      [
                         146.8162775,
                         -19.2530537
-                    ],
-                    [
+                      ],
+                      [
                         146.8162042,
                         -19.2529197
-                    ],
-                    [
-                        146.8162042,
-                        -19.2529197
-                    ],
-                    [
-                        146.8160885,
-                        -19.2528114
-                    ],
-                    [
-                        146.8154961,
-                        -19.2522387
-                    ],
-                    [
-                        146.8140928,
-                        -19.250797
-                    ]
+                      ]
                 ]
             }
         },
@@ -4222,33 +4192,8 @@
                 "type": "LineString",
                 "coordinates": [
                     [
-                        146.8049911,
-                        -19.2415571
-                    ],
-                    [
-                        146.8058642,
-                        -19.2407963
-                    ],
-                    [
-                        146.8061492,
-                        -19.2405384
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Howitt Street",
-                "description": "Named for Alfred W. Howitt, a member of the Burke and Wills expedition who, \"found the sole survivor of the party, John King, near Coopers Creek on 15th September 1861.\" (Mathew, 2008, p. 64)",
-                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        146.8048257,
-                        -19.2416951
+                        146.8048056,
+                        -19.2416913
                     ],
                     [
                         146.8046483,
@@ -4280,24 +4225,37 @@
                 "type": "LineString",
                 "coordinates": [
                     [
-                        146.8021359,
-                        -19.2441638
-                    ],
-                    [
-                        146.8016131,
-                        -19.2446294
-                    ],
-                    [
-                        146.8014573,
-                        -19.2447475
-                    ],
-                    [
-                        146.8013501,
-                        -19.2448843
-                    ],
-                    [
                         146.8013281,
                         -19.2449784
+                    ],
+                    [
+                        146.8012566,
+                        -19.2450742
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Howitt Street",
+                "description": "Named for Alfred W. Howitt, a member of the Burke and Wills expedition who, \"found the sole survivor of the party, John King, near Coopers Creek on 15th September 1861.\" (Mathew, 2008, p. 64)",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.804971,
+                        -19.2415533
+                    ],
+                    [
+                        146.8058481,
+                        -19.240776
+                    ],
+                    [
+                        146.8061298,
+                        -19.2405289
                     ]
                 ]
             }
