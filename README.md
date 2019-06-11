@@ -6,6 +6,10 @@ As part of a larger research project, this mobile friendly web application docum
 
 ![Topomapper Screenshot](img/topomapper_sshot_both.png)
 
+### Viewing
+
+Interested in viewing the application? Visit [here](https://bryanabsmith.com/topomapper/).
+
 ### Install/deploy on your own server
 
 1. Clone the code
