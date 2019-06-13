@@ -2922,35 +2922,35 @@
                     [
                         146.8365639,
                         -19.2562717
-                      ],
-                      [
+                    ],
+                    [
                         146.8364437,
                         -19.2562879
-                      ],
-                      [
+                    ],
+                    [
                         146.8358944,
                         -19.2564014
-                      ],
-                      [
+                    ],
+                    [
                         146.8355511,
                         -19.256531
-                      ],
-                      [
+                    ],
+                    [
                         146.8353279,
                         -19.2567093
-                      ],
-                      [
+                    ],
+                    [
                         146.8350876,
                         -19.2569767
-                      ],
-                      [
+                    ],
+                    [
                         146.8338096,
                         -19.259483
-                      ],
-                      [
+                    ],
+                    [
                         146.8324756,
                         -19.2620597
-                      ]
+                    ]
                 ]
             }
         },
@@ -2967,15 +2967,15 @@
                     [
                         146.8315563,
                         -19.2638792
-                      ],
-                      [
+                    ],
+                    [
                         146.831658,
                         -19.263678
-                      ],
-                      [
+                    ],
+                    [
                         146.8324756,
                         -19.2620597
-                      ]
+                    ]
                 ]
             }
         },
@@ -2992,23 +2992,237 @@
                     [
                         146.8292177,
                         -19.2685299
-                      ],
-                      [
+                    ],
+                    [
                         146.8295802,
                         -19.2677329
-                      ],
-                      [
+                    ],
+                    [
                         146.8305295,
                         -19.2658639
-                      ],
-                      [
+                    ],
+                    [
                         146.8305295,
                         -19.2658639
-                      ],
-                      [
+                    ],
+                    [
                         146.8314801,
                         -19.2639886
-                      ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Taylor St",
+                "description": "Named for Robert Bruce Taylor, Alderman in the 1880s (Mathew, 2008, p. 117).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.7925126,
+                        -19.2483702
+                    ],
+                    [
+                        146.7925741,
+                        -19.2484628
+                    ],
+                    [
+                        146.793418,
+                        -19.2496598
+                    ],
+                    [
+                        146.7937353,
+                        -19.2500961
+                    ],
+                    [
+                        146.7941182,
+                        -19.250602
+                    ],
+                    [
+                        146.7942719,
+                        -19.2507217
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Chubb St",
+                "description": "Charles Edward Chubb (1845-1930), lawyer and representative of Bowen in the Legislative Assembly from 1883-1888. Afterwards, he bcecame a judge for the Northern Supreme Court  (Mathew, 2008, p. 31).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.7929996,
+                        -19.247786
+                    ],
+                    [
+                        146.7931861,
+                        -19.2480518
+                    ],
+                    [
+                        146.7931861,
+                        -19.2480518
+                    ],
+                    [
+                        146.7939491,
+                        -19.2491388
+                    ],
+                    [
+                        146.7939704,
+                        -19.2493012
+                    ],
+                    [
+                        146.7940417,
+                        -19.2494601
+                    ],
+                    [
+                        146.7942585,
+                        -19.2497063
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Chubb St",
+                "description": "Named for Charles Edward Chubb (1845-1930), lawyer and representative of Bowen in the Legislative Assembly from 1883-1888. Afterwards, he bcecame a judge for the Northern Supreme Court (Mathew, 2008, p. 31).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.7931861,
+                        -19.2480518
+                    ],
+                    [
+                        146.7930794,
+                        -19.24801
+                    ],
+                    [
+                        146.7929774,
+                        -19.2480202
+                    ],
+                    [
+                        146.7928937,
+                        -19.2480897
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Evans St",
+                "description": "Named for William Evans, factory owner and eventual Alderman in 1875-1887. (Mathew, 2008, p. 31).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.789563,
+                        -19.2479244
+                    ],
+                    [
+                        146.7901055,
+                        -19.248654
+                    ],
+                    [
+                        146.7907743,
+                        -19.2495446
+                    ],
+                    [
+                        146.7908331,
+                        -19.2496266
+                    ],
+                    [
+                        146.7908331,
+                        -19.2496266
+                    ],
+                    [
+                        146.7917167,
+                        -19.2507997
+                    ],
+                    [
+                        146.7920423,
+                        -19.251247
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Evans St",
+                "description": "Named for William Evans, factory owner and eventual Alderman in 1875-1887. (Mathew, 2008, p. 31).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.7884026,
+                        -19.2460891
+                    ],
+                    [
+                        146.7885473,
+                        -19.2462736
+                    ],
+                    [
+                        146.7885473,
+                        -19.2462736
+                    ],
+                    [
+                        146.7885893,
+                        -19.2463296
+                    ],
+                    [
+                        146.7895858,
+                        -19.2476635
+                    ],
+                    [
+                        146.7897074,
+                        -19.2478263
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Parry St",
+                "description": "Named for John Parry, Alderman elected in 1936, serving for more than 25 years. (Mathew, 2008, p. 99).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.7901055,
+                        -19.248654
+                    ],
+                    [
+                        146.7920833,
+                        -19.2473352
+                    ],
+                    [
+                        146.7923578,
+                        -19.2468131
+                    ],
+                    [
+                        146.7924836,
+                        -19.2467338
+                    ]
                 ]
             }
         }
