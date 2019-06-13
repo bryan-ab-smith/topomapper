@@ -1,0 +1,157 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Toorak Place",
+                "description": "No information yet available.",
+                "refs": "--"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8009719,
+                        -19.2523003
+                    ],
+                    [
+                        146.801168,
+                        -19.2520869
+                    ],
+                    [
+                        146.8012207,
+                        -19.2520012
+                    ],
+                    [
+                        146.801367,
+                        -19.2516752
+                    ],
+                    [
+                        146.8016,
+                        -19.2513477
+                    ],
+                    [
+                        146.8016,
+                        -19.2513477
+                    ],
+                    [
+                        146.8016041,
+                        -19.2511807
+                    ],
+                    [
+                        146.8016216,
+                        -19.2510729
+                    ],
+                    [
+                        146.801686,
+                        -19.2509569
+                    ],
+                    [
+                        146.8017006,
+                        -19.250863
+                    ],
+                    [
+                        146.8016684,
+                        -19.250642
+                    ],
+                    [
+                        146.8016743,
+                        -19.2505757
+                    ],
+                    [
+                        146.8017036,
+                        -19.2504541
+                    ],
+                    [
+                        146.8016948,
+                        -19.2503988
+                    ],
+                    [
+                        146.8016158,
+                        -19.2503491
+                    ],
+                    [
+                        146.801528,
+                        -19.250327
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Toorak Place",
+                "description": "No information yet available.",
+                "refs": "--"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8014578,
+                        -19.2504596
+                    ],
+                    [
+                        146.801528,
+                        -19.250327
+                    ],
+                    [
+                        146.8015368,
+                        -19.2500922
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Toorak Place",
+                "description": "No information yet available.",
+                "refs": "--"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.801367,
+                        -19.2516752
+                    ],
+                    [
+                        146.8011095,
+                        -19.2515979
+                    ],
+                    [
+                        146.8008227,
+                        -19.2515923
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Toorak Place",
+                "description": "No information yet available.",
+                "refs": "--"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8011095,
+                        -19.2515979
+                    ],
+                    [
+                        146.8011797,
+                        -19.2514155
+                    ],
+                    [
+                        146.8013904,
+                        -19.251131
+                    ]
+                ]
+            }
+        }
+    ]
+}

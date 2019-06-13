@@ -75,7 +75,7 @@ $(document).ready(function () {
 
 
     map.on('click', function (e) {
-        var layerList = ['euExplLayer', 'atsiLayer', 'polLayer', 'busLayer', 'monarLayer', 'relLayer', 'warLayer', 'etcLayer'];
+        var layerList = ['euExplLayer', 'atsiLayer', 'polLayer', 'busLayer', 'monarLayer', 'relLayer', 'warLayer', 'etcLayer', 'noneLayer'];
         var clickedLayer = map.queryRenderedFeatures(e.point)[0].layer.id;
         if (layerList.indexOf(clickedLayer) > -1) {
             new mapboxgl.Popup()
@@ -238,6 +238,22 @@ function getData() {
         "source": "etcSource",
         "paint": {
             "line-color": lineColour,
+            "line-width": lineWidth,
+            "line-opacity": 0.4
+          }
+    });
+
+    map.addSource('noneSource', {
+        type: 'geojson',
+        data: dataDir + 'none.json'
+    });
+
+    map.addLayer({
+        "id": "noneLayer",
+        "type": "line",
+        "source": "noneSource",
+        "paint": {
+            "line-color": "#000000",
             "line-width": lineWidth,
             "line-opacity": 0.4
           }
