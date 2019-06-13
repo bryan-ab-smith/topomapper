@@ -1,4 +1,5 @@
 db_scripts/credentials.php
 db_scripts/viewPoints.php
 js/mapbox_prefs.js
-datafiles/master.geojson
+datafiles/master_osm.geojson
+update_remote.sh

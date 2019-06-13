@@ -339,6 +339,56 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Kennedy Street",
+                "description": "Named for E.B. Kenendy, \"who set out in April 1848 from Rockingham Bay to find a route along the coast to Cape York\" (Mathew, 2008, p. 71).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8124719,
+                        -19.2492785
+                    ],
+                    [
+                        146.8116112,
+                        -19.2500678
+                    ],
+                    [
+                        146.8116112,
+                        -19.2500678
+                    ],
+                    [
+                        146.8112272,
+                        -19.2503662
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kennedy Street",
+                "description": "Named for E.B. Kenendy, \"who set out in April 1848 from Rockingham Bay to find a route along the coast to Cape York\" (Mathew, 2008, p. 71).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8133071,
+                        -19.2485202
+                    ],
+                    [
+                        146.8125817,
+                        -19.2491795
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Blackwood Street",
                 "description": "Named for \"Captain Francis Price Blackwood, naval officer and marine surveyor\" (Mathew, 2008, p. 19).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
@@ -635,67 +685,59 @@
                     [
                         146.8116477,
                         -19.2564663
-                    ],
-                    [
+                      ],
+                      [
                         146.811795,
                         -19.2565098
-                    ],
-                    [
+                      ],
+                      [
                         146.8131048,
                         -19.2568487
-                    ],
-                    [
+                      ],
+                      [
                         146.8137528,
                         -19.2572435
-                    ],
-                    [
+                      ],
+                      [
                         146.8139994,
                         -19.2574401
-                    ],
-                    [
+                      ],
+                      [
                         146.8141071,
                         -19.2575214
-                    ],
-                    [
+                      ],
+                      [
                         146.8147222,
                         -19.2579855
-                    ],
-                    [
+                      ],
+                      [
                         146.8149935,
                         -19.2581814
-                    ],
-                    [
+                      ],
+                      [
                         146.8149935,
                         -19.2581814
-                    ],
-                    [
+                      ],
+                      [
                         146.8150844,
                         -19.2582521
-                    ],
-                    [
+                      ],
+                      [
                         146.8159533,
                         -19.2589406
-                    ],
-                    [
+                      ],
+                      [
                         146.8160366,
                         -19.2590066
-                    ],
-                    [
+                      ],
+                      [
                         146.8167891,
                         -19.259606
-                    ],
-                    [
-                        146.8160366,
-                        -19.2590066
-                    ],
-                    [
+                      ],
+                      [
                         146.8169214,
                         -19.2597198
-                    ],
-                    [
-                        146.8167891,
-                        -19.259606
-                    ]
+                      ]
                 ]
             }
         },
@@ -2332,7 +2374,6 @@
                 ]
             }
         },
-        
         {
             "type": "Feature",
             "properties": {
@@ -3700,7 +3741,7 @@
             "properties": {
                 "name": "Burke Street",
                 "description": "Named for Robert O’Hara Burke, explorer from the mid-19<sup>th</sup> century (Mathew, 2008, p. 25).",
-                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service.<br \\>Macintyre, S. (2004). <i>A Concise History of Australia</i> (2nd ed.). Port Melbourne, VIC: Cambridge University Press."
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
             "geometry": {
                 "type": "LineString",
@@ -3721,7 +3762,7 @@
             "properties": {
                 "name": "Burke Street",
                 "description": "Named for Robert O’Hara Burke, explorer from the mid-19<sup>th</sup> century (Mathew, 2008, p. 25).",
-                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service.<br \\>Macintyre, S. (2004). <i>A Concise History of Australia</i> (2nd ed.). Port Melbourne, VIC: Cambridge University Press."
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
             "geometry": {
                 "type": "LineString",
