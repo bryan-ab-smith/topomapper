@@ -110,7 +110,8 @@ function getData() {
         "source": "euExplSource",
         "paint": {
             "line-color": lineColour,
-            "line-width": lineWidth
+            "line-width": lineWidth,
+            "line-opacity": 0.4
           }
     });
 
@@ -125,7 +126,8 @@ function getData() {
         "source": "localSource",
         "paint": {
             "line-color": lineColour,
-            "line-width": lineWidth
+            "line-width": lineWidth,
+            "line-opacity": 0.4
           }
     });
 
@@ -140,7 +142,8 @@ function getData() {
         "source": "polSource",
         "paint": {
             "line-color": lineColour,
-            "line-width": lineWidth
+            "line-width": lineWidth,
+            "line-opacity": 0.4
           }
     });
 
@@ -155,7 +158,8 @@ function getData() {
         "source": "atsiSource",
         "paint": {
             "line-color": lineColour,
-            "line-width": lineWidth
+            "line-width": lineWidth,
+            "line-opacity": 0.4
           }
     });
 
@@ -170,7 +174,8 @@ function getData() {
         "source": "busSource",
         "paint": {
             "line-color": lineColour,
-            "line-width": lineWidth
+            "line-width": lineWidth,
+            "line-opacity": 0.4
           }
     });
 
@@ -185,7 +190,8 @@ function getData() {
         "source": "monarSource",
         "paint": {
             "line-color": lineColour,
-            "line-width": lineWidth
+            "line-width": lineWidth,
+            "line-opacity": 0.4
           }
     });
 
@@ -200,7 +206,8 @@ function getData() {
         "source": "relSource",
         "paint": {
             "line-color": lineColour,
-            "line-width": lineWidth
+            "line-width": lineWidth,
+            "line-opacity": 0.4
           }
     });
 
@@ -215,7 +222,8 @@ function getData() {
         "source": "warSource",
         "paint": {
             "line-color": lineColour,
-            "line-width": lineWidth
+            "line-width": lineWidth,
+            "line-opacity": 0.4
           }
     });
 
@@ -230,7 +238,8 @@ function getData() {
         "source": "etcSource",
         "paint": {
             "line-color": lineColour,
-            "line-width": lineWidth
+            "line-width": lineWidth,
+            "line-opacity": 0.4
           }
     });
 
