@@ -416,6 +416,51 @@
                     ]
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Potts Street",
+                "description": "\"Named after Ernest Arthur Potts, who was killed in action on the Somme on 22 August 1918\" (Mathew, 2008, p. 103).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.7880237,
+                        -19.2535288
+                    ],
+                    [
+                        146.788126,
+                        -19.2535465
+                    ],
+                    [
+                        146.7883721,
+                        -19.2535987
+                    ],
+                    [
+                        146.7885535,
+                        -19.2535807
+                    ],
+                    [
+                        146.7887234,
+                        -19.253491
+                    ],
+                    [
+                        146.7893952,
+                        -19.2530268
+                    ],
+                    [
+                        146.7902813,
+                        -19.2524163
+                    ],
+                    [
+                        146.7911691,
+                        -19.2518435
+                    ]
+                ]
+            }
         }
     ]
 }

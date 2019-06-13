@@ -2332,27 +2332,7 @@
                 ]
             }
         },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Stanley Street (West)",
-                "description": "Named for Captain Owen Stanley,\"naval officer and marine surveyor\" and commander of the HMS Rattlesnake who surveyed North QLD up to the Torres Strait (Mathew, 2008, p. 114).",
-                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        146.8092746,
-                        -19.256547
-                    ],
-                    [
-                        146.8107848,
-                        -19.2577173
-                    ]
-                ]
-            }
-        },
+        
         {
             "type": "Feature",
             "properties": {
