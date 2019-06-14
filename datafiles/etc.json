@@ -525,6 +525,60 @@
                     ]
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "The Esplanade",
+                "description": "No special meaning as the street is simply an esplanade (Mathew, 2008, p. 45).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.7960873,
+                        -19.2434138
+                    ],
+                    [
+                        146.7974718,
+                        -19.2432556
+                    ],
+                    [
+                        146.7977437,
+                        -19.2432031
+                    ],
+                    [
+                        146.7979284,
+                        -19.2427476
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "The Esplanade",
+                "description": "No special meaning as the street is simply an esplanade (Mathew, 2008, p. 45).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.7984548,
+                        -19.2419416
+                    ],
+                    [
+                        146.7991045,
+                        -19.2409722
+                    ],
+                    [
+                        146.7997847,
+                        -19.2399809
+                    ]
+                ]
+            }
         }
     ]
 }

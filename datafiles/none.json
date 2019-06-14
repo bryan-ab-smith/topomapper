@@ -152,6 +152,498 @@
                     ]
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Yongala Court",
+                "description": "No information yet available.",
+                "refs": "--"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.7995252,
+                        -19.2521338
+                    ],
+                    [
+                        146.7999042,
+                        -19.2517683
+                    ],
+                    [
+                        146.8000195,
+                        -19.2517025
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Glamis Court",
+                "description": "No information yet available.",
+                "refs": "--"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8006506,
+                        -19.2497761
+                    ],
+                    [
+                        146.8007622,
+                        -19.2498166
+                    ],
+                    [
+                        146.8008309,
+                        -19.2499219
+                    ],
+                    [
+                        146.8008738,
+                        -19.250084
+                    ],
+                    [
+                        146.8007279,
+                        -19.2505135
+                    ],
+                    [
+                        146.8002558,
+                        -19.2509429
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Monash Place",
+                "description": "No information yet available. Presumably the street is named for John Monash but there's no evidence to support this conclusion.",
+                "refs": "--"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.7989936,
+                        -19.2506612
+                    ],
+                    [
+                        146.7994865,
+                        -19.250886
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Chandon Place",
+                "description": "No information yet available.",
+                "refs": "--"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.7972637,
+                        -19.2503442
+                    ],
+                    [
+                        146.7969538,
+                        -19.2504414
+                    ],
+                    [
+                        146.7966426,
+                        -19.2506035
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Chandon Place",
+                "description": "No information yet available.",
+                "refs": "--"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.7968583,
+                        -19.2509335
+                    ],
+                    [
+                        146.7968327,
+                        -19.2510191
+                    ],
+                    [
+                        146.79672,
+                        -19.2511432
+                    ],
+                    [
+                        146.7967143,
+                        -19.2511941
+                    ],
+                    [
+                        146.7967124,
+                        -19.2512112
+                    ],
+                    [
+                        146.7967338,
+                        -19.2512619
+                    ],
+                    [
+                        146.7967982,
+                        -19.2512821
+                    ],
+                    [
+                        146.7968541,
+                        -19.2512673
+                    ],
+                    [
+                        146.7968997,
+                        -19.2512293
+                    ],
+                    [
+                        146.7969135,
+                        -19.2510416
+                    ],
+                    [
+                        146.7968583,
+                        -19.2509335
+                    ],
+                    [
+                        146.7967817,
+                        -19.2507836
+                    ],
+                    [
+                        146.7966426,
+                        -19.2506035
+                    ],
+                    [
+                        146.79653,
+                        -19.2504895
+                    ],
+                    [
+                        146.7965188,
+                        -19.2504013
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kensington Court",
+                "description": "No information yet available.",
+                "refs": "--"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.7976641,
+                        -19.2517711
+                    ],
+                    [
+                        146.7976132,
+                        -19.2516699
+                    ],
+                    [
+                        146.7975998,
+                        -19.251599
+                    ],
+                    [
+                        146.7975971,
+                        -19.2515356
+                    ],
+                    [
+                        146.7976132,
+                        -19.2514799
+                    ],
+                    [
+                        146.7977151,
+                        -19.2513381
+                    ],
+                    [
+                        146.7977772,
+                        -19.2512266
+                    ],
+                    [
+                        146.7978421,
+                        -19.2510833
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ascot Place",
+                "description": "No information yet available.",
+                "refs": "--"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.7985367,
+                        -19.2493147
+                    ],
+                    [
+                        146.7981164,
+                        -19.2494342
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ascot Place",
+                "description": "No information yet available.",
+                "refs": "--"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.7980266,
+                        -19.2491981
+                    ],
+                    [
+                        146.7981164,
+                        -19.2494342
+                    ],
+                    [
+                        146.7981228,
+                        -19.2495311
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "The Point",
+                "description": "No information yet available.",
+                "refs": "--"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.7998126,
+                        -19.2488486
+                    ],
+                    [
+                        146.7997079,
+                        -19.2487481
+                    ],
+                    [
+                        146.7995395,
+                        -19.2486797
+                    ],
+                    [
+                        146.7989598,
+                        -19.2487227
+                    ],
+                    [
+                        146.7987881,
+                        -19.2487875
+                    ],
+                    [
+                        146.7986397,
+                        -19.2488253
+                    ],
+                    [
+                        146.7985407,
+                        -19.2487685
+                    ],
+                    [
+                        146.7983535,
+                        -19.2487577
+                    ],
+                    [
+                        146.7981244,
+                        -19.2488112
+                    ],
+                    [
+                        146.7979302,
+                        -19.2487865
+                    ],
+                    [
+                        146.7976175,
+                        -19.2486521
+                    ],
+                    [
+                        146.7974324,
+                        -19.2486609
+                    ],
+                    [
+                        146.7972432,
+                        -19.2487875
+                    ],
+                    [
+                        146.7971659,
+                        -19.2489658
+                    ],
+                    [
+                        146.7971831,
+                        -19.2491035
+                    ],
+                    [
+                        146.7972947,
+                        -19.2493547
+                    ],
+                    [
+                        146.7976331,
+                        -19.249867
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Edinborough Court",
+                "description": "No information yet available. Presumably this is named for Edinburgh but no evidence supports this presumption.",
+                "refs": "--"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8005261,
+                        -19.2484843
+                    ],
+                    [
+                        146.8006441,
+                        -19.2485831
+                    ],
+                    [
+                        146.8007491,
+                        -19.2486893
+                    ],
+                    [
+                        146.8008318,
+                        -19.2489401
+                    ],
+                    [
+                        146.8008452,
+                        -19.249049
+                    ],
+                    [
+                        146.8008951,
+                        -19.2492069
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Seaview Court",
+                "description": "No information yet available.",
+                "refs": "--"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.7966664,
+                        -19.2485831
+                    ],
+                    [
+                        146.7963855,
+                        -19.2484878
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "St. James Drive",
+                "description": "No information yet available. Presumably, this is named for St. James, the apostle but there's a lack of evidence to support this claim.",
+                "refs": "--"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.7942904,
+                        -19.2462702
+                    ],
+                    [
+                        146.7952862,
+                        -19.2475963
+                    ],
+                    [
+                        146.7953635,
+                        -19.2478151
+                    ],
+                    [
+                        146.7953377,
+                        -19.2480177
+                    ],
+                    [
+                        146.7952948,
+                        -19.2481716
+                    ],
+                    [
+                        146.7951661,
+                        -19.2482851
+                    ],
+                    [
+                        146.7950287,
+                        -19.2483499
+                    ],
+                    [
+                        146.7948742,
+                        -19.2483661
+                    ],
+                    [
+                        146.7946682,
+                        -19.2483742
+                    ],
+                    [
+                        146.7944992,
+                        -19.2483053
+                    ],
+                    [
+                        146.7944193,
+                        -19.2481716
+                    ],
+                    [
+                        146.7943764,
+                        -19.2478961
+                    ],
+                    [
+                        146.7943507,
+                        -19.2476125
+                    ],
+                    [
+                        146.7940524,
+                        -19.2472379
+                    ],
+                    [
+                        146.7937597,
+                        -19.2474325
+                    ],
+                    [
+                        146.7937327,
+                        -19.2475315
+                    ],
+                    [
+                        146.7939092,
+                        -19.2477983
+                    ]
+                ]
+            }
         }
     ]
 }

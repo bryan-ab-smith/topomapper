@@ -4434,6 +4434,39 @@
                     ]
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Roper Court",
+                "description": "\"Named for the Roper River in the NT\" (Mathew, 2008, p. 108). That river was named for John Roper (1822-1895), explorer and civil servant.",
+                "refs": "Australian Dictionary of Biography. (2019). <i>Roper, John (1822-1895)</i>. Retrieved from http://adb.anu.edu.au/biography/roper-john-4503.<br \\>Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8010369,
+                        -19.2473319
+                      ],
+                      [
+                        146.8016121,
+                        -19.2474754
+                      ],
+                      [
+                        146.8018075,
+                        -19.2474058
+                      ],
+                      [
+                        146.8019337,
+                        -19.2472099
+                      ],
+                      [
+                        146.8017396,
+                        -19.2471146
+                      ]
+                ]
+            }
         }
     ]
 }

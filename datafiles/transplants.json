@@ -1,0 +1,219 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Stirling Drive",
+				"description": "\"Named after the castle at Stirling, the County town of Stirlingshire, Scotland\" (Mathew, 2008, p. 115).",
+				"refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						146.7995633,
+						-19.2506449
+					],
+					[
+						146.7995623,
+						-19.2504224
+					],
+					[
+						146.79952,
+						-19.2501508
+					],
+					[
+						146.799449,
+						-19.2499381
+					],
+					[
+						146.7996979,
+						-19.2495249
+					],
+					[
+						146.7997902,
+						-19.2490778
+					],
+					[
+						146.7998126,
+						-19.2488486
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Stirling Drive",
+				"description": "\"Named after the castle at Stirling, the County town of Stirlingshire, Scotland\" (Mathew, 2008, p. 115).",
+				"refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						146.799449,
+						-19.2499381
+					],
+					[
+						146.7990091,
+						-19.2499614
+					],
+					[
+						146.7988138,
+						-19.2498373
+					],
+					[
+						146.7985367,
+						-19.2493147
+					],
+					[
+						146.7985366,
+						-19.2490679
+					],
+					[
+						146.7986397,
+						-19.2488253
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Cottesmore Crescent",
+				"description": "\"A village of Rutland County, England, which gives its name to a famous hunt. It has a long connection with the Earls of Lonsdale\" (Mathew, 2008, p. 36).",
+				"refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						146.7998126,
+						-19.2488486
+					],
+					[
+						146.7999113,
+						-19.2487892
+					],
+					[
+						146.8000756,
+						-19.248803
+					],
+					[
+						146.8002215,
+						-19.2488847
+					],
+					[
+						146.8003416,
+						-19.2490063
+					],
+					[
+						146.8003992,
+						-19.2492264
+					],
+					[
+						146.800324,
+						-19.2494294
+					],
+					[
+						146.8002282,
+						-19.2495683
+					],
+					[
+						146.8001871,
+						-19.2497422
+					],
+					[
+						146.8002215,
+						-19.24993
+					],
+					[
+						146.8003159,
+						-19.2500273
+					],
+					[
+						146.8003965,
+						-19.2501006
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Hampton Court",
+				"description": "\"Named after a palace at Hampton, near London, built by Cardinal Wolsey and enlarged by Henry VIII\" (Mathew, 2008, p. 58).",
+				"refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						146.8012944,
+						-19.2483985
+					],
+					[
+						146.8014317,
+						-19.2484877
+					],
+					[
+						146.8015175,
+						-19.2486011
+					],
+					[
+						146.8015175,
+						-19.2488037
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Arundel Court",
+				"description": "\"Named after a palace at Hampton, near London, built by Cardinal Wolsey and enlarged by Henry VIII\" (Mathew, 2008, p. 11).",
+				"refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						146.7995395,
+						-19.2486797
+					],
+					[
+						146.7995766,
+						-19.2484867
+					],
+					[
+						146.7995449,
+						-19.2483968
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Durham Court",
+				"description": "\"Named after Durham Castle which, although now part of Durham University, was once the residence of the prince bishops of Durham.\" (Mathew, 2008, p. 43).",
+				"refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						146.800356,
+						-19.2471461
+					],
+					[
+						146.8007584,
+						-19.2469725
+					]
+				]
+			}
+		}
+	]
+}
