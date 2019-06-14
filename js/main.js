@@ -75,7 +75,7 @@ $(document).ready(function () {
 
 
     map.on('click', function (e) {
-        var layerList = ['euExplLayer', 'atsiLayer', 'polLayer', 'busLayer', 'monarLayer', 'relLayer', 'warLayer', 'etcLayer', 'noneLayer'];
+        var layerList = ['euExplLayer', 'atsiLayer', 'polLayer', 'busLayer', 'monarLayer', 'relLayer', 'warLayer', 'etcLayer', 'noneLayer', 'tpLayer'];
         var clickedLayer = map.queryRenderedFeatures(e.point)[0].layer.id;
         if (layerList.indexOf(clickedLayer) > -1) {
             new mapboxgl.Popup()
@@ -236,6 +236,22 @@ function getData() {
         "id": "etcLayer",
         "type": "line",
         "source": "etcSource",
+        "paint": {
+            "line-color": lineColour,
+            "line-width": lineWidth,
+            "line-opacity": 0.4
+          }
+    });
+
+    map.addSource('tpSource', {
+        type: 'geojson',
+        data: dataDir + 'transplants.json'
+    });
+
+    map.addLayer({
+        "id": "tpLayer",
+        "type": "line",
+        "source": "tpSource",
         "paint": {
             "line-color": lineColour,
             "line-width": lineWidth,
