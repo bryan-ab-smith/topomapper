@@ -3,3 +3,4 @@ db_scripts/viewPoints.php
 js/mapbox_prefs.js
 datafiles/master_osm.geojson
 update_remote.sh
+.DS_Store
