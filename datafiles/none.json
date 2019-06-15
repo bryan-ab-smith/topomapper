@@ -644,6 +644,64 @@
                     ]
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sheenan Street",
+                "description": "No information yet available.",
+                "refs": "--"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.7892713,
+                        -19.250971
+                    ],
+                    [
+                        146.7897531,
+                        -19.2516547
+                    ],
+                    [
+                        146.7902813,
+                        -19.2524163
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Grange Court",
+                "description": "No information yet available.",
+                "refs": "--"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.7942719,
+                        -19.2507217
+                    ],
+                    [
+                        146.7949135,
+                        -19.2503608
+                    ],
+                    [
+                        146.7951291,
+                        -19.2504122
+                    ],
+                    [
+                        146.7955804,
+                        -19.2510048
+                    ],
+                    [
+                        146.7958965,
+                        -19.2512083
+                    ]
+                ]
+            }
         }
     ]
 }

@@ -1519,7 +1519,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Martin Street Street",
+                "name": "Martin Street",
                 "description": "Named for William Martin, business person who ran the <i>The Great Northern Railway Store</i> and opened the first shop on Ross Island (Mathew, 2008, p. 84).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -1537,6 +1537,48 @@
                     [
                         146.8315685,
                         -19.2664567
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "St. John Street",
+                "description": "Named for St. John Robinson, a subdivider, the son of Henry Frederick Robinson; the latter was nicknamed the \"German Gardener\" and served as the namesake of \"German Gardens,\" (Mathew, 2008, p. 110). Today, German Gardens is known as Belgian Gardens, the re-naming a consequence of de-Germanification during the First World War (Centre for the Government of Queensland, 2018).",
+                "refs": "Centre for the Government of Queensland. (2018). <i>Belgian Gardens</i>. Retrieved from https://queenslandplaces.com.au/belgian-gardens.<br \\>Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.7904403,
+                        -19.2498819
+                    ],
+                    [
+                        146.7907629,
+                        -19.2503676
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Robinson Street",
+                "description": "Named for St. John Edmund Robinson. A developer, he built a zoon and wildlife sanctuary at Mount St. John and, \"In 1933 he organised the first bull fight to be held in Australia and five years later staged the first private air pageant of the Commonwealth\" (Mathew, 2008, p. 107).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.7897531,
+                        -19.2516547
+                    ],
+                    [
+                        146.7905751,
+                        -19.2511265
                     ]
                 ]
             }

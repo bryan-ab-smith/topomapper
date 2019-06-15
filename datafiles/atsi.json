@@ -294,6 +294,31 @@
                     ]
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Parramatta Street",
+                "description": "\"An Aboriginal word meaning 'a place where eels lie down'\" (Australian Museum cited in Mathew, 2008, p. 98).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.7883977,
+                        -19.2511408
+                    ],
+                    [
+                        146.7873928,
+                        -19.2497935
+                    ],
+                    [
+                        146.7875963,
+                        -19.249222
+                    ]
+                ]
+            }
         }
     ]
 }
