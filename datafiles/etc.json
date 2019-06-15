@@ -579,6 +579,39 @@
                     ]
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Price Street",
+                "description": "Named for Charles Price, who arrived in Townsville in 1875 and complied the <i>The Aboriginal Language of the Townsville Area</i> (1885) (Mathew, 2008, p. 103).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.7892062,
+                        -19.2506049
+                    ],
+                    [
+                        146.7886626,
+                        -19.2498524
+                    ],
+                    [
+                        146.7887053,
+                        -19.2496899
+                    ],
+                    [
+                        146.7892938,
+                        -19.2492874
+                    ],
+                    [
+                        146.7894544,
+                        -19.2491394
+                    ]
+                ]
+            }
         }
     ]
 }

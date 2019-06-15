@@ -1,16 +1,25 @@
-## Topomapper
+# Topomapper
 
-### Description
+## Description
 
-As part of a larger research project, this mobile friendly web application documents the namesakes of streets in Townsville, QLD (Australia). Built on the premise that street names normalises particular colonial commemorative practices, this application is meant to surface the narrative woven through the naming practices of a small regional Queensland city as a demonstration of the powerful colonial commemoration written into the cartography of settler communities.
+As part of a larger research project, this mobile friendly web application documents the commemorative work done through the street naming in Townsville, QLD (Australia). Sparked by work in critical toponymy that highlights the selective comemorative work done through the mundane naming practices of civic space ([Azaryahu, 1996](https://journals.sagepub.com/doi/pdf/10.1068/d140311); [Berg & Vuolteenaho, 2009](https://books.google.com.au/books/about/Critical_Toponymies.html?id=xg1GAepFft8C&redir_esc=y); [Rose-Redwood, 2016](https://www.acme-journal.org/index.php/acme/article/view/1215); [Smith, 2018](https://www.tandfonline.com/doi/abs/10.1080/00377996.2018.1460569)), this web application seeks to surface the people, events and moments remembered across the city's geography.
 
 ![Topomapper Screenshot](img/topomapper_sshot_both.png)
+
+### Progress
+
+The following suburbs have been mapped:
+- Townsville City
+- South Townsville
+- Belgian Gardens
+
+NOTE: Efforts to map will slow down as each of the three suburbs above will be cleaned up, proofed and filled out with further context.
 
 ### Viewing
 
 Interested in viewing the application? Visit [here](https://bryanabsmith.com/topomapper/).
 
-### Install/deploy on your own server
+## Install/deploy on your own server
 
 1. Clone the code
 
@@ -24,7 +33,7 @@ Interested in viewing the application? Visit [here](https://bryanabsmith.com/top
 
 5. Upload everything to your web server and everything should work.
 
-### License
+## License
 
 MIT License
 

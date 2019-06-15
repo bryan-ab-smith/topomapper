@@ -244,7 +244,6 @@
                 ]
             }
         },
-        
         {
             "type": "Feature",
             "properties": {
@@ -3140,6 +3139,64 @@
                     [
                         146.7924836,
                         -19.2467338
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Short Street",
+                "description": "Named for Albert Short, business owner and eventual Alderman in the late 19<sup>th</sup> century (Mathew, 2008, p. 112).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.7886635,
+                        -19.252005
+                    ],
+                    [
+                        146.7887986,
+                        -19.2522468
+                    ],
+                    [
+                        146.7887986,
+                        -19.2522468
+                    ],
+                    [
+                        146.7893952,
+                        -19.2530268
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Short Street",
+                "description": "Named for Albert Short, business owner and eventual Alderman in the late 19<sup>th</sup> century (Mathew, 2008, p. 112).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.7887986,
+                        -19.2522468
+                    ],
+                    [
+                        146.7887261,
+                        -19.2522085
+                    ],
+                    [
+                        146.7886564,
+                        -19.252211
+                    ],
+                    [
+                        146.7885705,
+                        -19.2522718
                     ]
                 ]
             }
