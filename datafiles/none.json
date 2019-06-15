@@ -702,6 +702,27 @@
                     ]
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hubie Taylor Place.",
+                "description": "No information yet available. Presumably named for Hubie Taylor.",
+                "refs": "--"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8335843,
+                        -19.2660699
+                    ],
+                    [
+                        146.834575,
+                        -19.2630306
+                    ]
+                ]
+            }
         }
     ]
 }
