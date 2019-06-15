@@ -19,6 +19,22 @@ NOTE: Efforts to map will slow down as each of the three suburbs above will be c
 
 Interested in viewing the application? Visit [here](https://bryanabsmith.com/topomapper/).
 
+### Browser support
+
+The application is developed and tested in Firefox (68) but has been tested on and is thought to work with the following (with little to no errors).
+
+#### Desktop
+- Firefox (68)
+- Chrome (74)
+- Safari (12.1.1)
+- Edge (44) - NOTE: getting street information is frustrating (the clickable space for the street layer seems to be minimal relative to other browsers)
+
+#### Mobile
+- Safari (iOS, 12.3.1)
+- Chrome (Android, 74)
+
+It is possible (and likely for those that aren't much older than these) that it will work with older browsers and those not listed here.
+
 ## Install/deploy on your own server
 
 1. Clone the code
