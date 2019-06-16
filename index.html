@@ -13,7 +13,8 @@
 	<meta name="apple-mobile-web-app-status-bar-style" content="black">
 	<!-- https://developers.google.com/web/updates/2014/11/Support-for-theme-color-in-Chrome-39-for-Android?hl=en -->
     <meta name="theme-color" content="#FAF9F5">
-    <link rel='manifest' href='manifest.json'>
+	<link rel='manifest' href='manifest.json'>
+	<link rel="shortcut icon" type="image/png" href="img/logo_about.png"/>
 	
 	<title>Topomapper</title>
 
@@ -189,182 +190,6 @@
 			</label>
 		</div>
 
-		<div id='addOverlay'>
-			<a class="ui right floated icon basic button" onclick='closeAdd();'>
-				<i class='icon remove'></i>
-				Close
-			</a>
-			<p></p>
-			<h4>Add Note</h4>
-			<p></p>
-			<form id='formStory' class='ui form transition visible' method='post' enctype='multipart/form-data'>
-				<span class='storyInputLabel'>Location</span>
-				<br \>
-				<div class="ui transparent fluid input">
-					<input id='textLocation' name='location' type='text'>
-				</div>
-				<p></p>
-
-				<span class='storyInputLabel'>Note</span>
-				<br \>
-				<div class="ui transparent fluid input">
-					<input type='text' id='textAreaStory' name='story' placeholder='eg. This is my story.'></input>
-				</div>
-				<p></p>
-
-				<span class='storyInputLabel'>Reference</span>
-				<br \>
-				<div class="ui transparent fluid input">
-					<input id='refInput' name='ref' type='text' placeholder='eg. Mathew, J. (2008). Highways and Byways: The Origin of Townsville Street Names (Revised ed.). Townsville, QLD: Townsville Library Service.'
-					 onblur='javascript:window.scrollTo(0,0);'>
-				</div>
-				<p></p>
-
-				<!--<span class='storyInputLabel'>Tag</span>
-                <br \>
-                <div class="ui transparent fluid input">
-					<input id='storyTag' name='tag' type='text' placeholder='eg. mystory' onblur='javascript:window.scrollTo(0,0);'>
-				</div>-->
-			</form>
-			<p></p>
-			<button id='buttonSubmit' class="ui teal basic fluid button" onclick="javascript:submitStory();">
-				<!-- <i class="cloud upload icon"></i> -->
-				<i class="cloud upload icon"></i> Submit
-			</button>
-		</div>
-
-		<div id='shareOverlay'>
-			<a class="ui right floated icon basic button" onclick='closeShare();'>
-				<i class='icon remove'></i>
-				Close
-			</a>
-			<p></p>
-			<h4>Sharing URL</h4>
-			<p></p>
-			Use the URL below to share what you've found with others:
-			<p></p>
-			<span id='shareSpan'></span>
-		</div>
-
-		<div id='helpOverlay'>
-			<a class="ui fluid label" onclick='closeHelp();'>
-				<i class='icon remove'></i>
-				Close
-			</a>
-			<h3>Toolbar</h3>
-			<div class="ui segments">
-				<div class="ui segment">
-					<i class='ellipsis horizontal grey icon' onclick='toolbarToggle();'></i>
-					<div class='ui transparent left icon input'>
-						<input type='text' placeholder='Search...'>
-						<i class='search icon'></i>
-					</div>
-				</div>
-				<div class="ui secondary segment">
-					<div class='ui center aligned three column grid'>
-						<div class='row'>
-							<div class='four wide column'>
-								<label class=''>
-									<i class='icon large plus'></i>
-								</label>
-								<p></p>
-								<div class="ui basic label">
-									Add a story
-								</div>
-							</div>
-							<div class='four wide column'>
-								<label class=''>
-									<i class='icon large refresh'></i>
-								</label>
-								<p></p>
-								<div class="ui basic label">
-									Reload the stories.
-								</div>
-							</div>
-							<div class='four wide column'>
-								<label class=''>
-									<i class='icon large location arrow'></i>
-								</label>
-								<p></p>
-								<div class="ui basic label">
-									Centre on your location.
-								</div>
-							</div>
-							<div class='four wide column'>
-								<label class=''>
-									<i class='icon large help'></i>
-								</label>
-								<p></p>
-								<div class="ui basic label">
-									Show this help info.
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-			<!--<div class='ui segments'>
-				<div class='ui grey inverted secondary segment'>
-					<i class="plus icon"></i> Add a story
-				</div>
-				<div class='ui secondary segment grey inverted tertiary'>
-					Clicking this will recentre the map on your current location and will allow you to add a story to the map from your current location.
-				</div>
-			</div>
-			<p></p>
-			<div class='ui segments'>
-				<div class='ui grey inverted secondary segment'>
-					<i class="refresh icon"></i> Reload the stories
-				</div>
-				<div class='ui secondary segment grey inverted tertiary'>
-					Clicking this will reload the points in case some are hidden (ie. points that are hidden because of a search).
-				</div>
-			</div>
-			<p></p>
-			<div class='ui segments'>
-				<div class='ui grey inverted secondary segment'>
-					<i class="location arrow icon"></i> Recentre the map
-				</div>
-				<div class='ui secondary segment grey inverted tertiary'>
-					Clicking this will recentre the map on your current location.
-				</div>
-			</div>
-			<p></p>
-			<div class='ui segments'>
-				<div class='ui grey inverted secondary segment'>
-					<i class="help icon"></i> View the help information (this screen).
-				</div>
-				<div class='ui secondary segment grey inverted tertiary'>
-					Clicking this brings up this dialog.
-				</div>
-			</div>-->
-			<p></p>
-			<h3>FAQ</h3>
-			<div class='ui segments'>
-				<div class='ui grey inverted secondary segment'>
-					I can't see some of my points.
-				</div>
-				<div class='ui secondary segment grey inverted tertiary'>
-					Points may not be visible if you are zoomed out too far. Try zooming in.
-				</div>
-			</div>
-			<h3>About</h3>
-			<span id='aboutSpan'>Version 2.0.
-				<br \>&copy; 2017 Bryan Smith.</span>
-		</div>
-
-		<div id='uploadOverlay'>
-			<div class='ui items'>
-				<div class='item'>
-					<div id='uploadingDiv' class='middle aligned content'>
-						<div class='header'>
-							<i class="spinner loading icon"></i> Submitting story...
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-
 		<div id='legendOverlay'>
 			<div class='ui items'>
 				<div class='item'>
@@ -509,9 +334,16 @@
 							Close
 						</a>
 						<p></p>
+						<div class='media'>
+							<img src='img/logo_about.png' class='align-self-start mr-3'>
+							<div class='media-body'>
+								<h2 class='mt-0'>Topomapper</h2>
+								<p>A web application to explore the commemorative practices of Townsville as seen through the naming of streets.</p>
+							</div>
+						</div>
 						<h3>Context</h3>
-						<p class='lead'>"It is the ostensible ordinariness of street names that allows them to effectively implicate politics and ideology into the practices of everyday life and ordinary urban experiences" &mdash; Maoz Azaryahu (2009, p. 56).</p>
-						<br />
+						"It is the ostensible ordinariness of street names that allows them to effectively implicate politics and ideology into the practices of everyday life and ordinary urban experiences" &mdash; Maoz Azaryahu (2009, p. 56).
+						<p></p>
 						This project was born out of a preoccupation with everyday commemorative practices and a concern for the ways in which we all too often fail to recognize how space makes particular types of history appear normal. Building on prior theoretical scholarship (Smith, 2017a, 2017b, 2018), this web application is designed to begin documenting the history and politics of place as it works through and is made normal via the naming of streets in Townsville, Queensland (Australia).
 						<p></p>
 						<h3>Legend</h3>
@@ -539,10 +371,15 @@
 						</table>
 						<p></p>
 						<h3>Source Code</h3>
-						The source code, available under the MIT License (the application itself, not the data), can be found <a href='https://github.com/bryan-ab-smith/topomapper'>here</a>. Please note that the code is in "rough shape" right now but is being cleaned up and commented.
+						The source code, available under the MIT License (the application itself, the data is licensed differently which is described below), can be found <a href='https://github.com/bryan-ab-smith/topomapper'>here</a>. Please note that the code is in "rough shape" right now but is being cleaned up and commented.
 						<p></p>
-						<h3>Notice about Data Used</h3>
-						The application makes use of a lot of <a href='https://www.openstreetmap.org/'>OpenStreet</a> Map data for the GeoJSON data (ie. the lines over the streets). This data is available under the Open Database License (see <a href='https://opendatacommons.org/licenses/odbl/1-0/'>here</a>).
+						<h3>Content</h3>
+						<dl class='row'>
+							<dt class='col-sm-3'>OpenStreetMap (<a href='https://www.openstreetmap.org/'>source</a>)</dt>
+							<dd class='col-sm-9'>Map data for the GeoJSON data (ie. the lines over the streets). This data is available under the Open Database License (see <a href='https://opendatacommons.org/licenses/odbl/1-0/'>here</a>).</dd>
+							<dt class='col-sm-3'>Tango Desktop Project (<a href='http://tango-project.org/'>source</a>)</dt>
+							<dd class='col-sm-9'>The app's icon is a combination of two Tango icons. Tango icons are public domain.</dd>
+						</dl>
 						<p></p>
 						<h3>References</h3>
 						<div class='apa-ref' style='margin-left: 2em;'>

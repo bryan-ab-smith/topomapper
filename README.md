@@ -72,3 +72,6 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+### Note about the street GeoJSON data
+The GeoJSON data (datafiles/) comes from OpenStreetMap. That data is available under the Open Database License (see [here](https://opendatacommons.org/licenses/odbl/1-0/)).
