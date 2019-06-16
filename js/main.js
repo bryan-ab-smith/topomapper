@@ -22,6 +22,10 @@ var curStyle = mbStyleLight;
 //
 $(document).ready(function () {
 
+    /* 
+        If the user is running Topomapper as a PWA, push the search box and navigation controls down a bit. 
+        This is not a particularly elegant solution.
+    */
     if (window.matchMedia('(display-mode: standalone)').matches) {
         $('.mapbox-ctrl-top-right').css('margin-top', '20pt');
     }
