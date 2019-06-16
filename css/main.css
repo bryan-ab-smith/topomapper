@@ -119,6 +119,10 @@ body {
 	text-align: center;
 }
 
+#aboutDiv {
+	margin-bottom: 5vh;
+}
+
 /*.ui.transparent.inverted.input > input:focus {
 	color: white;
 }
