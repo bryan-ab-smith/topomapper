@@ -14,7 +14,11 @@
 	<!-- https://developers.google.com/web/updates/2014/11/Support-for-theme-color-in-Chrome-39-for-Android?hl=en -->
     <meta name="theme-color" content="#FAF9F5">
     <link rel='manifest' href='manifest.json'>
+	
 	<title>Topomapper</title>
+
+	<!-- https://stackoverflow.com/a/37480521 - This is for Electron support  -->
+	<script>if (typeof module === 'object') {window.module = module; module = undefined;}</script>
 	<script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.44.2/mapbox-gl.js'></script>
 	<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js'></script>
 	<script src='https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.10/semantic.min.js'></script>
@@ -28,6 +32,10 @@
 	<link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.44.2/mapbox-gl.css' rel='stylesheet' />
 	<link href='https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.10/semantic.min.css' rel='stylesheet' />
 	<!--<link href='https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/css/toastr.min.css' rel='stylesheet' />-->
+	
+	<!-- https://stackoverflow.com/a/37480521 - This is for Electron support  -->
+	<script>if (window.module) module = window.module;</script>
+	
 	<link href='css/main.css' rel='stylesheet' />
 </head>
 
