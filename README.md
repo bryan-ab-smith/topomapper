@@ -10,10 +10,11 @@ As part of a larger research project, this mobile friendly web application docum
 
 The following suburbs have been mapped:
 - Townsville City
+- North Ward
 - South Townsville
 - Belgian Gardens
 
-NOTE: Efforts to map will slow down as each of the three suburbs above will be cleaned up, proofed and filled out with further context.
+NOTE: Efforts to map will slow down as each of the four suburbs above will be cleaned up, proofed and filled out with further context.
 
 ### Viewing
 
