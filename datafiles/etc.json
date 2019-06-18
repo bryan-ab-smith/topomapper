@@ -612,6 +612,59 @@
                     ]
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Comerford Crescent",
+                "description": "Named for the Comerford family &emdash; Thomas, Mary and Benjamim &emdash; early settlers, businesspeople and rangers of the Town Common (Benjamin) (Mathew, 2008, p. 34).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.7904468,
+                        -19.2465636
+                      ],
+                      [
+                        146.7902142,
+                        -19.2466604
+                      ],
+                      [
+                        146.7900675,
+                        -19.2466848
+                      ],
+                      [
+                        146.7898811,
+                        -19.2466531
+                      ],
+                      [
+                        146.7897054,
+                        -19.2465443
+                      ],
+                      [
+                        146.7896143,
+                        -19.2463767
+                      ],
+                      [
+                        146.7895988,
+                        -19.2461937
+                      ],
+                      [
+                        146.7896425,
+                        -19.2460258
+                      ],
+                      [
+                        146.789753,
+                        -19.2458972
+                      ],
+                      [
+                        146.7898689,
+                        -19.2457893
+                      ]
+                ]
+            }
         }
     ]
 }

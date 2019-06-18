@@ -1728,22 +1728,6 @@
                 "type": "LineString",
                 "coordinates": [
                     [
-                        146.8350061,
-                        -19.2673807
-                    ],
-                    [
-                        146.8350003,
-                        -19.2668812
-                    ],
-                    [
-                        146.8350344,
-                        -19.2661451
-                    ],
-                    [
-                        146.8358297,
-                        -19.2635774
-                    ],
-                    [
                         146.8358297,
                         -19.2635774
                     ],
@@ -1766,6 +1750,96 @@
                     [
                         146.8370397,
                         -19.2586523
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Benwell Road",
+                "description": "Named for Hugh Percy Hamilton Benwell (1852-1901), \"the first secretary of the Townsville Chamber of Commerce when it was formed in 1882 and in the same year was appointed surveyor and valuator to the Thuringowa Divisional Board at a salary of seventy-five pounds per annum\" (Mathew, 2008, p. 18).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8350061,
+                        -19.2673807
+                    ],
+                    [
+                        146.834975,
+                        -19.2670827
+                    ],
+                    [
+                        146.8349762,
+                        -19.26679
+                    ],
+                    [
+                        146.8349844,
+                        -19.2665003
+                    ],
+                    [
+                        146.8350465,
+                        -19.2660109
+                    ],
+                    [
+                        146.8358297,
+                        -19.2635774
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Benwell Road",
+                "description": "Named for Hugh Percy Hamilton Benwell (1852-1901), \"the first secretary of the Townsville Chamber of Commerce when it was formed in 1882 and in the same year was appointed surveyor and valuator to the Thuringowa Divisional Board at a salary of seventy-five pounds per annum\" (Mathew, 2008, p. 18).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.83434,
+                        -19.267519
+                    ],
+                    [
+                        146.8346636,
+                        -19.2674292
+                    ],
+                    [
+                        146.8347926,
+                        -19.2673865
+                    ],
+                    [
+                        146.8348449,
+                        -19.2673359
+                    ],
+                    [
+                        146.8348664,
+                        -19.2672675
+                    ],
+                    [
+                        146.8348704,
+                        -19.2670776
+                    ],
+                    [
+                        146.8348798,
+                        -19.266794
+                    ],
+                    [
+                        146.834912,
+                        -19.2665003
+                    ],
+                    [
+                        146.8349616,
+                        -19.2662497
+                    ],
+                    [
+                        146.8350465,
+                        -19.2660109
                     ]
                 ]
             }

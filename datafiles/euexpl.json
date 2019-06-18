@@ -685,59 +685,67 @@
                     [
                         146.8116477,
                         -19.2564663
-                      ],
-                      [
+                    ],
+                    [
                         146.811795,
                         -19.2565098
-                      ],
-                      [
+                    ],
+                    [
                         146.8131048,
                         -19.2568487
-                      ],
-                      [
+                    ],
+                    [
                         146.8137528,
                         -19.2572435
-                      ],
-                      [
+                    ],
+                    [
                         146.8139994,
                         -19.2574401
-                      ],
-                      [
+                    ],
+                    [
                         146.8141071,
                         -19.2575214
-                      ],
-                      [
+                    ],
+                    [
                         146.8147222,
                         -19.2579855
-                      ],
-                      [
+                    ],
+                    [
                         146.8149935,
                         -19.2581814
-                      ],
-                      [
+                    ],
+                    [
                         146.8149935,
                         -19.2581814
-                      ],
-                      [
+                    ],
+                    [
                         146.8150844,
                         -19.2582521
-                      ],
-                      [
+                    ],
+                    [
                         146.8159533,
                         -19.2589406
-                      ],
-                      [
+                    ],
+                    [
                         146.8160366,
                         -19.2590066
-                      ],
-                      [
+                    ],
+                    [
                         146.8167891,
                         -19.259606
-                      ],
-                      [
+                    ],
+                    [
                         146.8169214,
                         -19.2597198
-                      ]
+                    ],
+                    [
+                        146.8169214,
+                        -19.2597198
+                    ],
+                    [
+                        146.8174927,
+                        -19.2601195
+                    ]
                 ]
             }
         },
@@ -2067,6 +2075,31 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Wills Street",
+                "description": "Names for William John Wills, surveyor and astronomer (Mathew, 2008, p. 126).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8087169,
+                        -19.2636846
+                    ],
+                    [
+                        146.8092423,
+                        -19.2633317
+                    ],
+                    [
+                        146.8096082,
+                        -19.2631821
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Cleveland Terrace",
                 "description": "Named after Cleveland Bay, itself \"named in 1770 by Captain Cook possibly after John Cleveland, the Secretary of the Admiralty\" (Mathew, 2008, p. 33).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
@@ -2403,6 +2436,27 @@
                     [
                         146.8175436,
                         -19.2629198
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stanley Street (West)",
+                "description": "Named for Captain Owen Stanley,\"naval officer and marine surveyor\" and commander of the HMS Rattlesnake who surveyed North QLD up to the Torres Strait (Mathew, 2008, p. 114).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8175436,
+                        -19.2629198
+                    ],
+                    [
+                        146.8175765,
+                        -19.2629763
                     ]
                 ]
             }
@@ -4448,23 +4502,23 @@
                     [
                         146.8010369,
                         -19.2473319
-                      ],
-                      [
+                    ],
+                    [
                         146.8016121,
                         -19.2474754
-                      ],
-                      [
+                    ],
+                    [
                         146.8018075,
                         -19.2474058
-                      ],
-                      [
+                    ],
+                    [
                         146.8019337,
                         -19.2472099
-                      ],
-                      [
+                    ],
+                    [
                         146.8017396,
                         -19.2471146
-                      ]
+                    ]
                 ]
             }
         }

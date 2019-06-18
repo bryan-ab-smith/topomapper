@@ -392,6 +392,22 @@
                     [
                         146.8092605,
                         -19.2643544
+                    ],
+                    [
+                        146.8092605,
+                        -19.2643544
+                    ],
+                    [
+                        146.8088683,
+                        -19.2638711
+                    ],
+                    [
+                        146.8087169,
+                        -19.2636846
+                    ],
+                    [
+                        146.8086325,
+                        -19.2635774
                     ]
                 ]
             }
@@ -1073,6 +1089,14 @@
                 "type": "LineString",
                 "coordinates": [
                     [
+                        146.8175765,
+                        -19.2629763
+                    ],
+                    [
+                        146.8178209,
+                        -19.2637497
+                    ],
+                    [
                         146.8178209,
                         -19.2637497
                     ],
@@ -1091,6 +1115,246 @@
                     [
                         146.8180663,
                         -19.264526
+                    ],
+                    [
+                        146.8180663,
+                        -19.264526
+                    ],
+                    [
+                        146.8182663,
+                        -19.2648206
+                    ],
+                    [
+                        146.8183624,
+                        -19.2648989
+                    ],
+                    [
+                        146.8184457,
+                        -19.2649471
+                    ],
+                    [
+                        146.8185141,
+                        -19.2649485
+                    ],
+                    [
+                        146.8185799,
+                        -19.2649355
+                    ],
+                    [
+                        146.8187674,
+                        -19.2647351
+                    ],
+                    [
+                        146.8189016,
+                        -19.2646019
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rooney Street",
+                "description": "Named for the Rooney Family, developers who were responsible for \"the Magistrate’s Courthouse, the North Ward gaol and Bartlam’s building\" (Mathew, 2008, p. 108).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8180284,
+                        -19.2658298
+                    ],
+                    [
+                        146.8183198,
+                        -19.2652967
+                    ],
+                    [
+                        146.8183312,
+                        -19.2652491
+                    ],
+                    [
+                        146.8183303,
+                        -19.2652009
+                    ],
+                    [
+                        146.818286,
+                        -19.2650105
+                    ],
+                    [
+                        146.8181949,
+                        -19.2648472
+                    ],
+                    [
+                        146.8181143,
+                        -19.2646998
+                    ],
+                    [
+                        146.8180663,
+                        -19.264526
+                    ],
+                    [
+                        146.8182663,
+                        -19.2648206
+                    ],
+                    [
+                        146.8185062,
+                        -19.2651478
+                    ],
+                    [
+                        146.8185062,
+                        -19.2651478
+                    ],
+                    [
+                        146.8185646,
+                        -19.265224
+                    ],
+                    [
+                        146.8185646,
+                        -19.265224
+                    ],
+                    [
+                        146.8188294,
+                        -19.2654478
+                    ],
+                    [
+                        146.8189153,
+                        -19.2655204
+                    ],
+                    [
+                        146.8190028,
+                        -19.2656318
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rooney Street",
+                "description": "Named for the Rooney Family, developers who were responsible for \"the Magistrate’s Courthouse, the North Ward gaol and Bartlam’s building\" (Mathew, 2008, p. 108).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8190028,
+                        -19.2656318
+                    ],
+                    [
+                        146.8188893,
+                        -19.2655891
+                    ],
+                    [
+                        146.8187748,
+                        -19.265524
+                    ],
+                    [
+                        146.818511,
+                        -19.2653015
+                    ],
+                    [
+                        146.818511,
+                        -19.2653015
+                    ],
+                    [
+                        146.8184555,
+                        -19.2652277
+                    ],
+                    [
+                        146.8184555,
+                        -19.2652277
+                    ],
+                    [
+                        146.818286,
+                        -19.2650105
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rooney Street",
+                "description": "Named for the Rooney Family, developers who were responsible for \"the Magistrate’s Courthouse, the North Ward gaol and Bartlam’s building\" (Mathew, 2008, p. 108).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.81897,
+                        -19.264652
+                    ],
+                    [
+                        146.8188425,
+                        -19.2648817
+                    ],
+                    [
+                        146.8187384,
+                        -19.2650475
+                    ],
+                    [
+                        146.8187174,
+                        -19.2651378
+                    ],
+                    [
+                        146.8187111,
+                        -19.2652256
+                    ],
+                    [
+                        146.8187194,
+                        -19.2652807
+                    ],
+                    [
+                        146.8187384,
+                        -19.2653361
+                    ],
+                    [
+                        146.8188294,
+                        -19.2654478
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rooney Street",
+                "description": "Named for the Rooney Family, developers who were responsible for \"the Magistrate’s Courthouse, the North Ward gaol and Bartlam’s building\" (Mathew, 2008, p. 108).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8187748,
+                        -19.265524
+                    ],
+                    [
+                        146.8186733,
+                        -19.265486
+                    ],
+                    [
+                        146.8186046,
+                        -19.2654774
+                    ],
+                    [
+                        146.8185533,
+                        -19.2654789
+                    ],
+                    [
+                        146.8184925,
+                        -19.2654995
+                    ],
+                    [
+                        146.8183949,
+                        -19.2655793
+                    ],
+                    [
+                        146.8181,
+                        -19.2658956
                     ]
                 ]
             }
