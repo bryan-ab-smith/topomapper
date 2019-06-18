@@ -706,7 +706,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Hubie Taylor Place.",
+                "name": "Hubie Taylor Place",
                 "description": "No information yet available. Presumably named for Hubie Taylor.",
                 "refs": "--"
             },
@@ -720,6 +720,96 @@
                     [
                         146.834575,
                         -19.2630306
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Entertainment Drive",
+                "description": "No information yet available.",
+                "refs": "--"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8267049,
+                        -19.2526119
+                    ],
+                    [
+                        146.8268125,
+                        -19.2525401
+                    ],
+                    [
+                        146.8270942,
+                        -19.2524223
+                    ],
+                    [
+                        146.827357,
+                        -19.2523134
+                    ],
+                    [
+                        146.8275849,
+                        -19.252202
+                    ],
+                    [
+                        146.8277125,
+                        -19.2521001
+                    ],
+                    [
+                        146.827806,
+                        -19.2519876
+                    ],
+                    [
+                        146.8278984,
+                        -19.2518261
+                    ],
+                    [
+                        146.8284478,
+                        -19.2510032
+                    ],
+                    [
+                        146.8287773,
+                        -19.2504567
+                    ],
+                    [
+                        146.8286019,
+                        -19.2502842
+                    ],
+                    [
+                        146.8283098,
+                        -19.2502411
+                    ],
+                    [
+                        146.8277956,
+                        -19.2501651
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kingsway Place",
+                "description": "No information yet available.",
+                "refs": "--"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8109534,
+                        -19.2668017
+                    ],
+                    [
+                        146.8108769,
+                        -19.2669052
+                    ],
+                    [
+                        146.8104052,
+                        -19.2673993
                     ]
                 ]
             }

@@ -461,6 +461,35 @@
                     ]
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Barboutis Street",
+                "description": "Named after Corporal Angelo N. Barboutis, killed in 1943 in Dutch New Guinea (Mathew, 2008, p. 14).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.789457,
+                        -19.2452315
+                    ],
+                    [
+                        146.7898689,
+                        -19.2457893
+                    ],
+                    [
+                        146.7904468,
+                        -19.2465636
+                    ],
+                    [
+                        146.7908282,
+                        -19.2470556
+                    ]
+                ]
+            }
         }
     ]
 }
