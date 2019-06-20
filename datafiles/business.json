@@ -346,6 +346,31 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Carter Street",
+                "description": "Named for Thomas Roe Carter, a businessperson who entered partnerships with Frederick Augustus Fryer (see Fryer Street) who later, \"traded on his own account as T.R. Carter and Company\" (Mathew, 2008, p. 28).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8197145,
+                        -19.2545845
+                    ],
+                    [
+                        146.8199344,
+                        -19.2548174
+                    ],
+                    [
+                        146.8199287,
+                        -19.2550417
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Fletcher Street",
                 "description": "Named for Joseph Fletcher, businessperson who owned a butcher shop, timber yard, and \"a soap and candle works.\" He eventually served as Alderman and Mayor of Townsville (Mathew, 2008, p. 48).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."

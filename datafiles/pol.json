@@ -165,6 +165,43 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Herbert Street",
+                "description": "\"Named after Sir Robert George Wyndham Herbert, secretary to Sir George Bowen (first governor of QLD) and Colonial Secretary for just over six years from December 1859 - February 1866 (Mathew, 2008, p. 62).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.819138,
+                        -19.2555312
+                    ],
+                    [
+                        146.8191541,
+                        -19.2554402
+                    ],
+                    [
+                        146.8192131,
+                        -19.2551009
+                    ],
+                    [
+                        146.8192131,
+                        -19.2551009
+                    ],
+                    [
+                        146.819197,
+                        -19.2550655
+                    ],
+                    [
+                        146.8191215,
+                        -19.2549243
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Knapp Street",
                 "description": "Named for Henry Knapp, a solicitor who held various political positions during the latter half of the 19<sup>th</sup>century who left office permanently after being sued for larceny (his legal licence was also suspended later). (Mathew, 2008, p. 73).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
@@ -1279,20 +1316,32 @@
                         -19.2570345
                     ],
                     [
-                        146.8272191,
-                        -19.2568059
+                        146.8272401,
+                        -19.2568162
                     ],
                     [
-                        146.8277455,
-                        -19.2559004
+                        146.8272662,
+                        -19.2567691
+                    ],
+                    [
+                        146.8276342,
+                        -19.2561021
+                    ],
+                    [
+                        146.8276694,
+                        -19.2560383
+                    ],
+                    [
+                        146.8276902,
+                        -19.2560011
                     ],
                     [
                         146.827775,
                         -19.2558496
                     ],
                     [
-                        146.8280277,
-                        -19.2553349
+                        146.8279764,
+                        -19.2554873
                     ]
                 ]
             }

@@ -3501,6 +3501,79 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Mitchell Street",
+                "description": "Named for Sir Thomas Livingstone Mitchell, a surveyor who became Surveyor General in 1828 (Mathew, 2008, p. 86).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8032035,
+                        -19.2394413
+                    ],
+                    [
+                        146.8032486,
+                        -19.2393842
+                    ],
+                    [
+                        146.8033112,
+                        -19.2393672
+                    ],
+                    [
+                        146.8033826,
+                        -19.2394009
+                    ],
+                    [
+                        146.8034293,
+                        -19.2394269
+                    ],
+                    [
+                        146.80366,
+                        -19.239471
+                    ],
+                    [
+                        146.8040005,
+                        -19.2397562
+                    ],
+                    [
+                        146.8039224,
+                        -19.2398497
+                    ],
+                    [
+                        146.8039248,
+                        -19.2399203
+                    ],
+                    [
+                        146.8039273,
+                        -19.2399912
+                    ],
+                    [
+                        146.8038285,
+                        -19.2399974
+                    ],
+                    [
+                        146.8037231,
+                        -19.2400192
+                    ],
+                    [
+                        146.8036128,
+                        -19.240058
+                    ],
+                    [
+                        146.8035338,
+                        -19.2400984
+                    ],
+                    [
+                        146.8034352,
+                        -19.2401931
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Warburton Street",
                 "description": "Named for Major Warburton, explorer who explored west South Australia and who led an expedition toward Perth in 1873 to lay a telegraph line (Mathew, 2008, p. 123).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
@@ -4492,6 +4565,27 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Gilbert Crescent",
+                "description": "Named for John Gilbert, explorer and naturalist (Queensland Government, 2019).",
+                "refs": "Queensland Government. (2009). <i>Queensland place names search</i>. Retrieved from https://www.dnrm.qld.gov.au/qld/environment/land/place-names/search#/search=Gilbert_River&types=0&place=Gilbert_River13736."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.7996979,
+                        -19.245846
+                    ],
+                    [
+                        146.7993288,
+                        -19.2459108
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Roper Court",
                 "description": "\"Named for the Roper River in the NT\" (Mathew, 2008, p. 108). That river was named for John Roper (1822-1895), explorer and civil servant.",
                 "refs": "Australian Dictionary of Biography. (2019). <i>Roper, John (1822-1895)</i>. Retrieved from http://adb.anu.edu.au/biography/roper-john-4503.<br \\>Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
@@ -4518,6 +4612,31 @@
                     [
                         146.8017396,
                         -19.2471146
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mitchell Street",
+                "description": "Named for Sir Thomas Livingstone Mitchell (1792-1855), surveyor knighted in 1839 (Mathew, 2008, p. 86).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8177936,
+                        -19.254494
+                    ],
+                    [
+                        146.8179524,
+                        -19.2546955
+                    ],
+                    [
+                        146.8182179,
+                        -19.254842
                     ]
                 ]
             }
