@@ -5,21 +5,22 @@
 	<meta charset='utf-8' />
 	<meta http-equiv="Cache-Control" content="no-store" />
 	<!-- http://stackoverflow.com/a/10077359 -->
-	<meta name='viewport' content='viewport-fit=cover, width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no' />
+	<meta name='viewport'
+		content='viewport-fit=cover, width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no' />
 	<link rel="apple-touch-icon" href="img/apple-touch-icon.png">
 	<link rel="apple-touch-startup-image" href="img/TopomapperPWASplash.png">
 	<meta name="mobile-web-app-capable" content="yes">
 	<meta name="apple-mobile-web-app-capable" content="yes">
 	<meta name="apple-mobile-web-app-status-bar-style" content="black">
 	<!-- https://developers.google.com/web/updates/2014/11/Support-for-theme-color-in-Chrome-39-for-Android?hl=en -->
-    <meta name="theme-color" content="#FAF9F5">
+	<meta name="theme-color" content="#FAF9F5">
 	<link rel='manifest' href='manifest.json'>
-	<link rel="shortcut icon" type="image/png" href="img/logo_about.png"/>
-	
+	<link rel="shortcut icon" type="image/png" href="img/logo_about.png" />
+
 	<title>Topomapper</title>
 
 	<!-- https://stackoverflow.com/a/37480521 - This is for Electron support  -->
-	<script>if (typeof module === 'object') {window.module = module; module = undefined;}</script>
+	<script>if (typeof module === 'object') { window.module = module; module = undefined; }</script>
 	<script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.44.2/mapbox-gl.js'></script>
 	<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js'></script>
 	<script src='https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.10/semantic.min.js'></script>
@@ -27,16 +28,18 @@
 	<!--<script src='https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js'></script>-->
 	<script src='sw_loader.js'></script>
 	<script src='js/main.js'></script>
-	<script src='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v2.2.0/mapbox-gl-geocoder.min.js'></script>
-	<link rel='stylesheet' href='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v2.2.0/mapbox-gl-geocoder.css'
-	 type='text/css' />
+	<script
+		src='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v2.2.0/mapbox-gl-geocoder.min.js'></script>
+	<link rel='stylesheet'
+		href='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v2.2.0/mapbox-gl-geocoder.css'
+		type='text/css' />
 	<link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.44.2/mapbox-gl.css' rel='stylesheet' />
 	<link href='https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.10/semantic.min.css' rel='stylesheet' />
 	<!--<link href='https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/css/toastr.min.css' rel='stylesheet' />-->
-	
+
 	<!-- https://stackoverflow.com/a/37480521 - This is for Electron support  -->
 	<script>if (window.module) module = window.module;</script>
-	
+
 	<link href='css/main.css' rel='stylesheet' />
 </head>
 
@@ -75,7 +78,7 @@
 			<button class="ui basic icon tiny button" id="aboutButton" onclick="showAbout();">
 				<i class="info icon"></i>
 			</button>
-            <!--<button class="circular ui icon large button" id="walkingSitButton" onclick="tourShow();">
+			<!--<button class="circular ui icon large button" id="walkingSitButton" onclick="tourShow();">
                 <i class="street view icon"></i>
             </button>
 			<button class="circular ui icon large button" id="visibleButton" onclick="toggleLayers();">
@@ -83,16 +86,16 @@
 			</button>
 			<button class="circular ui icon large button" id="legendButton" onclick="showLegend();">
 				<i class="tint icon"></i>
-			</button>-->		
-        </span>
-        
-        <span id='tourbarButtons'>
-            <button class="circular ui icon red large button" id="tourRemoveButton" onclick="tourRemove();">
-                <i class="remove icon"></i>
-            </button>
-            <button class="circular ui icon black large button" id="tourUpButton" onclick="tourUp();">
-                <i class="chevron up icon"></i>
-            </button>
+			</button>-->
+		</span>
+
+		<span id='tourbarButtons'>
+			<button class="circular ui icon red large button" id="tourRemoveButton" onclick="tourRemove();">
+				<i class="remove icon"></i>
+			</button>
+			<button class="circular ui icon black large button" id="tourUpButton" onclick="tourUp();">
+				<i class="chevron up icon"></i>
+			</button>
 			<button class="circular ui icon black large button" id="tourDownButton" onclick="tourDown();">
 				<i class="chevron down icon"></i>
 			</button>
@@ -172,18 +175,22 @@
 			<p></p>
 			<label>
 				<h4>Welcome!</h4>
-				As this is your first time using Topomapper, take a moment to read over the privacy and license statements below. Please note:
+				As this is your first time using Topomapper, take a moment to read over the privacy and license
+				statements below. Please note:
 				your use of the site is an acceptance of the following.
 				<p></p>
 				<h4 class='privacyLabel'>Privacy</h4>
 				<p></p>
-				<span class='privacyLabel'>Anything you submit through Topomapper is made publically available. Any uploaded content, text or pictorial, will be
-					viewable by anyone who uses the app. You are not required to provide any personally identifiable information and you
+				<span class='privacyLabel'>Anything you submit through Topomapper is made publically available. Any
+					uploaded content, text or pictorial, will be
+					viewable by anyone who uses the app. You are not required to provide any personally identifiable
+					information and you
 					are encouraged not to include this information in your submissions.</span>
 				<p></p>
 				<h4 class='licenseLabel'>License</h4>
 				<p></p>
-				<span class='licenseLabel'>Content submitted to Topomapper is covered by the Creative Commons Attribution-NonCommercial 4.0 International License
+				<span class='licenseLabel'>Content submitted to Topomapper is covered by the Creative Commons
+					Attribution-NonCommercial 4.0 International License
 					including all text and picture submissions. Please see
 					<a id='licenseLink' href='https://creativecommons.org/licenses/by-nc/4.0/'>
 						<i class='world icon'></i>here</a> for more information.</span>
@@ -204,7 +211,8 @@
 						</div>
 						<div id='legendGrid' class='ui stackable grid'>
 							<div class='eight wide column'>
-								<a class='ui orange large fluid label'>Aboriginal and Torres Strait Islander Peoples.</a>
+								<a class='ui orange large fluid label'>Aboriginal and Torres Strait Islander
+									Peoples.</a>
 							</div>
 							<div class='eight wide column'>
 								<a class='ui blue large fluid label'>European explorers.</a>
@@ -282,44 +290,51 @@
 						<div class='header'>
 							Toggles
 						</div>
-                        <p style='margin-bottom: 5vh'></p>
-                        <div id='legendGrid' class='ui stackable grid'>
-                            <div class='eight wide column'>
-                                <div id='atsiVisButton' class='ui orange inverted raised segment' onclick='showTopoLayer("atsiLayer", "atsiVisButton");'>
-                                    Aboriginal and Torres Strait Islander
-                                </div>
-                            </div>
-                            <div class='eight wide column'>
-                                <div id='euExplVisButton' class='ui blue inverted raised segment' onclick='showTopoLayer("euExplLayer", "euExplVisButton");'>
-                                    European explorers
-                                </div>
-                            </div>
-                            <div class='eight wide column'>
-                                <div id='polVisButton' class='ui teal inverted raised segment' onclick='showTopoLayer("polLayer", "polVisButton");'>
-                                    Politicians/state
-                                </div>
-                            </div>
-                            <div class='eight wide column'>
-                                <div id='busVisButton' class='ui red inverted raised segment' onclick='showTopoLayer("busLayer", "busVisButton");'>
-                                    Business people
-                                </div>
-                            </div>
-                            <div class='eight wide column'>
-                                <div id='monarVisButton' class='ui purple inverted raised segment' onclick='showTopoLayer("monarLayer", "monarVisButton");'>
-                                    European monarchy
-                                </div>
-                            </div>
-                            <div class='eight wide column'>
-                                <div id='relVisButton' class='ui yellow inverted raised segment' onclick='showTopoLayer("relLayer", "relVisButton");'>
-                                    Religious figures/events
-                                </div>
-                            </div>
-                            <div class='eight wide column'>
-                                <div id='warVisButton' class='ui brown inverted raised segment' onclick='showTopoLayer("warLayer", "warVisButton");'>
-                                    War/soldiers
-                                </div>
-                            </div>
-                        </div>
+						<p style='margin-bottom: 5vh'></p>
+						<div id='legendGrid' class='ui stackable grid'>
+							<div class='eight wide column'>
+								<div id='atsiVisButton' class='ui orange inverted raised segment'
+									onclick='showTopoLayer("atsiLayer", "atsiVisButton");'>
+									Aboriginal and Torres Strait Islander
+								</div>
+							</div>
+							<div class='eight wide column'>
+								<div id='euExplVisButton' class='ui blue inverted raised segment'
+									onclick='showTopoLayer("euExplLayer", "euExplVisButton");'>
+									European explorers
+								</div>
+							</div>
+							<div class='eight wide column'>
+								<div id='polVisButton' class='ui teal inverted raised segment'
+									onclick='showTopoLayer("polLayer", "polVisButton");'>
+									Politicians/state
+								</div>
+							</div>
+							<div class='eight wide column'>
+								<div id='busVisButton' class='ui red inverted raised segment'
+									onclick='showTopoLayer("busLayer", "busVisButton");'>
+									Business people
+								</div>
+							</div>
+							<div class='eight wide column'>
+								<div id='monarVisButton' class='ui purple inverted raised segment'
+									onclick='showTopoLayer("monarLayer", "monarVisButton");'>
+									European monarchy
+								</div>
+							</div>
+							<div class='eight wide column'>
+								<div id='relVisButton' class='ui yellow inverted raised segment'
+									onclick='showTopoLayer("relLayer", "relVisButton");'>
+									Religious figures/events
+								</div>
+							</div>
+							<div class='eight wide column'>
+								<div id='warVisButton' class='ui brown inverted raised segment'
+									onclick='showTopoLayer("warLayer", "warVisButton");'>
+									War/soldiers
+								</div>
+							</div>
+						</div>
 					</div>
 				</div>
 			</div>
@@ -338,13 +353,21 @@
 							<img src='img/logo_about.png' class='align-self-start mr-3'>
 							<div class='media-body'>
 								<h2 class='mt-0'>Topomapper</h2>
-								<p>A web application to explore the commemorative practices of Townsville as seen through the naming of streets.</p>
+								<p>A web application to explore the commemorative practices of Townsville as seen
+									through the naming of streets.</p>
 							</div>
 						</div>
 						<h3>Context</h3>
-						"It is the ostensible ordinariness of street names that allows them to effectively implicate politics and ideology into the practices of everyday life and ordinary urban experiences" &mdash; Maoz Azaryahu (2009, p. 56).
+						"It is the ostensible ordinariness of street names that allows them to effectively implicate
+						politics and ideology into the practices of everyday life and ordinary urban experiences"
+						&mdash; Maoz Azaryahu (2009, p. 56).
 						<p></p>
-						This project was born out of a preoccupation with everyday commemorative practices and a concern for the ways in which we all too often fail to recognize how space makes particular types of history appear normal. Building on prior theoretical scholarship (Smith, 2017a, 2017b, 2018), this web application is designed to begin documenting the history and politics of place as it works through and is made normal via the naming of streets in Townsville, Queensland (Australia).
+						This project was born out of a preoccupation with everyday commemorative practices and a concern
+						for the ways in which we all too often fail to recognize how space makes particular types of
+						history appear normal. Building on prior theoretical scholarship (Smith, 2017a, 2017b, 2018),
+						this web application is designed to begin documenting the history and politics of place as it
+						works through and is made normal via the naming of streets in Townsville, Queensland
+						(Australia).
 						<p></p>
 						<h3>Legend</h3>
 						<table class='ui very basic collapsing celled table' style='width: 100%;'>
@@ -357,11 +380,13 @@
 							<tbody>
 								<tr>
 									<td><i class="street view icon"></i></td>
-									<td>This opens up the "touring" function that allows you to pan over the map as if from a birds eye view.</td>
+									<td>This opens up the "touring" function that allows you to pan over the map as if
+										from a birds eye view.</td>
 								</tr>
 								<tr>
 									<td><i class="low vision icon"></i></td>
-									<td>This toggles the map layers between the default "blueprint" style and the satellite view.</td>
+									<td>This toggles the map layers between the default "blueprint" style and the
+										satellite view.</td>
 								</tr>
 								<tr>
 									<td><i class="info icon"></i></td>
@@ -371,31 +396,118 @@
 						</table>
 						<p></p>
 						<h3>Source Code</h3>
-						The source code, available under the MIT License (the application itself, the data is licensed differently which is described below), can be found <a href='https://github.com/bryan-ab-smith/topomapper'>here</a>. Please note that the code is in "rough shape" right now but is being cleaned up and commented.
+						The source code, available under the MIT License (the application itself, the data is licensed
+						differently which is described below), can be found <a
+							href='https://github.com/bryan-ab-smith/topomapper'>here</a>. Please note that the code is
+						in "rough shape" right now but is being cleaned up and commented.
 						<p></p>
 						<h3>Content</h3>
 						<dl class='row'>
-							<dt class='col-sm-3'>OpenStreetMap (<a href='https://www.openstreetmap.org/'>source</a>)</dt>
-							<dd class='col-sm-9'>Map data for the GeoJSON data (ie. the lines over the streets). This data is available under the Open Database License (see <a href='https://opendatacommons.org/licenses/odbl/1-0/'>here</a>).</dd>
-							<dt class='col-sm-3'>Tango Desktop Project (<a href='http://tango-project.org/'>source</a>)</dt>
-							<dd class='col-sm-9'>The app's icon is a combination of two Tango icons. Tango icons are public domain.</dd>
+							<dt class='col-sm-3'>OpenStreetMap (<a href='https://www.openstreetmap.org/'>source</a>)
+							</dt>
+							<dd class='col-sm-9'>Map data for the GeoJSON data (ie. the lines over the streets). This
+								data is available under the Open Database License (see <a
+									href='https://opendatacommons.org/licenses/odbl/1-0/'>here</a>).</dd>
+							<dt class='col-sm-3'>Tango Desktop Project (<a href='http://tango-project.org/'>source</a>)
+							</dt>
+							<dd class='col-sm-9'>The app's icon is a combination of two Tango icons. Tango icons are
+								public domain.</dd>
 						</dl>
 						<p></p>
 						<h3>References</h3>
 						<div class='apa-ref' style='margin-left: 2em;'>
-							<p>Azaryahu, M. (2009). Naming the Past: The Significance of Commemorative Street Names. In L. D. Berg &amp; J. Vuolteenaho (Eds.), <i>Critical Toponymies: The Contested Politics of Naming</i> (pp. 53-70). Burlington, VT: Ashgate Publishing Company.</p>
-							<p>Smith, B. (2017a). Cartographies of Colonial Commemoration: Critical Toponymy and Historical Geographies in Toronto. <i>Journal of the Canadian Association for Curriculum Studies, 15</i>(2), 34–47.</p>
-							<p>Smith, B. (2017b). Reconsidering the Summer Residence: The City-Text, Historical Commemoration and Banal Settler Geography. <i>Canadian Social Studies, 49</i>(1), 24–29.</p>
-							<p>Smith, B. (2018). Engaging Geography at Every Street Corner: Using Place-Names as Critical Heuristic in Social Studies. <i>The Social Studies, 109</i>(2), 112–124.</p>
+							<p>Azaryahu, M. (2009). Naming the Past: The Significance of Commemorative Street Names. In
+								L. D. Berg &amp; J. Vuolteenaho (Eds.), <i>Critical Toponymies: The Contested Politics
+									of Naming</i> (pp. 53-70). Burlington, VT: Ashgate Publishing Company.</p>
+							<p>Smith, B. (2017a). Cartographies of Colonial Commemoration: Critical Toponymy and
+								Historical Geographies in Toronto. <i>Journal of the Canadian Association for Curriculum
+									Studies, 15</i>(2), 34–47.</p>
+							<p>Smith, B. (2017b). Reconsidering the Summer Residence: The City-Text, Historical
+								Commemoration and Banal Settler Geography. <i>Canadian Social Studies, 49</i>(1), 24–29.
+							</p>
+							<p>Smith, B. (2018). Engaging Geography at Every Street Corner: Using Place-Names as
+								Critical Heuristic in Social Studies. <i>The Social Studies, 109</i>(2), 112–124.</p>
 						</div>
 					</div>
 				</div>
 			</div>
-        </div>
-        
-        <div id='pointLoadingInfo' class='ui center aligned inverted segment' style='display: none;'>
-            <p id='pointsLoadingText'>Loading street information. Please wait.</p>
-        </div>
+		</div>
+
+		<div id='firstRunOverlay'>
+			<div class='ui items'>
+				<div class='item'>
+					<div id='firstRunDiv' class='middle aligned content'>
+						<a class="ui right floated icon basic button" onclick='closeFirstRun();'>
+							<i class='icon remove'></i>
+							Close
+						</a>
+						<p></p>
+						<div class='media'>
+							<img src='img/logo_about.png' class='align-self-start mr-3'>
+							<div class='media-body'>
+								<h2 class='mt-0'>Hello!</h2>
+								<p>I see this is your first time here so welcome to Topomapper! Let's go over some of the basics on how to use Topomapper before you jump in.</p>
+							</div>
+						</div>
+						<h3>Getting Started</h3>
+						Topomapper is quite simple - just click the name of the street that you're interested in and
+						you'll be presented with some information about who/what the street is named for. If you'd like to zoom in on a specific area, hold down shift and draw a box on the screen (devices with mice only).
+						<p></p>
+						<h3>Legend</h3>
+						<div class='ui grid'>
+							<div class='eight wide column'>
+								<div class='ui blue inverted segment'>Information about the street is available.</div>
+							</div>
+							<div class='eight wide column'>
+								<div class='ui black inverted segment'>There is no information as of yet available or there is a lack of sufficient evidence to make a reasonable claim.</div>
+							</div>
+						</div>
+						<h3>Interface</h3>
+						The table below gives you a sense of the interface elements and what they offer you.
+						<table class='ui very basic collapsing celled table' style='width: 100%; margin-bottom: 5%;'>
+							<thead>
+								<tr>
+									<th>Element</th>
+									<th>Description</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td><img src='img/ui/locate.png' /></td>
+									<td>This will centre the map on your location.</td>
+								</tr>
+								<tr>
+									<td><img src='img/ui/nav.png' /></td>
+									<td>This is where you can zoom in and out. You can also rotate the map (if you hold down control by dragging on the map, you can rotate on all axes) and the bottom button will bring you back to the default view.</td>
+								</tr>
+								<tr>
+									<td><img src='img/ui/geocoder.png' /></td>
+									<td>This is where you can search for streets around town.</td>
+								</tr>
+								<tr>
+									<td><img src='img/ui/tour.png' /></td>
+									<td>This opens up the "touring" function that allows you to pan over the map as if
+										from a birds eye view.</td>
+								</tr>
+								<tr>
+									<td><img src='img/ui/layer_toggle.png' /></td>
+									<td>This toggles the map layers between the default "blueprint" style and the
+										satellite view.</td>
+								</tr>
+								<tr>
+									<td><img src='img/ui/about.png' /></td>
+									<td>This opens up the info/help dialog. Click on this if you need a refresher.</td>
+								</tr>
+							</tbody>
+						</table>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div id='pointLoadingInfo' class='ui center aligned inverted segment' style='display: none;'>
+			<p id='pointsLoadingText'>Loading street information. Please wait.</p>
+		</div>
 </body>
 
 </html>

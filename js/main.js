@@ -30,6 +30,14 @@ $(document).ready(function () {
         $('.mapbox-ctrl-top-right').css('margin-top', '20pt');
     }
 
+    if (localStorage.getItem('tmRun') == null) {
+        $('#map').css('filter', 'blur(16px)');
+        $('#searchInput').css('filter', 'blur(16px)');
+        $('#toolbarButtons').hide();
+        $('#firstRunOverlay').show();
+        localStorage.setItem('tmRun', 'true');
+    }
+
     $('.mapboxgl-ctrl-top-left').append('#aboutOverlay');
 
     $('#tourbarButtons').hide();
@@ -57,6 +65,7 @@ $(document).ready(function () {
 
     map.addControl(new MapboxGeocoder({
         accessToken: mapboxgl.accessToken,
+        countries: 'au'
     }), 'top-right');
 
     // Add geolocate control to the map.
@@ -488,6 +497,15 @@ function closeAbout() {
     $('#map').css('filter', 'none');
     $('#searchInput').css('filter', 'none');
     $('#aboutOverlay').css('-webkit-backdrop-filter', 'none');
+    //$('#addOverlay').fadeOut('slow');
+}
+
+function closeFirstRun() {
+    $('#firstRunOverlay').hide();
+    $('#toolbarButtons').show();
+    $('#map').css('filter', 'none');
+    $('#searchInput').css('filter', 'none');
+    $('#firstRunOverlay').css('-webkit-backdrop-filter', 'none');
     //$('#addOverlay').fadeOut('slow');
 }
 
