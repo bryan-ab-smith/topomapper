@@ -79,7 +79,7 @@ body {
     overflow-y: auto;
 }
 
-#addOverlay, #helpOverlay, #shareOverlay, #legendOverlay, #toggleOverlay, #aboutOverlay {
+#addOverlay, #helpOverlay, #shareOverlay, #legendOverlay, #toggleOverlay, #aboutOverlay, #firstRunOverlay {
 	position: absolute;
 	z-index: 5;
 	background-color: white;
