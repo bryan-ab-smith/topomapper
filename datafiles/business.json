@@ -995,6 +995,10 @@
                 "type": "LineString",
                 "coordinates": [
                     [
+                        146.8220807,
+                        -19.2699124
+                    ],
+                    [
                         146.8221011,
                         -19.2696904
                     ],
@@ -1017,6 +1021,102 @@
                     [
                         146.8262847,
                         -19.2615827
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Perkins Street",
+                "description": "Named for Patrick Perkins. While he became a politician, he is most known as a brewer, having opened the Toowoomba Brewery and creating the well regarded Castlemaine XXXX ale (Mathew, 2008, p. 100).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8216858,
+                        -19.2699887
+                    ],
+                    [
+                        146.8219546,
+                        -19.2698255
+                    ],
+                    [
+                        146.8221011,
+                        -19.2696904
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Perkins Street",
+                "description": "Named for Patrick Perkins. While he became a politician, he is most known as a brewer, having opened the Toowoomba Brewery and creating the well regarded Castlemaine XXXX ale (Mathew, 2008, p. 100).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8221011,
+                        -19.2696904
+                    ],
+                    [
+                        146.8222064,
+                        -19.269796
+                    ],
+                    [
+                        146.8223778,
+                        -19.269854
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Perkins Street",
+                "description": "Named for Patrick Perkins. While he became a politician, he is most known as a brewer, having opened the Toowoomba Brewery and creating the well regarded Castlemaine XXXX ale (Mathew, 2008, p. 100).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8262332,
+                        -19.2604482
+                    ],
+                    [
+                        146.8262312,
+                        -19.2603322
+                    ],
+                    [
+                        146.8261708,
+                        -19.2602514
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Perkins Street",
+                "description": "Named for Patrick Perkins. While he became a politician, he is most known as a brewer, having opened the Toowoomba Brewery and creating the well regarded Castlemaine XXXX ale (Mathew, 2008, p. 100).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8263574,
+                        -19.2602232
+                    ],
+                    [
+                        146.8262332,
+                        -19.2604482
                     ]
                 ]
             }
