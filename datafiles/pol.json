@@ -1522,8 +1522,25 @@
                         -19.2660015
                     ],
                     [
-                        146.8219544,
-                        -19.2642496
+                        146.8219282,
+                        -19.2643489
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Morehead Street",
+                "description": "Named for Boyd Dunlop Morehead, a businessperson and politician (Mathew, 2008, p. 15). He became Premier of Queensland later in life from 1888 - 1890, resigning as he \"felt unable to continue with such diminished support\" after imposing unfavourable tax measures (p. 42)",
+                "refs": "Fitzgerald, R., Megarrity, L., &amp; Symons, D. (2009). <i>Made in Queensland: A New History</i>. St Lucia, QLD: University of Queensland Press.<br \\>Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8220286,
+                        -19.2641787
                     ],
                     [
                         146.8229159,
@@ -1675,8 +1692,25 @@
                         -19.2637667
                     ],
                     [
-                        146.8219544,
-                        -19.2642496
+                        146.8218803,
+                        -19.2642088
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Morey Street",
+                "description": "Named for Edmund Morey, Police Magistrate (1882-1885) and subsequenlty \"warden of the Clermont Gold Field\" (Mathew, 2008, p. 87).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8220596,
+                        -19.2643071
                     ],
                     [
                         146.8230656,
