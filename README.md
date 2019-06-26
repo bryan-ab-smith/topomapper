@@ -6,6 +6,8 @@ As part of a larger research project, this mobile friendly web application docum
 
 ![Topomapper Screenshot](img/topomapper_sshot_both.png)
 
+## Project
+
 ### Progress
 
 The following suburbs have been mapped:
@@ -13,6 +15,10 @@ The following suburbs have been mapped:
 - North Ward
 - South Townsville
 - Belgian Gardens
+
+Next up:
+- West End
+- (potentially) Garbutt
 
 NOTE: Efforts to map will slow down as each of the four suburbs above will be cleaned up, proofed and filled out with further context.
 
@@ -36,7 +42,9 @@ The application is developed and tested in Firefox (68) but has been tested on a
 
 It is possible (and likely for those that aren't much older than these) that it will work with older browsers and those not listed here.
 
-## Install/deploy on your own server
+## Development
+
+### Install/deploy on your own server
 
 1. Clone the code
 
@@ -50,11 +58,17 @@ It is possible (and likely for those that aren't much older than these) that it 
 
 5. Upload everything to your web server and everything should work.
 
+### Local development
+
+The debug_server.py script is a simple non-logging web server that you can use to quickly setup an environment to debug and play with Topomapper. While it will work to serve Topomapper, you are strongly discouraged from using this as a production (ie. public) facing server.
+
+The server is written in Python and works with Python 2 and 3 (and should therefore work on any platform that Python supports including Windows, macOS, Linux and others).
+
 ## License
 
 MIT License
 
-Copyright (c) 2019 Bryan Smith
+Copyright (c) 2019 Bryan Smith.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -75,4 +89,4 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ### Note about the street GeoJSON data
-The GeoJSON data (datafiles/) comes from OpenStreetMap. That data is available under the Open Database License (see [here](https://opendatacommons.org/licenses/odbl/1-0/)).
+The GeoJSON co-ordinate data (datafiles/) comes from OpenStreetMap. That data is available under the Open Database License (see [here](https://opendatacommons.org/licenses/odbl/1-0/)).
