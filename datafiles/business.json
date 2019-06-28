@@ -102,69 +102,8 @@
                 "type": "LineString",
                 "coordinates": [
                     [
-                        146.8266745,
-                        -19.25227
-                    ],
-                    [
-                        146.8267228,
-                        -19.2522974
-                    ],
-                    [
-                        146.82676,
-                        -19.2523977
-                    ],
-                    [
-                        146.8268125,
-                        -19.2525401
-                    ],
-                    [
-                        146.8267985,
-                        -19.2527565
-                    ],
-                    [
-                        146.8267045,
-                        -19.2530017
-                    ],
-                    [
-                        146.8265715,
-                        -19.2531956
-                    ],
-                    [
-                        146.8256531,
-                        -19.2544515
-                    ],
-                    [
-                        146.8255158,
-                        -19.2547027
-                    ],
-                    [
-                        146.8253355,
-                        -19.2553834
-                    ],
-                    [
-                        146.8252325,
-                        -19.2556265
-                    ],
-                    [
-                        146.8244659,
-                        -19.2567598
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Sir Leslie Thiess Street",
-                "description": "Named for Sir Leslie Thiess, \"the chairman of the Breakwater Casino operating company\" (Mathew, 2008, p. 112).",
-                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        146.8242753,
-                        -19.2566153
+                        146.824274,
+                        -19.2566292
                     ],
                     [
                         146.8244617,
@@ -173,6 +112,10 @@
                     [
                         146.8251531,
                         -19.255588
+                    ],
+                    [
+                        146.8252196,
+                        -19.2554351
                     ],
                     [
                         146.8252448,
@@ -245,30 +188,71 @@
                     [
                         146.8257539,
                         -19.2512803
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sir Leslie Thiess Street",
+                "description": "Named for Sir Leslie Thiess, \"the chairman of the Breakwater Casino operating company\" (Mathew, 2008, p. 112).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8266745,
+                        -19.25227
                     ],
                     [
-                        146.8257539,
-                        -19.2512803
+                        146.8267228,
+                        -19.2522974
                     ],
                     [
-                        146.825905,
-                        -19.2511837
+                        146.82676,
+                        -19.2523977
                     ],
                     [
-                        146.8263342,
-                        -19.2512774
+                        146.8268125,
+                        -19.2525401
                     ],
                     [
-                        146.8264254,
-                        -19.2514648
+                        146.8267985,
+                        -19.2527565
                     ],
                     [
-                        146.8262685,
-                        -19.2516755
+                        146.8267045,
+                        -19.2530017
                     ],
                     [
-                        146.8263047,
-                        -19.2517964
+                        146.8265715,
+                        -19.2531956
+                    ],
+                    [
+                        146.8256531,
+                        -19.2544515
+                    ],
+                    [
+                        146.8255158,
+                        -19.2547027
+                    ],
+                    [
+                        146.8253355,
+                        -19.2553834
+                    ],
+                    [
+                        146.8252973,
+                        -19.2554735
+                    ],
+                    [
+                        146.8252325,
+                        -19.2556265
+                    ],
+                    [
+                        146.8244659,
+                        -19.2567598
                     ]
                 ]
             }

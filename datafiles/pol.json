@@ -49,6 +49,60 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Ogden Street",
+                "description": "Named for Anthony Ogden, mayor (1924-1926) and MLA for Townsville in the early 20<sup>th</sup> century (Mathew, 2008, 95).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8187634,
+                        -19.2589351
+                    ],
+                    [
+                        146.8186662,
+                        -19.2589039
+                    ],
+                    [
+                        146.8185026,
+                        -19.2589267
+                    ],
+                    [
+                        146.8183213,
+                        -19.2590391
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ogden Street",
+                "description": "Named for Anthony Ogden, mayor (1924-1926) and MLA for Townsville in the early 20<sup>th</sup> century (Mathew, 2008, 95).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8184904,
+                        -19.2588585
+                    ],
+                    [
+                        146.8185697,
+                        -19.2586963
+                    ],
+                    [
+                        146.8185504,
+                        -19.2584527
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Hanran Street",
                 "description": "Named for Patrick Francis Hanran, mayor from 1870 onwards for multiple terms. He was also a general merchant in Townsville. (Mathew, 2008, p. 58-59).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
@@ -61,8 +115,20 @@
                         -19.2633714
                     ],
                     [
-                        146.8148678,
-                        -19.2634418
+                        146.8147993,
+                        -19.2634074
+                    ],
+                    [
+                        146.8148656,
+                        -19.2634328
+                    ],
+                    [
+                        146.8148656,
+                        -19.2634328
+                    ],
+                    [
+                        146.8149531,
+                        -19.2634459
                     ],
                     [
                         146.8150569,
@@ -73,8 +139,12 @@
                         -19.2634414
                     ],
                     [
-                        146.8156214,
-                        -19.2632128
+                        146.8155649,
+                        -19.2632364
+                    ],
+                    [
+                        146.8156916,
+                        -19.2631614
                     ],
                     [
                         146.8165423,
@@ -102,8 +172,24 @@
                         -19.2634414
                     ],
                     [
-                        146.8148161,
-                        -19.2634977
+                        146.8149322,
+                        -19.2634969
+                    ],
+                    [
+                        146.8148752,
+                        -19.2635017
+                    ],
+                    [
+                        146.8148283,
+                        -19.2635007
+                    ],
+                    [
+                        146.8148283,
+                        -19.2635007
+                    ],
+                    [
+                        146.8147416,
+                        -19.263486
                     ],
                     [
                         146.8146703,

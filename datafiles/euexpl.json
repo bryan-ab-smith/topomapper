@@ -150,6 +150,10 @@
                     [
                         146.8172907,
                         -19.2573634
+                    ],
+                    [
+                        146.8173508,
+                        -19.2572784
                     ]
                 ]
             }
@@ -306,6 +310,27 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Sturt Street",
+                "description": "Named for Captain Charles Sturt, one time Surveyor General of South Australia (Mathew, 2008, p. 115).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8174482,
+                        -19.2573519
+                    ],
+                    [
+                        146.8173859,
+                        -19.2574376
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Kennedy Street",
                 "description": "Named for E.B. Kenendy, \"who set out in April 1848 from Rockingham Bay to find a route along the coast to Cape York\" (Mathew, 2008, p. 71).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
@@ -382,6 +407,27 @@
                     [
                         146.8125817,
                         -19.2491795
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kennedy Street",
+                "description": "Named for E.B. Kenendy, \"who set out in April 1848 from Rockingham Bay to find a route along the coast to Cape York\" (Mathew, 2008, p. 71).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.811075,
+                        -19.2503785
+                    ],
+                    [
+                        146.8094018,
+                        -19.2519721
                     ]
                 ]
             }
@@ -4182,6 +4228,10 @@
             "geometry": {
                 "type": "LineString",
                 "coordinates": [
+                    [
+                        146.8020196,
+                        -19.2512719
+                    ],
                     [
                         146.8020079,
                         -19.2511033
