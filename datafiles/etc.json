@@ -529,6 +529,64 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "The Strand",
+                "description": "\"A word meaning the edge of the sea or of other bodies of water and commonly applied to a road along a foreshore or river bank\" (Mathew, 2008, p. 115).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8235054,
+                        -19.2561765
+                    ],
+                    [
+                        146.8237293,
+                        -19.2563574
+                    ],
+                    [
+                        146.823806,
+                        -19.2564626
+                    ],
+                    [
+                        146.8238015,
+                        -19.2565778
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "The Strand",
+                "description": "\"A word meaning the edge of the sea or of other bodies of water and commonly applied to a road along a foreshore or river bank\" (Mathew, 2008, p. 115).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8244659,
+                        -19.2567598
+                    ],
+                    [
+                        146.8243611,
+                        -19.2567678
+                    ],
+                    [
+                        146.8239581,
+                        -19.2565432
+                    ],
+                    [
+                        146.8238015,
+                        -19.2565778
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "The Esplanade",
                 "description": "No special meaning as the street is simply an esplanade (Mathew, 2008, p. 45).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
@@ -626,43 +684,43 @@
                     [
                         146.7904468,
                         -19.2465636
-                      ],
-                      [
+                    ],
+                    [
                         146.7902142,
                         -19.2466604
-                      ],
-                      [
+                    ],
+                    [
                         146.7900675,
                         -19.2466848
-                      ],
-                      [
+                    ],
+                    [
                         146.7898811,
                         -19.2466531
-                      ],
-                      [
+                    ],
+                    [
                         146.7897054,
                         -19.2465443
-                      ],
-                      [
+                    ],
+                    [
                         146.7896143,
                         -19.2463767
-                      ],
-                      [
+                    ],
+                    [
                         146.7895988,
                         -19.2461937
-                      ],
-                      [
+                    ],
+                    [
                         146.7896425,
                         -19.2460258
-                      ],
-                      [
+                    ],
+                    [
                         146.789753,
                         -19.2458972
-                      ],
-                      [
+                    ],
+                    [
                         146.7898689,
                         -19.2457893
-                      ]
+                    ]
                 ]
             }
         }

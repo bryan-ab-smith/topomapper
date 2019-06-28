@@ -5,3 +5,4 @@ datafiles/master_osm.geojson
 update_remote.sh
 .DS_Store
 electron/
+gen_report.py
