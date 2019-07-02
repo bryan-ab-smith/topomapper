@@ -144,6 +144,47 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Victoria Street",
+                "description": "Named for Queen Victoria (Mathew, 2008, p. 122).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8096194,
+                        -19.2589709
+                    ],
+                    [
+                        146.8097405,
+                        -19.2588616
+                    ],
+                    [
+                        146.8098331,
+                        -19.2587544
+                    ],
+                    [
+                        146.8098814,
+                        -19.2586202
+                    ],
+                    [
+                        146.8099135,
+                        -19.2585088
+                    ],
+                    [
+                        146.8099666,
+                        -19.2584205
+                    ],
+                    [
+                        146.8100198,
+                        -19.2583696
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Balmoral Drive",
                 "description": "Named for \"the royal residence in Aberdeenshire,\" purchased by Prince Albert (Mathew, 2008, p. 13).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
