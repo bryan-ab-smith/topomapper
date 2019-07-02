@@ -723,6 +723,290 @@
                     ]
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Percy Street",
+                "description": "The street is one of the various streets simply named for male Christians in the late 19<sup>th</sup> century (Mathew, 2008, p. 100).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.7838419,
+                        -19.2640333
+                    ],
+                    [
+                        146.7840194,
+                        -19.2638069
+                    ],
+                    [
+                        146.7843301,
+                        -19.2635215
+                    ],
+                    [
+                        146.7849499,
+                        -19.263114
+                    ],
+                    [
+                        146.7851619,
+                        -19.262967
+                    ],
+                    [
+                        146.7853446,
+                        -19.2628001
+                    ],
+                    [
+                        146.7855394,
+                        -19.2625765
+                    ],
+                    [
+                        146.7857867,
+                        -19.2620895
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Percy Street",
+                "description": "The street is one of the various streets simply named for male Christians in the late 19<sup>th</sup> century (Mathew, 2008, p. 100).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.7858878,
+                        -19.2621168
+                    ],
+                    [
+                        146.7856679,
+                        -19.2625853
+                    ],
+                    [
+                        146.7855434,
+                        -19.2627601
+                    ],
+                    [
+                        146.7852909,
+                        -19.263011
+                    ],
+                    [
+                        146.7849349,
+                        -19.2632655
+                    ],
+                    [
+                        146.7844368,
+                        -19.2635739
+                    ],
+                    [
+                        146.7842847,
+                        -19.2636846
+                    ],
+                    [
+                        146.7841311,
+                        -19.2638383
+                    ],
+                    [
+                        146.7840175,
+                        -19.2639917
+                    ],
+                    [
+                        146.7839454,
+                        -19.264089
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "William Street",
+                "description": "The street is one of the various streets simply named for male Christians (Mathew, 2008, p. 126).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.7878341,
+                        -19.2549157
+                    ],
+                    [
+                        146.788011,
+                        -19.254944
+                    ],
+                    [
+                        146.7888611,
+                        -19.2557367
+                    ],
+                    [
+                        146.7888539,
+                        -19.2558083
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "William Street",
+                "description": "The street is one of the various streets simply named for male Christians (Mathew, 2008, p. 126).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.7928639,
+                        -19.2591395
+                    ],
+                    [
+                        146.7909586,
+                        -19.2574864
+                    ],
+                    [
+                        146.7907855,
+                        -19.25744
+                    ],
+                    [
+                        146.7894996,
+                        -19.2562935
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "William Street",
+                "description": "The street is one of the various streets simply named for male Christians (Mathew, 2008, p. 126).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.7928019,
+                        -19.2592039
+                    ],
+                    [
+                        146.7940995,
+                        -19.2603603
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ernest Street",
+                "description": "The street is one of the various streets simply named for male Christians (Mathew, 2008, p. 126).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.7876799,
+                        -19.2569972
+                    ],
+                    [
+                        146.7881285,
+                        -19.2565454
+                    ],
+                    [
+                        146.7888539,
+                        -19.2558083
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sidney Street",
+                "description": "The street is one of the various streets simply named for male Christians (Mathew, 2008, p. 112).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.7912184,
+                        -19.2607959
+                    ],
+                    [
+                        146.7914148,
+                        -19.2606545
+                    ],
+                    [
+                        146.7914148,
+                        -19.2606545
+                    ],
+                    [
+                        146.7920192,
+                        -19.2600157
+                    ],
+                    [
+                        146.7928019,
+                        -19.2592039
+                    ],
+                    [
+                        146.7928639,
+                        -19.2591395
+                    ],
+                    [
+                        146.7931429,
+                        -19.258914
+                    ],
+                    [
+                        146.7933248,
+                        -19.2588426
+                    ],
+                    [
+                        146.7935657,
+                        -19.2587778
+                    ],
+                    [
+                        146.7938022,
+                        -19.258711
+                    ],
+                    [
+                        146.7938961,
+                        -19.2585719
+                    ],
+                    [
+                        146.7938269,
+                        -19.2584213
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sidney Street",
+                "description": "The street is one of the various streets simply named for male Christians (Mathew, 2008, p. 112).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.7914148,
+                        -19.2606545
+                    ],
+                    [
+                        146.7913112,
+                        -19.2608744
+                    ]
+                ]
+            }
         }
     ]
 }

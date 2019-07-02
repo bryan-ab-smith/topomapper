@@ -14,7 +14,7 @@
                     [
                         146.8118463,
                         -19.2583345
-                      ],
+                    ],
                     [
                         146.8119927,
                         -19.2581264
@@ -635,6 +635,35 @@
                     [
                         146.7962218,
                         -19.2473694
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Feetham Court",
+                "description": "Named for John Oliver Feetham, \"the fourth Anglican Bishop of North Queensland\" (Mathew, 2008, p. 47).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.7944992,
+                        -19.2483053
+                    ],
+                    [
+                        146.7944505,
+                        -19.2483624
+                    ],
+                    [
+                        146.7944549,
+                        -19.2485264
+                    ],
+                    [
+                        146.7946377,
+                        -19.2488125
                     ]
                 ]
             }

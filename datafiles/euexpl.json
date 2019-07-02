@@ -3834,6 +3834,43 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Warburton Street",
+                "description": "Named for Major Warburton, explorer who explored west South Australia and who led an expedition toward Perth in 1873 to lay a telegraph line (Mathew, 2008, p. 123).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8022306,
+                        -19.2454587
+                    ],
+                    [
+                        146.8019356,
+                        -19.2452701
+                    ],
+                    [
+                        146.8018185,
+                        -19.245189
+                    ],
+                    [
+                        146.8016025,
+                        -19.2451079
+                    ],
+                    [
+                        146.8013605,
+                        -19.2450293
+                    ],
+                    [
+                        146.8013281,
+                        -19.2449784
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Gregory Street",
                 "description": "Named for Sir Augustus Charles Gregory, surveyor and explorer who worked in Western Australia who outlined the souther border of Queensland (Mathew, 2008, p. 55).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
@@ -4487,6 +4524,68 @@
                     [
                         146.8013281,
                         -19.2449784
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Howitt Street",
+                "description": "Named for Alfred W. Howitt, a member of the Burke and Wills expedition who, \"found the sole survivor of the party, John King, near Coopers Creek on 15th September 1861.\" (Mathew, 2008, p. 64)",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8016131,
+                        -19.2446294
+                    ],
+                    [
+                        146.8015135,
+                        -19.2448189
+                    ],
+                    [
+                        146.8015054,
+                        -19.2449131
+                    ],
+                    [
+                        146.8016409,
+                        -19.2450626
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Howitt Street",
+                "description": "Named for Alfred W. Howitt, a member of the Burke and Wills expedition who, \"found the sole survivor of the party, John King, near Coopers Creek on 15th September 1861.\" (Mathew, 2008, p. 64)",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8005404,
+                        -19.2449454
+                    ],
+                    [
+                        146.8008076,
+                        -19.2448783
+                    ],
+                    [
+                        146.8011799,
+                        -19.2448204
+                    ],
+                    [
+                        146.8013191,
+                        -19.2447948
+                    ],
+                    [
+                        146.8014573,
+                        -19.2447475
                     ]
                 ]
             }
