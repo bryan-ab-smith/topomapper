@@ -1007,6 +1007,254 @@
                     ]
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Harold Street",
+                "description": "The street is one of the various streets simply named for male Christians (Mathew, 2008, p. 59).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.7873297,
+                        -19.2574658
+                    ],
+                    [
+                        146.787427,
+                        -19.257548
+                    ],
+                    [
+                        146.7886125,
+                        -19.2585507
+                    ],
+                    [
+                        146.7891754,
+                        -19.2590588
+                    ],
+                    [
+                        146.7907431,
+                        -19.2604738
+                    ],
+                    [
+                        146.7907431,
+                        -19.2604738
+                    ],
+                    [
+                        146.7911725,
+                        -19.260793
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Harold Street",
+                "description": "The street is one of the various streets simply named for male Christians (Mathew, 2008, p. 59).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.7910657,
+                        -19.2608669
+                    ],
+                    [
+                        146.7909323,
+                        -19.2606719
+                    ],
+                    [
+                        146.7907431,
+                        -19.2604738
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Harold Street",
+                "description": "The street is one of the various streets simply named for male Christians (Mathew, 2008, p. 59).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.7914666,
+                        -19.2611416
+                    ],
+                    [
+                        146.7912045,
+                        -19.2610411
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Harold Street",
+                "description": "The street is one of the various streets simply named for male Christians (Mathew, 2008, p. 59).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.7913192,
+                        -19.2609171
+                    ],
+                    [
+                        146.7914666,
+                        -19.2611416
+                    ],
+                    [
+                        146.7914666,
+                        -19.2611416
+                    ],
+                    [
+                        146.792618,
+                        -19.2621797
+                    ],
+                    [
+                        146.7927973,
+                        -19.2623384
+                    ],
+                    [
+                        146.7937502,
+                        -19.2631071
+                    ],
+                    [
+                        146.7937502,
+                        -19.2631071
+                    ],
+                    [
+                        146.7938219,
+                        -19.2632564
+                    ],
+                    [
+                        146.7937822,
+                        -19.2636901
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Harold Street",
+                "description": "The street is one of the various streets simply named for male Christians (Mathew, 2008, p. 59).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.7938219,
+                        -19.2632564
+                    ],
+                    [
+                        146.7939524,
+                        -19.263249
+                    ],
+                    [
+                        146.7943359,
+                        -19.2635655
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Claude Street",
+                "description": "The street is one of the various streets simply named for male Christians (Mathew, 2008, p. 32).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.7895908,
+                        -19.2586182
+                    ],
+                    [
+                        146.7900099,
+                        -19.2582092
+                    ],
+                    [
+                        146.7907855,
+                        -19.25744
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Claude Street",
+                "description": "The street is one of the various streets simply named for male Christians (Mathew, 2008, p. 68).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.7927973,
+                        -19.2623384
+                    ],
+                    [
+                        146.793376,
+                        -19.2617555
+                    ],
+                    [
+                        146.7936805,
+                        -19.2614289
+                    ],
+                    [
+                        146.7936805,
+                        -19.2614289
+                    ],
+                    [
+                        146.7938874,
+                        -19.2611024
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Henry Street",
+                "description": "Named for Alfred Henry who was police magistrate (1885-1888), a journalist and a sugar planter (Mathew, 2008, p. 61).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.7882198,
+                        -19.2669284
+                      ],
+                      [
+                        146.7886923,
+                        -19.2631315
+                      ],
+                      [
+                        146.7888276,
+                        -19.2619392
+                      ],
+                      [
+                        146.7889712,
+                        -19.2607799
+                      ]
+                ]
+            }
         }
     ]
 }

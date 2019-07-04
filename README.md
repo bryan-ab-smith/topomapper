@@ -17,7 +17,7 @@ The following suburbs have been mapped:
 - Belgian Gardens
 
 Next up:
-- West End
+- West End (this has been partially mapped, albeit roughly - this is very much a work in progress)
 - (potentially) Garbutt
 
 NOTE: Efforts to map will slow down as each of the four suburbs above will be cleaned up, proofed and filled out with further context.
