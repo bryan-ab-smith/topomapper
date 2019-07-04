@@ -1955,6 +1955,104 @@
                     ]
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ralston Street",
+                "description": "Named for Walter Varden Ralston, \"manager of the Townsville branch of the Queensland National Bank in the 1880s\" (Mathew, 2008, p. 104).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.7860611,
+                        -19.261616
+                    ],
+                    [
+                        146.786238,
+                        -19.2616515
+                    ],
+                    [
+                        146.7888276,
+                        -19.2619392
+                    ],
+                    [
+                        146.7921122,
+                        -19.2622917
+                    ],
+                    [
+                        146.7923011,
+                        -19.2623212
+                    ],
+                    [
+                        146.7924057,
+                        -19.2623314
+                    ],
+                    [
+                        146.7924996,
+                        -19.2622972
+                    ],
+                    [
+                        146.792618,
+                        -19.2621797
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Echlin Street",
+                "description": "Named for John Flemming Echlin, businessperson who worked for various people/companies including as part of a partnership in surverying company Benwell &amp; Echlin (1884-1886), as an auditor representing \"insurance companies on the Fire Brigade Board\" and as Sub-Lieutenant for the Naval Brigade Company (Mathew, 2008, p. 43).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.7963862,
+                        -19.2638637
+                    ],
+                    [
+                        146.7965316,
+                        -19.2639979
+                    ],
+                    [
+                        146.796565,
+                        -19.2641379
+                    ],
+                    [
+                        146.7964453,
+                        -19.2650193
+                    ],
+                    [
+                        146.796436,
+                        -19.2650928
+                    ],
+                    [
+                        146.7963201,
+                        -19.265912
+                    ],
+                    [
+                        146.796247,
+                        -19.2665467
+                    ],
+                    [
+                        146.7962128,
+                        -19.2668149
+                    ],
+                    [
+                        146.7961019,
+                        -19.2677984
+                    ],
+                    [
+                        146.7960955,
+                        -19.2678075
+                    ]
+                ]
+            }
         }
     ]
 }
