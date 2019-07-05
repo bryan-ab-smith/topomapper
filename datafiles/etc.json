@@ -1255,6 +1255,27 @@
                       ]
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Barron Street",
+                "description": "Named for a river in NE QLD (Mathew, 2008, p. 15).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.7848008,
+                        -19.2651491
+                      ],
+                      [
+                        146.7856392,
+                        -19.2661699
+                      ]
+                ]
+            }
         }
     ]
 }

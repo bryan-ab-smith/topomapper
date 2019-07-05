@@ -1926,6 +1926,85 @@
                     ]
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kepper Street",
+                "description": "No information yet available.",
+                "refs": "--"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.7865708,
+                        -19.2644079
+                    ],
+                    [
+                        146.7866889,
+                        -19.2635233
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Carrington Street",
+                "description": "No information yet available.",
+                "refs": "--"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.7835978,
+                        -19.2650965
+                    ],
+                    [
+                        146.7837829,
+                        -19.2654201
+                    ],
+                    [
+                        146.7837829,
+                        -19.2654201
+                    ],
+                    [
+                        146.7845577,
+                        -19.26634
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Carrington Street",
+                "description": "No information yet available.",
+                "refs": "--"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.7837829,
+                        -19.2654201
+                    ],
+                    [
+                        146.7836795,
+                        -19.2653809
+                    ],
+                    [
+                        146.7835883,
+                        -19.2654113
+                    ],
+                    [
+                        146.783492,
+                        -19.2654923
+                    ]
+                ]
+            }
         }
     ]
 }

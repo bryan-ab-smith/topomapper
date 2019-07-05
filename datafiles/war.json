@@ -490,6 +490,134 @@
                     ]
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tuffley Street",
+                "description": "Named for Alex Tuffley, soldier who died in WW1 (Mathew, 2008, p. 119).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.7853553,
+                        -19.2633618
+                    ],
+                    [
+                        146.7866889,
+                        -19.2635233
+                    ],
+                    [
+                        146.7870388,
+                        -19.2635588
+                    ],
+                    [
+                        146.7871837,
+                        -19.2634255
+                    ],
+                    [
+                        146.787258,
+                        -19.2629494
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nix Street",
+                "description": "Named for Captain John Edward Nix, soldier who died in WW1 (Mathew, 2008, p. 93).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.7839454,
+                        -19.264089
+                    ],
+                    [
+                        146.7839947,
+                        -19.2641058
+                    ],
+                    [
+                        146.7841246,
+                        -19.2641501
+                    ],
+                    [
+                        146.7865708,
+                        -19.2644079
+                    ],
+                    [
+                        146.787048,
+                        -19.2644632
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Montgomery Street",
+                "description": "Named for J.S. Montgomery, soldier who fought in the First World War (Mathew, 2008, p. 87).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.7836582,
+                        -19.2648695
+                      ],
+                      [
+                        146.7836956,
+                        -19.2649505
+                      ],
+                      [
+                        146.7838107,
+                        -19.2650305
+                      ],
+                    [
+                        146.7838107,
+                        -19.2650305
+                      ],
+                      [
+                        146.7848008,
+                        -19.2651491
+                      ],
+                      [
+                        146.7869519,
+                        -19.2653674
+                      ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Montgomery Street",
+                "description": "Named for J.S. Montgomery, soldier who fought in the First World War (Mathew, 2008, p. 87).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.7838107,
+                        -19.2650305
+                      ],
+                      [
+                        146.7836741,
+                        -19.2650568
+                      ],
+                      [
+                        146.7835978,
+                        -19.2650965
+                      ]
+                ]
+            }
         }
     ]
 }
