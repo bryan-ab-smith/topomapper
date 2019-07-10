@@ -88,7 +88,7 @@ $(document).ready(function () {
 
 
     map.on('click', function (e) {
-        var layerList = ['euExplLayer', 'atsiLayer', 'polLayer', 'busLayer', 'monarLayer', 'relLayer', 'warLayer', 'etcLayer', 'noneLayer', 'tpLayer'];
+        var layerList = ['euExplLayer', 'atsiLayer', 'polLayer', 'busLayer', 'monarLayer', 'relLayer', 'warLayer', 'etcLayer', 'noneLayer', 'tpLayer', 'localLayer'];
         var clickedLayer = map.queryRenderedFeatures(e.point)[0].layer.id;
         if (layerList.indexOf(clickedLayer) > -1) {
             new mapboxgl.Popup()
