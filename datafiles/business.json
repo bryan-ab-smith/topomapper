@@ -2053,6 +2053,39 @@
                     ]
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cowley Street",
+                "description": "Named for Ephraim E. Cowley, owner of varied businesses including a grocery store, tea shop, smoking house for bacon and the maker of \"Kangaroo Hunt\" sauce (Mathew, 2008, p. 36).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.7933204,
+                        -19.2674697
+                    ],
+                    [
+                        146.7934356,
+                        -19.2665574
+                    ],
+                    [
+                        146.793553,
+                        -19.2656093
+                    ],
+                    [
+                        146.7936583,
+                        -19.264673
+                    ],
+                    [
+                        146.7937822,
+                        -19.2636901
+                    ]
+                ]
+            }
         }
     ]
 }

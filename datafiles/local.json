@@ -46,6 +46,31 @@
                     ]
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Townsville Street",
+                "description": "Named for the city (Mathew, 2008, p. 119).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.790274,
+                        -19.2669558
+                      ],
+                      [
+                        146.7903546,
+                        -19.2661888
+                      ],
+                      [
+                        146.7907121,
+                        -19.263371
+                      ]
+                ]
+            }
         }
     ]
 }

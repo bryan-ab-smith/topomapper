@@ -570,27 +570,27 @@
                     [
                         146.7836582,
                         -19.2648695
-                      ],
-                      [
+                    ],
+                    [
                         146.7836956,
                         -19.2649505
-                      ],
-                      [
-                        146.7838107,
-                        -19.2650305
-                      ],
+                    ],
                     [
                         146.7838107,
                         -19.2650305
-                      ],
-                      [
+                    ],
+                    [
+                        146.7838107,
+                        -19.2650305
+                    ],
+                    [
                         146.7848008,
                         -19.2651491
-                      ],
-                      [
+                    ],
+                    [
                         146.7869519,
                         -19.2653674
-                      ]
+                    ]
                 ]
             }
         },
@@ -607,15 +607,82 @@
                     [
                         146.7838107,
                         -19.2650305
-                      ],
-                      [
+                    ],
+                    [
                         146.7836741,
                         -19.2650568
-                      ],
-                      [
+                    ],
+                    [
                         146.7835978,
                         -19.2650965
-                      ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Edwards Street",
+                "description": "Named for Norman Victor Edwards, killed in the First World War (Mathew, 2008, p. 44).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.7892232,
+                        -19.2670428
+                    ],
+                    [
+                        146.7892431,
+                        -19.2668946
+                    ],
+                    [
+                        146.7897076,
+                        -19.2632611
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Plant Street",
+                "description": "Named for \"Lieutenant Colonel Plant, the commanding officer of the 31st Infantry Battallion, First A.I.F.\" (Mathew, 2008, p. 102).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.793553,
+                        -19.2656093
+                    ],
+                    [
+                        146.7963201,
+                        -19.265912
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Humphrey Street",
+                "description": "Named for John Edward Humphrey, soldier killed in the First World War (Mathew, 2008, p. 65).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.7934356,
+                        -19.2665574
+                    ],
+                    [
+                        146.7962128,
+                        -19.2668149
+                    ]
                 ]
             }
         }

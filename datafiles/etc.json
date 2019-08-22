@@ -1240,19 +1240,19 @@
                     [
                         146.7882198,
                         -19.2669284
-                      ],
-                      [
+                    ],
+                    [
                         146.7886923,
                         -19.2631315
-                      ],
-                      [
+                    ],
+                    [
                         146.7888276,
                         -19.2619392
-                      ],
-                      [
+                    ],
+                    [
                         146.7889712,
                         -19.2607799
-                      ]
+                    ]
                 ]
             }
         },
@@ -1269,11 +1269,82 @@
                     [
                         146.7848008,
                         -19.2651491
-                      ],
-                      [
+                    ],
+                    [
                         146.7856392,
                         -19.2661699
-                      ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Estate Street",
+                "description": "\"A road in the West Townsville Estate subdivision in 1889. An attempt by the Council in 1919 to rename the street Alfred was strongly opposed by residents, the name was retained and Alfred Street became part of Estate Street\" (Mathew, 2008, p. 45).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.7912204,
+                        -19.2670051
+                    ],
+                    [
+                        146.7913195,
+                        -19.2663011
+                    ],
+                    [
+                        146.7916892,
+                        -19.2634693
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "John Street",
+                "description": "The street is one of the various streets simply named for male Christians (Mathew, 2008, p. 69).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.7903546,
+                        -19.2661888
+                    ],
+                    [
+                        146.7913195,
+                        -19.2663011
+                    ],
+                    [
+                        146.7923432,
+                        -19.2664159
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "North Street",
+                "description": "Named for Francis Roger North, a solicitor (Mathew, 2008, p. 94).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.7936583,
+                        -19.264673
+                    ],
+                    [
+                        146.7964453,
+                        -19.2650193
+                    ]
                 ]
             }
         }
