@@ -665,3 +665,54 @@ function tourRight() {
         easing: easing
     });
 }
+
+
+
+/* 
+    What follows below are helper functions that can be useful during a presentation.
+    map.setPaintProperty('euExplLayer', 'line-color', '#30809F');
+    map.setLayoutProperty('euExplLayer', 'visibility', 'visible');
+*/
+
+var layerList = ['euExplLayer', 'atsiLayer', 'polLayer', 'busLayer', 'monarLayer', 'relLayer', 'warLayer', 'etcLayer', 'noneLayer', 'tpLayer', 'localLayer'];
+
+
+function reset() {
+    for (x=0; x<layerList.length; x++) {
+        map.setLayoutProperty(layerList[x], 'visibility', 'visible');
+        if (layerList[x] == 'noneLayer') {
+            map.setPaintProperty(layerList[x], 'line-color', '#000000');
+        } else {
+            map.setPaintProperty(layerList[x], 'line-color', '#30809F');
+        }
+    }
+}
+function highlight(layerName) {
+    for (x=0; x<layerList.length; x++) {
+        if (layerList[x] != layerName) {
+            map.setLayoutProperty(layerList[x], 'visibility', 'none');
+        }
+    }
+}
+
+function colourLayers() {
+
+    var colours = {
+        0: 'white',
+        1: 'green',
+        2: 'blue',
+        3: 'purple',
+        4: 'red',
+        5: 'yellow',
+        6: 'brown',
+        7: 'cyan',
+        8: 'black',
+        9: 'magenta',
+        10: 'orange',
+    }
+
+    for (x=0; x<layerList.length; x++) {
+        map.setPaintProperty(layerList[x], 'line-color', colours[x]);
+    }
+}
+
