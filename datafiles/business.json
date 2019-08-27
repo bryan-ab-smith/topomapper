@@ -2086,6 +2086,907 @@
                     ]
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hann Street",
+                "description": "Named for William Hann, owner of the Cleveland Bay Express Newspaper Company (est. 1867) (Mathew, 2008, p. 58).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.806015,
+                        -19.2663341
+                    ],
+                    [
+                        146.8066879,
+                        -19.2664196
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ingham Road",
+                "description": "Named for W.B. Ingham, a sugar plantation owner (Mathew, 2008, p. 66).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.7831145,
+                        -19.266314
+                    ],
+                    [
+                        146.7832585,
+                        -19.2663337
+                    ],
+                    [
+                        146.7832585,
+                        -19.2663337
+                    ],
+                    [
+                        146.7833439,
+                        -19.2663486
+                    ],
+                    [
+                        146.7835811,
+                        -19.2663777
+                    ],
+                    [
+                        146.7840906,
+                        -19.2664402
+                    ],
+                    [
+                        146.7845517,
+                        -19.2664997
+                    ],
+                    [
+                        146.7845517,
+                        -19.2664997
+                    ],
+                    [
+                        146.7847225,
+                        -19.2665333
+                    ],
+                    [
+                        146.7847225,
+                        -19.2665333
+                    ],
+                    [
+                        146.7858786,
+                        -19.2666725
+                    ],
+                    [
+                        146.7882198,
+                        -19.2669284
+                    ],
+                    [
+                        146.7892232,
+                        -19.2670428
+                    ],
+                    [
+                        146.7913293,
+                        -19.2672983
+                    ],
+                    [
+                        146.7913293,
+                        -19.2672983
+                    ],
+                    [
+                        146.7917767,
+                        -19.2672985
+                    ],
+                    [
+                        146.7922403,
+                        -19.2673312
+                    ],
+                    [
+                        146.7922403,
+                        -19.2673312
+                    ],
+                    [
+                        146.7933204,
+                        -19.2674697
+                    ],
+                    [
+                        146.7933204,
+                        -19.2674697
+                    ],
+                    [
+                        146.7941262,
+                        -19.2676035
+                    ],
+                    [
+                        146.7941262,
+                        -19.2676035
+                    ],
+                    [
+                        146.7954916,
+                        -19.2677484
+                    ],
+                    [
+                        146.7960955,
+                        -19.2678075
+                    ],
+                    [
+                        146.7970929,
+                        -19.2679129
+                    ],
+                    [
+                        146.7987602,
+                        -19.2681082
+                    ],
+                    [
+                        146.7989329,
+                        -19.2681284
+                    ],
+                    [
+                        146.8003038,
+                        -19.2682734
+                    ],
+                    [
+                        146.8003592,
+                        -19.268279
+                    ],
+                    [
+                        146.8013039,
+                        -19.2683747
+                    ],
+                    [
+                        146.8013257,
+                        -19.2683769
+                    ],
+                    [
+                        146.8023241,
+                        -19.2684749
+                    ],
+                    [
+                        146.8030876,
+                        -19.2685664
+                    ],
+                    [
+                        146.8030876,
+                        -19.2685664
+                    ],
+                    [
+                        146.804013,
+                        -19.2686325
+                    ],
+                    [
+                        146.8042089,
+                        -19.2686603
+                    ],
+                    [
+                        146.8044366,
+                        -19.2686894
+                    ],
+                    [
+                        146.8044366,
+                        -19.2686894
+                    ],
+                    [
+                        146.8045633,
+                        -19.2687008
+                    ],
+                    [
+                        146.8045633,
+                        -19.2687008
+                    ],
+                    [
+                        146.8048117,
+                        -19.2687235
+                    ],
+                    [
+                        146.806163,
+                        -19.268869
+                    ],
+                    [
+                        146.806325,
+                        -19.2688577
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ingham Road",
+                "description": "Named for W.B. Ingham, a sugar plantation owner (Mathew, 2008, p. 66).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.7847225,
+                        -19.2665333
+                    ],
+                    [
+                        146.784512,
+                        -19.2665483
+                    ],
+                    [
+                        146.784512,
+                        -19.2665483
+                    ],
+                    [
+                        146.7841137,
+                        -19.2665333
+                    ],
+                    [
+                        146.7838911,
+                        -19.2665054
+                    ],
+                    [
+                        146.7832322,
+                        -19.2664268
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ingham Road",
+                "description": "Named for W.B. Ingham, a sugar plantation owner (Mathew, 2008, p. 66).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.7841137,
+                        -19.2665333
+                    ],
+                    [
+                        146.7835152,
+                        -19.2665113
+                    ],
+                    [
+                        146.7833835,
+                        -19.266537
+                    ],
+                    [
+                        146.7833154,
+                        -19.2665799
+                    ],
+                    [
+                        146.7832518,
+                        -19.2666485
+                    ],
+                    [
+                        146.7831882,
+                        -19.2667214
+                    ],
+                    [
+                        146.7831152,
+                        -19.2668276
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ingham Road",
+                "description": "Named for W.B. Ingham, a sugar plantation owner (Mathew, 2008, p. 66).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.7833505,
+                        -19.2659538
+                    ],
+                    [
+                        146.7833562,
+                        -19.2661425
+                    ],
+                    [
+                        146.7833699,
+                        -19.2662283
+                    ],
+                    [
+                        146.7834153,
+                        -19.2663055
+                    ],
+                    [
+                        146.7835811,
+                        -19.2663777
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ingham Road",
+                "description": "Named for W.B. Ingham, a sugar plantation owner (Mathew, 2008, p. 66).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.7941262,
+                        -19.2676035
+                    ],
+                    [
+                        146.7934719,
+                        -19.2675638
+                    ],
+                    [
+                        146.7933034,
+                        -19.2675443
+                    ],
+                    [
+                        146.7933034,
+                        -19.2675443
+                    ],
+                    [
+                        146.7931581,
+                        -19.2675283
+                    ],
+                    [
+                        146.7931581,
+                        -19.2675283
+                    ],
+                    [
+                        146.7922269,
+                        -19.2674176
+                    ],
+                    [
+                        146.7922269,
+                        -19.2674176
+                    ],
+                    [
+                        146.7913293,
+                        -19.2672983
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ingham Road",
+                "description": "Named for W.B. Ingham, a sugar plantation owner (Mathew, 2008, p. 66).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8066495,
+                        -19.2687767
+                    ],
+                    [
+                        146.8063599,
+                        -19.2689236
+                    ],
+                    [
+                        146.8062551,
+                        -19.2689374
+                    ],
+                    [
+                        146.8061356,
+                        -19.2689286
+                    ],
+                    [
+                        146.8061356,
+                        -19.2689286
+                    ],
+                    [
+                        146.8045048,
+                        -19.268779
+                    ],
+                    [
+                        146.8045048,
+                        -19.268779
+                    ],
+                    [
+                        146.8043731,
+                        -19.268761
+                    ],
+                    [
+                        146.8043731,
+                        -19.268761
+                    ],
+                    [
+                        146.8038413,
+                        -19.268693
+                    ],
+                    [
+                        146.80379,
+                        -19.2686883
+                    ],
+                    [
+                        146.8036482,
+                        -19.2686753
+                    ],
+                    [
+                        146.8032003,
+                        -19.2685892
+                    ],
+                    [
+                        146.8030876,
+                        -19.2685664
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ingham Road",
+                "description": "Named for W.B. Ingham, a sugar plantation owner (Mathew, 2008, p. 66).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8040559,
+                        -19.2691817
+                    ],
+                    [
+                        146.8040533,
+                        -19.269055
+                    ],
+                    [
+                        146.8040077,
+                        -19.2689411
+                    ],
+                    [
+                        146.8038951,
+                        -19.2688347
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ingham Road",
+                "description": "Named for W.B. Ingham, a sugar plantation owner (Mathew, 2008, p. 66).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.793219,
+                        -19.2678765
+                    ],
+                    [
+                        146.7945097,
+                        -19.2680543
+                    ],
+                    [
+                        146.7947499,
+                        -19.2680514
+                    ],
+                    [
+                        146.7949708,
+                        -19.2679619
+                    ],
+                    [
+                        146.7951875,
+                        -19.2679356
+                    ],
+                    [
+                        146.79837,
+                        -19.2682413
+                    ],
+                    [
+                        146.8002797,
+                        -19.2684643
+                    ],
+                    [
+                        146.8022247,
+                        -19.2686595
+                    ],
+                    [
+                        146.8038951,
+                        -19.2688347
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ingham Road",
+                "description": "Named for W.B. Ingham, a sugar plantation owner (Mathew, 2008, p. 66).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8039945,
+                        -19.2694285
+                    ],
+                    [
+                        146.8040559,
+                        -19.2691817
+                    ],
+                    [
+                        146.8041096,
+                        -19.2690197
+                    ],
+                    [
+                        146.8041256,
+                        -19.2689108
+                    ],
+                    [
+                        146.8041176,
+                        -19.2688675
+                    ],
+                    [
+                        146.8040908,
+                        -19.2688168
+                    ],
+                    [
+                        146.804059,
+                        -19.2687895
+                    ],
+                    [
+                        146.8040291,
+                        -19.2687639
+                    ],
+                    [
+                        146.8039567,
+                        -19.2687282
+                    ],
+                    [
+                        146.80379,
+                        -19.2686883
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Shaw Street",
+                "description": "Named for D. and A. Shaw, owners of the West End Bakery during the late 19<sup>th</sup>/early 20<sup>th</sup> century (Mathew, 2008, p. 111).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.7980999,
+                        -19.2705291
+                    ],
+                    [
+                        146.800004,
+                        -19.2707432
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Woolcock Street",
+                "description": "Named for Arthur Woolcock, \"manager of the Townsville branch of the London Chartered Bank of Australia in 1885\" (Mathew, 2008, p. 127).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.7820125,
+                        -19.2701481
+                    ],
+                    [
+                        146.7821356,
+                        -19.2701609
+                    ],
+                    [
+                        146.7821356,
+                        -19.2701609
+                    ],
+                    [
+                        146.7825036,
+                        -19.2701933
+                    ],
+                    [
+                        146.7845892,
+                        -19.2704181
+                    ],
+                    [
+                        146.7851857,
+                        -19.2704805
+                    ],
+                    [
+                        146.7858296,
+                        -19.2705537
+                    ],
+                    [
+                        146.7868964,
+                        -19.2706247
+                    ],
+                    [
+                        146.7878484,
+                        -19.2706326
+                    ],
+                    [
+                        146.78946,
+                        -19.2707104
+                    ],
+                    [
+                        146.7901631,
+                        -19.2707601
+                    ],
+                    [
+                        146.792703,
+                        -19.2710474
+                    ],
+                    [
+                        146.7997357,
+                        -19.2717365
+                    ],
+                    [
+                        146.8006141,
+                        -19.2718314
+                    ],
+                    [
+                        146.8010127,
+                        -19.2718599
+                    ],
+                    [
+                        146.8013896,
+                        -19.2718792
+                    ],
+                    [
+                        146.8016937,
+                        -19.2718665
+                    ],
+                    [
+                        146.8016937,
+                        -19.2718665
+                    ],
+                    [
+                        146.80227,
+                        -19.2718777
+                    ],
+                    [
+                        146.8025323,
+                        -19.2719478
+                    ],
+                    [
+                        146.8025323,
+                        -19.2719478
+                    ],
+                    [
+                        146.8028839,
+                        -19.2720844
+                    ],
+                    [
+                        146.8035772,
+                        -19.2722523
+                    ],
+                    [
+                        146.8042437,
+                        -19.2723104
+                    ],
+                    [
+                        146.8045086,
+                        -19.2723377
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Woolcock Street",
+                "description": "Named for Arthur Woolcock, \"manager of the Townsville branch of the London Chartered Bank of Australia in 1885\" (Mathew, 2008, p. 127).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8044211,
+                        -19.2724158
+                    ],
+                    [
+                        146.8041575,
+                        -19.2723942
+                    ],
+                    [
+                        146.8036911,
+                        -19.2723567
+                    ],
+                    [
+                        146.8035802,
+                        -19.2723336
+                    ],
+                    [
+                        146.8031246,
+                        -19.2722419
+                    ],
+                    [
+                        146.8024896,
+                        -19.2720567
+                    ],
+                    [
+                        146.8021631,
+                        -19.272053
+                    ],
+                    [
+                        146.8016261,
+                        -19.2720613
+                    ],
+                    [
+                        146.7998713,
+                        -19.2719257
+                    ],
+                    [
+                        146.7998713,
+                        -19.2719257
+                    ],
+                    [
+                        146.7969448,
+                        -19.2716031
+                    ],
+                    [
+                        146.796839,
+                        -19.2715914
+                    ],
+                    [
+                        146.7959751,
+                        -19.2715076
+                    ],
+                    [
+                        146.7958043,
+                        -19.271491
+                    ],
+                    [
+                        146.7939693,
+                        -19.2713249
+                    ],
+                    [
+                        146.7926945,
+                        -19.2712095
+                    ],
+                    [
+                        146.7926945,
+                        -19.2712095
+                    ],
+                    [
+                        146.7920834,
+                        -19.2711429
+                    ],
+                    [
+                        146.7895293,
+                        -19.2708644
+                    ],
+                    [
+                        146.7895293,
+                        -19.2708644
+                    ],
+                    [
+                        146.7889799,
+                        -19.2708401
+                    ],
+                    [
+                        146.7874001,
+                        -19.2707995
+                    ],
+                    [
+                        146.7867907,
+                        -19.2707752
+                    ],
+                    [
+                        146.7861212,
+                        -19.2707428
+                    ],
+                    [
+                        146.7848124,
+                        -19.2706087
+                    ],
+                    [
+                        146.7836929,
+                        -19.2704712
+                    ],
+                    [
+                        146.7821136,
+                        -19.2703055
+                    ],
+                    [
+                        146.7821136,
+                        -19.2703055
+                    ],
+                    [
+                        146.7819893,
+                        -19.2702931
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Woolcock Street",
+                "description": "Named for Arthur Woolcock, \"manager of the Townsville branch of the London Chartered Bank of Australia in 1885\" (Mathew, 2008, p. 127).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": []
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Woolcock Street",
+                "description": "Named for Arthur Woolcock, \"manager of the Townsville branch of the London Chartered Bank of Australia in 1885\" (Mathew, 2008, p. 127).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": []
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Woolcock Street",
+                "description": "Named for Arthur Woolcock, \"manager of the Townsville branch of the London Chartered Bank of Australia in 1885\" (Mathew, 2008, p. 127).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": []
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Woolcock Street",
+                "description": "Named for Arthur Woolcock, \"manager of the Townsville branch of the London Chartered Bank of Australia in 1885\" (Mathew, 2008, p. 127).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": []
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Woolcock Street",
+                "description": "Named for Arthur Woolcock, \"manager of the Townsville branch of the London Chartered Bank of Australia in 1885\" (Mathew, 2008, p. 127).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": []
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Woolcock Street",
+                "description": "Named for Arthur Woolcock, \"manager of the Townsville branch of the London Chartered Bank of Australia in 1885\" (Mathew, 2008, p. 127).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": []
+            }
         }
     ]
 }

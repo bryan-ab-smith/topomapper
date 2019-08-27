@@ -667,6 +667,67 @@
                     ]
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Church Street",
+                "description": "Named because there was a Methodist church along this street. The naming occurred in stages: in 1881, the section south of Ingham Road was named and the portion north in 1893 (Mathew, 2008, p. 31).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.7999655,
+                        -19.2710783
+                    ],
+                    [
+                        146.800004,
+                        -19.2707432
+                    ],
+                    [
+                        146.8001539,
+                        -19.2695693
+                    ],
+                    [
+                        146.8002797,
+                        -19.2684643
+                    ],
+                    [
+                        146.8002857,
+                        -19.2684065
+                    ],
+                    [
+                        146.8003038,
+                        -19.2682734
+                    ],
+                    [
+                        146.8004323,
+                        -19.2671831
+                    ],
+                    [
+                        146.800454,
+                        -19.2669993
+                    ],
+                    [
+                        146.8005863,
+                        -19.2659018
+                    ],
+                    [
+                        146.8006887,
+                        -19.2650181
+                    ],
+                    [
+                        146.8007163,
+                        -19.2647628
+                    ],
+                    [
+                        146.8006627,
+                        -19.2645092
+                    ]
+                ]
+            }
         }
     ]
 }
