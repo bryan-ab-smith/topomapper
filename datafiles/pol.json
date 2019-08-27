@@ -3540,6 +3540,295 @@
                     ]
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Garrick Street",
+                "description": "Named for Sir James Francis Garrick, solicitor and eventual appointee to the QLD Supreme Court, a position they did not take (Mathew, 2008, p. 52).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.796436,
+                        -19.2650928
+                    ],
+                    [
+                        146.797588,
+                        -19.2652175
+                    ],
+                    [
+                        146.7983024,
+                        -19.2652964
+                    ],
+                    [
+                        146.7984448,
+                        -19.2653622
+                    ],
+                    [
+                        146.7986385,
+                        -19.2656075
+                    ],
+                    [
+                        146.7987732,
+                        -19.2657176
+                    ],
+                    [
+                        146.8005863,
+                        -19.2659018
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mary Street",
+                "description": "Named for Mary Jane Aplin, wife of William Aplin (Mathew, 2008, p. 84). The latter was a member of local council, eventual mayor and member of the QLD legislative council from 1880-1901 (Australian National University, 2019, para. 2).",
+                "refs": "Australian National University. (2019). <i>Biography - William Aplin - Australian Dictionary of Biography</i>. Retrieved from http://adb.anu.edu.au/biography/aplin-william-2893.<br \\>Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.796247,
+                        -19.2665467
+                    ],
+                    [
+                        146.7989236,
+                        -19.2668397
+                    ],
+                    [
+                        146.800454,
+                        -19.2669993
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jane Street",
+                "description": "Named for Mary Jane Aplin, wife of William Aplin (Mathew, 2008, p. 84). The latter was a member of local council, eventual mayor and member of the QLD legislative council from 1880-1901 (Australian National University, 2019, para. 2).",
+                "refs": "Australian National University. (2019). <i>Biography - William Aplin - Australian Dictionary of Biography</i>. Retrieved from http://adb.anu.edu.au/biography/aplin-william-2893.<br \\>Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.7987602,
+                        -19.2681082
+                    ],
+                    [
+                        146.7989236,
+                        -19.2668397
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Norman Street",
+                "description": "Named for Sir Henry Wylie Norman (1826-1904), a soldier, governor of Jamaica (1883) and governor of QLD (1888) (Mathew, 2008, p. 93).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8020158,
+                        -19.2675272
+                    ],
+                    [
+                        146.8021193,
+                        -19.2666296
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Musgrave Street",
+                "description": "Named for Sir Anthony Musgrave (1828-1888), a politician taking up various posts including as governor of SA (1873-1877), governor of Jamaica (1877) and governor of QLD (1883) (Mathew, 2008, p. 93).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8029668,
+                        -19.2676351
+                    ],
+                    [
+                        146.8030822,
+                        -19.2666498
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "McClelland Street",
+                "description": "Named for Robert Wilson McClelland, a politician who was alderman (1913) and mayor (1916) (Mathew, 2008, p. 79).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8046058,
+                        -19.2652673
+                    ],
+                    [
+                        146.8046889,
+                        -19.2653585
+                    ],
+                    [
+                        146.8048309,
+                        -19.2654319
+                    ],
+                    [
+                        146.8049683,
+                        -19.2654981
+                    ],
+                    [
+                        146.8051847,
+                        -19.265558
+                    ],
+                    [
+                        146.8051847,
+                        -19.265558
+                    ],
+                    [
+                        146.8053143,
+                        -19.2655387
+                    ],
+                    [
+                        146.8054189,
+                        -19.2655057
+                    ],
+                    [
+                        146.8055794,
+                        -19.265485
+                    ],
+                    [
+                        146.8056786,
+                        -19.265485
+                    ],
+                    [
+                        146.8057725,
+                        -19.265485
+                    ],
+                    [
+                        146.8058527,
+                        -19.2654922
+                    ],
+                    [
+                        146.8059173,
+                        -19.2655331
+                    ],
+                    [
+                        146.8060246,
+                        -19.2656116
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Castling Street",
+                "description": "Named for William Joseph Castling, a businessperson and politician who served in various roles including local council (1880), alderman and as \"a member of the Thuringowa Divisional Board\" (Mathew, 2008, p. 29).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8019377,
+                        -19.2711893
+                    ],
+                    [
+                        146.8020851,
+                        -19.2697661
+                    ],
+                    [
+                        146.8022247,
+                        -19.2686595
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Livingstone Street",
+                "description": "Named for Robert Livingstone, a businessperson and politician who served in various roles including local council (1880), alderman and \"in 1889 was chairman of both the Council's Works Committee and the special committee set up to appoint a traffic inspector and an assistant inspector of nuisances\" (Mathew, 2008, p. 77).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.7982431,
+                        -19.2693552
+                    ],
+                    [
+                        146.8001539,
+                        -19.2695693
+                    ],
+                    [
+                        146.8011281,
+                        -19.2696627
+                    ],
+                    [
+                        146.8020851,
+                        -19.2697661
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Livingstone Street",
+                "description": "Named for John Newport Parkes (1859-1927), a businessperson and politician who served in various roles including alderman (1883) and mayor (1889). Notably, he supported seperation and was, \"was president of the Separation League in 1890\" (Mathew, 2008, p. 98).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.7979916,
+                        -19.2713505
+                    ],
+                    [
+                        146.7980999,
+                        -19.2705291
+                    ],
+                    [
+                        146.7981229,
+                        -19.2703408
+                    ],
+                    [
+                        146.7982431,
+                        -19.2693552
+                    ],
+                    [
+                        146.7983664,
+                        -19.2682727
+                    ],
+                    [
+                        146.79837,
+                        -19.2682413
+                    ]
+                ]
+            }
         }
     ]
 }

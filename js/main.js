@@ -82,7 +82,7 @@ $(document).ready(function () {
     map.on('load', function () {
 
         getData();
-        
+
         map.resize();
     });
 
@@ -103,7 +103,7 @@ $(document).ready(function () {
 function toggleMapLayers() {
     curStyle == mbStyleLight ? curStyle = mbStyleSat : curStyle = mbStyleLight;
     map.setStyle(curStyle);
-    map.on('style.load', function(e) {
+    map.on('style.load', function (e) {
         getData();
     })
 }
@@ -125,7 +125,7 @@ function getData() {
             "line-color": lineColour,
             "line-width": lineWidth,
             "line-opacity": 0.4
-          }
+        }
     });
 
     map.addSource('localSource', {
@@ -141,7 +141,7 @@ function getData() {
             "line-color": lineColour,
             "line-width": lineWidth,
             "line-opacity": 0.4
-          }
+        }
     });
 
     map.addSource('polSource', {
@@ -157,7 +157,7 @@ function getData() {
             "line-color": lineColour,
             "line-width": lineWidth,
             "line-opacity": 0.4
-          }
+        }
     });
 
     map.addSource('atsiSource', {
@@ -173,7 +173,7 @@ function getData() {
             "line-color": lineColour,
             "line-width": lineWidth,
             "line-opacity": 0.4
-          }
+        }
     });
 
     map.addSource('busSource', {
@@ -189,7 +189,7 @@ function getData() {
             "line-color": lineColour,
             "line-width": lineWidth,
             "line-opacity": 0.4
-          }
+        }
     });
 
     map.addSource('monarSource', {
@@ -205,7 +205,7 @@ function getData() {
             "line-color": lineColour,
             "line-width": lineWidth,
             "line-opacity": 0.4
-          }
+        }
     });
 
     map.addSource('relSource', {
@@ -221,7 +221,7 @@ function getData() {
             "line-color": lineColour,
             "line-width": lineWidth,
             "line-opacity": 0.4
-          }
+        }
     });
 
     map.addSource('warSource', {
@@ -237,7 +237,7 @@ function getData() {
             "line-color": lineColour,
             "line-width": lineWidth,
             "line-opacity": 0.4
-          }
+        }
     });
 
     map.addSource('etcSource', {
@@ -253,7 +253,7 @@ function getData() {
             "line-color": lineColour,
             "line-width": lineWidth,
             "line-opacity": 0.4
-          }
+        }
     });
 
     map.addSource('tpSource', {
@@ -269,7 +269,7 @@ function getData() {
             "line-color": lineColour,
             "line-width": lineWidth,
             "line-opacity": 0.4
-          }
+        }
     });
 
     map.addSource('noneSource', {
@@ -285,7 +285,7 @@ function getData() {
             "line-color": "#000000",
             "line-width": lineWidth,
             "line-opacity": 0.4
-          }
+        }
     });
 
     $('#pointLoadingInfo').hide();
@@ -592,7 +592,7 @@ function tourShow() {
         }
     }, labelLayerId);
 
-    map.getCanvas().addEventListener('keydown', function(e) {
+    map.getCanvas().addEventListener('keydown', function (e) {
         e.preventDefault();
         if (e.which === 38) { // up
             map.panBy([0, -deltaDistance], {
@@ -675,20 +675,22 @@ function tourRight() {
 */
 
 var layerList = ['euExplLayer', 'atsiLayer', 'polLayer', 'busLayer', 'monarLayer', 'relLayer', 'warLayer', 'etcLayer', 'noneLayer', 'tpLayer', 'localLayer'];
-
+var legendShowing = false;
 
 function reset() {
-    for (x=0; x<layerList.length; x++) {
+    for (x = 0; x < layerList.length; x++) {
         map.setLayoutProperty(layerList[x], 'visibility', 'visible');
         if (layerList[x] == 'noneLayer') {
             map.setPaintProperty(layerList[x], 'line-color', '#000000');
+            map.setPaintProperty(layerList[x], 'line-opacity', 0.4);
         } else {
             map.setPaintProperty(layerList[x], 'line-color', '#30809F');
+            map.setPaintProperty(layerList[x], 'line-opacity', 0.4);
         }
     }
 }
 function highlight(layerName) {
-    for (x=0; x<layerList.length; x++) {
+    for (x = 0; x < layerList.length; x++) {
         if (layerList[x] != layerName) {
             map.setLayoutProperty(layerList[x], 'visibility', 'none');
         }
@@ -698,21 +700,31 @@ function highlight(layerName) {
 function colourLayers() {
 
     var colours = {
-        0: 'white',
-        1: 'green',
-        2: 'blue',
-        3: 'purple',
-        4: 'red',
-        5: 'yellow',
-        6: 'brown',
-        7: 'cyan',
-        8: 'black',
-        9: 'magenta',
-        10: 'orange',
+        0: '#DC2627',
+        1: '#F27123',
+        2: '#B4CE34',
+        3: '#15BB4F',
+        4: '#00B5AD',
+        5: '#2483CE',
+        6: '#662CC5',
+        7: '#E13494',
+        8: '#1B1C1D',
+        9: '#A56741',
+        10: '#767676',
     }
 
-    for (x=0; x<layerList.length; x++) {
+    for (x = 0; x < layerList.length; x++) {
         map.setPaintProperty(layerList[x], 'line-color', colours[x]);
+        map.setPaintProperty(layerList[x], 'line-opacity', 1);
     }
 }
 
+function toggleLegend() {
+    if (legendShowing == false) {
+        $('#layerLegend').show()
+        legendShowing = true;
+    } else {
+        $('#layerLegend').hide()
+        legendShowing = false;
+    }
+}

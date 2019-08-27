@@ -1347,6 +1347,68 @@
                     ]
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Margaret Street",
+                "description": "The street is one of the various streets simply named for female Christians (Mathew, 2008, p. 94).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.797506,
+                        -19.2659396
+                      ],
+                      [
+                        146.797588,
+                        -19.2652175
+                      ],
+                      [
+                        146.797673,
+                        -19.2645847
+                      ],
+                      [
+                        146.7977855,
+                        -19.2642415
+                      ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Maryvale Street",
+                "description": "Named by William Hann after their property in Charters Towers (Mathew, 2008, p. 84).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8060246,
+                        -19.2656116
+                      ],
+                      [
+                        146.8060753,
+                        -19.2656416
+                      ],
+                      [
+                        146.8060935,
+                        -19.2656833
+                      ],
+                      [
+                        146.806015,
+                        -19.2663341
+                      ],
+                      [
+                        146.8059613,
+                        -19.2666868
+                      ]
+                ]
+            }
         }
     ]
 }

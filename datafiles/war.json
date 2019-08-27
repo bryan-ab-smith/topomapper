@@ -685,6 +685,212 @@
                     ]
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Baxter Street",
+                "description": "Named for Duncan and Neil Baxter in 1919, soldiers killed in the First World War (Mathew, 2008, p. 16).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.7987814,
+                        -19.2648112
+                    ],
+                    [
+                        146.8006887,
+                        -19.2650181
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pridmore Street",
+                "description": "Named for Charles Banks Pridmore, soldier killed in France (1918) during the First World War (Mathew, 2008, p. 103).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8013257,
+                        -19.2683769
+                    ],
+                    [
+                        146.8014524,
+                        -19.2675571
+                    ],
+                    [
+                        146.8014568,
+                        -19.2675284
+                    ],
+                    [
+                        146.8015212,
+                        -19.2674727
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Wilson Street",
+                "description": "Named for William Overend Wilson, soldier killed during the First World War (Mathew, 2008, p. 126).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8042431,
+                        -19.2684481
+                    ],
+                    [
+                        146.8042887,
+                        -19.2680539
+                    ],
+                    [
+                        146.8045047,
+                        -19.2661934
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Wilson Street",
+                "description": "Named for William Overend Wilson, soldier killed during the First World War (Mathew, 2008, p. 126).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8040479,
+                        -19.2641431
+                    ],
+                    [
+                        146.8045809,
+                        -19.2641951
+                    ],
+                    [
+                        146.8046348,
+                        -19.2642344
+                    ],
+                    [
+                        146.8046433,
+                        -19.2643381
+                    ],
+                    [
+                        146.8046487,
+                        -19.2644419
+                    ],
+                    [
+                        146.8046701,
+                        -19.264566
+                    ],
+                    [
+                        146.8047023,
+                        -19.2646546
+                    ],
+                    [
+                        146.8048234,
+                        -19.2647309
+                    ],
+                    [
+                        146.8049168,
+                        -19.2647812
+                    ],
+                    [
+                        146.804965,
+                        -19.2648192
+                    ],
+                    [
+                        146.8049543,
+                        -19.2648648
+                    ],
+                    [
+                        146.8049007,
+                        -19.2648951
+                    ],
+                    [
+                        146.8048127,
+                        -19.2648955
+                    ],
+                    [
+                        146.8046846,
+                        -19.264886
+                    ],
+                    [
+                        146.8045646,
+                        -19.2649285
+                    ],
+                    [
+                        146.8045651,
+                        -19.2650177
+                    ],
+                    [
+                        146.8045897,
+                        -19.2651711
+                    ],
+                    [
+                        146.8046058,
+                        -19.2652673
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Greenslade Street",
+                "description": "Named for Harold Greenslade, soldier killed during the First World War (Mathew, 2008, p. 55).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8048495,
+                        -19.268133
+                    ],
+                    [
+                        146.8051836,
+                        -19.2655823
+                    ],
+                    [
+                        146.8051847,
+                        -19.265558
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Greenslade Street",
+                "description": "Named for George Vaughn in 1919, soldier killed during the First World War (Mathew, 2008, p. 55).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8009785,
+                        -19.2710507
+                    ],
+                    [
+                        146.8011281,
+                        -19.2696627
+                    ]
+                ]
+            }
         }
     ]
 }
