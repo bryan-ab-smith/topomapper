@@ -1197,7 +1197,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Claude Street",
+                "name": "James Street",
                 "description": "The street is one of the various streets simply named for male Christians (Mathew, 2008, p. 68).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -1361,19 +1361,19 @@
                     [
                         146.797506,
                         -19.2659396
-                      ],
-                      [
+                    ],
+                    [
                         146.797588,
                         -19.2652175
-                      ],
-                      [
+                    ],
+                    [
                         146.797673,
                         -19.2645847
-                      ],
-                      [
+                    ],
+                    [
                         146.7977855,
                         -19.2642415
-                      ]
+                    ]
                 ]
             }
         },
@@ -1390,23 +1390,23 @@
                     [
                         146.8060246,
                         -19.2656116
-                      ],
-                      [
+                    ],
+                    [
                         146.8060753,
                         -19.2656416
-                      ],
-                      [
+                    ],
+                    [
                         146.8060935,
                         -19.2656833
-                      ],
-                      [
+                    ],
+                    [
                         146.806015,
                         -19.2663341
-                      ],
-                      [
+                    ],
+                    [
                         146.8059613,
                         -19.2666868
-                      ]
+                    ]
                 ]
             }
         }

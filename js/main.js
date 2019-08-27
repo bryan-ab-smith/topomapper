@@ -689,6 +689,11 @@ function reset() {
         }
     }
 }
+
+function getLayers() {
+    console.log(layerList);
+}
+
 function highlight(layerName) {
     for (x = 0; x < layerList.length; x++) {
         if (layerList[x] != layerName) {
