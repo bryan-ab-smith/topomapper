@@ -3829,6 +3829,71 @@
                     ]
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Heatleys Parade",
+                "description": "Named for alderman and mayor William John Heatley (Mathew, 2008, p. 61).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.7907917,
+                        -19.2409816
+                    ],
+                    [
+                        146.790865,
+                        -19.2410574
+                    ],
+                    [
+                        146.7916985,
+                        -19.241778
+                    ],
+                    [
+                        146.7929152,
+                        -19.2427887
+                    ],
+                    [
+                        146.7932692,
+                        -19.2430827
+                    ],
+                    [
+                        146.7948571,
+                        -19.2442172
+                    ],
+                    [
+                        146.7950716,
+                        -19.2444117
+                    ],
+                    [
+                        146.7952776,
+                        -19.2445819
+                    ],
+                    [
+                        146.7954493,
+                        -19.244825
+                    ],
+                    [
+                        146.7955819,
+                        -19.2450675
+                    ],
+                    [
+                        146.7955819,
+                        -19.2450675
+                    ],
+                    [
+                        146.7957398,
+                        -19.2458051
+                    ],
+                    [
+                        146.7957588,
+                        -19.2459025
+                    ]
+                ]
+            }
         }
     ]
 }
