@@ -219,7 +219,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Castle Hill Road",
-				"description": "Named for Castle Hill, itself named by Andrew Ball as it ostensibly resembles a place in either the Isle of Man or Dublin. Originally, it was named Mount Cudtheringa/Cootharinga/Cutheringa/Catherunga, an Aboriginal word for the hill. Over time, the Indigenous word fell out of use in official contexts (Mathew, 2008, p. 29).",
+				"description": "Named for Castle Hill, itself named by Andrew Ball as it ostensibly resembles a place in either the Isle of Man or Dublin. Originally, it was named Mount Cudtheringa / Cootharinga / Cutheringa / Catherunga, an Aboriginal word for the hill. Over time, the Indigenous word fell out of use in official contexts (Mathew, 2008, p. 29).",
 				"refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
 			},
 			"geometry": {

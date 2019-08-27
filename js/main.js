@@ -696,7 +696,7 @@ function getLayers() {
 
 function highlight(layerName) {
     for (x = 0; x < layerList.length; x++) {
-        if (layerList[x] != layerName) {
+        if (layerList[x] != layerName + 'Layer') {
             map.setLayoutProperty(layerList[x], 'visibility', 'none');
         }
     }
