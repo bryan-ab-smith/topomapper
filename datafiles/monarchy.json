@@ -12,8 +12,8 @@
                 "type": "LineString",
                 "coordinates": [
                     [
-                        146.8122003,
-                        -19.2538667
+                        146.8122581,
+                        -19.2538779
                     ],
                     [
                         146.8108545,
@@ -75,7 +75,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Alexandra Street",
-                "description": "Named for \"Alexandra of Denmark (1844-1925) married Albert Edward (later Edward VII), the eldest son of Queen Victoria in 1863\" (Mathew, 2008, p. 6).",
+                "description": "Named for \"Alexandra of Denmark (1844-1925) [who] married Albert Edward (later Edward VII), the eldest son of Queen Victoria in 1863\" (Mathew, 2008, p. 6).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
             "geometry": {
@@ -84,11 +84,19 @@
                     [
                         146.8074083,
                         -19.25443
-                      ],
-                      [
-                        146.8054825,
-                        -19.2533383
-                      ]
+                    ],
+                    [
+                        146.805514,
+                        -19.2533187
+                    ],
+                    [
+                        146.8037077,
+                        -19.2523029
+                    ],
+                    [
+                        146.8035872,
+                        -19.2522405
+                    ]
                 ]
             }
         },
@@ -259,51 +267,6 @@
                     [
                         146.8014403,
                         -19.2480825
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Braemar Crescent",
-                "description": "\"Braemar is a village and district in Aberdeenshire, Scotland where Balmoral and Abergeldie castles are situated\" (Mathew, 2008, p. 121).",
-                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        146.797535,
-                        -19.2476692
-                    ],
-                    [
-                        146.7980156,
-                        -19.2473532
-                    ],
-                    [
-                        146.7980866,
-                        -19.2473074
-                    ],
-                    [
-                        146.7982561,
-                        -19.2472217
-                    ],
-                    [
-                        146.7983075,
-                        -19.2472073
-                    ],
-                    [
-                        146.7985049,
-                        -19.2472155
-                    ],
-                    [
-                        146.7998524,
-                        -19.2475882
-                    ],
-                    [
-                        146.8000989,
-                        -19.2477563
                     ]
                 ]
             }

@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
 <head>
 	<meta charset='utf-8' />
@@ -14,26 +14,26 @@
 	<meta name="apple-mobile-web-app-status-bar-style" content="black">
 	<!-- https://developers.google.com/web/updates/2014/11/Support-for-theme-color-in-Chrome-39-for-Android?hl=en -->
 	<meta name="theme-color" content="#FAF9F5">
-	<link rel='manifest' href='manifest.json'>
+	<!--<link rel='manifest' href='manifest.json'>-->
 	<link rel="shortcut icon" type="image/png" href="img/logo_about.png" />
 
 	<title>Topomapper</title>
 
 	<!-- https://stackoverflow.com/a/37480521 - This is for Electron support  -->
 	<script>if (typeof module === 'object') { window.module = module; module = undefined; }</script>
-	<script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.44.2/mapbox-gl.js'></script>
+	<script src='https://api.mapbox.com/mapbox-gl-js/v1.6.1/mapbox-gl.js'></script>
 	<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js'></script>
 	<script src='https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.10/semantic.min.js'></script>
 	<script src='js/mapbox_prefs.js'></script>
 	<!--<script src='https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js'></script>-->
-	<script src='sw_loader.js'></script>
+	<!--<script src='sw_loader.js'></script>-->
 	<script src='js/main.js'></script>
 	<script
 		src='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v2.2.0/mapbox-gl-geocoder.min.js'></script>
 	<link rel='stylesheet'
 		href='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v2.2.0/mapbox-gl-geocoder.css'
 		type='text/css' />
-	<link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.44.2/mapbox-gl.css' rel='stylesheet' />
+	<link href='https://api.mapbox.com/mapbox-gl-js/v1.6.1/mapbox-gl.css' rel='stylesheet' />
 	<link href='https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.10/semantic.min.css' rel='stylesheet' />
 	<!--<link href='https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/css/toastr.min.css' rel='stylesheet' />-->
 
@@ -172,8 +172,8 @@
 			<div class='content'>
 				<div class='header'>Legend</div>
 				<div class='description'>
-					<span style='color: #DC2627'>(European) Explorers</span><br \>
-					<span style='color: #F27123'>Aboriginal and Torres Strait Islander</span><br \>
+					<span style='color: #DC2627'>(European) Explorer(s)</span><br \>
+					<span style='color: #F27123'>Aboriginal and Torres Strait Islander(s)</span><br \>
 					<span style='color: #B4CE34'>Politics</span><br \>
 					<span style='color: #15BB4F'>Business</span><br \>
 					<span style='color: #00B5AD'>Monarchy</span><br \>
@@ -229,7 +229,7 @@
 						<div class='header'>
 							Legend
 						</div>
-						<div id='legendGrid' class='ui stackable grid'>
+						<div class='ui stackable grid'>
 							<div class='eight wide column'>
 								<a class='ui orange large fluid label'>Aboriginal and Torres Strait Islander
 									Peoples.</a>
@@ -301,7 +301,7 @@
 		<div id='toggleOverlay'>
 			<div class='ui items'>
 				<div class='item'>
-					<div id='legendDiv' class='middle aligned content'>
+					<div class='middle aligned content'>
 						<a class="ui right floated icon basic button" onclick='closeToggle();'>
 							<i class='icon remove'></i>
 							Close
@@ -311,7 +311,7 @@
 							Toggles
 						</div>
 						<p style='margin-bottom: 5vh'></p>
-						<div id='legendGrid' class='ui stackable grid'>
+						<div class='ui stackable grid'>
 							<div class='eight wide column'>
 								<div id='atsiVisButton' class='ui orange inverted raised segment'
 									onclick='showTopoLayer("atsiLayer", "atsiVisButton");'>
@@ -390,7 +390,7 @@
 						(Australia).
 						<p></p>
 						<h3>Legend</h3>
-						<table class='ui very basic collapsing celled table' style='width: 100%;'>
+						<table class='ui very basic inverted collapsing celled table' style='width: 100%;'>
 							<thead>
 								<tr>
 									<th>Icon</th>
@@ -463,7 +463,7 @@
 						</a>
 						<p></p>
 						<div class='media'>
-							<img src='img/logo_about.png' class='align-self-start mr-3'>
+							<!--<img src='img/logo_about.png' class='align-self-start mr-3'>-->
 							<div class='media-body'>
 								<h2 class='mt-0'>Hello!</h2>
 								<p>I see this is your first time here so welcome to Topomapper! Let's go over some of
@@ -479,19 +479,12 @@
 						only).
 						<p></p>
 						<h3>Legend</h3>
-						<div class='ui grid'>
-							<div class='eight wide column'>
-								<div class='ui blue inverted segment'>Information about the street is available.</div>
-							</div>
-							<div class='eight wide column'>
-								<div class='ui black inverted segment'>There is no information as of yet available or
-									there
-									is a lack of sufficient evidence to make a reasonable claim.</div>
-							</div>
-						</div>
+						If the street is white coloured, information about it is available. Conversely, if the street is
+						black, no information is available.
 						<h3>Interface</h3>
 						The table below gives you a sense of the interface elements and what they offer you.
-						<table class='ui very basic collapsing celled table' style='width: 100%; margin-bottom: 5%;'>
+						<table class='ui very basic inverted collapsing celled table'
+							style='width: 100%; margin-bottom: 5%;'>
 							<thead>
 								<tr>
 									<th>Element</th>
