@@ -2,21 +2,25 @@
 
 // https://serviceworke.rs/strategy-cache-and-update_service-worker_doc.html
 
-self.addEventListener('fetch', function(event) {
+self.addEventListener('fetch', function (event) {
     event.respondWith(
-        caches.match(event.request).then(function(response) {
-        return response || fetch(event.request);
-        })
+        caches.match(event.request)
+            .then(function (response) {
+                return response || fetch(event.request);
+            })
+            .catch(function (error) {
+                console.log(error);
+            })
     );
 
     event.waitUntil(update(event.request));
 });
 
-self.addEventListener('install', function(e) {
+self.addEventListener('install', function (e) {
     self.skipWaiting();
 
     e.waitUntil(
-        caches.open('topomapper-cache').then(function(cache) {
+        caches.open('topomapper-cache').then(function (cache) {
             return cache.addAll([
                 './',
                 './sw_loader.js',
@@ -44,15 +48,15 @@ self.addEventListener('install', function(e) {
                 './css/main.css',
                 './img/apple-touch-icon.png',
                 './img/nopic.png'
-              ]);
+            ]);
         })
     );
 });
 
 function update(request) {
     return caches.open('topomapper-cache').then(function (cache) {
-      return fetch(request).then(function (response) {
-        return cache.put(request, response);
-      });
+        return fetch(request).then(function (response) {
+            return cache.put(request, response);
+        });
     });
-  }
+}

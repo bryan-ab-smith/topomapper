@@ -130,72 +130,12 @@
                 "type": "LineString",
                 "coordinates": [
                     [
-                        146.8184202,
-                        -19.2528644
+                        146.807533,
+                        -19.242045
                     ],
                     [
-                        146.8193845,
-                        -19.2534544
-                    ],
-                    [
-                        146.8203533,
-                        -19.2540336
-                    ],
-                    [
-                        146.8204538,
-                        -19.2541529
-                    ],
-                    [
-                        146.8204538,
-                        -19.2541529
-                    ],
-                    [
-                        146.8216859,
-                        -19.255076
-                    ],
-                    [
-                        146.8220944,
-                        -19.2553367
-                    ],
-                    [
-                        146.822902,
-                        -19.2558184
-                    ],
-                    [
-                        146.822902,
-                        -19.2558184
-                    ],
-                    [
-                        146.8235054,
-                        -19.2561765
-                    ],
-                    [
-                        146.8239379,
-                        -19.256423
-                    ],
-                    [
-                        146.824274,
-                        -19.2566292
-                    ],
-                    [
-                        146.824274,
-                        -19.2566292
-                    ],
-                    [
-                        146.8243833,
-                        -19.2566941
-                    ],
-                    [
-                        146.8244659,
-                        -19.2567598
-                    ],
-                    [
-                        146.8244659,
-                        -19.2567598
-                    ],
-                    [
-                        146.8249325,
-                        -19.257073
+                        146.8062632,
+                        -19.2405418
                     ]
                 ]
             }
@@ -211,206 +151,12 @@
                 "type": "LineString",
                 "coordinates": [
                     [
-                        146.8204538,
-                        -19.2541529
+                        146.8088839,
+                        -19.2437051
                     ],
                     [
-                        146.8203079,
-                        -19.2541004
-                    ],
-                    [
-                        146.819877,
-                        -19.2538465
-                    ],
-                    [
-                        146.8192967,
-                        -19.2535944
-                    ],
-                    [
-                        146.8189893,
-                        -19.2534289
-                    ],
-                    [
-                        146.8183593,
-                        -19.2529421
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "The Strand",
-                "description": "\"A word meaning the edge of the sea or of other bodies of water and commonly applied to a road along a foreshore or river bank\" (Mathew, 2008, p. 115).",
-                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        146.8167681,
-                        -19.2515739
-                    ],
-                    [
-                        146.8167824,
-                        -19.2515849
-                    ],
-                    [
-                        146.8182157,
-                        -19.2526915
-                    ],
-                    [
-                        146.8182781,
-                        -19.2527397
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "The Strand",
-                "description": "\"A word meaning the edge of the sea or of other bodies of water and commonly applied to a road along a foreshore or river bank\" (Mathew, 2008, p. 115).",
-                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        146.818192,
-                        -19.2528573
-                    ],
-                    [
-                        146.8167322,
-                        -19.2516868
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "The Strand",
-                "description": "\"A word meaning the edge of the sea or of other bodies of water and commonly applied to a road along a foreshore or river bank\" (Mathew, 2008, p. 115).",
-                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        146.8150536,
-                        -19.2499092
-                    ],
-                    [
-                        146.8150881,
-                        -19.2499784
-                    ],
-                    [
-                        146.8152719,
-                        -19.2501278
-                    ],
-                    [
-                        146.8154336,
-                        -19.2503263
-                    ],
-                    [
-                        146.8155597,
-                        -19.2504815
-                    ],
-                    [
-                        146.8165727,
-                        -19.2514626
-                    ],
-                    [
-                        146.8166082,
-                        -19.251497
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "The Strand",
-                "description": "\"A word meaning the edge of the sea or of other bodies of water and commonly applied to a road along a foreshore or river bank\" (Mathew, 2008, p. 115).",
-                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        146.8165457,
-                        -19.2515497
-                    ],
-                    [
-                        146.8155026,
-                        -19.2505677
-                    ],
-                    [
-                        146.815429,
-                        -19.2504889
-                    ],
-                    [
-                        146.8153827,
-                        -19.2503478
-                    ],
-                    [
-                        146.8152477,
-                        -19.2501594
-                    ],
-                    [
-                        146.8150667,
-                        -19.2499961
-                    ],
-                    [
-                        146.8149848,
-                        -19.249974
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "The Strand",
-                "description": "\"A word meaning the edge of the sea or of other bodies of water and commonly applied to a road along a foreshore or river bank\" (Mathew, 2008, p. 115).",
-                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        146.8134191,
-                        -19.2485206
-                    ],
-                    [
-                        146.8147652,
-                        -19.2497254
-                    ],
-                    [
-                        146.8149384,
-                        -19.2497946
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "The Strand",
-                "description": "\"A word meaning the edge of the sea or of other bodies of water and commonly applied to a road along a foreshore or river bank\" (Mathew, 2008, p. 115).",
-                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        146.8148624,
-                        -19.2498716
-                    ],
-                    [
-                        146.8147652,
-                        -19.2497254
+                        146.8075932,
+                        -19.2421295
                     ]
                 ]
             }
@@ -495,12 +241,44 @@
                 "type": "LineString",
                 "coordinates": [
                     [
-                        146.8088839,
-                        -19.2437051
+                        146.8148624,
+                        -19.2498716
                     ],
                     [
-                        146.8076073,
-                        -19.2421624
+                        146.8147914,
+                        -19.2497592
+                    ],
+                    [
+                        146.8147364,
+                        -19.2496909
+                    ],
+                    [
+                        146.81466,
+                        -19.2496314
+                    ],
+                    [
+                        146.8145393,
+                        -19.2495693
+                    ],
+                    [
+                        146.8143676,
+                        -19.2494414
+                    ],
+                    [
+                        146.814275,
+                        -19.2493427
+                    ],
+                    [
+                        146.8141938,
+                        -19.2492506
+                    ],
+                    [
+                        146.8141938,
+                        -19.2492506
+                    ],
+                    [
+                        146.8134191,
+                        -19.2485206
                     ]
                 ]
             }
@@ -516,12 +294,299 @@
                 "type": "LineString",
                 "coordinates": [
                     [
-                        146.8075471,
-                        -19.2420779
+                        146.8141938,
+                        -19.2492506
                     ],
                     [
-                        146.8062632,
-                        -19.2405418
+                        146.8143032,
+                        -19.2492933
+                    ],
+                    [
+                        146.8143917,
+                        -19.2493465
+                    ],
+                    [
+                        146.8145996,
+                        -19.2494946
+                    ],
+                    [
+                        146.8147029,
+                        -19.2496098
+                    ],
+                    [
+                        146.8147606,
+                        -19.2496706
+                    ],
+                    [
+                        146.8148424,
+                        -19.2497339
+                    ],
+                    [
+                        146.8149384,
+                        -19.2497946
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "The Strand",
+                "description": "\"A word meaning the edge of the sea or of other bodies of water and commonly applied to a road along a foreshore or river bank\" (Mathew, 2008, p. 115).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8165457,
+                        -19.2515497
+                    ],
+                    [
+                        146.8155026,
+                        -19.2505677
+                    ],
+                    [
+                        146.815429,
+                        -19.2504889
+                    ],
+                    [
+                        146.8153827,
+                        -19.2503478
+                    ],
+                    [
+                        146.8152477,
+                        -19.2501594
+                    ],
+                    [
+                        146.8150667,
+                        -19.2499961
+                    ],
+                    [
+                        146.8149848,
+                        -19.249974
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "The Strand",
+                "description": "\"A word meaning the edge of the sea or of other bodies of water and commonly applied to a road along a foreshore or river bank\" (Mathew, 2008, p. 115).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8150536,
+                        -19.2499092
+                    ],
+                    [
+                        146.8150881,
+                        -19.2499784
+                    ],
+                    [
+                        146.8152719,
+                        -19.2501278
+                    ],
+                    [
+                        146.8154336,
+                        -19.2503263
+                    ],
+                    [
+                        146.8155597,
+                        -19.2504815
+                    ],
+                    [
+                        146.8165727,
+                        -19.2514626
+                    ],
+                    [
+                        146.8166082,
+                        -19.251497
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "The Strand",
+                "description": "\"A word meaning the edge of the sea or of other bodies of water and commonly applied to a road along a foreshore or river bank\" (Mathew, 2008, p. 115).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.818192,
+                        -19.2528573
+                    ],
+                    [
+                        146.8167322,
+                        -19.2516868
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "The Strand",
+                "description": "\"A word meaning the edge of the sea or of other bodies of water and commonly applied to a road along a foreshore or river bank\" (Mathew, 2008, p. 115).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8167681,
+                        -19.2515739
+                    ],
+                    [
+                        146.8167824,
+                        -19.2515849
+                    ],
+                    [
+                        146.8182157,
+                        -19.2526915
+                    ],
+                    [
+                        146.8182781,
+                        -19.2527397
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "The Strand",
+                "description": "\"A word meaning the edge of the sea or of other bodies of water and commonly applied to a road along a foreshore or river bank\" (Mathew, 2008, p. 115).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8184202,
+                        -19.2528644
+                    ],
+                    [
+                        146.8193845,
+                        -19.2534544
+                    ],
+                    [
+                        146.8203533,
+                        -19.2540336
+                    ],
+                    [
+                        146.8204538,
+                        -19.2541529
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "The Strand",
+                "description": "\"A word meaning the edge of the sea or of other bodies of water and commonly applied to a road along a foreshore or river bank\" (Mathew, 2008, p. 115).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8220944,
+                        -19.2553367
+                    ],
+                    [
+                        146.8216859,
+                        -19.255076
+                    ],
+                    [
+                        146.8204538,
+                        -19.2541529
+                    ],
+                    [
+                        146.8204538,
+                        -19.2541529
+                    ],
+                    [
+                        146.8203079,
+                        -19.2541004
+                    ],
+                    [
+                        146.819877,
+                        -19.2538465
+                    ],
+                    [
+                        146.8192967,
+                        -19.2535944
+                    ],
+                    [
+                        146.8189893,
+                        -19.2534289
+                    ],
+                    [
+                        146.8183593,
+                        -19.2529421
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "The Strand",
+                "description": "\"A word meaning the edge of the sea or of other bodies of water and commonly applied to a road along a foreshore or river bank\" (Mathew, 2008, p. 115).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8220944,
+                        -19.2553367
+                    ],
+                    [
+                        146.822902,
+                        -19.2558184
+                    ],
+                    [
+                        146.822902,
+                        -19.2558184
+                    ],
+                    [
+                        146.8235054,
+                        -19.2561765
+                    ],
+                    [
+                        146.8239379,
+                        -19.256423
+                    ],
+                    [
+                        146.824274,
+                        -19.2566292
+                    ],
+                    [
+                        146.824274,
+                        -19.2566292
+                    ],
+                    [
+                        146.8243833,
+                        -19.2566941
+                    ],
+                    [
+                        146.8244659,
+                        -19.2567598
+                    ],
+                    [
+                        146.8249379,
+                        -19.2570591
                     ]
                 ]
             }
@@ -551,35 +616,18 @@
                     [
                         146.8238015,
                         -19.2565778
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "The Strand",
-                "description": "\"A word meaning the edge of the sea or of other bodies of water and commonly applied to a road along a foreshore or river bank\" (Mathew, 2008, p. 115).",
-                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        146.8244659,
-                        -19.2567598
-                    ],
-                    [
-                        146.8243611,
-                        -19.2567678
                     ],
                     [
                         146.8239581,
                         -19.2565432
                     ],
                     [
-                        146.8238015,
-                        -19.2565778
+                        146.8243611,
+                        -19.2567678
+                    ],
+                    [
+                        146.8244659,
+                        -19.2567598
                     ]
                 ]
             }
@@ -675,51 +723,75 @@
             "type": "Feature",
             "properties": {
                 "name": "Comerford Crescent",
-                "description": "Named for the Comerford family &emdash; Thomas, Mary and Benjamim &emdash; early settlers, businesspeople and rangers of the Town Common (Benjamin) (Mathew, 2008, p. 34).",
+                "description": "Named for the Comerford family - Thomas, Mary and Benjamin - early settlers, businesspeople and rangers of the Town Common (Benjamin) (Mathew, 2008, p. 34).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
             "geometry": {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        146.7904468,
-                        -19.2465636
+                        146.7904088,
+                        -19.2465357
                     ],
                     [
-                        146.7902142,
-                        -19.2466604
+                        146.7902921,
+                        -19.2465964
                     ],
                     [
-                        146.7900675,
-                        -19.2466848
+                        146.7901862,
+                        -19.2466369
                     ],
                     [
-                        146.7898811,
-                        -19.2466531
+                        146.7900708,
+                        -19.2466623
                     ],
                     [
-                        146.7897054,
-                        -19.2465443
+                        146.7899247,
+                        -19.2466445
+                    ],
+                    [
+                        146.7898335,
+                        -19.2466104
+                    ],
+                    [
+                        146.7897288,
+                        -19.2465483
+                    ],
+                    [
+                        146.7896605,
+                        -19.2464673
                     ],
                     [
                         146.7896143,
                         -19.2463767
                     ],
                     [
-                        146.7895988,
-                        -19.2461937
+                        146.7895961,
+                        -19.2462761
                     ],
                     [
-                        146.7896425,
-                        -19.2460258
+                        146.7895907,
+                        -19.246171
                     ],
                     [
-                        146.789753,
-                        -19.2458972
+                        146.7896068,
+                        -19.2460748
                     ],
                     [
-                        146.7898689,
-                        -19.2457893
+                        146.7896377,
+                        -19.2459861
+                    ],
+                    [
+                        146.7896967,
+                        -19.2459152
+                    ],
+                    [
+                        146.7897624,
+                        -19.2458494
+                    ],
+                    [
+                        146.7898509,
+                        -19.2457747
                     ]
                 ]
             }
@@ -1406,6 +1478,73 @@
                     [
                         146.8059613,
                         -19.2666868
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Styx Street",
+                "description": "Named for the River Styx (Mathew, 2008, p. 116).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8020355,
+                        -19.246454
+                    ],
+                    [
+                        146.8025395,
+                        -19.2456369
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tenth Avenue",
+                "description": "Numerically named road extending into Railway Estate, originally named \"Mawe Street\" (Mathew, 2008, p. 117).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8171467,
+                        -19.2708556
+                    ],
+                    [
+                        146.8171396,
+                        -19.2704071
+                    ],
+                    [
+                        146.8171335,
+                        -19.2698781
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Twelfth Avenue",
+                "description": "Numerically named road extending into Railway Estate (Mathew, 2008, p. 120).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8195418,
+                        -19.2703944
+                    ],
+                    [
+                        146.8195522,
+                        -19.2699407
                     ]
                 ]
             }

@@ -363,48 +363,8 @@
                 "type": "LineString",
                 "coordinates": [
                     [
-                        146.8105615,
-                        -19.2664205
-                    ],
-                    [
-                        146.810505,
-                        -19.2663356
-                    ],
-                    [
-                        146.810505,
-                        -19.2663356
-                    ],
-                    [
-                        146.8104522,
-                        -19.2662116
-                    ],
-                    [
-                        146.8104522,
-                        -19.2662116
-                    ],
-                    [
-                        146.8099316,
-                        -19.2654083
-                    ],
-                    [
-                        146.8099316,
-                        -19.2654083
-                    ],
-                    [
-                        146.8098843,
-                        -19.2653279
-                    ],
-                    [
-                        146.8098843,
-                        -19.2653279
-                    ],
-                    [
-                        146.8092605,
-                        -19.2643544
-                    ],
-                    [
-                        146.8092605,
-                        -19.2643544
+                        146.8092033,
+                        -19.2644005
                     ],
                     [
                         146.8088683,
@@ -432,12 +392,45 @@
                 "type": "LineString",
                 "coordinates": [
                     [
+                        146.8105347,
+                        -19.2664344
+                    ],
+                    [
+                        146.8104983,
+                        -19.2663394
+                    ],
+                    [
                         146.8104522,
                         -19.2662116
                     ],
                     [
-                        146.8105544,
-                        -19.2663058
+                        146.8099316,
+                        -19.2654083
+                    ],
+                    [
+                        146.8098843,
+                        -19.2653279
+                    ],
+                    [
+                        146.8093061,
+                        -19.2643379
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fletcher Street",
+                "description": "Named for Joseph Fletcher, businessperson who owned a butcher shop, timber yard, and \"a soap and candle works.\" He eventually served as Alderman and Mayor of Townsville (Mathew, 2008, p. 48).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8104522,
+                        -19.2662116
                     ],
                     [
                         146.8105544,
@@ -465,32 +458,40 @@
                         -19.2663816
                     ],
                     [
-                        146.8107903,
-                        -19.2665704
+                        146.8107527,
+                        -19.2665818
                     ],
                     [
-                        146.8109534,
-                        -19.2668017
+                        146.8109105,
+                        -19.2667903
                     ],
                     [
-                        146.8114497,
-                        -19.2675054
+                        146.8109733,
+                        -19.2668472
                     ],
                     [
-                        146.8114019,
-                        -19.2675607
+                        146.8114336,
+                        -19.2675472
                     ],
                     [
-                        146.8112987,
-                        -19.2675505
+                        146.8113363,
+                        -19.2676037
                     ],
                     [
-                        146.8108769,
-                        -19.2669052
+                        146.8110605,
+                        -19.2672283
                     ],
                     [
-                        146.8105615,
-                        -19.2664205
+                        146.8108821,
+                        -19.2669624
+                    ],
+                    [
+                        146.8108192,
+                        -19.2668875
+                    ],
+                    [
+                        146.8105347,
+                        -19.2664344
                     ]
                 ]
             }
@@ -760,20 +761,40 @@
                 "type": "LineString",
                 "coordinates": [
                     [
-                        146.8122003,
-                        -19.2538667
+                        146.8126001,
+                        -19.2542109
                     ],
                     [
-                        146.812637,
-                        -19.2542564
+                        146.8126826,
+                        -19.2541614
                     ],
                     [
-                        146.8129492,
-                        -19.2543762
+                        146.8127274,
+                        -19.2541501
                     ],
                     [
-                        146.8131105,
-                        -19.2543773
+                        146.8127824,
+                        -19.2541602
+                    ],
+                    [
+                        146.8128656,
+                        -19.2542286
+                    ],
+                    [
+                        146.8129688,
+                        -19.2543134
+                    ],
+                    [
+                        146.8130507,
+                        -19.2543413
+                    ],
+                    [
+                        146.8131043,
+                        -19.25434
+                    ],
+                    [
+                        146.81317,
+                        -19.2543058
                     ],
                     [
                         146.8133369,
@@ -1159,32 +1180,7 @@
             },
             "geometry": {
                 "type": "LineString",
-                "coordinates": [
-                    [
-                        146.8190028,
-                        -19.2656318
-                    ],
-                    [
-                        146.8193547,
-                        -19.2658019
-                    ],
-                    [
-                        146.8196208,
-                        -19.265891
-                    ],
-                    [
-                        146.8199469,
-                        -19.2659559
-                    ],
-                    [
-                        146.8203332,
-                        -19.2659802
-                    ],
-                    [
-                        146.8210987,
-                        -19.2660015
-                    ]
-                ]
+                "coordinates": []
             }
         },
         {
@@ -1271,20 +1267,142 @@
                 "type": "LineString",
                 "coordinates": [
                     [
-                        146.8180284,
-                        -19.2658298
+                        146.8199,
+                        -19.2659787
                     ],
                     [
-                        146.8183198,
-                        -19.2652967
+                        146.8200394,
+                        -19.2659875
                     ],
                     [
-                        146.8183312,
-                        -19.2652491
+                        146.8203329,
+                        -19.2660003
                     ],
                     [
-                        146.8183303,
-                        -19.2652009
+                        146.8206681,
+                        -19.2660218
+                    ],
+                    [
+                        146.8207794,
+                        -19.2660256
+                    ],
+                    [
+                        146.8208881,
+                        -19.2660231
+                    ],
+                    [
+                        146.8209645,
+                        -19.2660066
+                    ],
+                    [
+                        146.821041,
+                        -19.2659737
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rooney Street",
+                "description": "Named for the Rooney Family, developers who were responsible for \"the Magistrate’s Courthouse, the North Ward gaol and Bartlam’s building\" (Mathew, 2008, p. 108).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8182663,
+                        -19.2648206
+                    ],
+                    [
+                        146.8185062,
+                        -19.2651478
+                    ],
+                    [
+                        146.8185646,
+                        -19.265224
+                    ],
+                    [
+                        146.8188294,
+                        -19.2654478
+                    ],
+                    [
+                        146.8189153,
+                        -19.2655204
+                    ],
+                    [
+                        146.8191245,
+                        -19.2656673
+                    ],
+                    [
+                        146.8193485,
+                        -19.2657952
+                    ],
+                    [
+                        146.8195014,
+                        -19.2658509
+                    ],
+                    [
+                        146.8198125,
+                        -19.2659357
+                    ],
+                    [
+                        146.8199,
+                        -19.2659787
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rooney Street",
+                "description": "Named for the Rooney Family, developers who were responsible for \"the Magistrate’s Courthouse, the North Ward gaol and Bartlam’s building\" (Mathew, 2008, p. 108).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8199,
+                        -19.2659787
+                    ],
+                    [
+                        146.8197951,
+                        -19.2659876
+                    ],
+                    [
+                        146.8196435,
+                        -19.2659648
+                    ],
+                    [
+                        146.8195242,
+                        -19.2659344
+                    ],
+                    [
+                        146.8193123,
+                        -19.265861
+                    ],
+                    [
+                        146.8190977,
+                        -19.2657547
+                    ],
+                    [
+                        146.8188898,
+                        -19.2656243
+                    ],
+                    [
+                        146.8187748,
+                        -19.265524
+                    ],
+                    [
+                        146.818511,
+                        -19.2653015
+                    ],
+                    [
+                        146.8184555,
+                        -19.2652277
                     ],
                     [
                         146.818286,
@@ -1301,83 +1419,6 @@
                     [
                         146.8180663,
                         -19.264526
-                    ],
-                    [
-                        146.8182663,
-                        -19.2648206
-                    ],
-                    [
-                        146.8185062,
-                        -19.2651478
-                    ],
-                    [
-                        146.8185062,
-                        -19.2651478
-                    ],
-                    [
-                        146.8185646,
-                        -19.265224
-                    ],
-                    [
-                        146.8185646,
-                        -19.265224
-                    ],
-                    [
-                        146.8188294,
-                        -19.2654478
-                    ],
-                    [
-                        146.8189153,
-                        -19.2655204
-                    ],
-                    [
-                        146.8190028,
-                        -19.2656318
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Rooney Street",
-                "description": "Named for the Rooney Family, developers who were responsible for \"the Magistrate’s Courthouse, the North Ward gaol and Bartlam’s building\" (Mathew, 2008, p. 108).",
-                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        146.8190028,
-                        -19.2656318
-                    ],
-                    [
-                        146.8188893,
-                        -19.2655891
-                    ],
-                    [
-                        146.8187748,
-                        -19.265524
-                    ],
-                    [
-                        146.818511,
-                        -19.2653015
-                    ],
-                    [
-                        146.818511,
-                        -19.2653015
-                    ],
-                    [
-                        146.8184555,
-                        -19.2652277
-                    ],
-                    [
-                        146.8184555,
-                        -19.2652277
-                    ],
-                    [
-                        146.818286,
-                        -19.2650105
                     ]
                 ]
             }
@@ -1423,6 +1464,39 @@
                     [
                         146.8188294,
                         -19.2654478
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rooney Street",
+                "description": "Named for the Rooney Family, developers who were responsible for \"the Magistrate’s Courthouse, the North Ward gaol and Bartlam’s building\" (Mathew, 2008, p. 108).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8180284,
+                        -19.2658298
+                    ],
+                    [
+                        146.8183198,
+                        -19.2652967
+                    ],
+                    [
+                        146.8183312,
+                        -19.2652491
+                    ],
+                    [
+                        146.8183303,
+                        -19.2652009
+                    ],
+                    [
+                        146.818286,
+                        -19.2650105
                     ]
                 ]
             }
@@ -2986,6 +3060,51 @@
             "geometry": {
                 "type": "LineString",
                 "coordinates": []
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Clifton Street",
+                "description": "Named for William Clifton, merchant in the region during the mid/late 19th century (Mathew, 2008, p. 33).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8115506,
+                        -19.2529954
+                    ],
+                    [
+                        146.8119013,
+                        -19.2533423
+                    ],
+                    [
+                        146.8122366,
+                        -19.2536209
+                    ],
+                    [
+                        146.8122782,
+                        -19.2536854
+                    ],
+                    [
+                        146.812297,
+                        -19.2537525
+                    ],
+                    [
+                        146.8122943,
+                        -19.2538032
+                    ],
+                    [
+                        146.8122822,
+                        -19.25385
+                    ],
+                    [
+                        146.8122581,
+                        -19.2538779
+                    ]
+                ]
             }
         }
     ]

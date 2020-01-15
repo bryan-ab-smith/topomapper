@@ -419,12 +419,24 @@
                         -19.261863
                     ],
                     [
-                        146.7862776,
-                        -19.2604855
+                        146.7862602,
+                        -19.2605172
                     ],
                     [
-                        146.7862776,
-                        -19.2604855
+                        146.7862602,
+                        -19.2605172
+                    ],
+                    [
+                        146.7862827,
+                        -19.2604462
+                    ],
+                    [
+                        146.7862827,
+                        -19.2604462
+                    ],
+                    [
+                        146.7872426,
+                        -19.2574233
                     ],
                     [
                         146.7872426,
@@ -547,32 +559,52 @@
                         -19.2454418
                     ],
                     [
-                        146.7996702,
-                        -19.2451048
+                        146.7978749,
+                        -19.2454418
+                    ],
+                    [
+                        146.7983692,
+                        -19.2453636
                     ],
                     [
                         146.7996702,
                         -19.2451048
                     ],
                     [
-                        146.8000397,
-                        -19.2450318
+                        146.7996702,
+                        -19.2451048
                     ],
                     [
-                        146.8005404,
+                        146.8000544,
+                        -19.2450512
+                    ],
+                    [
+                        146.8006921,
                         -19.2449454
                     ],
                     [
-                        146.8007528,
-                        -19.2449305
+                        146.8008523,
+                        -19.2449451
                     ],
                     [
-                        146.8010281,
-                        -19.24493
+                        146.8009367,
+                        -19.2449456
                     ],
                     [
-                        146.8013281,
-                        -19.2449784
+                        146.8010321,
+                        -19.2449491
+                    ],
+                    [
+                        146.8011391,
+                        -19.2449564
+                    ],
+                    [
+                        146.8012943,
+                        -19.2449708
+                    ],
+                    [
+                        146.8013516,
+                        -19.2449826
                     ]
                 ]
             }
@@ -588,23 +620,51 @@
                 "type": "LineString",
                 "coordinates": [
                     [
-                        146.8012566,
-                        -19.2450742
+                        146.8013345,
+                        -19.2450846
+                    ],
+                    [
+                        146.801273,
+                        -19.2450755
+                    ],
+                    [
+                        146.8011325,
+                        -19.2450569
+                    ],
+                    [
+                        146.8009591,
+                        -19.2450396
                     ],
                     [
                         146.8008371,
                         -19.2450395
                     ],
                     [
-                        146.8004397,
-                        -19.2450707
+                        146.8006527,
+                        -19.2450472
+                    ],
+                    [
+                        146.8005367,
+                        -19.2450653
+                    ],
+                    [
+                        146.80045,
+                        -19.2450797
                     ],
                     [
                         146.7996877,
                         -19.2451985
                     ],
                     [
-                        146.7983943,
+                        146.7996877,
+                        -19.2451985
+                    ],
+                    [
+                        146.7983987,
+                        -19.2454659
+                    ],
+                    [
+                        146.7983987,
                         -19.2454659
                     ],
                     [
@@ -724,8 +784,8 @@
                         -19.252005
                     ],
                     [
-                        146.7885705,
-                        -19.2522718
+                        146.7885793,
+                        -19.2522419
                     ],
                     [
                         146.7882095,
@@ -776,16 +836,24 @@
                         -19.2578943
                     ],
                     [
-                        146.7863838,
-                        -19.2605058
+                        146.7863985,
+                        -19.2604558
                     ],
                     [
-                        146.7863838,
-                        -19.2605058
+                        146.7863985,
+                        -19.2604558
                     ],
                     [
-                        146.7860168,
-                        -19.2617135
+                        146.7863744,
+                        -19.2605324
+                    ],
+                    [
+                        146.7863744,
+                        -19.2605324
+                    ],
+                    [
+                        146.7860611,
+                        -19.261616
                     ],
                     [
                         146.7858878,
@@ -1480,8 +1548,20 @@
                         -19.2637667
                     ],
                     [
-                        146.8215103,
-                        -19.2625127
+                        146.8214042,
+                        -19.2626876
+                    ],
+                    [
+                        146.8214044,
+                        -19.2626339
+                    ],
+                    [
+                        146.8213977,
+                        -19.2625934
+                    ],
+                    [
+                        146.8213829,
+                        -19.2625342
                     ]
                 ]
             }
@@ -1490,7 +1570,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Morehead Street",
-                "description": "Named for Boyd Dunlop Morehead, a businessperson and politician (Mathew, 2008, p. 15). He became Premier of Queensland later in life from 1888 - 1890, resigning as he \"felt unable to continue with such diminished support\" after imposing unfavourable tax measures (p. 42)",
+                "description": "Named for Boyd Dunlop Morehead, a businessperson and politician (Mathew, 2008, p. 15). He became Premier of Queensland later in life from 1888 - 1890, resigning as he \"felt unable to continue with such diminished support\" after imposing unfavourable tax measures (p. 42).",
                 "refs": "Fitzgerald, R., Megarrity, L., &amp; Symons, D. (2009). <i>Made in Queensland: A New History</i>. St Lucia, QLD: University of Queensland Press.<br \\>Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
             "geometry": {
@@ -1604,8 +1684,16 @@
                 "type": "LineString",
                 "coordinates": [
                     [
-                        146.8210987,
-                        -19.2660015
+                        146.821041,
+                        -19.2659737
+                    ],
+                    [
+                        146.8211094,
+                        -19.2659154
+                    ],
+                    [
+                        146.8211536,
+                        -19.2658496
                     ],
                     [
                         146.8219282,
@@ -1836,8 +1924,92 @@
                 "type": "LineString",
                 "coordinates": [
                     [
+                        146.8350061,
+                        -19.2673807
+                    ],
+                    [
+                        146.8349897,
+                        -19.2672685
+                    ],
+                    [
+                        146.8349795,
+                        -19.267188
+                    ],
+                    [
+                        146.834975,
+                        -19.2670827
+                    ],
+                    [
+                        146.8349706,
+                        -19.266919
+                    ],
+                    [
+                        146.8349747,
+                        -19.2667775
+                    ],
+                    [
+                        146.8349824,
+                        -19.2666596
+                    ],
+                    [
+                        146.8350006,
+                        -19.2665086
+                    ],
+                    [
+                        146.8351229,
+                        -19.2657765
+                    ],
+                    [
+                        146.8351229,
+                        -19.2657765
+                    ],
+                    [
+                        146.8358297,
+                        -19.2635774
+                    ],
+                    [
+                        146.8358297,
+                        -19.2635774
+                    ],
+                    [
+                        146.8361779,
+                        -19.2624708
+                    ],
+                    [
+                        146.8368463,
+                        -19.260347
+                    ],
+                    [
+                        146.8368978,
+                        -19.2601832
+                    ],
+                    [
+                        146.837096,
+                        -19.2595534
+                    ],
+                    [
+                        146.837114,
+                        -19.259408
+                    ],
+                    [
+                        146.837114,
+                        -19.259408
+                    ],
+                    [
+                        146.8371046,
+                        -19.2591482
+                    ],
+                    [
                         146.8370397,
                         -19.2586523
+                    ],
+                    [
+                        146.8370397,
+                        -19.2586523
+                    ],
+                    [
+                        146.8368235,
+                        -19.2575707
                     ],
                     [
                         146.8365639,
@@ -1897,28 +2069,36 @@
                 "type": "LineString",
                 "coordinates": [
                     [
-                        146.8358297,
-                        -19.2635774
+                        146.8349616,
+                        -19.2662497
                     ],
                     [
-                        146.837096,
-                        -19.2595534
+                        146.8349327,
+                        -19.2665589
                     ],
                     [
-                        146.837114,
-                        -19.259408
+                        146.834925,
+                        -19.2666768
                     ],
                     [
-                        146.837114,
-                        -19.259408
+                        146.8349151,
+                        -19.2668086
                     ],
                     [
-                        146.8371046,
-                        -19.2591482
+                        146.8349136,
+                        -19.2669848
                     ],
                     [
-                        146.8370397,
-                        -19.2586523
+                        146.8349151,
+                        -19.2670999
+                    ],
+                    [
+                        146.8349195,
+                        -19.2672025
+                    ],
+                    [
+                        146.8349368,
+                        -19.2673947
                     ]
                 ]
             }
@@ -1934,57 +2114,24 @@
                 "type": "LineString",
                 "coordinates": [
                     [
-                        146.8350061,
-                        -19.2673807
+                        146.8346485,
+                        -19.267458
                     ],
                     [
-                        146.834975,
-                        -19.2670827
+                        146.8347649,
+                        -19.2674051
                     ],
                     [
-                        146.8349762,
-                        -19.26679
+                        146.8348117,
+                        -19.2673761
                     ],
                     [
-                        146.8349844,
-                        -19.2665003
+                        146.8348368,
+                        -19.2673491
                     ],
                     [
-                        146.8350465,
-                        -19.2660109
-                    ],
-                    [
-                        146.8358297,
-                        -19.2635774
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Benwell Road",
-                "description": "Named for Hugh Percy Hamilton Benwell (1852-1901), \"the first secretary of the Townsville Chamber of Commerce when it was formed in 1882 and in the same year was appointed surveyor and valuator to the Thuringowa Divisional Board at a salary of seventy-five pounds per annum\" (Mathew, 2008, p. 18).",
-                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        146.83434,
-                        -19.267519
-                    ],
-                    [
-                        146.8346636,
-                        -19.2674292
-                    ],
-                    [
-                        146.8347926,
-                        -19.2673865
-                    ],
-                    [
-                        146.8348449,
-                        -19.2673359
+                        146.8348553,
+                        -19.2673136
                     ],
                     [
                         146.8348664,
@@ -2007,8 +2154,138 @@
                         -19.2662497
                     ],
                     [
-                        146.8350465,
-                        -19.2660109
+                        146.8350088,
+                        -19.2660688
+                    ],
+                    [
+                        146.8351229,
+                        -19.2657765
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Benwell Road",
+                "description": "Named for Hugh Percy Hamilton Benwell (1852-1901), \"the first secretary of the Townsville Chamber of Commerce when it was formed in 1882 and in the same year was appointed surveyor and valuator to the Thuringowa Divisional Board at a salary of seventy-five pounds per annum\" (Mathew, 2008, p. 18).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8361779,
+                        -19.2624708
+                    ],
+                    [
+                        146.8362021,
+                        -19.262201
+                    ],
+                    [
+                        146.8362088,
+                        -19.2620908
+                    ],
+                    [
+                        146.8361928,
+                        -19.2620022
+                    ],
+                    [
+                        146.8361713,
+                        -19.2618933
+                    ],
+                    [
+                        146.8361753,
+                        -19.2618237
+                    ],
+                    [
+                        146.8363416,
+                        -19.2613401
+                    ],
+                    [
+                        146.8364623,
+                        -19.2609438
+                    ],
+                    [
+                        146.8365468,
+                        -19.2606387
+                    ],
+                    [
+                        146.8365897,
+                        -19.2605703
+                    ],
+                    [
+                        146.8366916,
+                        -19.2604728
+                    ],
+                    [
+                        146.8368463,
+                        -19.260347
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Benwell Road",
+                "description": "Named for Hugh Percy Hamilton Benwell (1852-1901), \"the first secretary of the Townsville Chamber of Commerce when it was formed in 1882 and in the same year was appointed surveyor and valuator to the Thuringowa Divisional Board at a salary of seventy-five pounds per annum\" (Mathew, 2008, p. 18).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8368978,
+                        -19.2601832
+                    ],
+                    [
+                        146.8368325,
+                        -19.2599879
+                    ],
+                    [
+                        146.8368097,
+                        -19.259855
+                    ],
+                    [
+                        146.8368204,
+                        -19.2597613
+                    ],
+                    [
+                        146.8368821,
+                        -19.2595727
+                    ],
+                    [
+                        146.8369196,
+                        -19.2594296
+                    ],
+                    [
+                        146.8369344,
+                        -19.2593043
+                    ],
+                    [
+                        146.8369371,
+                        -19.2591612
+                    ],
+                    [
+                        146.8368901,
+                        -19.2589181
+                    ],
+                    [
+                        146.8367802,
+                        -19.2584345
+                    ],
+                    [
+                        146.8367788,
+                        -19.2581572
+                    ],
+                    [
+                        146.8367895,
+                        -19.2578673
+                    ],
+                    [
+                        146.8368235,
+                        -19.2575707
                     ]
                 ]
             }
@@ -2190,20 +2467,16 @@
                 "type": "LineString",
                 "coordinates": [
                     [
-                        146.8296712,
-                        -19.2611008
+                        146.8273069,
+                        -19.2667828
                     ],
                     [
-                        146.8296932,
-                        -19.2620635
+                        146.8264102,
+                        -19.2685366
                     ],
                     [
-                        146.8292512,
-                        -19.262956
-                    ],
-                    [
-                        146.8283506,
-                        -19.2648221
+                        146.8261071,
+                        -19.2691294
                     ]
                 ]
             }
@@ -2240,12 +2513,20 @@
                 "type": "LineString",
                 "coordinates": [
                     [
-                        146.8273069,
-                        -19.2667828
+                        146.8296712,
+                        -19.2611008
                     ],
                     [
-                        146.8261071,
-                        -19.2691294
+                        146.8296932,
+                        -19.2620635
+                    ],
+                    [
+                        146.8292513,
+                        -19.2629557
+                    ],
+                    [
+                        146.8283144,
+                        -19.2647802
                     ]
                 ]
             }
@@ -2343,20 +2624,16 @@
                 "type": "LineString",
                 "coordinates": [
                     [
-                        146.8045086,
-                        -19.2723377
+                        146.8350061,
+                        -19.2673807
                     ],
                     [
-                        146.8050191,
-                        -19.2724127
+                        146.8349368,
+                        -19.2673947
                     ],
                     [
-                        146.8050191,
-                        -19.2724127
-                    ],
-                    [
-                        146.8054711,
-                        -19.2725117
+                        146.8346485,
+                        -19.267458
                     ]
                 ]
             }
@@ -2371,123 +2648,90 @@
             "geometry": {
                 "type": "LineString",
                 "coordinates": [
+                    [
+                        146.8074325,
+                        -19.2727384
+                    ],
+                    [
+                        146.808097,
+                        -19.2725664
+                    ],
+                    [
+                        146.8085939,
+                        -19.2724535
+                    ],
+                    [
+                        146.8096999,
+                        -19.2722447
+                    ],
+                    [
+                        146.8106549,
+                        -19.2720727
+                    ],
+                    [
+                        146.8117214,
+                        -19.2718633
+                    ],
+                    [
+                        146.8121722,
+                        -19.2717712
+                    ],
+                    [
+                        146.8125786,
+                        -19.271702
+                    ],
+                    [
+                        146.8128221,
+                        -19.2716528
+                    ],
+                    [
+                        146.8130376,
+                        -19.2716152
+                    ],
+                    [
+                        146.8132483,
+                        -19.2715591
+                    ],
+                    [
+                        146.8136229,
+                        -19.2714695
+                    ],
+                    [
+                        146.8138054,
+                        -19.2714258
+                    ],
+                    [
+                        146.813962,
+                        -19.2713962
+                    ],
+                    [
+                        146.8144624,
+                        -19.2713018
+                    ],
+                    [
+                        146.8145543,
+                        -19.271282
+                    ],
+                    [
+                        146.8146715,
+                        -19.2712624
+                    ],
+                    [
+                        146.8146715,
+                        -19.2712624
+                    ],
+                    [
+                        146.8147906,
+                        -19.2712399
+                    ],
+                    [
+                        146.8147906,
+                        -19.2712399
+                    ],
                     [
                         146.8163504,
                         -19.2710175
                     ],
-                    [
-                        146.8148624,
-                        -19.271338
-                    ],
-                    [
-                        146.8147367,
-                        -19.2713639
-                    ],
-                    [
-                        146.8146101,
-                        -19.2713888
-                    ],
-                    [
-                        146.8145189,
-                        -19.2714067
-                    ],
-                    [
-                        146.8138538,
-                        -19.2715372
-                    ],
-                    [
-                        146.8131801,
-                        -19.2716839
-                    ],
-                    [
-                        146.8131801,
-                        -19.2716839
-                    ],
-                    [
-                        146.8125571,
-                        -19.271778
-                    ],
-                    [
-                        146.8120705,
-                        -19.2718639
-                    ],
-                    [
-                        146.8116482,
-                        -19.2719434
-                    ],
-                    [
-                        146.8113133,
-                        -19.2720064
-                    ],
-                    [
-                        146.8105404,
-                        -19.2721611
-                    ],
-                    [
-                        146.8098483,
-                        -19.2722962
-                    ],
-                    [
-                        146.8091066,
-                        -19.2724289
-                    ],
-                    [
-                        146.80811,
-                        -19.2726303
-                    ],
-                    [
-                        146.8079113,
-                        -19.2726702
-                    ],
-                    [
-                        146.8076312,
-                        -19.2727089
-                    ],
-                    [
-                        146.8074325,
-                        -19.2727384
-                    ],
-                    [
-                        146.8074325,
-                        -19.2727384
-                    ],
-                    [
-                        146.8067391,
-                        -19.2726777
-                    ],
-                    [
-                        146.8067391,
-                        -19.2726777
-                    ],
-                    [
-                        146.8065199,
-                        -19.2726568
-                    ],
-                    [
-                        146.8065199,
-                        -19.2726568
-                    ],
-                    [
-                        146.8056017,
-                        -19.2725293
-                    ],
-                    [
-                        146.8054711,
-                        -19.2725117
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Boundary Street",
-                "description": "Named for the fact that it served as the boundary between South Townsville and Railway Estate (Mathew, 2008, p. 21). In Townsville, as in other Australian communities such as Brisbane, Boundary Street also marked the line across which Indigenous peoples were not allowed to cross.",
-                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
                     [
                         146.8163504,
                         -19.2710175
@@ -2561,51 +2805,17 @@
                         -19.2690151
                     ],
                     [
-                        146.8272291,
-                        -19.2689072
+                        146.8270776,
+                        -19.2689135
                     ],
                     [
-                        146.8279368,
-                        -19.2687729
+                        146.827922,
+                        -19.2687273
                     ],
                     [
                         146.8292177,
                         -19.2685299
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Boundary Street",
-                "description": "Named for the fact that it served as the boundary between South Townsville and Railway Estate (Mathew, 2008, p. 21). In Townsville, as in other Australian communities such as Brisbane, Boundary Street also marked the line across which Indigenous peoples were not allowed to cross.",
-                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        146.8350061,
-                        -19.2673807
                     ],
-                    [
-                        146.8343963,
-                        -19.2674949
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Boundary Street",
-                "description": "Named for the fact that it served as the boundary between South Townsville and Railway Estate (Mathew, 2008, p. 21). In Townsville, as in other Australian communities such as Brisbane, Boundary Street also marked the line across which Indigenous peoples were not allowed to cross.",
-                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
                     [
                         146.8292177,
                         -19.2685299
@@ -2623,8 +2833,145 @@
                         -19.2680297
                     ],
                     [
-                        146.8343963,
-                        -19.2674949
+                        146.8346485,
+                        -19.267458
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Boundary Street",
+                "description": "Named for the fact that it served as the boundary between South Townsville and Railway Estate (Mathew, 2008, p. 21). In Townsville, as in other Australian communities such as Brisbane, Boundary Street also marked the line across which Indigenous peoples were not allowed to cross.",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8163504,
+                        -19.2710175
+                    ],
+                    [
+                        146.8148624,
+                        -19.271338
+                    ],
+                    [
+                        146.8148624,
+                        -19.271338
+                    ],
+                    [
+                        146.8147367,
+                        -19.2713639
+                    ],
+                    [
+                        146.8147367,
+                        -19.2713639
+                    ],
+                    [
+                        146.8146101,
+                        -19.2713888
+                    ],
+                    [
+                        146.8145189,
+                        -19.2714067
+                    ],
+                    [
+                        146.8140024,
+                        -19.271508
+                    ],
+                    [
+                        146.8138538,
+                        -19.2715372
+                    ],
+                    [
+                        146.8131801,
+                        -19.2716839
+                    ],
+                    [
+                        146.8131801,
+                        -19.2716839
+                    ],
+                    [
+                        146.8125571,
+                        -19.271778
+                    ],
+                    [
+                        146.8120705,
+                        -19.2718639
+                    ],
+                    [
+                        146.8116482,
+                        -19.2719434
+                    ],
+                    [
+                        146.8115844,
+                        -19.2719554
+                    ],
+                    [
+                        146.8113133,
+                        -19.2720064
+                    ],
+                    [
+                        146.8105404,
+                        -19.2721611
+                    ],
+                    [
+                        146.8098483,
+                        -19.2722962
+                    ],
+                    [
+                        146.8091066,
+                        -19.2724289
+                    ],
+                    [
+                        146.80811,
+                        -19.2726303
+                    ],
+                    [
+                        146.8079113,
+                        -19.2726702
+                    ],
+                    [
+                        146.8076312,
+                        -19.2727089
+                    ],
+                    [
+                        146.8074325,
+                        -19.2727384
+                    ],
+                    [
+                        146.8074325,
+                        -19.2727384
+                    ],
+                    [
+                        146.8067391,
+                        -19.2726777
+                    ],
+                    [
+                        146.8065199,
+                        -19.2726568
+                    ],
+                    [
+                        146.806262,
+                        -19.272621
+                    ],
+                    [
+                        146.8056017,
+                        -19.2725293
+                    ],
+                    [
+                        146.8054711,
+                        -19.2725117
+                    ],
+                    [
+                        146.8050191,
+                        -19.2724127
+                    ],
+                    [
+                        146.8045086,
+                        -19.2723377
                     ]
                 ]
             }
@@ -2646,87 +2993,6 @@
                     [
                         146.8044211,
                         -19.2724158
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Boundary Street",
-                "description": "Named for the fact that it served as the boundary between South Townsville and Railway Estate (Mathew, 2008, p. 21). In Townsville, as in other Australian communities such as Brisbane, Boundary Street also marked the line across which Indigenous peoples were not allowed to cross.",
-                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        146.8074325,
-                        -19.2727384
-                    ],
-                    [
-                        146.808097,
-                        -19.2725664
-                    ],
-                    [
-                        146.8085939,
-                        -19.2724535
-                    ],
-                    [
-                        146.8096999,
-                        -19.2722447
-                    ],
-                    [
-                        146.8106549,
-                        -19.2720727
-                    ],
-                    [
-                        146.8117214,
-                        -19.2718633
-                    ],
-                    [
-                        146.8121722,
-                        -19.2717712
-                    ],
-                    [
-                        146.8125786,
-                        -19.271702
-                    ],
-                    [
-                        146.8128221,
-                        -19.2716528
-                    ],
-                    [
-                        146.8130376,
-                        -19.2716152
-                    ],
-                    [
-                        146.8132483,
-                        -19.2715591
-                    ],
-                    [
-                        146.8138054,
-                        -19.2714258
-                    ],
-                    [
-                        146.8144616,
-                        -19.271298
-                    ],
-                    [
-                        146.8145543,
-                        -19.271282
-                    ],
-                    [
-                        146.8146704,
-                        -19.2712573
-                    ],
-                    [
-                        146.8147906,
-                        -19.2712399
-                    ],
-                    [
-                        146.8163504,
-                        -19.2710175
                     ]
                 ]
             }
@@ -3072,7 +3338,40 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Hubert Lane",
+                "name": "Hubert Street",
+                "description": "Named for Henry Barbenson Le Touzel Hubert, auctioneer who became an Alderman and one term mayor. During the late 19<sup>th</sup> century, \"he was one of the few North Queensland politicians of his time not to favour Separation\" (Mathew, 2008, p. 65).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8292177,
+                        -19.2685299
+                    ],
+                    [
+                        146.8292123,
+                        -19.2684816
+                    ],
+                    [
+                        146.8295802,
+                        -19.2677329
+                    ],
+                    [
+                        146.8305295,
+                        -19.2658639
+                    ],
+                    [
+                        146.8314023,
+                        -19.2640139
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hubert Street",
                 "description": "Named for Henry Barbenson Le Touzel Hubert, auctioneer who became an Alderman and one term mayor. During the late 19<sup>th</sup> century, \"he was one of the few North Queensland politicians of his time not to favour Separation\" (Mathew, 2008, p. 65).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -3104,37 +3403,24 @@
                         -19.2569767
                     ],
                     [
+                        146.8348303,
+                        -19.2574812
+                    ],
+                    [
                         146.8338096,
                         -19.259483
                     ],
                     [
                         146.8324756,
                         -19.2620597
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Hubert Lane",
-                "description": "Named for Henry Barbenson Le Touzel Hubert, auctioneer who became an Alderman and one term mayor. During the late 19<sup>th</sup> century, \"he was one of the few North Queensland politicians of his time not to favour Separation\" (Mathew, 2008, p. 65).",
-                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        146.8315563,
-                        -19.2638792
                     ],
                     [
                         146.831658,
                         -19.263678
                     ],
                     [
-                        146.8324756,
-                        -19.2620597
+                        146.8315563,
+                        -19.2638792
                     ]
                 ]
             }
@@ -3142,34 +3428,13 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Hubert Lane",
+                "name": "Hubert Street",
                 "description": "Named for Henry Barbenson Le Touzel Hubert, auctioneer who became an Alderman and one term mayor. During the late 19<sup>th</sup> century, \"he was one of the few North Queensland politicians of his time not to favour Separation\" (Mathew, 2008, p. 65).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
             "geometry": {
                 "type": "LineString",
-                "coordinates": [
-                    [
-                        146.8292177,
-                        -19.2685299
-                    ],
-                    [
-                        146.8295802,
-                        -19.2677329
-                    ],
-                    [
-                        146.8305295,
-                        -19.2658639
-                    ],
-                    [
-                        146.8305295,
-                        -19.2658639
-                    ],
-                    [
-                        146.8314801,
-                        -19.2639886
-                    ]
-                ]
+                "coordinates": []
             }
         },
         {
@@ -3891,6 +4156,31 @@
                     [
                         146.7957588,
                         -19.2459025
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Brown Street",
+                "description": "Named for William Villiers Brown, MLA for the city who ultimately served in both houses of Parliament (Mathew, 2008, p. 23).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8270776,
+                        -19.2689135
+                    ],
+                    [
+                        146.827037,
+                        -19.2688247
+                    ],
+                    [
+                        146.8264102,
+                        -19.2685366
                     ]
                 ]
             }
