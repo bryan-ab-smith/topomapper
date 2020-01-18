@@ -232,6 +232,7 @@ input[type='text'], textarea {
 }
 
 .mapboxgl-popup-content {
+    font-size: 1rem;
 	max-width: 240px;
 }
 

@@ -511,12 +511,12 @@
                         -19.2646924
                     ],
                     [
-                        146.8119218,
-                        -19.2654818
+                        146.8119111,
+                        -19.2654881
                     ],
                     [
-                        146.8119856,
-                        -19.2655629
+                        146.8119668,
+                        -19.2655718
                     ]
                 ]
             }
@@ -621,53 +621,28 @@
                 "type": "LineString",
                 "coordinates": [
                     [
-                        146.8069043,
-                        -19.2643269
+                        146.8063277,
+                        -19.2688552
                     ],
                     [
-                        146.8069511,
-                        -19.2638165
+                        146.8063103,
+                        -19.2688354
                     ],
                     [
-                        146.8069607,
-                        -19.2635505
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Morris Street",
-                "description": "Named for William Thomas Morris, \"auctioneer and commission agent, who was an unsuccessful applicant in 1866 for the position of Council Inspector of Nuisances\" (Mathew, 2008, p. 87).",
-                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        146.806325,
-                        -19.2688577
+                        146.8063464,
+                        -19.2686577
                     ],
                     [
-                        146.8063652,
-                        -19.2686628
+                        146.8063807,
+                        -19.2684595
                     ],
                     [
-                        146.8064222,
-                        -19.2684284
-                    ],
-                    [
-                        146.8064222,
-                        -19.2684284
+                        146.8064349,
+                        -19.2683759
                     ],
                     [
                         146.8065697,
                         -19.2673941
-                    ],
-                    [
-                        146.8065895,
-                        -19.2672859
                     ],
                     [
                         146.8065895,
@@ -695,20 +670,49 @@
                 "type": "LineString",
                 "coordinates": [
                     [
-                        146.8064222,
-                        -19.2684284
+                        146.8064349,
+                        -19.2683759
                     ],
                     [
-                        146.8064457,
-                        -19.2685944
+                        146.8064685,
+                        -19.2684519
                     ],
                     [
-                        146.8065158,
-                        -19.2686573
+                        146.8064645,
+                        -19.2685767
                     ],
                     [
-                        146.8066828,
-                        -19.2686278
+                        146.8065087,
+                        -19.2686614
+                    ],
+                    [
+                        146.8065581,
+                        -19.2687063
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Morris Street",
+                "description": "Named for William Thomas Morris, \"auctioneer and commission agent, who was an unsuccessful applicant in 1866 for the position of Council Inspector of Nuisances\" (Mathew, 2008, p. 87).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8069043,
+                        -19.2643269
+                    ],
+                    [
+                        146.8069511,
+                        -19.2638165
+                    ],
+                    [
+                        146.8069607,
+                        -19.2635505
                     ]
                 ]
             }
@@ -2775,16 +2779,16 @@
                         -19.2701933
                     ],
                     [
-                        146.7845892,
-                        -19.2704181
+                        146.7845628,
+                        -19.270407
                     ],
                     [
-                        146.7851857,
-                        -19.2704805
+                        146.7851828,
+                        -19.2704652
                     ],
                     [
-                        146.7858296,
-                        -19.2705537
+                        146.7858443,
+                        -19.2705273
                     ],
                     [
                         146.7868964,
@@ -2827,16 +2831,8 @@
                         -19.2718665
                     ],
                     [
-                        146.8016937,
-                        -19.2718665
-                    ],
-                    [
                         146.80227,
                         -19.2718777
-                    ],
-                    [
-                        146.8025323,
-                        -19.2719478
                     ],
                     [
                         146.8025323,
@@ -2988,78 +2984,6 @@
                         -19.2702931
                     ]
                 ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Woolcock Street",
-                "description": "Named for Arthur Woolcock, \"manager of the Townsville branch of the London Chartered Bank of Australia in 1885\" (Mathew, 2008, p. 127).",
-                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": []
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Woolcock Street",
-                "description": "Named for Arthur Woolcock, \"manager of the Townsville branch of the London Chartered Bank of Australia in 1885\" (Mathew, 2008, p. 127).",
-                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": []
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Woolcock Street",
-                "description": "Named for Arthur Woolcock, \"manager of the Townsville branch of the London Chartered Bank of Australia in 1885\" (Mathew, 2008, p. 127).",
-                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": []
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Woolcock Street",
-                "description": "Named for Arthur Woolcock, \"manager of the Townsville branch of the London Chartered Bank of Australia in 1885\" (Mathew, 2008, p. 127).",
-                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": []
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Woolcock Street",
-                "description": "Named for Arthur Woolcock, \"manager of the Townsville branch of the London Chartered Bank of Australia in 1885\" (Mathew, 2008, p. 127).",
-                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": []
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Woolcock Street",
-                "description": "Named for Arthur Woolcock, \"manager of the Townsville branch of the London Chartered Bank of Australia in 1885\" (Mathew, 2008, p. 127).",
-                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": []
             }
         },
         {

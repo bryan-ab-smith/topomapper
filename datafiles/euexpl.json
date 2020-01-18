@@ -339,12 +339,91 @@
                 "type": "LineString",
                 "coordinates": [
                     [
-                        146.8067934,
-                        -19.2553519
+                        146.8133071,
+                        -19.2485202
                     ],
                     [
-                        146.8068781,
-                        -19.2552249
+                        146.8125817,
+                        -19.2491795
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kennedy Street",
+                "description": "Named for E.B. Kenendy, \"who set out in April 1848 from Rockingham Bay to find a route along the coast to Cape York\" (Mathew, 2008, p. 71).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8124719,
+                        -19.2492785
+                    ],
+                    [
+                        146.8116112,
+                        -19.2500678
+                    ],
+                    [
+                        146.8112272,
+                        -19.2503662
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kennedy Street",
+                "description": "Named for E.B. Kenendy, \"who set out in April 1848 from Rockingham Bay to find a route along the coast to Cape York\" (Mathew, 2008, p. 71).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.811075,
+                        -19.2503785
+                    ],
+                    [
+                        146.8094018,
+                        -19.2519721
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kennedy Street",
+                "description": "Named for E.B. Kenendy, \"who set out in April 1848 from Rockingham Bay to find a route along the coast to Cape York\" (Mathew, 2008, p. 71).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8066861,
+                        -19.2552755
+                    ],
+                    [
+                        146.8067446,
+                        -19.2552657
+                    ],
+                    [
+                        146.8067952,
+                        -19.2552549
+                    ],
+                    [
+                        146.8068391,
+                        -19.2552377
+                    ],
+                    [
+                        146.8068956,
+                        -19.2552147
                     ],
                     [
                         146.8074083,
@@ -372,62 +451,24 @@
                 "type": "LineString",
                 "coordinates": [
                     [
-                        146.8124719,
-                        -19.2492785
+                        146.8068956,
+                        -19.2552147
                     ],
                     [
-                        146.8116112,
-                        -19.2500678
+                        146.8069011,
+                        -19.2552568
                     ],
                     [
-                        146.8116112,
-                        -19.2500678
+                        146.8069092,
+                        -19.2553115
                     ],
                     [
-                        146.8112272,
-                        -19.2503662
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Kennedy Street",
-                "description": "Named for E.B. Kenendy, \"who set out in April 1848 from Rockingham Bay to find a route along the coast to Cape York\" (Mathew, 2008, p. 71).",
-                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        146.8133071,
-                        -19.2485202
+                        146.8069187,
+                        -19.2553555
                     ],
                     [
-                        146.8125817,
-                        -19.2491795
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Kennedy Street",
-                "description": "Named for E.B. Kenendy, \"who set out in April 1848 from Rockingham Bay to find a route along the coast to Cape York\" (Mathew, 2008, p. 71).",
-                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        146.811075,
-                        -19.2503785
-                    ],
-                    [
-                        146.8094018,
-                        -19.2519721
+                        146.8069289,
+                        -19.2554015
                     ]
                 ]
             }
@@ -796,7 +837,20 @@
                     [
                         146.8060955,
                         -19.2462485
-                    ],
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cook Street",
+                "description": "Named for James Cook, first European to 'discover' Ka-may (see Attenbrow, 2009), or what is now called Botany Bay (Mathew, 2008, p. 35).",
+                "refs": "Attenbrow, V. (2009). Aboriginal Placenames Around Port Jackson and Botany Bay, New South Wales, Australia: Sources and Uncertainties. In H. Koch & L. Hercus (Eds.), <i>Aboriginal Placenames: Naming and Re-naming the Australian Landscape</i> (pp. 9–54). Canberra, ACT: ANU E Press and Aboriginal History Incorporated.<br \\>Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service.<br \\>Macintyre, S. (2004). <i>A Concise History of Australia</i> (2nd ed.). Port Melbourne, VIC: Cambridge University Press."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
                     [
                         146.8062094,
                         -19.2463696
@@ -900,16 +954,8 @@
                 "type": "LineString",
                 "coordinates": [
                     [
-                        146.8062551,
-                        -19.2689374
-                    ],
-                    [
-                        146.806325,
-                        -19.2688577
-                    ],
-                    [
-                        146.806325,
-                        -19.2688577
+                        146.8063277,
+                        -19.2688552
                     ],
                     [
                         146.8063588,
@@ -920,8 +966,8 @@
                         -19.2687328
                     ],
                     [
-                        146.8066828,
-                        -19.2686278
+                        146.8065581,
+                        -19.2687063
                     ],
                     [
                         146.8068992,
@@ -936,44 +982,44 @@
                         -19.2672195
                     ],
                     [
-                        146.810505,
-                        -19.2663356
+                        146.8104983,
+                        -19.2663394
                     ],
                     [
                         146.8105544,
                         -19.2663058
                     ],
                     [
-                        146.8119218,
-                        -19.2654818
+                        146.8119111,
+                        -19.2654881
                     ],
                     [
                         146.8121157,
                         -19.2653227
                     ],
                     [
-                        146.8140699,
-                        -19.2630025
+                        146.8140721,
+                        -19.2629999
                     ],
                     [
-                        146.8140699,
-                        -19.2630025
-                    ],
-                    [
-                        146.8141572,
-                        -19.2629014
+                        146.8141564,
+                        -19.2629023
                     ],
                     [
                         146.8154061,
                         -19.2614553
                     ],
                     [
-                        146.8155486,
-                        -19.2613558
+                        146.8154861,
+                        -19.2613578
                     ],
                     [
-                        146.8155486,
-                        -19.2613558
+                        146.8155101,
+                        -19.2613426
+                    ],
+                    [
+                        146.8156029,
+                        -19.2612836
                     ],
                     [
                         146.8164313,
@@ -984,8 +1030,8 @@
                         -19.2597198
                     ],
                     [
-                        146.8182724,
-                        -19.258153
+                        146.8182883,
+                        -19.2581384
                     ]
                 ]
             }
@@ -1067,40 +1113,64 @@
                 "type": "LineString",
                 "coordinates": [
                     [
-                        146.8155486,
-                        -19.2613558
+                        146.8156029,
+                        -19.2612836
+                    ],
+                    [
+                        146.8155685,
+                        -19.2613891
+                    ],
+                    [
+                        146.8155605,
+                        -19.2614135
                     ],
                     [
                         146.8154877,
                         -19.2615074
                     ],
                     [
-                        146.8142483,
-                        -19.2629676
+                        146.8142439,
+                        -19.2629725
                     ],
                     [
-                        146.8142483,
-                        -19.2629676
+                        146.8141625,
+                        -19.2630687
                     ],
                     [
-                        146.8141635,
-                        -19.2630675
+                        146.81371,
+                        -19.2636023
                     ],
                     [
                         146.8122209,
                         -19.2653581
                     ],
                     [
-                        146.8119856,
-                        -19.2655629
+                        146.8120151,
+                        -19.2655372
+                    ],
+                    [
+                        146.8119668,
+                        -19.2655718
+                    ],
+                    [
+                        146.811887,
+                        -19.2656223
+                    ],
+                    [
+                        146.8113963,
+                        -19.2659181
+                    ],
+                    [
+                        146.8107179,
+                        -19.2663269
                     ],
                     [
                         146.8106271,
                         -19.2663816
                     ],
                     [
-                        146.8105615,
-                        -19.2664205
+                        146.8105347,
+                        -19.2664344
                     ],
                     [
                         146.8090928,
@@ -1113,14 +1183,6 @@
                     [
                         146.8066495,
                         -19.2687767
-                    ],
-                    [
-                        146.8066495,
-                        -19.2687767
-                    ],
-                    [
-                        146.8064429,
-                        -19.2689642
                     ]
                 ]
             }
@@ -1150,6 +1212,27 @@
                     [
                         146.8217537,
                         -19.2570974
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Flinders Street",
+                "description": "Named for Matthew Flinders, explorer of what is now called Australia, wrote \"A Voyage to Terra Australis\" which was published just before his death (Mathew, 2008, p. 49). Macintyre (2004) suggests that it was Flinders who came up with the name Australia since it was, in Flinders' words, \"more agreeable to the ear\" (p. 50).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service.<br \\>Macintyre, S. (2004). <i>A Concise History of Australia</i> (2nd ed.). Port Melbourne, VIC: Cambridge University Press."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8066495,
+                        -19.2687767
+                    ],
+                    [
+                        146.8064429,
+                        -19.2689642
                     ]
                 ]
             }
@@ -1313,6 +1396,22 @@
                 "type": "LineString",
                 "coordinates": [
                     [
+                        146.8161822,
+                        -19.2552088
+                    ],
+                    [
+                        146.8162311,
+                        -19.2553311
+                    ],
+                    [
+                        146.8162972,
+                        -19.2553593
+                    ],
+                    [
+                        146.816377,
+                        -19.2553544
+                    ],
+                    [
                         146.8165382,
                         -19.2553096
                     ],
@@ -1325,8 +1424,8 @@
                         -19.254842
                     ],
                     [
-                        146.8191215,
-                        -19.2549243
+                        146.8188526,
+                        -19.2548888
                     ],
                     [
                         146.8199287,
@@ -1347,39 +1446,6 @@
                     [
                         146.8215011,
                         -19.2556036
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cleveland Terrace",
-                "description": "Named after Cleveland Bay, itself \"named in 1770 by Captain Cook possibly after John Cleveland, the Secretary of the Admiralty\" (Mathew, 2008, p. 33).",
-                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        146.8161822,
-                        -19.2552088
-                    ],
-                    [
-                        146.8162311,
-                        -19.2553311
-                    ],
-                    [
-                        146.8162972,
-                        -19.2553593
-                    ],
-                    [
-                        146.816377,
-                        -19.2553544
-                    ],
-                    [
-                        146.8165382,
-                        -19.2553096
                     ]
                 ]
             }
@@ -1428,28 +1494,44 @@
                 "type": "LineString",
                 "coordinates": [
                     [
-                        146.8053983,
-                        -19.2544892
+                        146.8054212,
+                        -19.2544981
                     ],
                     [
-                        146.8056803,
-                        -19.2546784
+                        146.8054978,
+                        -19.2545377
                     ],
                     [
-                        146.8061207,
-                        -19.2549914
+                        146.8056763,
+                        -19.2546631
                     ],
                     [
-                        146.8064633,
-                        -19.2551716
+                        146.8059337,
+                        -19.2548524
                     ],
                     [
-                        146.8064633,
-                        -19.2551716
+                        146.8060187,
+                        -19.2549135
                     ],
                     [
-                        146.8067934,
-                        -19.2553519
+                        146.806149,
+                        -19.2549939
+                    ],
+                    [
+                        146.8063034,
+                        -19.255088
+                    ],
+                    [
+                        146.8064721,
+                        -19.2551734
+                    ],
+                    [
+                        146.8066861,
+                        -19.2552755
+                    ],
+                    [
+                        146.8069289,
+                        -19.2554015
                     ],
                     [
                         146.8070748,
@@ -1464,61 +1546,16 @@
                         -19.2558855
                     ],
                     [
-                        146.8083541,
-                        -19.2558855
-                    ],
-                    [
                         146.8092746,
                         -19.256547
                     ],
                     [
-                        146.8092746,
-                        -19.256547
+                        146.8098942,
+                        -19.2570271
                     ],
                     [
                         146.8107848,
                         -19.2577173
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Stanley Street (West)",
-                "description": "Named for Captain Owen Stanley, \"naval officer and marine surveyor\" and commander of the HMS Rattlesnake who surveyed North QLD up to the Torres Strait (Mathew, 2008, p. 114).",
-                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        146.8045764,
-                        -19.2539721
-                    ],
-                    [
-                        146.8031524,
-                        -19.2531838
-                    ],
-                    [
-                        146.8030392,
-                        -19.2531212
-                    ],
-                    [
-                        146.8018366,
-                        -19.2525128
-                    ],
-                    [
-                        146.8015614,
-                        -19.2524181
-                    ],
-                    [
-                        146.8012686,
-                        -19.252343
-                    ],
-                    [
-                        146.8009719,
-                        -19.2523003
                     ]
                 ]
             }
@@ -1546,20 +1583,20 @@
                         -19.2621445
                     ],
                     [
-                        146.8165423,
-                        -19.2621445
-                    ],
-                    [
                         146.8160786,
                         -19.2617819
                     ],
                     [
-                        146.8155486,
-                        -19.2613558
+                        146.8157947,
+                        -19.2615691
                     ],
                     [
-                        146.8155486,
-                        -19.2613558
+                        146.8155685,
+                        -19.2613891
+                    ],
+                    [
+                        146.8155101,
+                        -19.2613426
                     ],
                     [
                         146.8146385,
@@ -1578,10 +1615,6 @@
                         -19.2598189
                     ],
                     [
-                        146.8135385,
-                        -19.2598189
-                    ],
-                    [
                         146.8126392,
                         -19.2591287
                     ],
@@ -1590,12 +1623,8 @@
                         -19.2590125
                     ],
                     [
-                        146.812495,
-                        -19.2590125
-                    ],
-                    [
-                        146.8121237,
-                        -19.2587135
+                        146.8120875,
+                        -19.2586901
                     ],
                     [
                         146.8116529,
@@ -1641,6 +1670,10 @@
                     [
                         146.8175436,
                         -19.2629198
+                    ],
+                    [
+                        146.8175765,
+                        -19.2629763
                     ]
                 ]
             }
@@ -1656,12 +1689,12 @@
                 "type": "LineString",
                 "coordinates": [
                     [
-                        146.8175436,
-                        -19.2629198
+                        146.8106013,
+                        -19.2576523
                     ],
                     [
-                        146.8175765,
-                        -19.2629763
+                        146.8100968,
+                        -19.2572684
                     ]
                 ]
             }
@@ -1693,20 +1726,8 @@
                         -19.2566251
                     ],
                     [
-                        146.8164816,
-                        -19.2566251
-                    ],
-                    [
                         146.8173508,
                         -19.2572784
-                    ],
-                    [
-                        146.8173508,
-                        -19.2572784
-                    ],
-                    [
-                        146.8174482,
-                        -19.2573519
                     ],
                     [
                         146.8174482,
@@ -1719,10 +1740,6 @@
                     [
                         146.818098,
                         -19.2578641
-                    ],
-                    [
-                        146.8183532,
-                        -19.2580843
                     ],
                     [
                         146.8183532,
@@ -1745,8 +1762,16 @@
                         -19.2587387
                     ],
                     [
-                        146.8188418,
-                        -19.2588892
+                        146.8188202,
+                        -19.2588437
+                    ],
+                    [
+                        146.8188363,
+                        -19.2588985
+                    ],
+                    [
+                        146.8188469,
+                        -19.2589558
                     ]
                 ]
             }
@@ -1762,28 +1787,40 @@
                 "type": "LineString",
                 "coordinates": [
                     [
-                        146.8187792,
-                        -19.2589731
+                        146.8187674,
+                        -19.2589891
                     ],
                     [
-                        146.8187634,
-                        -19.2589351
+                        146.8187548,
+                        -19.2589262
+                    ],
+                    [
+                        146.8187406,
+                        -19.2588734
                     ],
                     [
                         146.8186956,
                         -19.258771
                     ],
                     [
-                        146.8185504,
-                        -19.2584527
+                        146.8186114,
+                        -19.258556
                     ],
                     [
-                        146.8182724,
-                        -19.258153
+                        146.8185307,
+                        -19.2583874
                     ],
                     [
-                        146.8182724,
-                        -19.258153
+                        146.8184742,
+                        -19.2583097
+                    ],
+                    [
+                        146.8184132,
+                        -19.2582466
+                    ],
+                    [
+                        146.8182883,
+                        -19.2581384
                     ],
                     [
                         146.8179509,
@@ -1798,14 +1835,6 @@
                         -19.2574376
                     ],
                     [
-                        146.8173859,
-                        -19.2574376
-                    ],
-                    [
-                        146.8172907,
-                        -19.2573634
-                    ],
-                    [
                         146.8172907,
                         -19.2573634
                     ],
@@ -1818,57 +1847,12 @@
                         -19.256622
                     ],
                     [
-                        146.8163037,
-                        -19.256622
-                    ],
-                    [
-                        146.8161006,
-                        -19.2564389
-                    ],
-                    [
                         146.8161006,
                         -19.2564389
                     ],
                     [
                         146.815468,
                         -19.2560139
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Denham Street",
-                "description": "Named for Captain Henry Mangl(e)s Denham, a sailor who mapped the coast, starting in 1853 (Mathew, 2008, p. 41).",
-                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        146.815253,
-                        -19.2553111
-                    ],
-                    [
-                        146.814929,
-                        -19.2544304
-                    ],
-                    [
-                        146.8148549,
-                        -19.2542577
-                    ],
-                    [
-                        146.8147011,
-                        -19.2541112
-                    ],
-                    [
-                        146.8144709,
-                        -19.2539059
-                    ],
-                    [
-                        146.8140283,
-                        -19.2535449
                     ]
                 ]
             }
@@ -1908,10 +1892,6 @@
                         -19.2573745
                     ],
                     [
-                        146.8182504,
-                        -19.2573745
-                    ],
-                    [
                         146.8185301,
                         -19.2573575
                     ],
@@ -1936,6 +1916,10 @@
                         -19.256794
                     ],
                     [
+                        146.819912,
+                        -19.2567718
+                    ],
+                    [
                         146.8202887,
                         -19.2566555
                     ],
@@ -1944,20 +1928,20 @@
                         -19.2565084
                     ],
                     [
-                        146.821054,
-                        -19.2564214
+                        146.821046,
+                        -19.2564151
                     ],
                     [
-                        146.8212388,
-                        -19.2563122
+                        146.8212442,
+                        -19.2562767
                     ],
                     [
-                        146.8213573,
-                        -19.2561615
+                        146.8212998,
+                        -19.2562125
                     ],
                     [
-                        146.8213573,
-                        -19.2561615
+                        146.8213345,
+                        -19.2561552
                     ],
                     [
                         146.8214264,
