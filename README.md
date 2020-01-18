@@ -4,7 +4,7 @@
 
 As part of a larger research project, this mobile friendly web application documents the commemorative work done through the street naming in Townsville, QLD (Australia). Sparked by work in critical toponymy that highlights the selective comemorative work done through the mundane naming practices of civic space ([Azaryahu, 1996](https://journals.sagepub.com/doi/pdf/10.1068/d140311); [Berg & Vuolteenaho, 2009](https://books.google.com.au/books/about/Critical_Toponymies.html?id=xg1GAepFft8C&redir_esc=y); [Rose-Redwood, 2016](https://www.acme-journal.org/index.php/acme/article/view/1215); [Smith, 2018](https://www.tandfonline.com/doi/abs/10.1080/00377996.2018.1460569)), this web application seeks to surface the people, events and moments remembered across the city's geography.
 
-![Topomapper Screenshot](img/topomapper_sshot_both.png)
+![Topomapper Screenshot](img/topomapper_sshot_both_dark.png)
 
 ## Project
 
