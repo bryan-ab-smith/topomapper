@@ -20,16 +20,28 @@
                         -19.258771
                     ],
                     [
-                        146.8184904,
-                        -19.2588585
+                        146.8186321,
+                        -19.2587924
                     ],
                     [
-                        146.8183213,
-                        -19.2590391
+                        146.8185858,
+                        -19.2588201
                     ],
                     [
-                        146.817489,
-                        -19.2601274
+                        146.8185022,
+                        -19.2588849
+                    ],
+                    [
+                        146.8184543,
+                        -19.2589337
+                    ],
+                    [
+                        146.8174927,
+                        -19.2601195
+                    ],
+                    [
+                        146.816826,
+                        -19.2609033
                     ],
                     [
                         146.8160786,
@@ -57,20 +69,20 @@
                 "type": "LineString",
                 "coordinates": [
                     [
-                        146.8187634,
-                        -19.2589351
+                        146.8185022,
+                        -19.2588849
                     ],
                     [
-                        146.8186662,
-                        -19.2589039
+                        146.8185697,
+                        -19.2586963
                     ],
                     [
-                        146.8185026,
-                        -19.2589267
+                        146.8185917,
+                        -19.2586398
                     ],
                     [
-                        146.8183213,
-                        -19.2590391
+                        146.8186114,
+                        -19.258556
                     ]
                 ]
             }
@@ -86,16 +98,24 @@
                 "type": "LineString",
                 "coordinates": [
                     [
-                        146.8184904,
-                        -19.2588585
+                        146.8187674,
+                        -19.2589891
                     ],
                     [
-                        146.8185697,
-                        -19.2586963
+                        146.8187059,
+                        -19.2589483
                     ],
                     [
-                        146.8185504,
-                        -19.2584527
+                        146.8186439,
+                        -19.25892
+                    ],
+                    [
+                        146.8185878,
+                        -19.2589031
+                    ],
+                    [
+                        146.8185022,
+                        -19.2588849
                     ]
                 ]
             }
@@ -1504,7 +1524,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Griffith Street",
-                "description": "Named for Sir Samuel Griffith, a premier of Queensland. \"At the first Federal Convention held in Sydney during March 1891,\" Mathew (2008) notes, \"he was largely responsible for the draft constitution which was adopted.\" (p. 56).",
+                "description": "Named for Sir Samuel Griffith, a premier of Queensland. \"At the first Federal Convention held in Sydney during March 1891,\" Mathew (2008) notes, \"he was largely responsible for the draft constitution which was adopted.\" (p. 56).<p>NOTE: The map misidentifies this as \"Griffin Street.\"",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
             "geometry": {
@@ -1515,12 +1535,8 @@
                         -19.2628647
                     ],
                     [
-                        146.8215103,
-                        -19.2625127
-                    ],
-                    [
-                        146.8223047,
-                        -19.2622487
+                        146.8213829,
+                        -19.2625342
                     ],
                     [
                         146.8223047,
@@ -1734,6 +1750,27 @@
                 "type": "LineString",
                 "coordinates": [
                     [
+                        146.8240164,
+                        -19.2629777
+                    ],
+                    [
+                        146.8231112,
+                        -19.2647641
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Davidson Street",
+                "description": "Named for William Montgomerie Davenport Davidson, Assistant Surveyor General from 1878-1889 and Surveyor General from 1889-1891 (Mathew, 2008, p. 40).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
                         146.8240842,
                         -19.2628456
                     ],
@@ -1760,27 +1797,6 @@
                     [
                         146.8253048,
                         -19.2602505
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Davidson Street",
-                "description": "Named for William Montgomerie Davenport Davidson, Assistant Surveyor General from 1878-1889 and Surveyor General from 1889-1891 (Mathew, 2008, p. 40).",
-                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        146.8240164,
-                        -19.2629777
-                    ],
-                    [
-                        146.8230656,
-                        -19.2647514
                     ]
                 ]
             }
@@ -3008,20 +3024,165 @@
                 "type": "LineString",
                 "coordinates": [
                     [
-                        146.8188418,
-                        -19.2588892
+                        146.8146715,
+                        -19.2712624
                     ],
                     [
-                        146.8191687,
-                        -19.2600967
+                        146.8144511,
+                        -19.2708422
                     ],
                     [
-                        146.8191687,
-                        -19.2600967
+                        146.8144065,
+                        -19.2706123
                     ],
                     [
-                        146.8193203,
-                        -19.2605504
+                        146.8144183,
+                        -19.2702576
+                    ],
+                    [
+                        146.8145306,
+                        -19.2699678
+                    ],
+                    [
+                        146.8147277,
+                        -19.2697384
+                    ],
+                    [
+                        146.8152764,
+                        -19.2692305
+                    ],
+                    [
+                        146.8156653,
+                        -19.2688691
+                    ],
+                    [
+                        146.8162622,
+                        -19.2682952
+                    ],
+                    [
+                        146.8168347,
+                        -19.2675328
+                    ],
+                    [
+                        146.8171381,
+                        -19.2671051
+                    ],
+                    [
+                        146.8180284,
+                        -19.2658298
+                    ],
+                    [
+                        146.8184555,
+                        -19.2652277
+                    ],
+                    [
+                        146.8185062,
+                        -19.2651478
+                    ],
+                    [
+                        146.8189016,
+                        -19.2646019
+                    ],
+                    [
+                        146.8195018,
+                        -19.2637057
+                    ],
+                    [
+                        146.819658,
+                        -19.263352
+                    ],
+                    [
+                        146.8197296,
+                        -19.2631551
+                    ],
+                    [
+                        146.8197588,
+                        -19.2629044
+                    ],
+                    [
+                        146.8197645,
+                        -19.2626979
+                    ],
+                    [
+                        146.8197277,
+                        -19.2624508
+                    ],
+                    [
+                        146.8195563,
+                        -19.2617812
+                    ],
+                    [
+                        146.8194924,
+                        -19.2615573
+                    ],
+                    [
+                        146.8192788,
+                        -19.2608096
+                    ],
+                    [
+                        146.8192455,
+                        -19.2606931
+                    ],
+                    [
+                        146.8192149,
+                        -19.2605811
+                    ],
+                    [
+                        146.8190546,
+                        -19.2601135
+                    ],
+                    [
+                        146.8189627,
+                        -19.2598888
+                    ],
+                    [
+                        146.8189083,
+                        -19.2597293
+                    ],
+                    [
+                        146.8188878,
+                        -19.2596413
+                    ],
+                    [
+                        146.8187674,
+                        -19.2589891
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dean Street",
+                "description": "Named for William Handley Dean (b. 1826), member of the Wesleyan ministry and political actor in the area including rols such as Land Agent, \"member of the committee of the Townsville Aboriginal Protection Society in 1877/78\" and Police Magistrate (Mathew, 2008, p. 41).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8188469,
+                        -19.2589558
+                    ],
+                    [
+                        146.8189568,
+                        -19.2595629
+                    ],
+                    [
+                        146.8189818,
+                        -19.2596628
+                    ],
+                    [
+                        146.8190016,
+                        -19.2597411
+                    ],
+                    [
+                        146.8190464,
+                        -19.2598715
+                    ],
+                    [
+                        146.8191339,
+                        -19.2600712
                     ],
                     [
                         146.8193203,
@@ -3032,28 +3193,12 @@
                         -19.2606574
                     ],
                     [
-                        146.8193492,
-                        -19.2606574
-                    ],
-                    [
-                        146.8195041,
-                        -19.2612298
-                    ],
-                    [
                         146.8195041,
                         -19.2612298
                     ],
                     [
                         146.8196879,
                         -19.261741
-                    ],
-                    [
-                        146.8196879,
-                        -19.261741
-                    ],
-                    [
-                        146.8198199,
-                        -19.2622378
                     ],
                     [
                         146.8198199,
@@ -3096,14 +3241,6 @@
                         -19.265224
                     ],
                     [
-                        146.8185646,
-                        -19.265224
-                    ],
-                    [
-                        146.818511,
-                        -19.2653015
-                    ],
-                    [
                         146.818511,
                         -19.2653015
                     ],
@@ -3126,14 +3263,6 @@
                     [
                         146.8157456,
                         -19.2688872
-                    ],
-                    [
-                        146.8157456,
-                        -19.2688872
-                    ],
-                    [
-                        146.8153579,
-                        -19.2692548
                     ],
                     [
                         146.8153579,
@@ -3170,167 +3299,6 @@
                     [
                         146.8147906,
                         -19.2712399
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Dean Street",
-                "description": "Named for William Handley Dean (b. 1826), member of the Wesleyan ministry and political actor in the area including rols such as Land Agent, \"member of the committee of the Townsville Aboriginal Protection Society in 1877/78\" and Police Magistrate (Mathew, 2008, p. 41).",
-                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        146.8146715,
-                        -19.2712624
-                    ],
-                    [
-                        146.8144511,
-                        -19.2708422
-                    ],
-                    [
-                        146.8144065,
-                        -19.2706123
-                    ],
-                    [
-                        146.8144183,
-                        -19.2702576
-                    ],
-                    [
-                        146.8145306,
-                        -19.2699678
-                    ],
-                    [
-                        146.8147277,
-                        -19.2697384
-                    ],
-                    [
-                        146.8152764,
-                        -19.2692305
-                    ],
-                    [
-                        146.8152764,
-                        -19.2692305
-                    ],
-                    [
-                        146.8156653,
-                        -19.2688691
-                    ],
-                    [
-                        146.8156653,
-                        -19.2688691
-                    ],
-                    [
-                        146.8162622,
-                        -19.2682952
-                    ],
-                    [
-                        146.8168347,
-                        -19.2675328
-                    ],
-                    [
-                        146.8171381,
-                        -19.2671051
-                    ],
-                    [
-                        146.8180284,
-                        -19.2658298
-                    ],
-                    [
-                        146.8184555,
-                        -19.2652277
-                    ],
-                    [
-                        146.8184555,
-                        -19.2652277
-                    ],
-                    [
-                        146.8185062,
-                        -19.2651478
-                    ],
-                    [
-                        146.8185062,
-                        -19.2651478
-                    ],
-                    [
-                        146.8189016,
-                        -19.2646019
-                    ],
-                    [
-                        146.8195018,
-                        -19.2637057
-                    ],
-                    [
-                        146.819658,
-                        -19.263352
-                    ],
-                    [
-                        146.8197296,
-                        -19.2631551
-                    ],
-                    [
-                        146.8197588,
-                        -19.2629044
-                    ],
-                    [
-                        146.8197645,
-                        -19.2626979
-                    ],
-                    [
-                        146.8197277,
-                        -19.2624508
-                    ],
-                    [
-                        146.8197277,
-                        -19.2624508
-                    ],
-                    [
-                        146.8195563,
-                        -19.2617812
-                    ],
-                    [
-                        146.8195563,
-                        -19.2617812
-                    ],
-                    [
-                        146.8194924,
-                        -19.2615573
-                    ],
-                    [
-                        146.8192788,
-                        -19.2608096
-                    ],
-                    [
-                        146.8192455,
-                        -19.2606931
-                    ],
-                    [
-                        146.8192455,
-                        -19.2606931
-                    ],
-                    [
-                        146.8192149,
-                        -19.2605811
-                    ],
-                    [
-                        146.8192149,
-                        -19.2605811
-                    ],
-                    [
-                        146.8190877,
-                        -19.2601281
-                    ],
-                    [
-                        146.8190877,
-                        -19.2601281
-                    ],
-                    [
-                        146.8187792,
-                        -19.2589731
                     ]
                 ]
             }
@@ -3719,6 +3687,10 @@
             "geometry": {
                 "type": "LineString",
                 "coordinates": [
+                    [
+                        146.7953425,
+                        -19.2611466
+                    ],
                     [
                         146.7954813,
                         -19.2610253

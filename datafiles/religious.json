@@ -401,16 +401,12 @@
                         -19.2597137
                     ],
                     [
-                        146.821653,
-                        -19.2597137
+                        146.8214274,
+                        -19.2590752
                     ],
                     [
-                        146.8214542,
-                        -19.2590581
-                    ],
-                    [
-                        146.8212777,
-                        -19.2585694
+                        146.821275,
+                        -19.2585922
                     ]
                 ]
             }
@@ -451,20 +447,8 @@
                 "type": "LineString",
                 "coordinates": [
                     [
-                        146.8220901,
-                        -19.2609294
-                    ],
-                    [
                         146.8220819,
                         -19.2607168
-                    ],
-                    [
-                        146.8220819,
-                        -19.2607168
-                    ],
-                    [
-                        146.8218873,
-                        -19.2601313
                     ],
                     [
                         146.8218873,
@@ -509,6 +493,10 @@
                 "type": "LineString",
                 "coordinates": [
                     [
+                        146.8220901,
+                        -19.2609294
+                    ],
+                    [
                         146.8220819,
                         -19.2607168
                     ],
@@ -542,10 +530,6 @@
                         -19.2613208
                     ],
                     [
-                        146.8222576,
-                        -19.2613208
-                    ],
-                    [
                         146.8221596,
                         -19.2611461
                     ]
@@ -569,27 +553,6 @@
                     [
                         146.8222576,
                         -19.2613208
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Plume Street",
-                "description": "Named for Henry Plume, \"the first Archdeacon of the Anglican Diocese of North Queensland\" (Mathew, 2008, p. 102).",
-                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        146.8223047,
-                        -19.2622487
-                    ],
-                    [
-                        146.8225509,
-                        -19.2621534
                     ]
                 ]
             }
