@@ -750,6 +750,27 @@
                     ]
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ching Street",
+                "description": "According to Mathew (2008), \"it was named in 1870 probably after a river in China\" (p. 120). It's unclear what river this might be but it could be the Jing River in central China or the Qing River, a tributary of the Yangtze.",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8177646,
+                        -19.2558087
+                    ],
+                    [
+                        146.8171798,
+                        -19.2564159
+                    ]
+                ]
+            }
         }
     ]
 }

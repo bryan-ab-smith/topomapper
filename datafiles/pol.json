@@ -124,7 +124,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Hanran Street",
-                "description": "Named for Patrick Francis Hanran, mayor from 1870 onwards for multiple terms. He was also a general merchant in Townsville. (Mathew, 2008, p. 58-59).",
+                "description": "Named for Patrick Francis Hanran, mayor from 1870 onwards for multiple terms. He was also a general merchant in Townsville. (Mathew, 2008, pp. 58-59).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
             "geometry": {
@@ -143,16 +143,8 @@
                         -19.2634328
                     ],
                     [
-                        146.8148656,
-                        -19.2634328
-                    ],
-                    [
                         146.8149531,
                         -19.2634459
-                    ],
-                    [
-                        146.8150569,
-                        -19.2634414
                     ],
                     [
                         146.8150569,
@@ -171,8 +163,8 @@
                         -19.2621445
                     ],
                     [
-                        146.8172655,
-                        -19.261253
+                        146.8172789,
+                        -19.2612429
                     ]
                 ]
             }
@@ -204,16 +196,65 @@
                         -19.2635007
                     ],
                     [
-                        146.8148283,
-                        -19.2635007
-                    ],
-                    [
                         146.8147416,
                         -19.263486
                     ],
                     [
                         146.8146703,
                         -19.263455
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hanran Street",
+                "description": "Named for Patrick Francis Hanran, mayor from 1870 onwards for multiple terms. He was also a general merchant in Townsville. (Mathew, 2008, pp. 58-59).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8173217,
+                        -19.2613027
+                    ],
+                    [
+                        146.8173972,
+                        -19.2612625
+                    ],
+                    [
+                        146.8174263,
+                        -19.2612381
+                    ],
+                    [
+                        146.8174485,
+                        -19.2612087
+                    ],
+                    [
+                        146.8174646,
+                        -19.2611771
+                    ],
+                    [
+                        146.817477,
+                        -19.2611622
+                    ],
+                    [
+                        146.8175165,
+                        -19.2611321
+                    ],
+                    [
+                        146.8175269,
+                        -19.2611201
+                    ],
+                    [
+                        146.8175373,
+                        -19.2610913
+                    ],
+                    [
+                        146.8175541,
+                        -19.2609678
                     ]
                 ]
             }
@@ -264,43 +305,6 @@
                     [
                         146.8200446,
                         -19.2556428
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Herbert Street",
-                "description": "\"Named after Sir Robert George Wyndham Herbert, secretary to Sir George Bowen (first governor of QLD) and Colonial Secretary for just over six years from December 1859 - February 1866 (Mathew, 2008, p. 62).",
-                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        146.819138,
-                        -19.2555312
-                    ],
-                    [
-                        146.8191541,
-                        -19.2554402
-                    ],
-                    [
-                        146.8192131,
-                        -19.2551009
-                    ],
-                    [
-                        146.8192131,
-                        -19.2551009
-                    ],
-                    [
-                        146.819197,
-                        -19.2550655
-                    ],
-                    [
-                        146.8191215,
-                        -19.2549243
                     ]
                 ]
             }
@@ -4153,6 +4157,79 @@
                     [
                         146.8264102,
                         -19.2685366
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Willmett Street",
+                "description": "Named for Thankful Percy Willmett, a businessperson (involved with publishing) and eventual Alderman and Mayor during the mid/late 18<sup>th</sup> century (Mathew, 2008, p. 126).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8176788,
+                        -19.2557289
+                    ],
+                    [
+                        146.8176962,
+                        -19.255758
+                    ],
+                    [
+                        146.8177284,
+                        -19.2557871
+                    ],
+                    [
+                        146.8177646,
+                        -19.2558087
+                    ],
+                    [
+                        146.817813,
+                        -19.2558251
+                    ],
+                    [
+                        146.8180919,
+                        -19.2558958
+                    ],
+                    [
+                        146.8190736,
+                        -19.2560173
+                    ],
+                    [
+                        146.8191728,
+                        -19.2560252
+                    ],
+                    [
+                        146.8192479,
+                        -19.2560429
+                    ],
+                    [
+                        146.8193847,
+                        -19.2560859
+                    ],
+                    [
+                        146.8195322,
+                        -19.2561442
+                    ],
+                    [
+                        146.8196395,
+                        -19.2562049
+                    ],
+                    [
+                        146.8196931,
+                        -19.2562632
+                    ],
+                    [
+                        146.8197709,
+                        -19.2564227
+                    ],
+                    [
+                        146.819912,
+                        -19.2567718
                     ]
                 ]
             }
