@@ -34,7 +34,9 @@ The application is developed and tested in Firefox (68) but has been tested on a
 - Firefox (68)
 - Chrome (74)
 - Safari (12.1.1)
-- Edge (44) - NOTE: getting street information is frustrating (the clickable space for the street layer seems to be minimal relative to other browsers)
+- Edge (44)
+    - NOTE: getting street information is frustrating (the clickable space for the street layer seems to be minimal relative to other browsers).
+    - NOTE: Testing with "legacy" Edge (ie. non-Chromium based builds) will no longer take place (or will only be done so very infrequently).
 
 #### Mobile
 - Safari (iOS, 12.3.1)
