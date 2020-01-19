@@ -75,7 +75,7 @@ The server is written in Python and works with Python 2 and 3 (and should theref
 
 MIT License
 
-Copyright (c) 2019 Bryan Smith.
+Copyright (c) 2019-2020 Bryan Smith.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
