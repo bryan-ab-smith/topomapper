@@ -1702,6 +1702,51 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Stanley Street (West)",
+                "description": "Named for Captain Owen Stanley, \"naval officer and marine surveyor\" and commander of the HMS Rattlesnake who surveyed North QLD up to the Torres Strait (Mathew, 2008, p. 114).",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8045764,
+                        -19.2539721
+                    ],
+                    [
+                        146.8031524,
+                        -19.2531838
+                    ],
+                    [
+                        146.8031118,
+                        -19.2531613
+                    ],
+                    [
+                        146.8030392,
+                        -19.2531212
+                    ],
+                    [
+                        146.8018366,
+                        -19.2525128
+                    ],
+                    [
+                        146.8015614,
+                        -19.2524181
+                    ],
+                    [
+                        146.8012686,
+                        -19.252343
+                    ],
+                    [
+                        146.8009719,
+                        -19.2523003
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Denham Street",
                 "description": "Named for Captain Henry Mangl(e)s Denham, a sailor who mapped the coast, starting in 1853 (Mathew, 2008, p. 41).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
@@ -1853,6 +1898,43 @@
                     [
                         146.815468,
                         -19.2560139
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Upper Denham Street",
+                "description": "Named for Captain Henry Mangl(e)s Denham, a sailor who mapped the coast, starting in 1853 (Mathew, 2008, p. 41). This is an extension of Denham Street.",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.815253,
+                        -19.2553111
+                    ],
+                    [
+                        146.814929,
+                        -19.2544304
+                    ],
+                    [
+                        146.8148549,
+                        -19.2542577
+                    ],
+                    [
+                        146.8147011,
+                        -19.2541112
+                    ],
+                    [
+                        146.8144709,
+                        -19.2539059
+                    ],
+                    [
+                        146.8140283,
+                        -19.2535449
                     ]
                 ]
             }
@@ -4281,6 +4363,31 @@
                     [
                         146.8017396,
                         -19.2471146
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mitchell Street",
+                "description": "Named for Sir Thomas Livingstone Mitchell, surveyor in the early 19th century. He is famous for \"discovering\" Australia Felix, a region also called Port Philip, that he described as \"splendid and extensive [... that] was different from any thing I had ever witnessed either in New South Wales or elsewhere, a land so inviting, and still without inhabitants.\" (Mitchell cited in Haydon, 1846, p. 14)",
+                "refs": "Haydon, G. H. (1846). <i>Five years experience in Australia Felix, comprising a short account of its early settlement and its present position, with many particulars interesting to intending emigrants</i>. London, U.K.: Hamilton, Adams, &amp; Co. Paternoster Row.<br \\>Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8177936,
+                        -19.254494
+                    ],
+                    [
+                        146.8179524,
+                        -19.2546955
+                    ],
+                    [
+                        146.8182179,
+                        -19.254842
                     ]
                 ]
             }

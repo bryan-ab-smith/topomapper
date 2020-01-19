@@ -3162,6 +3162,195 @@
                     ]
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Farley Lane",
+                "description": "No information yet available. Presumably named for Charters Towers.",
+                "refs": "--"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.816826,
+                        -19.2609033
+                    ],
+                    [
+                        146.8172789,
+                        -19.2612429
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Finsbury Place",
+                "description": "No information yet available. Presumably named for Charters Towers.",
+                "refs": "--"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8120151,
+                        -19.2655372
+                    ],
+                    [
+                        146.8124425,
+                        -19.2661319
+                    ],
+                    [
+                        146.8124425,
+                        -19.2661319
+                    ],
+                    [
+                        146.8123084,
+                        -19.2662142
+                    ],
+                    [
+                        146.8123084,
+                        -19.2662142
+                    ],
+                    [
+                        146.811887,
+                        -19.2656223
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fleet Street",
+                "description": "No information yet available. Presumably named for Charters Towers.",
+                "refs": "--"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8116029,
+                        -19.2661914
+                    ],
+                    [
+                        146.8115754,
+                        -19.266213
+                    ],
+                    [
+                        146.8115044,
+                        -19.266294
+                    ],
+                    [
+                        146.8113434,
+                        -19.2664839
+                    ],
+                    [
+                        146.8112536,
+                        -19.2666004
+                    ],
+                    [
+                        146.8111972,
+                        -19.2666358
+                    ],
+                    [
+                        146.8111007,
+                        -19.2666966
+                    ],
+                    [
+                        146.81099,
+                        -19.2667535
+                    ],
+                    [
+                        146.8109277,
+                        -19.2667789
+                    ],
+                    [
+                        146.8109105,
+                        -19.2667903
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Liverpool Lane",
+                "description": "No information yet available. Presumably named for Charters Towers.",
+                "refs": "--"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8113963,
+                        -19.2659181
+                    ],
+                    [
+                        146.8114863,
+                        -19.2660528
+                    ],
+                    [
+                        146.8116029,
+                        -19.2661914
+                    ],
+                    [
+                        146.81168,
+                        -19.2662946
+                    ],
+                    [
+                        146.8117545,
+                        -19.2664174
+                    ],
+                    [
+                        146.8118276,
+                        -19.2665155
+                    ],
+                    [
+                        146.8119214,
+                        -19.2666042
+                    ],
+                    [
+                        146.8120784,
+                        -19.2667067
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mayfair Lane",
+                "description": "No information yet available. Presumably named for Charters Towers.",
+                "refs": "--"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8123084,
+                        -19.2662142
+                    ],
+                    [
+                        146.8122346,
+                        -19.2662598
+                    ],
+                    [
+                        146.8121816,
+                        -19.2663136
+                    ],
+                    [
+                        146.8120147,
+                        -19.2665111
+                    ],
+                    [
+                        146.8119214,
+                        -19.2666042
+                    ]
+                ]
+            }
         }
     ]
 }

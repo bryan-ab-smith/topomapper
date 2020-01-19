@@ -42,6 +42,11 @@ The application is developed and tested in Firefox (68) but has been tested on a
 
 It is possible (and likely for those that aren't much older than these) that it will work with older browsers and those not listed here.
 
+## Known Issues
+
+### Street Level Data
+- Hanran Street towards Farley Lane in the CBD is misaligned. The data from OSM seems to conflict with Mapbox and this needs to be reconciled.
+
 ## Development
 
 ### Install/deploy on your own server
