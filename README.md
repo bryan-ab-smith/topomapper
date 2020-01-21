@@ -68,9 +68,20 @@ It is possible (and likely for those that aren't much older than these) that it 
 
 ### Local development
 
+#### Included debug server
 The debug_server.py script is a simple non-logging web server that you can use to quickly setup an environment to debug and play with Topomapper. While it will work to serve Topomapper, you are strongly discouraged from using this as a production (ie. public) facing server.
 
-The server is written in Python and works with Python 2 and 3 (and should therefore work on any platform that Python supports including Windows, macOS, Linux and others). To run it, simply execute the script (it will detect the Python version automatically and run as needed).
+The server is written in Python and works with Python 2 and 3 (and should therefore work on any platform that Python supports including Windows, macOS, Linux and others). To run it, simply execute the script (it will detect the Python version automatically and run as needed) and head over to localhost:8000.
+
+
+
+#### Other options
+
+Anything really. A quick and simple alternative to the included debug server might be something like [serve](https://www.npmjs.com/package/serve):
+
+    $ npm install -g serve
+    $ cd /path/to/topomapper/
+    $ serve
 
 ## License
 
