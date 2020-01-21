@@ -1,7 +1,12 @@
-// These two variables set the MapBox GL token and style.
-// If you are rolling your own instance of HereStory, you will need to replace these with your own.
+// These three variables set the MapBox GL token and styles.
+// If you are rolling your own instance of Topomapper, you will need to replace these with your own.
 // See the Quickstart section here: https://www.mapbox.com/mapbox-gl-js/api/.
-var mbToken = 'pk.eyJ1IjoidmFuc21pdGgiLCJhIjoiNjRhYjVhNzkzM2Q3NTg3NTc0MTg2NjY2NDIzZjc5MGQifQ.krdCsmSwQttemQ5lXlGSVQ';
-//var mbStyleLight = '';
+
+// This is the Mapbox API token.
+var mbToken = '';
+
+// This is the default style. "Light" is used here only as a variable name and the style does not have to be light coloured.
 var mbStyleLight = '';
+
+// This is the sattelite layer. As with mbStyleLight, this does not have to be a sattelite layer but rather, is simply the alternative shown when clicking on the layer button.
 var mbStyleSat = '';

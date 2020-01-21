@@ -20,7 +20,7 @@ The following suburbs have been mapped:
 Next up:
 - Nothing for now.
 
-NOTE: Efforts to map will slow down as each of the four suburbs above will be cleaned up, proofed and filled out with further context.
+NOTE: Efforts to map will slow down as each of the five suburbs above will be cleaned up, proofed and filled out with further context.
 
 ### Viewing
 
@@ -28,15 +28,16 @@ Interested in viewing the application? Visit [here](https://bryanabsmith.com/top
 
 ### Browser support
 
-The application is developed and tested in Firefox (68) but has been tested on and is thought to work with the following (with little to no errors).
+The application is developed and tested in Firefox (68+) and Chrome (78+) but has been tested on and is thought to work with the following (with little to no errors).
 
 #### Desktop
-- Firefox (68)
-- Chrome (74)
-- Safari (12.1.1)
-- Edge (44)
+- Firefox (68+)
+- Chrome (74+)
+- Safari (12.1.1+)
+- Edge "Legacy" (44+)
     - NOTE: getting street information is frustrating (the clickable space for the street layer seems to be minimal relative to other browsers).
     - NOTE: Testing with "legacy" Edge (ie. non-Chromium based builds) will no longer take place (or will only be done so very infrequently).
+- Edge "Chromium" (79+)
 
 #### Mobile
 - Safari (iOS, 12.3.1)
