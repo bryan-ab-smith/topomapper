@@ -1548,6 +1548,63 @@
                     ]
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kissing Point Vista Road",
+                "description": "The Kissing Point area, thought to have been \"named because of its popularity with courting couples,\" is named after a feature in Sydney Harbour (Mathew, 2008, p. 73). According to the Concord Heritage Society (2003), Kissing Point was named as such either because (a) some men, including the Governor at the time (Hunter), rescued some women who kissed him in return or; (b) the shallownes of the water resulted in the keels of boats \"kissing\" the mud on the bottom of the river (p. 3)",
+                "refs": "Concord Heritage Society. (2003, August). \"Nurungi\": Official Newsletter of the Concord Heritage Society. Retrieved from <a href='https://web.archive.org/web/20110219153457/http://www.concordheritage.asn.au/pdf/archive/200308.pdf' target='_blank'>here</a>.<p></p>Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8032486,
+                        -19.2393946
+                    ],
+                    [
+                        146.8032401,
+                        -19.2393383
+                    ],
+                    [
+                        146.8032467,
+                        -19.2393071
+                    ],
+                    [
+                        146.8032548,
+                        -19.239278
+                    ],
+                    [
+                        146.8033319,
+                        -19.2390858
+                    ],
+                    [
+                        146.8033554,
+                        -19.2390435
+                    ],
+                    [
+                        146.8033797,
+                        -19.2390137
+                    ],
+                    [
+                        146.8034127,
+                        -19.2389929
+                    ],
+                    [
+                        146.8034612,
+                        -19.2389735
+                    ],
+                    [
+                        146.8035295,
+                        -19.2389554
+                    ],
+                    [
+                        146.8037207,
+                        -19.2389007
+                    ]
+                ]
+            }
         }
     ]
 }

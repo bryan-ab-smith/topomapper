@@ -6,3 +6,4 @@ update_remote.sh
 .DS_Store
 electron/
 gen_report.py
+deploy_prod.sh

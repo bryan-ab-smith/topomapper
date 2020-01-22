@@ -3077,7 +3077,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Sabina Street",
-                "description": "No information yet available. Presumably named for Charters Towers.",
+                "description": "No information yet available.",
                 "refs": "--"
             },
             "geometry": {
@@ -3122,7 +3122,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Sabina Street",
-                "description": "No information yet available. Presumably named for Charters Towers.",
+                "description": "No information yet available.",
                 "refs": "--"
             },
             "geometry": {
@@ -3167,7 +3167,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Farley Lane",
-                "description": "No information yet available. Presumably named for Charters Towers.",
+                "description": "No information yet available.",
                 "refs": "--"
             },
             "geometry": {
@@ -3178,8 +3178,8 @@
                         -19.2609033
                     ],
                     [
-                        146.8172789,
-                        -19.2612429
+                        146.8173217,
+                        -19.2613027
                     ]
                 ]
             }
@@ -3188,7 +3188,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Finsbury Place",
-                "description": "No information yet available. Presumably named for Charters Towers.",
+                "description": "No information yet available.",
                 "refs": "--"
             },
             "geometry": {
@@ -3225,7 +3225,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Fleet Street",
-                "description": "No information yet available. Presumably named for Charters Towers.",
+                "description": "No information yet available.",
                 "refs": "--"
             },
             "geometry": {
@@ -3278,7 +3278,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Liverpool Lane",
-                "description": "No information yet available. Presumably named for Charters Towers.",
+                "description": "No information yet available.",
                 "refs": "--"
             },
             "geometry": {
@@ -3323,7 +3323,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Mayfair Lane",
-                "description": "No information yet available. Presumably named for Charters Towers.",
+                "description": "No information yet available. ",
                 "refs": "--"
             },
             "geometry": {
@@ -3348,6 +3348,76 @@
                     [
                         146.8119214,
                         -19.2666042
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stanmore Court",
+                "description": "No information yet available.",
+                "refs": "--"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8001992,
+                        -19.2525737
+                    ],
+                    [
+                        146.8002851,
+                        -19.2524699
+                    ],
+                    [
+                        146.8003172,
+                        -19.2523965
+                    ],
+                    [
+                        146.8003495,
+                        -19.2522748
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ted Paulsen Drive",
+                "description": "No information yet available.",
+                "refs": "--"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        146.8348303,
+                        -19.2574812
+                    ],
+                    [
+                        146.8327287,
+                        -19.2563493
+                    ],
+                    [
+                        146.8326201,
+                        -19.256324
+                    ],
+                    [
+                        146.8325222,
+                        -19.2563202
+                    ],
+                    [
+                        146.8323988,
+                        -19.2562999
+                    ],
+                    [
+                        146.8322687,
+                        -19.2562531
+                    ],
+                    [
+                        146.8316129,
+                        -19.2559062
                     ]
                 ]
             }

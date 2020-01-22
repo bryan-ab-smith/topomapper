@@ -48,7 +48,7 @@ It is possible (and likely for those that aren't much older than these) that it 
 ## Known Issues
 
 ### Street Level Data
-- Hanran Street towards Farley Lane in the CBD is misaligned. The data from OSM seems to conflict with Mapbox and this needs to be reconciled.
+- Farley Lane is still misaligned.
 
 ## Development
 

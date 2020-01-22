@@ -303,7 +303,7 @@ function getData() {
         "type": "line",
         "source": "noneSource",
         "paint": {
-            "line-color": "#000000",
+            "line-color": "#B22222",
             "line-width": lineWidth,
             "line-opacity": 0.4
         }
