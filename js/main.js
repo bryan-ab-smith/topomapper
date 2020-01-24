@@ -98,7 +98,7 @@ $(document).ready(function () {
         if (layerList.indexOf(clickedLayer) > -1) {
             new mapboxgl.Popup()
                 .setLngLat(e.lngLat)
-                .setHTML('<p></p><b>' + map.queryRenderedFeatures(e.point)[0].properties.name + '</b><p>' + map.queryRenderedFeatures(e.point)[0].properties.description + '</p><p><b>References</b><br \\>' + map.queryRenderedFeatures(e.point)[0].properties.refs)
+                .setHTML('<p></p><b>' + map.queryRenderedFeatures(e.point)[0].properties.name + '</b><p class="scrollDesc">' + map.queryRenderedFeatures(e.point)[0].properties.description + '</p><b>References</b><br \\><p class="scrollDesc">' + map.queryRenderedFeatures(e.point)[0].properties.refs + '</p>')
                 .addTo(map);
         }
 
@@ -303,7 +303,7 @@ function getData() {
         "type": "line",
         "source": "noneSource",
         "paint": {
-            "line-color": "#B22222",
+            "line-color": "#000000",
             "line-width": lineWidth,
             "line-opacity": 0.4
         }
