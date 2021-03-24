@@ -5,6 +5,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Primrose St",
+                "city": "TSV",
                 "description": "Named for the flower (Mathew, 2008, p. 103).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -74,6 +75,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Little St",
+                "city": "TSV",
                 "description": "This is a largely functional name that was applied back in 1890 (Mathew, 2008, p. 77).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -123,6 +125,7 @@
             "type": "Feature",
             "properties": {
                 "name": "The Strand",
+                "city": "TSV",
                 "description": "\"A word meaning the edge of the sea or of other bodies of water and commonly applied to a road along a foreshore or river bank\" (Mathew, 2008, p. 115).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -144,6 +147,7 @@
             "type": "Feature",
             "properties": {
                 "name": "The Strand",
+                "city": "TSV",
                 "description": "\"A word meaning the edge of the sea or of other bodies of water and commonly applied to a road along a foreshore or river bank\" (Mathew, 2008, p. 115).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -165,6 +169,7 @@
             "type": "Feature",
             "properties": {
                 "name": "The Strand",
+                "city": "TSV",
                 "description": "\"A word meaning the edge of the sea or of other bodies of water and commonly applied to a road along a foreshore or river bank\" (Mathew, 2008, p. 115).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -234,6 +239,7 @@
             "type": "Feature",
             "properties": {
                 "name": "The Strand",
+                "city": "TSV",
                 "description": "\"A word meaning the edge of the sea or of other bodies of water and commonly applied to a road along a foreshore or river bank\" (Mathew, 2008, p. 115).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -287,6 +293,7 @@
             "type": "Feature",
             "properties": {
                 "name": "The Strand",
+                "city": "TSV",
                 "description": "\"A word meaning the edge of the sea or of other bodies of water and commonly applied to a road along a foreshore or river bank\" (Mathew, 2008, p. 115).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -332,6 +339,7 @@
             "type": "Feature",
             "properties": {
                 "name": "The Strand",
+                "city": "TSV",
                 "description": "\"A word meaning the edge of the sea or of other bodies of water and commonly applied to a road along a foreshore or river bank\" (Mathew, 2008, p. 115).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -373,6 +381,7 @@
             "type": "Feature",
             "properties": {
                 "name": "The Strand",
+                "city": "TSV",
                 "description": "\"A word meaning the edge of the sea or of other bodies of water and commonly applied to a road along a foreshore or river bank\" (Mathew, 2008, p. 115).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -414,6 +423,7 @@
             "type": "Feature",
             "properties": {
                 "name": "The Strand",
+                "city": "TSV",
                 "description": "\"A word meaning the edge of the sea or of other bodies of water and commonly applied to a road along a foreshore or river bank\" (Mathew, 2008, p. 115).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -435,6 +445,7 @@
             "type": "Feature",
             "properties": {
                 "name": "The Strand",
+                "city": "TSV",
                 "description": "\"A word meaning the edge of the sea or of other bodies of water and commonly applied to a road along a foreshore or river bank\" (Mathew, 2008, p. 115).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -464,6 +475,7 @@
             "type": "Feature",
             "properties": {
                 "name": "The Strand",
+                "city": "TSV",
                 "description": "\"A word meaning the edge of the sea or of other bodies of water and commonly applied to a road along a foreshore or river bank\" (Mathew, 2008, p. 115).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -493,6 +505,7 @@
             "type": "Feature",
             "properties": {
                 "name": "The Strand",
+                "city": "TSV",
                 "description": "\"A word meaning the edge of the sea or of other bodies of water and commonly applied to a road along a foreshore or river bank\" (Mathew, 2008, p. 115).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -542,6 +555,7 @@
             "type": "Feature",
             "properties": {
                 "name": "The Strand",
+                "city": "TSV",
                 "description": "\"A word meaning the edge of the sea or of other bodies of water and commonly applied to a road along a foreshore or river bank\" (Mathew, 2008, p. 115).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -595,6 +609,7 @@
             "type": "Feature",
             "properties": {
                 "name": "The Strand",
+                "city": "TSV",
                 "description": "\"A word meaning the edge of the sea or of other bodies of water and commonly applied to a road along a foreshore or river bank\" (Mathew, 2008, p. 115).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -636,6 +651,7 @@
             "type": "Feature",
             "properties": {
                 "name": "The Esplanade",
+                "city": "TSV",
                 "description": "No special meaning as the street is simply an esplanade (Mathew, 2008, p. 45).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -665,6 +681,7 @@
             "type": "Feature",
             "properties": {
                 "name": "The Esplanade",
+                "city": "TSV",
                 "description": "No special meaning as the street is simply an esplanade (Mathew, 2008, p. 45).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -690,6 +707,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Price Street",
+                "city": "TSV",
                 "description": "Named for Charles Price, who arrived in Townsville in 1875 and complied the <i>The Aboriginal Language of the Townsville Area</i> (1885) (Mathew, 2008, p. 103).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -723,6 +741,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Comerford Crescent",
+                "city": "TSV",
                 "description": "Named for the Comerford family - Thomas, Mary and Benjamin - early settlers, businesspeople and rangers of the Town Common (Benjamin) (Mathew, 2008, p. 34).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -800,6 +819,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Percy Street",
+                "city": "TSV",
                 "description": "The street is one of the various streets simply named for male Christians in the late 19<sup>th</sup> century (Mathew, 2008, p. 100).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -845,6 +865,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Percy Street",
+                "city": "TSV",
                 "description": "The street is one of the various streets simply named for male Christians in the late 19<sup>th</sup> century (Mathew, 2008, p. 100).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -898,6 +919,7 @@
             "type": "Feature",
             "properties": {
                 "name": "William Street",
+                "city": "TSV",
                 "description": "The street is one of the various streets simply named for male Christians (Mathew, 2008, p. 126).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -927,6 +949,7 @@
             "type": "Feature",
             "properties": {
                 "name": "William Street",
+                "city": "TSV",
                 "description": "The street is one of the various streets simply named for male Christians (Mathew, 2008, p. 126).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -956,6 +979,7 @@
             "type": "Feature",
             "properties": {
                 "name": "William Street",
+                "city": "TSV",
                 "description": "The street is one of the various streets simply named for male Christians (Mathew, 2008, p. 126).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -977,6 +1001,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Ernest Street",
+                "city": "TSV",
                 "description": "The street is one of the various streets simply named for male Christians (Mathew, 2008, p. 126).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -1002,6 +1027,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Sidney Street",
+                "city": "TSV",
                 "description": "The street is one of the various streets simply named for male Christians (Mathew, 2008, p. 112).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -1063,6 +1089,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Sidney Street",
+                "city": "TSV",
                 "description": "The street is one of the various streets simply named for male Christians (Mathew, 2008, p. 112).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -1084,6 +1111,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Harold Street",
+                "city": "TSV",
                 "description": "The street is one of the various streets simply named for male Christians (Mathew, 2008, p. 59).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -1125,6 +1153,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Harold Street",
+                "city": "TSV",
                 "description": "The street is one of the various streets simply named for male Christians (Mathew, 2008, p. 59).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -1150,6 +1179,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Harold Street",
+                "city": "TSV",
                 "description": "The street is one of the various streets simply named for male Christians (Mathew, 2008, p. 59).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -1171,6 +1201,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Harold Street",
+                "city": "TSV",
                 "description": "The street is one of the various streets simply named for male Christians (Mathew, 2008, p. 59).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -1220,6 +1251,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Harold Street",
+                "city": "TSV",
                 "description": "The street is one of the various streets simply named for male Christians (Mathew, 2008, p. 59).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -1245,6 +1277,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Claude Street",
+                "city": "TSV",
                 "description": "The street is one of the various streets simply named for male Christians (Mathew, 2008, p. 32).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -1270,6 +1303,7 @@
             "type": "Feature",
             "properties": {
                 "name": "James Street",
+                "city": "TSV",
                 "description": "The street is one of the various streets simply named for male Christians (Mathew, 2008, p. 68).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -1303,6 +1337,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Henry Street",
+                "city": "TSV",
                 "description": "Named for Alfred Henry who was police magistrate (1885-1888), a journalist and a sugar planter (Mathew, 2008, p. 61).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -1332,6 +1367,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Barron Street",
+                "city": "TSV",
                 "description": "Named for a river in NE QLD (Mathew, 2008, p. 15).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -1353,6 +1389,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Estate Street",
+                "city": "TSV",
                 "description": "\"A road in the West Townsville Estate subdivision in 1889. An attempt by the Council in 1919 to rename the street Alfred was strongly opposed by residents, the name was retained and Alfred Street became part of Estate Street\" (Mathew, 2008, p. 45).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -1378,6 +1415,7 @@
             "type": "Feature",
             "properties": {
                 "name": "John Street",
+                "city": "TSV",
                 "description": "The street is one of the various streets simply named for male Christians (Mathew, 2008, p. 69).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -1403,6 +1441,7 @@
             "type": "Feature",
             "properties": {
                 "name": "North Street",
+                "city": "TSV",
                 "description": "Named for Francis Roger North, a solicitor (Mathew, 2008, p. 94).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -1424,6 +1463,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Margaret Street",
+                "city": "TSV",
                 "description": "The street is one of the various streets simply named for female Christians (Mathew, 2008, p. 94).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -1453,6 +1493,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Maryvale Street",
+                "city": "TSV",
                 "description": "Named by William Hann after their property in Charters Towers (Mathew, 2008, p. 84).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -1486,6 +1527,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Styx Street",
+                "city": "TSV",
                 "description": "Named for the River Styx (Mathew, 2008, p. 116).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -1507,6 +1549,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Tenth Avenue",
+                "city": "TSV",
                 "description": "Numerically named road extending into Railway Estate, originally named \"Mawe Street\" (Mathew, 2008, p. 117).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -1532,6 +1575,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Twelfth Avenue",
+                "city": "TSV",
                 "description": "Numerically named road extending into Railway Estate (Mathew, 2008, p. 120).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -1553,6 +1597,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Kissing Point Vista Road",
+                "city": "TSV",
                 "description": "The Kissing Point area, thought to have been \"named because of its popularity with courting couples,\" is named after a feature in Sydney Harbour (Mathew, 2008, p. 73). According to the Concord Heritage Society (2003), Kissing Point was named as such either because (a) some men, including the Governor at the time (Hunter), rescued some women who kissed him in return or; (b) the shallownes of the water resulted in the keels of boats \"kissing\" the mud on the bottom of the river (p. 3)",
                 "refs": "Concord Heritage Society. (2003, August). \"Nurungi\": Official Newsletter of the Concord Heritage Society. Retrieved from <a href='https://web.archive.org/web/20110219153457/http://www.concordheritage.asn.au/pdf/archive/200308.pdf' target='_blank'>here</a>.<p></p>Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
