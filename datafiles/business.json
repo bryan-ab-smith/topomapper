@@ -5,6 +5,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Armati Street",
+                "city": "TSV",
                 "description": "Named for Pio Vico Armati (see Mathew, 1979), late 19th and early 20th century. Owned and operated multiple chemist shops on Flinders Street (Mathew, 2008, p. 10).",
                 "refs": "Mathew, J. Details Armati Family [Letter to D. Armati]. (1979, August 03). Townsville, QLD.<p></p>Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -38,6 +39,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Hamilton Street",
+                "city": "TSV",
                 "description": "Named for Frederick Hamilton, hotel owner and butcher who was elected to municipal council for one year (Mathew, 2008, p. 58).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -83,6 +85,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Sir Leslie Thiess Street",
+                "city": "TSV",
                 "description": "Named for Sir Leslie Thiess, \"the chairman of the Breakwater Casino operating company\" (Mathew, 2008, p. 112).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -184,6 +187,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Sir Leslie Thiess Street",
+                "city": "TSV",
                 "description": "Named for Sir Leslie Thiess, \"the chairman of the Breakwater Casino operating company\" (Mathew, 2008, p. 112).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -249,6 +253,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Fryer Street",
+                "city": "TSV",
                 "description": "Named for Frederick Augustus Fryer, \"a shareholder and a director of the Cleveland Bay Express Newspaper Company [... and] licensee of the Townsville Hotel\" in the middle of the 19<sup>th</sup> century (Mathew, 2008, p. 51).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -298,6 +303,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Carter Street",
+                "city": "TSV",
                 "description": "Named for Thomas Roe Carter, a businessperson who entered partnerships with Frederick Augustus Fryer (see Fryer Street) who later, \"traded on his own account as T.R. Carter and Company\" (Mathew, 2008, p. 28).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -319,6 +325,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Carter Street",
+                "city": "TSV",
                 "description": "Named for Thomas Roe Carter, a businessperson who entered partnerships with Frederick Augustus Fryer (see Fryer Street) who later, \"traded on his own account as T.R. Carter and Company\" (Mathew, 2008, p. 28).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -344,6 +351,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Fletcher Street",
+                "city": "TSV",
                 "description": "Named for Joseph Fletcher, businessperson who owned a butcher shop, timber yard, and \"a soap and candle works.\" He eventually served as Alderman and Mayor of Townsville (Mathew, 2008, p. 48).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -373,6 +381,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Fletcher Street",
+                "city": "TSV",
                 "description": "Named for Joseph Fletcher, businessperson who owned a butcher shop, timber yard, and \"a soap and candle works.\" He eventually served as Alderman and Mayor of Townsville (Mathew, 2008, p. 48).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -410,6 +419,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Fletcher Street",
+                "city": "TSV",
                 "description": "Named for Joseph Fletcher, businessperson who owned a butcher shop, timber yard, and \"a soap and candle works.\" He eventually served as Alderman and Mayor of Townsville (Mathew, 2008, p. 48).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -435,6 +445,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Little Fletcher Street",
+                "city": "TSV",
                 "description": "Named for Joseph Fletcher, businessperson who owned a butcher shop, timber yard, and \"a soap and candle works.\" He eventually served as Alderman and Mayor of Townsville (Mathew, 2008, p. 48).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -488,6 +499,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Jones Street",
+                "city": "TSV",
                 "description": "Named for Alfred Raymond Jones, owner of various properties with John Henry Mayer (Mathew, 2008, p. 69).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -513,6 +525,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Jones Street",
+                "city": "TSV",
                 "description": "Named for Alfred Raymond Jones, owner of various properties with John Henry Mayer (Mathew, 2008, p. 69).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -602,6 +615,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Morris Street",
+                "city": "TSV",
                 "description": "Named for William Thomas Morris, \"auctioneer and commission agent, who was an unsuccessful applicant in 1866 for the position of Council Inspector of Nuisances\" (Mathew, 2008, p. 87).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -651,6 +665,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Morris Street",
+                "city": "TSV",
                 "description": "Named for William Thomas Morris, \"auctioneer and commission agent, who was an unsuccessful applicant in 1866 for the position of Council Inspector of Nuisances\" (Mathew, 2008, p. 87).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -684,6 +699,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Morris Street",
+                "city": "TSV",
                 "description": "Named for William Thomas Morris, \"auctioneer and commission agent, who was an unsuccessful applicant in 1866 for the position of Council Inspector of Nuisances\" (Mathew, 2008, p. 87).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -709,6 +725,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Paxton Street",
+                "city": "TSV",
                 "description": "Named for W.H. Paxton, \"master of the schooner Mystery, which was employed for labour recruitment in the South Sea Islands\" (Mathew, 2008, p. 99).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -746,6 +763,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Upper Clifton Street",
+                "city": "TSV",
                 "description": "Named for William Clifton, merchant involved with the Australasian Steam Navigation Company and Clifton and Aplin Brothers (with William and Henry Aplin). He was also \"vice-president of both the Hospital and School of Arts Committees in 1874 and was active in collecting subscriptions for the establishment of a grammar school at Townsville\" (Mathew, 2008, p. 33).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -799,6 +817,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Dibbs Street",
+                "city": "TSV",
                 "description": "Named for G.S.B. Dibbs, \"a member of the Townsville Harbour Board from 1943 until 1960\" (Mathew, 2008, p. 41).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -828,6 +847,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Tomlins Street",
+                "city": "TSV",
                 "description": "Named for L.E.D. Tomlins, a solicitor and Chairman of the Townsville Harbour Board (Mathew, 2008, p. 118).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -857,6 +877,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Anthony Street",
+                "city": "TSV",
                 "description": "Named for Albert Joseph Anthony, Chairman of the Townsville Harbour Board in the mid 20<sup>th</sup> century (Mathew, 2008, p. 9).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -882,6 +903,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Perkins Street",
+                "city": "TSV",
                 "description": "Named for Patrick Perkins. While he became a politician, he is most known as a brewer, having opened the Toowoomba Brewery and creating the well regarded Castlemaine XXXX ale (Mathew, 2008, p. 100).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -919,6 +941,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Perkins Street",
+                "city": "TSV",
                 "description": "Named for Patrick Perkins. While he became a politician, he is most known as a brewer, having opened the Toowoomba Brewery and creating the well regarded Castlemaine XXXX ale (Mathew, 2008, p. 100).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -952,6 +975,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Perkins Street",
+                "city": "TSV",
                 "description": "Named for Patrick Perkins. While he became a politician, he is most known as a brewer, having opened the Toowoomba Brewery and creating the well regarded Castlemaine XXXX ale (Mathew, 2008, p. 100).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -985,6 +1009,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Perkins Street",
+                "city": "TSV",
                 "description": "Named for Patrick Perkins. While he became a politician, he is most known as a brewer, having opened the Toowoomba Brewery and creating the well regarded Castlemaine XXXX ale (Mathew, 2008, p. 100).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -1026,6 +1051,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Perkins Street",
+                "city": "TSV",
                 "description": "Named for Patrick Perkins. While he became a politician, he is most known as a brewer, having opened the Toowoomba Brewery and creating the well regarded Castlemaine XXXX ale (Mathew, 2008, p. 100).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -1051,6 +1077,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Perkins Street",
+                "city": "TSV",
                 "description": "Named for Patrick Perkins. While he became a politician, he is most known as a brewer, having opened the Toowoomba Brewery and creating the well regarded Castlemaine XXXX ale (Mathew, 2008, p. 100).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -1076,6 +1103,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Perkins Street",
+                "city": "TSV",
                 "description": "Named for Patrick Perkins. While he became a politician, he is most known as a brewer, having opened the Toowoomba Brewery and creating the well regarded Castlemaine XXXX ale (Mathew, 2008, p. 100).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -1101,6 +1129,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Perkins Street",
+                "city": "TSV",
                 "description": "Named for Patrick Perkins. While he became a politician, he is most known as a brewer, having opened the Toowoomba Brewery and creating the well regarded Castlemaine XXXX ale (Mathew, 2008, p. 100).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -1122,6 +1151,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Perkins Street West",
+                "city": "TSV",
                 "description": "Named for Patrick Perkins. While he became a politician, he is most known as a brewer, having opened the Toowoomba Brewery and creating the well regarded Castlemaine XXXX ale (Mathew, 2008, p. 100).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -1167,6 +1197,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Rooney Street",
+                "city": "TSV",
                 "description": "Named for the Rooney Family, developers who were responsible for \"the Magistrate’s Courthouse, the North Ward gaol and Bartlam’s building\" (Mathew, 2008, p. 108).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -1179,6 +1210,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Rooney Street",
+                "city": "TSV",
                 "description": "Named for the Rooney Family, developers who were responsible for \"the Magistrate’s Courthouse, the North Ward gaol and Bartlam’s building\" (Mathew, 2008, p. 108).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -1252,6 +1284,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Rooney Street",
+                "city": "TSV",
                 "description": "Named for the Rooney Family, developers who were responsible for \"the Magistrate’s Courthouse, the North Ward gaol and Bartlam’s building\" (Mathew, 2008, p. 108).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -1297,6 +1330,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Rooney Street",
+                "city": "TSV",
                 "description": "Named for the Rooney Family, developers who were responsible for \"the Magistrate’s Courthouse, the North Ward gaol and Bartlam’s building\" (Mathew, 2008, p. 108).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -1350,6 +1384,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Rooney Street",
+                "city": "TSV",
                 "description": "Named for the Rooney Family, developers who were responsible for \"the Magistrate’s Courthouse, the North Ward gaol and Bartlam’s building\" (Mathew, 2008, p. 108).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -1419,6 +1454,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Rooney Street",
+                "city": "TSV",
                 "description": "Named for the Rooney Family, developers who were responsible for \"the Magistrate’s Courthouse, the North Ward gaol and Bartlam’s building\" (Mathew, 2008, p. 108).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -1464,6 +1500,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Rooney Street",
+                "city": "TSV",
                 "description": "Named for the Rooney Family, developers who were responsible for \"the Magistrate’s Courthouse, the North Ward gaol and Bartlam’s building\" (Mathew, 2008, p. 108).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -1497,6 +1534,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Rooney Street",
+                "city": "TSV",
                 "description": "Named for the Rooney Family, developers who were responsible for \"the Magistrate’s Courthouse, the North Ward gaol and Bartlam’s building\" (Mathew, 2008, p. 108).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -1538,6 +1576,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Allen Street",
+                "city": "TSV",
                 "description": "Named for Samuel Allen, a businessperson and owner of a produce store on Flinders and a hotel. He later became an Alderman as well. (Mathew, 2008, p. 7).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -1559,6 +1598,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Allen Street",
+                "city": "TSV",
                 "description": "Named for Samuel Allen, a businessperson and owner of a produce store on Flinders and a hotel. He later became an Alderman as well. (Mathew, 2008, p. 7).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -1596,6 +1636,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Allen Street",
+                "city": "TSV",
                 "description": "Named for Samuel Allen, a businessperson and owner of a produce store on Flinders and a hotel. He later became an Alderman as well. (Mathew, 2008, p. 7).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -1617,6 +1658,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Allen Street",
+                "city": "TSV",
                 "description": "Named for Samuel Allen, a businessperson and owner of a produce store on Flinders and a hotel. He later became an Alderman as well. (Mathew, 2008, p. 7).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -1638,6 +1680,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Allen Street",
+                "city": "TSV",
                 "description": "Named for Samuel Allen, a businessperson and owner of a produce store on Flinders and a hotel. He later became an Alderman as well. (Mathew, 2008, p. 7).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -1663,6 +1706,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Allen Street",
+                "city": "TSV",
                 "description": "Named for Samuel Allen, a businessperson and owner of a produce store on Flinders and a hotel. He later became an Alderman as well. (Mathew, 2008, p. 7).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -1688,6 +1732,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Lennon Street",
+                "city": "TSV",
                 "description": "Named for William Allen, banker and business manager during the middle of the 19<sup>th</sup> which included roles in \"the Bank of North Queensland and the Townsville Gas and Coke Company\" (Mathew, 2008, p. 75).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -1821,6 +1866,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Lennon Street",
+                "city": "TSV",
                 "description": "Named for William Allen, banker and business manager during the middle of the 19<sup>th</sup> which included roles in \"the Bank of North Queensland and the Townsville Gas and Coke Company\" (Mathew, 2008, p. 75).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -1906,6 +1952,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Lennon Street",
+                "city": "TSV",
                 "description": "Named for William Allen, banker and business manager during the middle of the 19<sup>th</sup> which included roles in \"the Bank of North Queensland and the Townsville Gas and Coke Company\" (Mathew, 2008, p. 75).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -1959,6 +2006,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Martin Street",
+                "city": "TSV",
                 "description": "Named for William Martin, business person who ran the <i>The Great Northern Railway Store</i> and opened the first shop on Ross Island (Mathew, 2008, p. 84).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -1984,6 +2032,7 @@
             "type": "Feature",
             "properties": {
                 "name": "St. John Street",
+                "city": "TSV",
                 "description": "Named for St. John Robinson, a subdivider, the son of Henry Frederick Robinson; the latter was nicknamed the \"German Gardener\" and served as the namesake of \"German Gardens,\" (Mathew, 2008, p. 110). Today, German Gardens is known as Belgian Gardens, the re-naming a consequence of de-Germanification during the First World War (Centre for the Government of Queensland, 2018).",
                 "refs": "Centre for the Government of Queensland. (2018). <i>Belgian Gardens</i>. Retrieved from https://queenslandplaces.com.au/belgian-gardens.<br \\>Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -2005,6 +2054,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Robinson Street",
+                "city": "TSV",
                 "description": "Named for St. John Edmund Robinson. A developer, he built a zoon and wildlife sanctuary at Mount St. John and, \"In 1933 he organised the first bull fight to be held in Australia and five years later staged the first private air pageant of the Commonwealth\" (Mathew, 2008, p. 107).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -2026,6 +2076,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Ralston Street",
+                "city": "TSV",
                 "description": "Named for Walter Varden Ralston, \"manager of the Townsville branch of the Queensland National Bank in the 1880s\" (Mathew, 2008, p. 104).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -2071,6 +2122,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Echlin Street",
+                "city": "TSV",
                 "description": "Named for John Flemming Echlin, businessperson who worked for various people/companies including as part of a partnership in surverying company Benwell &amp; Echlin (1884-1886), as an auditor representing \"insurance companies on the Fire Brigade Board\" and as Sub-Lieutenant for the Naval Brigade Company (Mathew, 2008, p. 43).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -2124,6 +2176,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Cowley Street",
+                "city": "TSV",
                 "description": "Named for Ephraim E. Cowley, owner of varied businesses including a grocery store, tea shop, smoking house for bacon and the maker of \"Kangaroo Hunt\" sauce (Mathew, 2008, p. 36).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -2157,6 +2210,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Hann Street",
+                "city": "TSV",
                 "description": "Named for William Hann, owner of the Cleveland Bay Express Newspaper Company (est. 1867) (Mathew, 2008, p. 58).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -2178,6 +2232,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Ingham Road",
+                "city": "TSV",
                 "description": "Named for W.B. Ingham, a sugar plantation owner (Mathew, 2008, p. 66).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -2363,6 +2418,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Ingham Road",
+                "city": "TSV",
                 "description": "Named for W.B. Ingham, a sugar plantation owner (Mathew, 2008, p. 66).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -2400,6 +2456,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Ingham Road",
+                "city": "TSV",
                 "description": "Named for W.B. Ingham, a sugar plantation owner (Mathew, 2008, p. 66).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -2441,6 +2498,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Ingham Road",
+                "city": "TSV",
                 "description": "Named for W.B. Ingham, a sugar plantation owner (Mathew, 2008, p. 66).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -2474,6 +2532,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Ingham Road",
+                "city": "TSV",
                 "description": "Named for W.B. Ingham, a sugar plantation owner (Mathew, 2008, p. 66).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -2523,6 +2582,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Ingham Road",
+                "city": "TSV",
                 "description": "Named for W.B. Ingham, a sugar plantation owner (Mathew, 2008, p. 66).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -2592,6 +2652,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Ingham Road",
+                "city": "TSV",
                 "description": "Named for W.B. Ingham, a sugar plantation owner (Mathew, 2008, p. 66).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -2621,6 +2682,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Ingham Road",
+                "city": "TSV",
                 "description": "Named for W.B. Ingham, a sugar plantation owner (Mathew, 2008, p. 66).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -2670,6 +2732,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Ingham Road",
+                "city": "TSV",
                 "description": "Named for W.B. Ingham, a sugar plantation owner (Mathew, 2008, p. 66).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -2723,6 +2786,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Shaw Street",
+                "city": "TSV",
                 "description": "Named for D. and A. Shaw, owners of the West End Bakery during the late 19<sup>th</sup>/early 20<sup>th</sup> century (Mathew, 2008, p. 111).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -2744,6 +2808,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Woolcock Street",
+                "city": "TSV",
                 "description": "Named for Arthur Woolcock, \"manager of the Townsville branch of the London Chartered Bank of Australia in 1885\" (Mathew, 2008, p. 127).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -2849,6 +2914,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Woolcock Street",
+                "city": "TSV",
                 "description": "Named for Arthur Woolcock, \"manager of the Townsville branch of the London Chartered Bank of Australia in 1885\" (Mathew, 2008, p. 127).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -2978,6 +3044,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Clifton Street",
+                "city": "TSV",
                 "description": "Named for William Clifton, merchant in the region during the mid/late 19th century (Mathew, 2008, p. 33).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },

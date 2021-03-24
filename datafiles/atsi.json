@@ -5,6 +5,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Yarrawonga Drive",
+                "city": "TSV",
                 "description": "\"An Aboriginal word meaning a ‘stony mountain’\" (Mathew, 2008, p. 128).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -258,6 +259,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Orana Court",
+                "city": "TSV",
                 "description": "\"An Aboriginal word meaning welcome\" (Mathew, 2008, p. 96).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -315,6 +317,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Parramatta Street",
+                "city": "TSV",
                 "description": "\"An Aboriginal word meaning 'a place where eels lie down'\" (Australian Museum cited in Mathew, 2008, p. 98).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
