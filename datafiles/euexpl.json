@@ -5,6 +5,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Sturt Street",
+                "city": "TSV",
                 "description": "Named for Captain Charles Sturt, one time Surveyor General of South Australia (Mathew, 2008, p. 115).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -162,6 +163,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Sturt Street",
+                "city": "TSV",
                 "description": "Named for Captain Charles Sturt, one time Surveyor General of South Australia (Mathew, 2008, p. 115).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -311,6 +313,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Sturt Street",
+                "city": "TSV",
                 "description": "Named for Captain Charles Sturt, one time Surveyor General of South Australia (Mathew, 2008, p. 115).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -332,6 +335,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Kennedy Street",
+                "city": "TSV",
                 "description": "Named for E.B. Kenendy, \"who set out in April 1848 from Rockingham Bay to find a route along the coast to Cape York\" (Mathew, 2008, p. 71).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -353,6 +357,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Kennedy Street",
+                "city": "TSV",
                 "description": "Named for E.B. Kenendy, \"who set out in April 1848 from Rockingham Bay to find a route along the coast to Cape York\" (Mathew, 2008, p. 71).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -399,6 +404,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Kennedy Street",
+                "city": "TSV",
                 "description": "Named for E.B. Kenendy, \"who set out in April 1848 from Rockingham Bay to find a route along the coast to Cape York\" (Mathew, 2008, p. 71).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -444,6 +450,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Kennedy Street",
+                "city": "TSV",
                 "description": "Named for E.B. Kenendy, \"who set out in April 1848 from Rockingham Bay to find a route along the coast to Cape York\" (Mathew, 2008, p. 71).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -477,6 +484,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Blackwood Street",
+                "city": "TSV",
                 "description": "Named for \"Captain Francis Price Blackwood, naval officer and marine surveyor\" (Mathew, 2008, p. 19).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -530,6 +538,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Blackwood Street",
+                "city": "TSV",
                 "description": "Named for \"Captain Francis Price Blackwood, naval officer and marine surveyor\" (Mathew, 2008, p. 19).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -579,6 +588,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Blackwood Street",
+                "city": "TSV",
                 "description": "Named for \"Captain Francis Price Blackwood, naval officer and marine surveyor\" (Mathew, 2008, p. 19).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -632,6 +642,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Walker Street",
+                "city": "TSV",
                 "description": "Named for Frederick Walker, \"the leader of the Rockhampton search party for Burke and Wills in 1861-62\" (Mathew, 2008, p. 123).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -689,6 +700,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Walker Street",
+                "city": "TSV",
                 "description": "Named for Frederick Walker, \"the leader of the Rockhampton search party for Burke and Wills in 1861-62\" (Mathew, 2008, p. 123).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -726,6 +738,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Walker Street",
+                "city": "TSV",
                 "description": "Named for Frederick Walker, \"the leader of the Rockhampton search party for Burke and Wills in 1861-62\" (Mathew, 2008, p. 123).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -755,6 +768,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Walker Street",
+                "city": "TSV",
                 "description": "Named for Frederick Walker, \"the leader of the Rockhampton search party for Burke and Wills in 1861-62\" (Mathew, 2008, p. 123).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -808,6 +822,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Cook Street",
+                "city": "TSV",
                 "description": "Named for James Cook, first European to 'discover' Ka-may (see Attenbrow, 2009), or what is now called Botany Bay (Mathew, 2008, p. 35).",
                 "refs": "Attenbrow, V. (2009). Aboriginal Placenames Around Port Jackson and Botany Bay, New South Wales, Australia: Sources and Uncertainties. In H. Koch & L. Hercus (Eds.), <i>Aboriginal Placenames: Naming and Re-naming the Australian Landscape</i> (pp. 9–54). Canberra, ACT: ANU E Press and Aboriginal History Incorporated.<br \\>Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service.<br \\>Macintyre, S. (2004). <i>A Concise History of Australia</i> (2nd ed.). Port Melbourne, VIC: Cambridge University Press."
             },
@@ -845,6 +860,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Cook Street",
+                "city": "TSV",
                 "description": "Named for James Cook, first European to 'discover' Ka-may (see Attenbrow, 2009), or what is now called Botany Bay (Mathew, 2008, p. 35).",
                 "refs": "Attenbrow, V. (2009). Aboriginal Placenames Around Port Jackson and Botany Bay, New South Wales, Australia: Sources and Uncertainties. In H. Koch & L. Hercus (Eds.), <i>Aboriginal Placenames: Naming and Re-naming the Australian Landscape</i> (pp. 9–54). Canberra, ACT: ANU E Press and Aboriginal History Incorporated.<br \\>Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service.<br \\>Macintyre, S. (2004). <i>A Concise History of Australia</i> (2nd ed.). Port Melbourne, VIC: Cambridge University Press."
             },
@@ -870,6 +886,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Stokes Street",
+                "city": "TSV",
                 "description": "Named for Captain John Lort Stokes, surveyor of the Australian coast (Mathew, 2008, p. 115)",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -947,6 +964,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Flinders Street",
+                "city": "TSV",
                 "description": "Named for Matthew Flinders, explorer of what is now called Australia, wrote \"A Voyage to Terra Australis\" which was published just before his death (Mathew, 2008, p. 49). Macintyre (2004) suggests that it was Flinders who came up with the name Australia since it was, in Flinders' words, \"more agreeable to the ear\" (p. 50).",
                 "refs": "Macintyre, S. (2004). <i>A Concise History of Australia</i> (2nd ed.). Port Melbourne, VIC: Cambridge University Press.<p></p>Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -1040,6 +1058,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Flinders Street",
+                "city": "TSV",
                 "description": "Named for Matthew Flinders, explorer of what is now called Australia, wrote \"A Voyage to Terra Australis\" which was published just before his death (Mathew, 2008, p. 49). Macintyre (2004) suggests that it was Flinders who came up with the name Australia since it was, in Flinders' words, \"more agreeable to the ear\" (p. 50).",
                 "refs": "Macintyre, S. (2004). <i>A Concise History of Australia</i> (2nd ed.). Port Melbourne, VIC: Cambridge University Press.<p></p>Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -1077,6 +1096,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Flinders Street",
+                "city": "TSV",
                 "description": "Named for Matthew Flinders, explorer of what is now called Australia, wrote \"A Voyage to Terra Australis\" which was published just before his death (Mathew, 2008, p. 49). Macintyre (2004) suggests that it was Flinders who came up with the name Australia since it was, in Flinders' words, \"more agreeable to the ear\" (p. 50).",
                 "refs": "Macintyre, S. (2004). <i>A Concise History of Australia</i> (2nd ed.). Port Melbourne, VIC: Cambridge University Press.<p></p>Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -1106,6 +1126,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Flinders Street",
+                "city": "TSV",
                 "description": "Named for Matthew Flinders, explorer of what is now called Australia, wrote \"A Voyage to Terra Australis\" which was published just before his death (Mathew, 2008, p. 49). Macintyre (2004) suggests that it was Flinders who came up with the name Australia since it was, in Flinders' words, \"more agreeable to the ear\" (p. 50).",
                 "refs": "Macintyre, S. (2004). <i>A Concise History of Australia</i> (2nd ed.). Port Melbourne, VIC: Cambridge University Press.<p></p>Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -1191,6 +1212,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Flinders Street",
+                "city": "TSV",
                 "description": "Named for Matthew Flinders, explorer of what is now called Australia, wrote \"A Voyage to Terra Australis\" which was published just before his death (Mathew, 2008, p. 49). Macintyre (2004) suggests that it was Flinders who came up with the name Australia since it was, in Flinders' words, \"more agreeable to the ear\" (p. 50).",
                 "refs": "Macintyre, S. (2004). <i>A Concise History of Australia</i> (2nd ed.). Port Melbourne, VIC: Cambridge University Press.<p></p>Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -1220,6 +1242,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Flinders Street",
+                "city": "TSV",
                 "description": "Named for Matthew Flinders, explorer of what is now called Australia, wrote \"A Voyage to Terra Australis\" which was published just before his death (Mathew, 2008, p. 49). Macintyre (2004) suggests that it was Flinders who came up with the name Australia since it was, in Flinders' words, \"more agreeable to the ear\" (p. 50).",
                 "refs": "Macintyre, S. (2004). <i>A Concise History of Australia</i> (2nd ed.). Port Melbourne, VIC: Cambridge University Press.<p></p>Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -1241,6 +1264,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Wills Street",
+                "city": "TSV",
                 "description": "Names for William John Wills, surveyor and astronomer (Mathew, 2008, p. 126).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -1306,6 +1330,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Wills Street",
+                "city": "TSV",
                 "description": "Names for William John Wills, surveyor and astronomer (Mathew, 2008, p. 126).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -1335,6 +1360,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Wills Street",
+                "city": "TSV",
                 "description": "Names for William John Wills, surveyor and astronomer (Mathew, 2008, p. 126).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -1364,6 +1390,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Wills Street",
+                "city": "TSV",
                 "description": "Names for William John Wills, surveyor and astronomer (Mathew, 2008, p. 126).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -1389,6 +1416,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Cleveland Terrace",
+                "city": "TSV",
                 "description": "Named after Cleveland Bay, itself \"named in 1770 by Captain Cook possibly after John Cleveland, the Secretary of the Admiralty\" (Mathew, 2008, p. 33).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -1454,6 +1482,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Cleveland Terrace",
+                "city": "TSV",
                 "description": "Named after Cleveland Bay, itself \"named in 1770 by Captain Cook possibly after John Cleveland, the Secretary of the Admiralty\" (Mathew, 2008, p. 33).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -1487,6 +1516,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Stanley Street (West)",
+                "city": "TSV",
                 "description": "Named for Captain Owen Stanley, \"naval officer and marine surveyor\" and commander of the HMS Rattlesnake who surveyed North QLD up to the Torres Strait (Mathew, 2008, p. 114).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -1564,6 +1594,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Stanley Street (West)",
+                "city": "TSV",
                 "description": "Named for Captain Owen Stanley, \"naval officer and marine surveyor\" and commander of the HMS Rattlesnake who surveyed North QLD up to the Torres Strait (Mathew, 2008, p. 114).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -1645,6 +1676,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Stanley Street (West)",
+                "city": "TSV",
                 "description": "Named for Captain Owen Stanley, \"naval officer and marine surveyor\" and commander of the HMS Rattlesnake who surveyed North QLD up to the Torres Strait (Mathew, 2008, p. 114).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -1682,6 +1714,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Stanley Street (West)",
+                "city": "TSV",
                 "description": "Named for Captain Owen Stanley, \"naval officer and marine surveyor\" and commander of the HMS Rattlesnake who surveyed North QLD up to the Torres Strait (Mathew, 2008, p. 114).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -1703,6 +1736,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Stanley Street (West)",
+                "city": "TSV",
                 "description": "Named for Captain Owen Stanley, \"naval officer and marine surveyor\" and commander of the HMS Rattlesnake who surveyed North QLD up to the Torres Strait (Mathew, 2008, p. 114).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -1748,6 +1782,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Denham Street",
+                "city": "TSV",
                 "description": "Named for Captain Henry Mangl(e)s Denham, a sailor who mapped the coast, starting in 1853 (Mathew, 2008, p. 41).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -1825,6 +1860,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Denham Street",
+                "city": "TSV",
                 "description": "Named for Captain Henry Mangl(e)s Denham, a sailor who mapped the coast, starting in 1853 (Mathew, 2008, p. 41).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -1906,6 +1942,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Upper Denham Street",
+                "city": "TSV",
                 "description": "Named for Captain Henry Mangl(e)s Denham, a sailor who mapped the coast, starting in 1853 (Mathew, 2008, p. 41). This is an extension of Denham Street.",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -1943,6 +1980,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Melton Terrace",
+                "city": "TSV",
                 "description": "Named for John Melton Black (Mathew, 2008, p. 85). In an article from the <i>Townsville Daily Bulletin</i>, W. J. Doherty (1934) argues that Melton, \"came to a coastal creek in North Queensland and planted a city\" (p. 9).",
                 "refs": "<a href='https://trove.nla.gov.au/newspaper/article/61964570#' target='_blank'>Doherty, W. J. (1934, July 10). John Melton Black: The founder of Townsville. <i>Townsville Daily Bulletin</i>, p. 9.</a><br \\>Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -2044,6 +2082,7 @@
             "type": "Feature",
             "properties": {
                 "name": "King Street",
+                "city": "TSV",
                 "description": "Named for Phillip Parker King, explored \"the coastline from Hervey Bay to Torres Strait\" starting in 1817 for four and half years (Mathew, 2008, p. 72).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -2069,6 +2108,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Wickham Street",
+                "city": "TSV",
                 "description": "Named for Captain John Clements Wickham who, on board the HMS Beagle, surveyed the Australian coast (Mathew, 2008, p. 126).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -2106,6 +2146,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Wickham Street",
+                "city": "TSV",
                 "description": "Named for Captain John Clements Wickham who, on board the HMS Beagle, surveyed the Australian coast (Mathew, 2008, p. 126).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -2139,6 +2180,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Oxley Street",
+                "city": "TSV",
                 "description": "Named for John Joseph William Molesworth Oxley, \"surveyor-general and explorer, arrived in Australia in 1802, where he engaged in coastal survey work, including an expedition to Western Port in 1804-05\" (Mathew, 2008, p. 97).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -2196,6 +2238,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Oxley Street",
+                "city": "TSV",
                 "description": "Named for John Joseph William Molesworth Oxley, \"surveyor-general and explorer, arrived in Australia in 1802, where he engaged in coastal survey work, including an expedition to Western Port in 1804-05\" (Mathew, 2008, p. 97).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -2253,6 +2296,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Oxley Street",
+                "city": "TSV",
                 "description": "Named for John Joseph William Molesworth Oxley, \"surveyor-general and explorer, arrived in Australia in 1802, where he engaged in coastal survey work, including an expedition to Western Port in 1804-05\" (Mathew, 2008, p. 97).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -2290,6 +2334,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Oxley Street",
+                "city": "TSV",
                 "description": "Named for John Joseph William Molesworth Oxley, \"surveyor-general and explorer, arrived in Australia in 1802, where he engaged in coastal survey work, including an expedition to Western Port in 1804-05\" (Mathew, 2008, p. 97).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -2335,6 +2380,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Oxley Street",
+                "city": "TSV",
                 "description": "Named for John Joseph William Molesworth Oxley, \"surveyor-general and explorer, arrived in Australia in 1802, where he engaged in coastal survey work, including an expedition to Western Port in 1804-05\" (Mathew, 2008, p. 97).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -2356,6 +2402,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Eyre Street",
+                "city": "TSV",
                 "description": "Named for Edward John Eyre, \"explorer, best remembered for his trek around the Great Australian Bight in 1840-41\" (Mathew, 2008, p. 46).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -2393,6 +2440,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Eyre Street",
+                "city": "TSV",
                 "description": "Named for Edward John Eyre, \"explorer, best remembered for his trek around the Great Australian Bight in 1840-41\" (Mathew, 2008, p. 46).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -2414,6 +2462,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Eyre Street",
+                "city": "TSV",
                 "description": "Named for Edward John Eyre, \"explorer, best remembered for his trek around the Great Australian Bight in 1840-41\" (Mathew, 2008, p. 46).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -2439,6 +2488,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Eyre Street",
+                "city": "TSV",
                 "description": "Named for Edward John Eyre, \"explorer, best remembered for his trek around the Great Australian Bight in 1840-41\" (Mathew, 2008, p. 46).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -2480,6 +2530,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Eyre Street",
+                "city": "TSV",
                 "description": "Named for Edward John Eyre, \"explorer, best remembered for his trek around the Great Australian Bight in 1840-41\" (Mathew, 2008, p. 46).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -2521,6 +2572,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Leichhardt Street",
+                "city": "TSV",
                 "description": "Named for Ludwig Leichhardt, explorer who disappeared in 1848 while attempting to get to Perth (Mathew, 2008, p. 75).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -2558,6 +2610,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Leichhardt Street",
+                "city": "TSV",
                 "description": "Named for Ludwig Leichhardt, explorer who disappeared in 1848 while attempting to get to Perth (Mathew, 2008, p. 75).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -2595,6 +2648,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Mitchell Street",
+                "city": "TSV",
                 "description": "Named for Sir Thomas Livingstone Mitchell, a surveyor who became Surveyor General in 1828 (Mathew, 2008, p. 86).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -2724,6 +2778,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Mitchell Street",
+                "city": "TSV",
                 "description": "Named for Sir Thomas Livingstone Mitchell, a surveyor who became Surveyor General in 1828 (Mathew, 2008, p. 86).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -2773,6 +2828,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Mitchell Street",
+                "city": "TSV",
                 "description": "Named for Sir Thomas Livingstone Mitchell, a surveyor who became Surveyor General in 1828 (Mathew, 2008, p. 86).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -2802,6 +2858,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Mitchell Street",
+                "city": "TSV",
                 "description": "Named for Sir Thomas Livingstone Mitchell, a surveyor who became Surveyor General in 1828 (Mathew, 2008, p. 86).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -2831,6 +2888,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Mitchell Street",
+                "city": "TSV",
                 "description": "Named for Sir Thomas Livingstone Mitchell, a surveyor who became Surveyor General in 1828 (Mathew, 2008, p. 86).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -2852,6 +2910,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Mitchell Street",
+                "city": "TSV",
                 "description": "Named for Sir Thomas Livingstone Mitchell, a surveyor who became Surveyor General in 1828 (Mathew, 2008, p. 86).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -2881,6 +2940,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Mitchell Street",
+                "city": "TSV",
                 "description": "Named for Sir Thomas Livingstone Mitchell, a surveyor who became Surveyor General in 1828 (Mathew, 2008, p. 86).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -2906,6 +2966,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Warburton Street",
+                "city": "TSV",
                 "description": "Named for Major Warburton, explorer who explored west South Australia and who led an expedition toward Perth in 1873 to lay a telegraph line (Mathew, 2008, p. 123).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -3027,6 +3088,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Warburton Street",
+                "city": "TSV",
                 "description": "Named for Major Warburton, explorer who explored west South Australia and who led an expedition toward Perth in 1873 to lay a telegraph line (Mathew, 2008, p. 123).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -3132,6 +3194,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Gregory Street",
+                "city": "TSV",
                 "description": "Named for Sir Augustus Charles Gregory, surveyor and explorer who worked in Western Australia who outlined the souther border of Queensland (Mathew, 2008, p. 55).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -3189,6 +3252,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Gregory Street",
+                "city": "TSV",
                 "description": "Named for Sir Augustus Charles Gregory, surveyor and explorer who worked in Western Australia who outlined the souther border of Queensland (Mathew, 2008, p. 55).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -3210,6 +3274,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Burke Street",
+                "city": "TSV",
                 "description": "Named for Robert O’Hara Burke, explorer from the mid-19<sup>th</sup> century (Mathew, 2008, p. 25).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -3251,6 +3316,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Burke Street",
+                "city": "TSV",
                 "description": "Named for Robert O’Hara Burke, explorer from the mid-19<sup>th</sup> century (Mathew, 2008, p. 25).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -3272,6 +3338,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Stuart Street",
+                "city": "TSV",
                 "description": "Named for John McDouall Stuart, explorer who crossed what is now called Australia in the middle of the 19<sup>th</sup> century (Mathew, 2008, p. 115).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service.<br \\>Macintyre, S. (2004). <i>A Concise History of Australia</i> (2nd ed.). Port Melbourne, VIC: Cambridge University Press."
             },
@@ -3305,6 +3372,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Stuart Street",
+                "city": "TSV",
                 "description": "Named for John McDouall Stuart, explorer who crossed what is now called Australia in the middle of the 19<sup>th</sup> century (Mathew, 2008, p. 115).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service.<br \\>Macintyre, S. (2004). <i>A Concise History of Australia</i> (2nd ed.). Port Melbourne, VIC: Cambridge University Press."
             },
@@ -3326,6 +3394,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Stuart Street",
+                "city": "TSV",
                 "description": "Named for John McDouall Stuart, explorer who crossed what is now called Australia in the middle of the 19<sup>th</sup> century (Mathew, 2008, p. 115).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service.<br \\>Macintyre, S. (2004). <i>A Concise History of Australia</i> (2nd ed.). Port Melbourne, VIC: Cambridge University Press."
             },
@@ -3351,6 +3420,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Stuart Street",
+                "city": "TSV",
                 "description": "Named for John McDouall Stuart, explorer who crossed what is now called Australia in the middle of the 19<sup>th</sup> century (Mathew, 2008, p. 115).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service.<br \\>Macintyre, S. (2004). <i>A Concise History of Australia</i> (2nd ed.). Port Melbourne, VIC: Cambridge University Press."
             },
@@ -3376,6 +3446,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Stuart Street",
+                "city": "TSV",
                 "description": "Named for John McDouall Stuart, explorer who crossed what is now called Australia in the middle of the 19<sup>th</sup> century (Mathew, 2008, p. 115).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service.<br \\>Macintyre, S. (2004). <i>A Concise History of Australia</i> (2nd ed.). Port Melbourne, VIC: Cambridge University Press."
             },
@@ -3405,6 +3476,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Landsborough Street",
+                "city": "TSV",
                 "description": "Named for William Landsborough, leader of the QLD search party for the Burke and Wills expedition. Changing course in response to Frederick Walker's search, Landsborough headed south and ended up, \"the beautiful ‘downs’ country through which the Leichhardt River flows\" (Mathew, 2008, p. 74).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -3450,6 +3522,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Landsborough Street",
+                "city": "TSV",
                 "description": "Named for William Landsborough, leader of the QLD search party for the Burke and Wills expedition. Changing course in response to Frederick Walker's search, Landsborough headed south and ended up, \"the beautiful ‘downs’ country through which the Leichhardt River flows\" (Mathew, 2008, p. 74).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -3475,6 +3548,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Landsborough Street",
+                "city": "TSV",
                 "description": "Named for William Landsborough, leader of the QLD search party for the Burke and Wills expedition. Changing course in response to Frederick Walker's search, Landsborough headed south and ended up, \"the beautiful ‘downs’ country through which the Leichhardt River flows\" (Mathew, 2008, p. 74).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -3568,6 +3642,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Landsborough Street",
+                "city": "TSV",
                 "description": "Named for William Landsborough, leader of the QLD search party for the Burke and Wills expedition. Changing course in response to Frederick Walker's search, Landsborough headed south and ended up, \"the beautiful ‘downs’ country through which the Leichhardt River flows\" (Mathew, 2008, p. 74).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -3597,6 +3672,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Landsborough Street",
+                "city": "TSV",
                 "description": "Named for William Landsborough, leader of the QLD search party for the Burke and Wills expedition. Changing course in response to Frederick Walker's search, Landsborough headed south and ended up, \"the beautiful ‘downs’ country through which the Leichhardt River flows\" (Mathew, 2008, p. 74).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -3630,6 +3706,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Landsborough Street",
+                "city": "TSV",
                 "description": "Named for William Landsborough, leader of the QLD search party for the Burke and Wills expedition. Changing course in response to Frederick Walker's search, Landsborough headed south and ended up, \"the beautiful ‘downs’ country through which the Leichhardt River flows\" (Mathew, 2008, p. 74).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -3663,6 +3740,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Landsborough Street",
+                "city": "TSV",
                 "description": "Named for William Landsborough, leader of the QLD search party for the Burke and Wills expedition. Changing course in response to Frederick Walker's search, Landsborough headed south and ended up, \"the beautiful ‘downs’ country through which the Leichhardt River flows\" (Mathew, 2008, p. 74).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -3692,6 +3770,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Landsborough Street",
+                "city": "TSV",
                 "description": "Named for William Landsborough, leader of the QLD search party for the Burke and Wills expedition. Changing course in response to Frederick Walker's search, Landsborough headed south and ended up, \"the beautiful ‘downs’ country through which the Leichhardt River flows\" (Mathew, 2008, p. 74).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -3717,6 +3796,7 @@
             "type": "Feature",
             "properties": {
                 "name": "McKinley Street",
+                "city": "TSV",
                 "description": "Named for \"John McKinlay [who] was in charge of a relief party searching for Burke and Wills\" (Mathew, 2008, p. 80).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -3766,6 +3846,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Rose Street",
+                "city": "TSV",
                 "description": "According to Mathew (2008), it was \"either named after the flowering bush or, more likely misspelt, after C.S. Rowe an early pioneer in the settlement of Townsville\" (p. 108).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -3795,6 +3876,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Rose Street",
+                "city": "TSV",
                 "description": "According to Mathew (2008), it was \"either named after the flowering bush or, more likely misspelt, after C.S. Rowe an early pioneer in the settlement of Townsville\" (p. 108).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -3828,6 +3910,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Howitt Street",
+                "city": "TSV",
                 "description": "Named for Alfred W. Howitt, a member of the Burke and Wills expedition who, \"found the sole survivor of the party, John King, near Coopers Creek on 15th September 1861.\" (Mathew, 2008, p. 64)",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -3853,6 +3936,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Howitt Street",
+                "city": "TSV",
                 "description": "Named for Alfred W. Howitt, a member of the Burke and Wills expedition who, \"found the sole survivor of the party, John King, near Coopers Creek on 15th September 1861.\" (Mathew, 2008, p. 64)",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -3886,6 +3970,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Howitt Street",
+                "city": "TSV",
                 "description": "Named for Alfred W. Howitt, a member of the Burke and Wills expedition who, \"found the sole survivor of the party, John King, near Coopers Creek on 15th September 1861.\" (Mathew, 2008, p. 64)",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -3907,6 +3992,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Howitt Street",
+                "city": "TSV",
                 "description": "Named for Alfred W. Howitt, a member of the Burke and Wills expedition who, \"found the sole survivor of the party, John King, near Coopers Creek on 15th September 1861.\" (Mathew, 2008, p. 64)",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -3956,6 +4042,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Howitt Street",
+                "city": "TSV",
                 "description": "Named for Alfred W. Howitt, a member of the Burke and Wills expedition who, \"found the sole survivor of the party, John King, near Coopers Creek on 15th September 1861.\" (Mathew, 2008, p. 64)",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -4005,6 +4092,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Howitt Street",
+                "city": "TSV",
                 "description": "Named for Alfred W. Howitt, a member of the Burke and Wills expedition who, \"found the sole survivor of the party, John King, near Coopers Creek on 15th September 1861.\" (Mathew, 2008, p. 64)",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -4054,6 +4142,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Howitt Street",
+                "city": "TSV",
                 "description": "Named for Alfred W. Howitt, a member of the Burke and Wills expedition who, \"found the sole survivor of the party, John King, near Coopers Creek on 15th September 1861.\" (Mathew, 2008, p. 64)",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -4091,6 +4180,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Gilbert Crescent",
+                "city": "TSV",
                 "description": "Named for John Gilbert, explorer and naturalist (Queensland Government, 2019).",
                 "refs": "Queensland Government. (2009). <i>Queensland place names search</i>. Retrieved from https://www.dnrm.qld.gov.au/qld/environment/land/place-names/search#/search=Gilbert_River&types=0&place=Gilbert_River13736."
             },
@@ -4228,6 +4318,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Gilbert Crescent",
+                "city": "TSV",
                 "description": "Named for John Gilbert, explorer and naturalist (Queensland Government, 2019).",
                 "refs": "Queensland Government. (2009). <i>Queensland place names search</i>. Retrieved from https://www.dnrm.qld.gov.au/qld/environment/land/place-names/search#/search=Gilbert_River&types=0&place=Gilbert_River13736."
             },
@@ -4249,6 +4340,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Gilbert Crescent",
+                "city": "TSV",
                 "description": "Named for John Gilbert, explorer and naturalist (Queensland Government, 2019).",
                 "refs": "Queensland Government. (2009). <i>Queensland place names search</i>. Retrieved from https://www.dnrm.qld.gov.au/qld/environment/land/place-names/search#/search=Gilbert_River&types=0&place=Gilbert_River13736."
             },
@@ -4338,6 +4430,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Roper Court",
+                "city": "TSV",
                 "description": "\"Named for the Roper River in the NT\" (Mathew, 2008, p. 108). That river was named for John Roper (1822-1895), explorer and civil servant.",
                 "refs": "Australian Dictionary of Biography. (2019). <i>Roper, John (1822-1895)</i>. Retrieved from http://adb.anu.edu.au/biography/roper-john-4503.<br \\>Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -4371,6 +4464,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Mitchell Street",
+                "city": "TSV",
                 "description": "Named for Sir Thomas Livingstone Mitchell, surveyor in the early 19th century. He is famous for \"discovering\" Australia Felix, a region also called Port Philip, that he described as \"splendid and extensive [... that] was different from any thing I had ever witnessed either in New South Wales or elsewhere, a land so inviting, and still without inhabitants.\" (Mitchell cited in Haydon, 1846, p. 14)",
                 "refs": "Haydon, G. H. (1846). <i>Five years experience in Australia Felix, comprising a short account of its early settlement and its present position, with many particulars interesting to intending emigrants</i>. London, U.K.: Hamilton, Adams, &amp; Co. Paternoster Row.<br \\>Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },

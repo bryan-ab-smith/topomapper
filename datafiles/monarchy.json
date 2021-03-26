@@ -5,6 +5,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Queen Street",
+                "city": "TSV",
                 "description": "Named during the reign of Queen Victoria (Mathew, 2008, p. 104).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -30,6 +31,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Alexandra Street",
+                "city": "TSV",
                 "description": "Named for \"Alexandra of Denmark (1844-1925) [who] married Albert Edward (later Edward VII), the eldest son of Queen Victoria in 1863\" (Mathew, 2008, p. 6).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -75,6 +77,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Alexandra Street",
+                "city": "TSV",
                 "description": "Named for \"Alexandra of Denmark (1844-1925) [who] married Albert Edward (later Edward VII), the eldest son of Queen Victoria in 1863\" (Mathew, 2008, p. 6).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -104,6 +107,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Victoria Street",
+                "city": "TSV",
                 "description": "Named for Queen Victoria (Mathew, 2008, p. 122).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -153,6 +157,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Victoria Street",
+                "city": "TSV",
                 "description": "Named for Queen Victoria (Mathew, 2008, p. 122).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -194,6 +199,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Balmoral Drive",
+                "city": "TSV",
                 "description": "Named for \"the royal residence in Aberdeenshire,\" purchased by Prince Albert (Mathew, 2008, p. 13).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },

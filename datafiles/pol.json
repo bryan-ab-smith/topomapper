@@ -5,6 +5,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Ogden Street",
+                "city": "TSV",
                 "description": "Named for Anthony Ogden, mayor (1924-1926) and MLA for Townsville in the early 20<sup>th</sup> century (Mathew, 2008, 95).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -62,6 +63,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Ogden Street",
+                "city": "TSV",
                 "description": "Named for Anthony Ogden, mayor (1924-1926) and MLA for Townsville in the early 20<sup>th</sup> century (Mathew, 2008, 95).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -91,6 +93,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Ogden Street",
+                "city": "TSV",
                 "description": "Named for Anthony Ogden, mayor (1924-1926) and MLA for Townsville in the early 20<sup>th</sup> century (Mathew, 2008, 95).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -124,6 +127,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Hanran Street",
+                "city": "TSV",
                 "description": "Named for Patrick Francis Hanran, mayor from 1870 onwards for multiple terms. He was also a general merchant in Townsville. (Mathew, 2008, pp. 58-59).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -189,6 +193,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Hanran Street",
+                "city": "TSV",
                 "description": "Named for Patrick Francis Hanran, mayor from 1870 onwards for multiple terms. He was also a general merchant in Townsville. (Mathew, 2008, pp. 58-59).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -226,6 +231,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Hanran Street",
+                "city": "TSV",
                 "description": "Named for Patrick Francis Hanran, mayor from 1870 onwards for multiple terms. He was also a general merchant in Townsville. (Mathew, 2008, pp. 58-59).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -279,6 +285,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Thorpe Street",
+                "city": "TSV",
                 "description": "\"Named after Thomas Edward Thorpe, sharebroker and Alderman\" (Mathew, 2008, p. 118).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -300,6 +307,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Herbert Street",
+                "city": "TSV",
                 "description": "\"Named after Sir Robert George Wyndham Herbert, secretary to Sir George Bowen (first governor of QLD) and Colonial Secretary for just over six years from December 1859 - February 1866 (Mathew, 2008, p. 62).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -329,6 +337,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Knapp Street",
+                "city": "TSV",
                 "description": "Named for Henry Knapp, a solicitor who held various political positions during the latter half of the 19<sup>th</sup>century who left office permanently after being sued for larceny (his legal licence was also suspended later) (Mathew, 2008, p. 73).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -378,6 +387,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Knapp Street",
+                "city": "TSV",
                 "description": "Named for Henry Knapp, a solicitor who held various political positions during the latter half of the 19<sup>th</sup>century who left office permanently after being sued for larceny (his legal licence was also suspended later) (Mathew, 2008, p. 73).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -411,6 +421,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Isley Street",
+                "city": "TSV",
                 "description": "Named for John Bacey Isley, a Queensland Native Mounted Police Inspector in the late 19<sup>th</sup> century (Mathew, 2008, p. 67).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -444,6 +455,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Bundock Street",
+                "city": "TSV",
                 "description": "Named for Arthur Glennie Bundock, who served in a variety of public service roles including Alderman and Mayor in the late 19<sup>th</sup> century (Mathew, 2008, p. 24).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -653,6 +665,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Bundock Street",
+                "city": "TSV",
                 "description": "Named for Arthur Glennie Bundock, who served in a variety of public service roles including Alderman and Mayor in the late 19<sup>th</sup> century (Mathew, 2008, p. 24).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -906,6 +919,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Palmer Street",
+                "city": "TSV",
                 "description": "Named for Sir Arthur Hunter Palmer (1819-1898), a politician and banker who became Colonial Secretary in the mid to late 19<sup>th</sup> century (Mathew, 2008, pp. 97-98).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -943,6 +957,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Palmer Street",
+                "city": "TSV",
                 "description": "Named for Sir Arthur Hunter Palmer (1819-1898), a politician and banker who became Colonial Secretary in the mid to late 19<sup>th</sup> century (Mathew, 2008, pp. 97-98).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -964,6 +979,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Palmer Street",
+                "city": "TSV",
                 "description": "Named for Sir Arthur Hunter Palmer (1819-1898), a politician and banker who became Colonial Secretary in the mid to late 19<sup>th</sup> century (Mathew, 2008, pp. 97-98).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -997,6 +1013,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Palmer Street",
+                "city": "TSV",
                 "description": "Named for Sir Arthur Hunter Palmer (1819-1898), a politician and banker who became Colonial Secretary in the mid to late 19<sup>th</sup> century (Mathew, 2008, pp. 97-98).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -1026,6 +1043,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Palmer Street",
+                "city": "TSV",
                 "description": "Named for Sir Arthur Hunter Palmer (1819-1898), a politician and banker who became Colonial Secretary in the mid to late 19<sup>th</sup> century (Mathew, 2008, pp. 97-98).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -1063,6 +1081,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Palmer Street",
+                "city": "TSV",
                 "description": "Named for Sir Arthur Hunter Palmer (1819-1898), a politician and banker who became Colonial Secretary in the mid to late 19<sup>th</sup> century (Mathew, 2008, pp. 97-98).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -1088,6 +1107,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Palmer Street",
+                "city": "TSV",
                 "description": "Named for Sir Arthur Hunter Palmer (1819-1898), a politician and banker who became Colonial Secretary in the mid to late 19<sup>th</sup> century (Mathew, 2008, pp. 97-98).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -1113,6 +1133,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Palmer Street",
+                "city": "TSV",
                 "description": "Named for Sir Arthur Hunter Palmer (1819-1898), a politician and banker who became Colonial Secretary in the mid to late 19<sup>th</sup> century (Mathew, 2008, pp. 97-98).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -1138,6 +1159,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Mcilwraith Street",
+                "city": "TSV",
                 "description": "Named for Sir Thomas McIlwraith, conservative politician who proposed railroad development and the Divisional Boards Act of 1879 (Mathew, 2008, p. 80).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -1171,6 +1193,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Mcilwraith Street",
+                "city": "TSV",
                 "description": "Named for Sir Thomas McIlwraith, conservative politician who proposed railroad development and the Divisional Boards Act of 1879 (Mathew, 2008, p. 80).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -1192,6 +1215,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Mcilwraith Street",
+                "city": "TSV",
                 "description": "Named for Sir Thomas McIlwraith, conservative politician who proposed railroad development and the Divisional Boards Act of 1879 (Mathew, 2008, p. 80).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -1221,6 +1245,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Mcilwraith Street",
+                "city": "TSV",
                 "description": "Named for Sir Thomas McIlwraith, conservative politician who proposed railroad development and the Divisional Boards Act of 1879 (Mathew, 2008, p. 80).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -1242,6 +1267,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Mcilwraith Street",
+                "city": "TSV",
                 "description": "Named for Sir Thomas McIlwraith, conservative politician who proposed railroad development and the Divisional Boards Act of 1879 (Mathew, 2008, p. 80).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -1283,6 +1309,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Mcilwraith Street",
+                "city": "TSV",
                 "description": "Named for Sir Thomas McIlwraith, conservative politician who proposed railroad development and the Divisional Boards Act of 1879 (Mathew, 2008, p. 80).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -1332,6 +1359,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Archer Street",
+                "city": "TSV",
                 "description": "Named for Archibald Archer, member of the Legislative Assembly in the late 19<sup>th</sup> century. He later, \"served in the McIlwraith Ministry as Colonial Treasurer and Secretary for Public Instruction in 1882-83\" (Mathew, 2008, p. 10).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -1365,6 +1393,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Archer Street",
+                "city": "TSV",
                 "description": "Named for Archibald Archer, member of the Legislative Assembly in the late 19<sup>th</sup> century. He later, \"served in the McIlwraith Ministry as Colonial Treasurer and Secretary for Public Instruction in 1882-83\" (Mathew, 2008, p. 10).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -1434,6 +1463,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Archer Street",
+                "city": "TSV",
                 "description": "Named for Archibald Archer, member of the Legislative Assembly in the late 19<sup>th</sup> century. He later, \"served in the McIlwraith Ministry as Colonial Treasurer and Secretary for Public Instruction in 1882-83\" (Mathew, 2008, p. 10).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -1487,6 +1517,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Ross Street",
+                "city": "TSV",
                 "description": "Named for William Alfred Ross, hotel operator and \"elected a member of the first Townsville Council in the following year. He was Mayor in 1868.\" (Mathew, 2008, p. 109).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -1544,6 +1575,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Griffith Street",
+                "city": "TSV",
                 "description": "Named for Sir Samuel Griffith, a premier of Queensland. \"At the first Federal Convention held in Sydney during March 1891,\" Mathew (2008) notes, \"he was largely responsible for the draft constitution which was adopted.\" (p. 56).<p>NOTE: The map misidentifies this as \"Griffin Street.\"",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -1573,6 +1605,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Barlow Street",
+                "city": "TSV",
                 "description": "Named for Andrew Henry Barlow, a member of the Legislative Assembly in the late 19<sup>th</sup> century. As Mathew (2008) argues, \"Barlow opposed Chinese immigration, supported the Eight-Hour Bill but favoured plural voting because he believed that unrestrained democracy fostered despotism\" (p. 15).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -1606,6 +1639,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Morehead Street",
+                "city": "TSV",
                 "description": "Named for Boyd Dunlop Morehead, a businessperson and politician (Mathew, 2008, p. 15). He became Premier of Queensland later in life from 1888 - 1890, resigning as he \"felt unable to continue with such diminished support\" after imposing unfavourable tax measures (p. 42).",
                 "refs": "Fitzgerald, R., Megarrity, L., &amp; Symons, D. (2009). <i>Made in Queensland: A New History</i>. St Lucia, QLD: University of Queensland Press.<br \\>Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -1643,6 +1677,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Morehead Street",
+                "city": "TSV",
                 "description": "Named for Boyd Dunlop Morehead, a businessperson and politician (Mathew, 2008, p. 15). He became Premier of Queensland later in life from 1888 - 1890, resigning as he \"felt unable to continue with such diminished support\" after imposing unfavourable tax measures (p. 42).",
                 "refs": "Fitzgerald, R., Megarrity, L., &amp; Symons, D. (2009). <i>Made in Queensland: A New History</i>. St Lucia, QLD: University of Queensland Press.<br \\>Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -1672,6 +1707,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Morehead Street",
+                "city": "TSV",
                 "description": "Named for Boyd Dunlop Morehead, a businessperson and politician (Mathew, 2008, p. 15). He became Premier of Queensland later in life from 1888 - 1890, resigning as he \"felt unable to continue with such diminished support\" after imposing unfavourable tax measures (p. 42).",
                 "refs": "Fitzgerald, R., Megarrity, L., &amp; Symons, D. (2009). <i>Made in Queensland: A New History</i>. St Lucia, QLD: University of Queensland Press.<br \\>Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -1713,6 +1749,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Morehead Street",
+                "city": "TSV",
                 "description": "Named for Boyd Dunlop Morehead, a businessperson and politician (Mathew, 2008, p. 15). He became Premier of Queensland later in life from 1888 - 1890, resigning as he \"felt unable to continue with such diminished support\" after imposing unfavourable tax measures (p. 42).",
                 "refs": "Fitzgerald, R., Megarrity, L., &amp; Symons, D. (2009). <i>Made in Queensland: A New History</i>. St Lucia, QLD: University of Queensland Press.<br \\>Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -1742,6 +1779,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Morehead Street",
+                "city": "TSV",
                 "description": "Named for Boyd Dunlop Morehead, a businessperson and politician (Mathew, 2008, p. 15). He became Premier of Queensland later in life from 1888 - 1890, resigning as he \"felt unable to continue with such diminished support\" after imposing unfavourable tax measures (p. 42).",
                 "refs": "Fitzgerald, R., Megarrity, L., &amp; Symons, D. (2009). <i>Made in Queensland: A New History</i>. St Lucia, QLD: University of Queensland Press.<br \\>Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -1763,6 +1801,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Davidson Street",
+                "city": "TSV",
                 "description": "Named for William Montgomerie Davenport Davidson, Assistant Surveyor General from 1878-1889 and Surveyor General from 1889-1891 (Mathew, 2008, p. 40).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -1784,6 +1823,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Davidson Street",
+                "city": "TSV",
                 "description": "Named for William Montgomerie Davenport Davidson, Assistant Surveyor General from 1878-1889 and Surveyor General from 1889-1891 (Mathew, 2008, p. 40).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -1825,6 +1865,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Morey Street",
+                "city": "TSV",
                 "description": "Named for Edmund Morey, Police Magistrate (1882-1885) and subsequenlty \"warden of the Clermont Gold Field\" (Mathew, 2008, p. 87).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -1858,6 +1899,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Morey Street",
+                "city": "TSV",
                 "description": "Named for Edmund Morey, Police Magistrate (1882-1885) and subsequenlty \"warden of the Clermont Gold Field\" (Mathew, 2008, p. 87).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -1883,6 +1925,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Morey Street",
+                "city": "TSV",
                 "description": "Named for Edmund Morey, Police Magistrate (1882-1885) and subsequenlty \"warden of the Clermont Gold Field\" (Mathew, 2008, p. 87).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -1912,6 +1955,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Morey Street",
+                "city": "TSV",
                 "description": "Named for Edmund Morey, Police Magistrate (1882-1885) and subsequenlty \"warden of the Clermont Gold Field\" (Mathew, 2008, p. 87).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -1953,6 +1997,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Benwell Road",
+                "city": "TSV",
                 "description": "Named for Hugh Percy Hamilton Benwell (1852-1901), \"the first secretary of the Townsville Chamber of Commerce when it was formed in 1882 and in the same year was appointed surveyor and valuator to the Thuringowa Divisional Board at a salary of seventy-five pounds per annum\" (Mathew, 2008, p. 18).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -2098,6 +2143,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Benwell Road",
+                "city": "TSV",
                 "description": "Named for Hugh Percy Hamilton Benwell (1852-1901), \"the first secretary of the Townsville Chamber of Commerce when it was formed in 1882 and in the same year was appointed surveyor and valuator to the Thuringowa Divisional Board at a salary of seventy-five pounds per annum\" (Mathew, 2008, p. 18).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -2143,6 +2189,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Benwell Road",
+                "city": "TSV",
                 "description": "Named for Hugh Percy Hamilton Benwell (1852-1901), \"the first secretary of the Townsville Chamber of Commerce when it was formed in 1882 and in the same year was appointed surveyor and valuator to the Thuringowa Divisional Board at a salary of seventy-five pounds per annum\" (Mathew, 2008, p. 18).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -2204,6 +2251,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Benwell Road",
+                "city": "TSV",
                 "description": "Named for Hugh Percy Hamilton Benwell (1852-1901), \"the first secretary of the Townsville Chamber of Commerce when it was formed in 1882 and in the same year was appointed surveyor and valuator to the Thuringowa Divisional Board at a salary of seventy-five pounds per annum\" (Mathew, 2008, p. 18).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -2265,6 +2313,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Benwell Road",
+                "city": "TSV",
                 "description": "Named for Hugh Percy Hamilton Benwell (1852-1901), \"the first secretary of the Townsville Chamber of Commerce when it was formed in 1882 and in the same year was appointed surveyor and valuator to the Thuringowa Divisional Board at a salary of seventy-five pounds per annum\" (Mathew, 2008, p. 18).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -2330,6 +2379,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Tully Road",
+                "city": "TSV",
                 "description": "Named for William Alcock Tully (1830-1905), who, after arriving in Queensland, became, \"Commissioner of Crown Lands for the Kennedy and Warrego pastoral districts\" and eventually Surveyor General of Queensland (Mathew, 2008, ppp. 119-120).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -2359,6 +2409,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Tully Road",
+                "city": "TSV",
                 "description": "Named for William Alcock Tully (1830-1905), who, after arriving in Queensland, became, \"Commissioner of Crown Lands for the Kennedy and Warrego pastoral districts\" and eventually Surveyor General of Queensland (Mathew, 2008, ppp. 119-120).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -2380,6 +2431,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Tully Road",
+                "city": "TSV",
                 "description": "Named for William Alcock Tully (1830-1905), who, after arriving in Queensland, became, \"Commissioner of Crown Lands for the Kennedy and Warrego pastoral districts\" and eventually Surveyor General of Queensland (Mathew, 2008, ppp. 119-120).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -2409,6 +2461,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Tully Road",
+                "city": "TSV",
                 "description": "Named for William Alcock Tully (1830-1905), who, after arriving in Queensland, became, \"Commissioner of Crown Lands for the Kennedy and Warrego pastoral districts\" and eventually Surveyor General of Queensland (Mathew, 2008, ppp. 119-120).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -2450,6 +2503,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Macrossan Road",
+                "city": "TSV",
                 "description": "Named for John Murtagh Macrossan (1833-1891), politician. \"In 1886\" Mathew (2008) argues, \"he came out openly for complete separation for the North and in parliament made one of Australia’s great statements for local self-government\" (p. 81).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -2475,6 +2529,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Macrossan Road",
+                "city": "TSV",
                 "description": "Named for John Murtagh Macrossan (1833-1891), politician. \"In 1886\" Mathew (2008) argues, \"he came out openly for complete separation for the North and in parliament made one of Australia’s great statements for local self-government\" (p. 81).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -2496,6 +2551,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Bell Street",
+                "city": "TSV",
                 "description": "Named for Sir Joshua Peter Bell (1827-1881), politician who held various posts including, at the end of his career, \"administrator of the Colony from 19th March to 20th December 1880\" (Mathew, 2008, p. 81).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -2521,6 +2577,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Bell Street",
+                "city": "TSV",
                 "description": "Named for Sir Joshua Peter Bell (1827-1881), politician who held various posts including, at the end of his career, \"administrator of the Colony from 19th March to 20th December 1880\" (Mathew, 2008, p. 81).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -2542,6 +2599,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Bell Street",
+                "city": "TSV",
                 "description": "Named for Sir Joshua Peter Bell (1827-1881), politician who held various posts including, at the end of his career, \"administrator of the Colony from 19th March to 20th December 1880\" (Mathew, 2008, p. 81).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -2571,6 +2629,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Nelson Street",
+                "city": "TSV",
                 "description": "Named for Sir Hugh Muir Nelson (1833-1906), politician. \"His handling of the Queensland National Bank crisis\" Mathew (2008) argues, \"was his greatest and shrewdest service to colonial bourgeois society. When the Queensland National Bank suspended payment on 15th May 189? he declared it basically sound, although aware of its true state. The government then rescued the bank at its own and depositors’ expense.\" (p. 92).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -2616,6 +2675,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Nelson Street",
+                "city": "TSV",
                 "description": "Named for Sir Hugh Muir Nelson (1833-1906), politician. \"His handling of the Queensland National Bank crisis\" Mathew (2008) argues, \"was his greatest and shrewdest service to colonial bourgeois society. When the Queensland National Bank suspended payment on 15th May 189? he declared it basically sound, although aware of its true state. The government then rescued the bank at its own and depositors’ expense.\" (p. 92).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -2653,6 +2713,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Boundary Street",
+                "city": "TSV",
                 "description": "Named for the fact that it served as the boundary between South Townsville and Railway Estate (Mathew, 2008, p. 21). In Townsville, as in other Australian communities such as Brisbane, Boundary Street also marked the line across which Indigenous peoples were not allowed to cross.",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -2678,6 +2739,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Boundary Street",
+                "city": "TSV",
                 "description": "Named for the fact that it served as the boundary between South Townsville and Railway Estate (Mathew, 2008, p. 21). In Townsville, as in other Australian communities such as Brisbane, Boundary Street also marked the line across which Indigenous peoples were not allowed to cross.",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -2879,6 +2941,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Boundary Street",
+                "city": "TSV",
                 "description": "Named for the fact that it served as the boundary between South Townsville and Railway Estate (Mathew, 2008, p. 21). In Townsville, as in other Australian communities such as Brisbane, Boundary Street also marked the line across which Indigenous peoples were not allowed to cross.",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -3016,6 +3079,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Boundary Street",
+                "city": "TSV",
                 "description": "Named for the fact that it served as the boundary between South Townsville and Railway Estate (Mathew, 2008, p. 21). In Townsville, as in other Australian communities such as Brisbane, Boundary Street also marked the line across which Indigenous peoples were not allowed to cross.",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -3037,6 +3101,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Dean Street",
+                "city": "TSV",
                 "description": "Named for William Handley Dean (b. 1826), member of the Wesleyan ministry and political actor in the area including rols such as Land Agent, \"member of the committee of the Townsville Aboriginal Protection Society in 1877/78\" and Police Magistrate (Mathew, 2008, p. 41).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -3174,6 +3239,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Dean Street",
+                "city": "TSV",
                 "description": "Named for William Handley Dean (b. 1826), member of the Wesleyan ministry and political actor in the area including rols such as Land Agent, \"member of the committee of the Townsville Aboriginal Protection Society in 1877/78\" and Police Magistrate (Mathew, 2008, p. 41).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -3327,6 +3393,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Hubert Street",
+                "city": "TSV",
                 "description": "Named for Henry Barbenson Le Touzel Hubert, auctioneer who became an Alderman and one term mayor. During the late 19<sup>th</sup> century, \"he was one of the few North Queensland politicians of his time not to favour Separation\" (Mathew, 2008, p. 65).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -3360,6 +3427,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Hubert Street",
+                "city": "TSV",
                 "description": "Named for Henry Barbenson Le Touzel Hubert, auctioneer who became an Alderman and one term mayor. During the late 19<sup>th</sup> century, \"he was one of the few North Queensland politicians of his time not to favour Separation\" (Mathew, 2008, p. 65).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -3417,6 +3485,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Hubert Street",
+                "city": "TSV",
                 "description": "Named for Henry Barbenson Le Touzel Hubert, auctioneer who became an Alderman and one term mayor. During the late 19<sup>th</sup> century, \"he was one of the few North Queensland politicians of his time not to favour Separation\" (Mathew, 2008, p. 65).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -3429,6 +3498,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Taylor St",
+                "city": "TSV",
                 "description": "Named for Robert Bruce Taylor, Alderman in the 1880s (Mathew, 2008, p. 117).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -3466,6 +3536,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Chubb St",
+                "city": "TSV",
                 "description": "Charles Edward Chubb (1845-1930), lawyer and representative of Bowen in the Legislative Assembly from 1883-1888. Afterwards, he bcecame a judge for the Northern Supreme Court  (Mathew, 2008, p. 31).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -3507,6 +3578,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Chubb St",
+                "city": "TSV",
                 "description": "Named for Charles Edward Chubb (1845-1930), lawyer and representative of Bowen in the Legislative Assembly from 1883-1888. Afterwards, he bcecame a judge for the Northern Supreme Court (Mathew, 2008, p. 31).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -3536,6 +3608,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Evans St",
+                "city": "TSV",
                 "description": "Named for William Evans, factory owner and eventual Alderman in 1875-1887. (Mathew, 2008, p. 31).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -3577,6 +3650,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Evans St",
+                "city": "TSV",
                 "description": "Named for William Evans, factory owner and eventual Alderman in 1875-1887. (Mathew, 2008, p. 31).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -3614,6 +3688,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Parry St",
+                "city": "TSV",
                 "description": "Named for John Parry, Alderman elected in 1936, serving for more than 25 years. (Mathew, 2008, p. 99).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -3643,6 +3718,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Short Street",
+                "city": "TSV",
                 "description": "Named for Albert Short, business owner and eventual Alderman in the late 19<sup>th</sup> century (Mathew, 2008, p. 112).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -3672,6 +3748,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Short Street",
+                "city": "TSV",
                 "description": "Named for Albert Short, business owner and eventual Alderman in the late 19<sup>th</sup> century (Mathew, 2008, p. 112).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -3701,6 +3778,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Green Street",
+                "city": "TSV",
                 "description": "Named for William Henry Green, mayor of Townsville from 1920-1924 (Mathew, 2008, p. 55).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -3802,6 +3880,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Garrick Street",
+                "city": "TSV",
                 "description": "Named for Sir James Francis Garrick, solicitor and eventual appointee to the QLD Supreme Court, a position they did not take (Mathew, 2008, p. 52).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -3843,6 +3922,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Mary Street",
+                "city": "TSV",
                 "description": "Named for Mary Jane Aplin, wife of William Aplin (Mathew, 2008, p. 84). The latter was a member of local council, eventual mayor and member of the QLD legislative council from 1880-1901 (Australian National University, 2019, para. 2).",
                 "refs": "Australian National University. (2019). <i>Biography - William Aplin - Australian Dictionary of Biography</i>. Retrieved from http://adb.anu.edu.au/biography/aplin-william-2893.<br \\>Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -3868,6 +3948,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Jane Street",
+                "city": "TSV",
                 "description": "Named for Mary Jane Aplin, wife of William Aplin (Mathew, 2008, p. 84). The latter was a member of local council, eventual mayor and member of the QLD legislative council from 1880-1901 (Australian National University, 2019, para. 2).",
                 "refs": "Australian National University. (2019). <i>Biography - William Aplin - Australian Dictionary of Biography</i>. Retrieved from http://adb.anu.edu.au/biography/aplin-william-2893.<br \\>Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -3889,6 +3970,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Norman Street",
+                "city": "TSV",
                 "description": "Named for Sir Henry Wylie Norman (1826-1904), a soldier, governor of Jamaica (1883) and governor of QLD (1888) (Mathew, 2008, p. 93).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -3910,6 +3992,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Musgrave Street",
+                "city": "TSV",
                 "description": "Named for Sir Anthony Musgrave (1828-1888), a politician taking up various posts including as governor of SA (1873-1877), governor of Jamaica (1877) and governor of QLD (1883) (Mathew, 2008, p. 93).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -3931,6 +4014,7 @@
             "type": "Feature",
             "properties": {
                 "name": "McClelland Street",
+                "city": "TSV",
                 "description": "Named for Robert Wilson McClelland, a politician who was alderman (1913) and mayor (1916) (Mathew, 2008, p. 79).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -4000,6 +4084,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Castling Street",
+                "city": "TSV",
                 "description": "Named for William Joseph Castling, a businessperson and politician who served in various roles including local council (1880), alderman and as \"a member of the Thuringowa Divisional Board\" (Mathew, 2008, p. 29).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -4025,6 +4110,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Livingstone Street",
+                "city": "TSV",
                 "description": "Named for Robert Livingstone, a businessperson and politician who served in various roles including local council (1880), alderman and \"in 1889 was chairman of both the Council's Works Committee and the special committee set up to appoint a traffic inspector and an assistant inspector of nuisances\" (Mathew, 2008, p. 77).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -4054,6 +4140,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Parkes Street",
+                "city": "TSV",
                 "description": "Named for John Newport Parkes (1859-1927), a businessperson and politician who served in various roles including alderman (1883) and mayor (1889). Notably, he supported seperation and was, \"was president of the Separation League in 1890\" (Mathew, 2008, p. 98).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -4091,6 +4178,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Heatleys Parade",
+                "city": "TSV",
                 "description": "Named for alderman and mayor William John Heatley (Mathew, 2008, p. 61).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -4156,6 +4244,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Brown Street",
+                "city": "TSV",
                 "description": "Named for William Villiers Brown, MLA for the city who ultimately served in both houses of Parliament (Mathew, 2008, p. 23).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -4181,6 +4270,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Willmett Street",
+                "city": "TSV",
                 "description": "Named for Thankful Percy Willmett, a businessperson (involved with publishing) and eventual Alderman and Mayor during the mid/late 18<sup>th</sup> century (Mathew, 2008, p. 126).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },

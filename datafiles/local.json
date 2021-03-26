@@ -5,6 +5,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Rowland Street",
+                "city": "TSV",
                 "description": "Named for Percy Fritz Rowland, headmaster of Townsville Grammar, 1905-1938 (Mathew, 2008, p. 109).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -26,6 +27,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Marshall Street",
+                "city": "TSV",
                 "description": "Named for Alfred Marshall, local surveyor in Townsville during the 1880s (Mathew, 2008, p. 84).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -51,6 +53,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Townsville Street",
+                "city": "TSV",
                 "description": "Named for the city (Mathew, 2008, p. 119).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },

@@ -10,6 +10,8 @@ As part of a larger research project, this mobile friendly web application docum
 
 ### Progress
 
+__Townsville__
+
 The following suburbs have been mapped:
 - Townsville City
 - North Ward
@@ -21,6 +23,10 @@ Next up:
 - Nothing for now.
 
 NOTE: Efforts to map will slow down as each of the five suburbs above will be cleaned up, proofed and filled out with further context.
+
+__Cairns__
+
+This is a new avenue for work and some of the groundwork for it is only being laid now. Suburbs covered TBD.
 
 ### Viewing
 

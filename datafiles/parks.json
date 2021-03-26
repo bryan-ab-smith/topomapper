@@ -5,6 +5,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Victoria Park",
+                "city": "TSV",
                 "description": "THIS IS A TEST.",
                 "refs": "N/A"
             },
