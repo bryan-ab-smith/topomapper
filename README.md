@@ -119,4 +119,4 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ### Note about the street GeoJSON data
-The GeoJSON co-ordinate data (datafiles/) comes from OpenStreetMap. That data is available under the Open Database License (see [here](https://opendatacommons.org/licenses/odbl/1-0/)).
+The GeoJSON co-ordinate data (datafiles/) and the [tsv/cns].geojson "master" files come from OpenStreetMap (by way of Overpass Turbo). That data is available under the Open Database License (see [here](https://opendatacommons.org/licenses/odbl/1-0/)).
