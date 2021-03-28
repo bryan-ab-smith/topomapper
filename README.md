@@ -13,10 +13,10 @@ As part of a larger research project, this mobile friendly web application docum
 __Townsville__
 
 The following suburbs have been mapped:
-- Townsville City
+- Belgian Gardens
 - North Ward
 - South Townsville
-- Belgian Gardens
+- Townsville City
 - West End
 
 Next up:
@@ -26,7 +26,14 @@ NOTE: Efforts to map will slow down as each of the five suburbs above will be cl
 
 __Cairns__
 
-This is a new avenue for work and some of the groundwork for it is only being laid now. Suburbs covered TBD.
+This is a new avenue for work and some of the groundwork for it is only being laid now. Suburbs covered include the following possibilities:
+- Bungalow
+- Cairns City
+- Cairns North
+- Manunda
+- Parramatta Park
+- Portsmith
+- Westcourt
 
 ### Viewing
 

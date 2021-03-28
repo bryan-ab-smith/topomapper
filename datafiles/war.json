@@ -5,6 +5,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Murray Street",
+                "city": "TSV",
                 "description": "Named for J.C. and M.R. Murray, soldiers killed during WWI (Mathew, 2008, p. 90).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -34,6 +35,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Murray Street",
+                "city": "TSV",
                 "description": "Named for J.C. and M.R. Murray, soldiers killed during WWI (Mathew, 2008, p. 90).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -83,6 +85,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Murray Street",
+                "city": "TSV",
                 "description": "Named for J.C. and M.R. Murray, soldiers killed during WWI (Mathew, 2008, p. 90).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -116,6 +119,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Scully Street",
+                "city": "TSV",
                 "description": "Named for James Scully, killed during WWI (1917) (Mathew, 2008, p. 111).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -153,6 +157,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Hayes Street",
+                "city": "TSV",
                 "description": "Named for Richard John Hayes, killed during WWI (1917) (Mathew, 2008, p. 60).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -178,6 +183,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Ryan Street",
+                "city": "TSV",
                 "description": "Named for John Laurence Ryan, killed during WWI (1916) (Mathew, 2008, p. 110).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -219,6 +225,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Cannan Street",
+                "city": "TSV",
                 "description": "Named for John Kearsey Cannan, a banker in Townsville during the late 19<sup>th</sup> century. His son, J.H. Cannan, became a Major General involved with both World Wars (Mathew, 2008, p. 27).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -244,6 +251,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Cannan Street",
+                "city": "TSV",
                 "description": "Named for John Kearsey Cannan, a banker in Townsville during the late 19<sup>th</sup> century. His son, J.H. Cannan, became a Major General involved with both World Wars (Mathew, 2008, p. 27).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -293,6 +301,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Redpath Street",
+                "city": "TSV",
                 "description": "Named for G. Redpath, soldier killed in France, 1917 (Mathew, 2008, p. 105).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -314,6 +323,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Hooper Street",
+                "city": "TSV",
                 "description": "Named for Lewis William Hooper, \"who was killed in action at Villers- Bretonneux on 25th April 1918.\" (Mathew, 2008, p. 90).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -363,6 +373,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Beaufort Street",
+                "city": "TSV",
                 "description": "\"Named after the two engined British torpedo bomber used extensively during the Second World War\" (Mathew, 2008, p. 16).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -384,6 +395,7 @@
             "type": "Feature",
             "properties": {
                 "name": "McKillop Street",
+                "city": "TSV",
                 "description": "\"Named after D.J. McKillop, who was killed in action during the First World War\" (Mathew, 2008, p. 80).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -405,6 +417,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Potts Street",
+                "city": "TSV",
                 "description": "\"Named after Ernest Arthur Potts, who was killed in action on the Somme on 22 August 1918\" (Mathew, 2008, p. 103).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -466,6 +479,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Potts Street",
+                "city": "TSV",
                 "description": "\"Named after Ernest Arthur Potts, who was killed in action on the Somme on 22 August 1918\" (Mathew, 2008, p. 103).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -511,6 +525,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Potts Street",
+                "city": "TSV",
                 "description": "\"Named after Ernest Arthur Potts, who was killed in action on the Somme on 22 August 1918\" (Mathew, 2008, p. 103).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -536,6 +551,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Barboutis Street",
+                "city": "TSV",
                 "description": "Named after Corporal Angelo N. Barboutis, killed in 1943 in Dutch New Guinea (Mathew, 2008, p. 14).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -565,6 +581,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Tuffley Street",
+                "city": "TSV",
                 "description": "Named for Alex Tuffley, soldier who died in WW1 (Mathew, 2008, p. 119).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -598,6 +615,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Nix Street",
+                "city": "TSV",
                 "description": "Named for Captain John Edward Nix, soldier who died in WW1 (Mathew, 2008, p. 93).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -631,6 +649,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Montgomery Street",
+                "city": "TSV",
                 "description": "Named for J.S. Montgomery, soldier who fought in the First World War (Mathew, 2008, p. 87).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -668,6 +687,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Montgomery Street",
+                "city": "TSV",
                 "description": "Named for J.S. Montgomery, soldier who fought in the First World War (Mathew, 2008, p. 87).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -693,6 +713,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Edwards Street",
+                "city": "TSV",
                 "description": "Named for Norman Victor Edwards, killed in the First World War (Mathew, 2008, p. 44).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -718,6 +739,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Plant Street",
+                "city": "TSV",
                 "description": "Named for \"Lieutenant Colonel Plant, the commanding officer of the 31st Infantry Battallion, First A.I.F.\" (Mathew, 2008, p. 102).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -739,6 +761,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Humphrey Street",
+                "city": "TSV",
                 "description": "Named for John Edward Humphrey, soldier killed in the First World War (Mathew, 2008, p. 65).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -760,6 +783,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Baxter Street",
+                "city": "TSV",
                 "description": "Named for Duncan and Neil Baxter in 1919, soldiers killed in the First World War (Mathew, 2008, p. 16).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -781,6 +805,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Pridmore Street",
+                "city": "TSV",
                 "description": "Named for Charles Banks Pridmore, soldier killed in France (1918) during the First World War (Mathew, 2008, p. 103).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -810,6 +835,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Wilson Street",
+                "city": "TSV",
                 "description": "Named for William Overend Wilson, soldier killed during the First World War (Mathew, 2008, p. 126).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -835,6 +861,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Wilson Street",
+                "city": "TSV",
                 "description": "Named for William Overend Wilson, soldier killed during the First World War (Mathew, 2008, p. 126).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -920,6 +947,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Greenslade Street",
+                "city": "TSV",
                 "description": "Named for Harold Greenslade, soldier killed during the First World War (Mathew, 2008, p. 55).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -945,6 +973,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Greenslade Street",
+                "city": "TSV",
                 "description": "Named for George Vaughn in 1919, soldier killed during the First World War (Mathew, 2008, p. 55).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },

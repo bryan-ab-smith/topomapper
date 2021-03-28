@@ -1,0 +1,164 @@
+<!DOCTYPE html5>
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.7.1/styles/default.min.css">
+        <link rel="preconnect" href="https://fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap" rel="stylesheet">
+        <style>
+            a {
+                color: #800000;
+                text-decoration: none;
+            }
+
+            a:hover {
+                text-decoration: none;
+            }
+
+            a:visited {
+                color: #800000
+            }
+
+            body {
+                background-color: #f0f0f0;
+                font-family: 'Open Sans', sans-serif;
+                margin-left: 10vw;
+                margin-right: 10vw;
+                margin-top: 5vh;
+                margin-bottom: 5vh;
+            }
+
+            #ot_demo {
+                width: 100%;
+            }
+        </style>
+        
+        <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.7.1/highlight.min.js"></script>
+        <script>hljs.highlightAll();</script>
+    </head>
+    <body>
+        <h2>Topomapper Developer Guide</h2>
+        This document outlines the things to know if you want to contribute to the project.
+        <h3>Contributing</h3>
+        If you want to contribute, you will need to do the following:
+        <ol>
+            <li>Find the namesake of a street with reputabule sources.</li>
+            <li>Develop a specifically crafted GeoJSON entry.</li>
+        </ol>
+        <h4>GeoJSON Format</h4>
+        The GeoJson files are formatted accordingly:
+        <pre><code class="json">
+{
+    "type": "Feature",
+    "properties": {
+        "name": "[street name]",
+        "city": "[TSV or CNS]",
+        "description": "[description including APA reference]",
+        "refs": "[APA 6 formatted reference]"
+    },
+    "geometry": {
+        "type": "LineString",
+        "coordinates": [
+            [lists of coordinates]
+        ]
+    }
+}
+        </code></pre>
+        Referencing is mandatory &mdash; suggestions and submissions that are not properly referenced will not be included.
+        <p></p>
+        Example:
+        <pre><code class="json">
+{
+    "type": "Feature",
+    "properties": {
+        "name": "Orana Court",
+        "city": "TSV",
+        "description": "\"An Aboriginal word meaning welcome\" (Mathew, 2008, p. 96).",
+        "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+    },
+    "geometry": {
+        "type": "LineString",
+        "coordinates": [
+            [
+                146.8008237,
+                -19.24637
+            ],
+            [
+                146.8006653,
+                -19.2463151
+            ],
+            [
+                146.8005668,
+                -19.2462679
+            ],
+            [
+                146.8004106,
+                -19.2461826
+            ],
+            [
+                146.8003538,
+                -19.2461528
+            ],
+            [
+                146.8002789,
+                -19.2461389
+            ],
+            [
+                146.800176,
+                -19.2461333
+            ],
+            [
+                146.8001085,
+                -19.2461444
+            ],
+            [
+                146.8000554,
+                -19.2461766
+            ],
+            [
+                146.8000131,
+                -19.2462308
+            ],
+            [
+                146.799938,
+                -19.2463775
+            ]
+        ]
+    }
+}
+        </code></pre>
+        <h4>Overpass Turbo</h4>
+        Getting the coordinates of the street can be had by using <a href="https://overpass-turbo.eu/" target="_blank">Overpass Turbo</a>. The following query will get the street segments needed:
+        <pre><code>
+[out:json][timeout:25];
+// gather results
+(
+    // query part for: "highway=*""
+    node["highway"]({{bbox}});
+    way["highway"]({{bbox}});
+    relation["highway"]({{bbox}});
+);
+// print results
+out body;
+>;
+out skel qt;
+        </code></pre>
+        <p></p>
+        You can find the coordinates by finding the appropriate segment on Overpass Turbo and then finding the corresponding segment in the /datafiles/[tsv/cns].geojson file. See below for a visual illustration of this.
+        <p></p>
+        <video id="ot_demo" controls>
+            <source src="finding_coords.mp4">
+        </video>
+        <p></p>
+        You may very well have to stitch together multiple segments or include multiple GeoJSON entries as some streets are "interrupted" by urban features or may include seperate road segments that run parallel (eg. Woolcock Street, Townsville) that don't lend themselves to one continuous line. There is no maxmimum number of GeoJSON segments that are required - function matters most. However, you are asked to submit as few as reasonably possible (fewer entries makes for fewer possible sites for change/addition later).
+        <h4>Other Sources for Coordinates</h4>
+        You're welcome to use something other than Overpass Turbo but note that Topomapper uses OpenStreetMap so any other tool that you use must be mapped on to OpenStreetMap.
+        <h4>Maintenance</h4>
+        The layers that the GeoJSON files are mapped onto change and indeed, one of the ongoing challenges with Topomapper is keeping the GeoJSON files up to date with the revisions made in OpenStreetMap. If you submit something, you are asked (if possible) to keep an eye out on those streets that you submitted in case of changes. For example, consider the following:
+        <p></p>
+        <img src="broken_geojson.png" width="100%">
+        <p></p>
+        Morehead Street (TSV) was right at some point but changes to OpenStreetMap have made it incorrect.
+    </body>
+</html>

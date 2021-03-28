@@ -2,6 +2,7 @@
     "type": "Feature",
     "properties": {
         "name": "Noongah Street",
+        "city": "TSV",
         "description": "Aboriginal word for \"shade tree\" (Mathew, 2008, p. 93).",
         "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
     },
@@ -25,6 +26,7 @@
     "type": "Feature",
     "properties": {
         "name": "Tingha Street",
+        "city": "TSV",
         "description": "Aboriginal word for \"flat\" or \"level\" (Mathew, 2008, p. 118).",
         "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
     },
@@ -67,6 +69,7 @@
     "type": "Feature",
     "properties": {
         "name": "Discovery Drive",
+        "city": "TSV",
         "description": "TBD",
         "refs": "TBD"
     },
@@ -197,6 +200,7 @@
     "type": "Feature",
     "properties": {
         "name": "Solander Road",
+        "city": "TSV",
         "description": "TBD",
         "refs": "TBD"
     },
@@ -291,6 +295,7 @@
     "type": "Feature",
     "properties": {
         "name": "Joseph Banks Drive",
+        "city": "TSV",
         "description": "TBD",
         "refs": "TBD"
     },
@@ -345,6 +350,7 @@
     "type": "Feature",
     "properties": {
         "name": "Mount Stuart Street",
+        "city": "TSV",
         "description": "TBD",
         "refs": "TBD"
     },
@@ -427,6 +433,7 @@
     "type": "Feature",
     "properties": {
         "name": "James Cook Drive",
+        "city": "TSV",
         "description": "Named for James Cook, first European to 'discover' Ka-may (see Attenbrow, 2009), or what is now called Botany Bay (Mathew, 2008, p. 35).",
         "refs": "Attenbrow, V. (2009). Aboriginal Placenames Around Port Jackson and Botany Bay, New South Wales, Australia: Sources and Uncertainties. In H. Koch & L. Hercus (Eds.), <i>Aboriginal Placenames: Naming and Re-naming the Australian Landscape</i> (pp. 9–54). Canberra, ACT: ANU E Press and Aboriginal History Incorporated.<br \\>Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
     },
@@ -844,6 +851,7 @@
     "type": "Feature",
     "properties": {
         "name": "James Cook Drive",
+        "city": "TSV",
         "description": "Named for James Cook, first European to 'discover' Ka-may (see Attenbrow, 2009), or what is now called Botany Bay (Mathew, 2008, p. 35).",
         "refs": "Attenbrow, V. (2009). Aboriginal Placenames Around Port Jackson and Botany Bay, New South Wales, Australia: Sources and Uncertainties. In H. Koch & L. Hercus (Eds.), <i>Aboriginal Placenames: Naming and Re-naming the Australian Landscape</i> (pp. 9–54). Canberra, ACT: ANU E Press and Aboriginal History Incorporated.<br \\>Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
     },
@@ -977,6 +985,7 @@
     "type": "Feature",
     "properties": {
         "name": "James Cook Drive",
+        "city": "TSV",
         "description": "Named for James Cook, first European to 'discover' Ka-may (see Attenbrow, 2009), or what is now called Botany Bay (Mathew, 2008, p. 35).",
         "refs": "Attenbrow, V. (2009). Aboriginal Placenames Around Port Jackson and Botany Bay, New South Wales, Australia: Sources and Uncertainties. In H. Koch & L. Hercus (Eds.), <i>Aboriginal Placenames: Naming and Re-naming the Australian Landscape</i> (pp. 9–54). Canberra, ACT: ANU E Press and Aboriginal History Incorporated.<br \\>Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
     },

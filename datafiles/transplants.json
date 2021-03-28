@@ -5,6 +5,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Stirling Drive",
+                "city": "TSV",
                 "description": "\"Named after the castle at Stirling, the County town of Stirlingshire, Scotland\" (Mathew, 2008, p. 115).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -46,6 +47,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Stirling Drive",
+                "city": "TSV",
                 "description": "\"Named after the castle at Stirling, the County town of Stirlingshire, Scotland\" (Mathew, 2008, p. 115).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -83,6 +85,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Cottesmore Crescent",
+                "city": "TSV",
                 "description": "\"A village of Rutland County, England, which gives its name to a famous hunt. It has a long connection with the Earls of Lonsdale\" (Mathew, 2008, p. 36).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -144,6 +147,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Hampton Court",
+                "city": "TSV",
                 "description": "\"Named after a palace at Hampton, near London, built by Cardinal Wolsey and enlarged by Henry VIII\" (Mathew, 2008, p. 58).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -173,6 +177,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Arundel Court",
+                "city": "TSV",
                 "description": "\"Named after a palace at Hampton, near London, built by Cardinal Wolsey and enlarged by Henry VIII\" (Mathew, 2008, p. 11).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -198,6 +203,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Durham Court",
+                "city": "TSV",
                 "description": "\"Named after Durham Castle which, although now part of Durham University, was once the residence of the prince bishops of Durham.\" (Mathew, 2008, p. 43).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -219,6 +225,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Castle Hill Road",
+                "city": "TSV",
                 "description": "Named for Castle Hill, itself named by Andrew Ball as it ostensibly resembles a place in either the Isle of Man or Dublin. Originally, it was named Mount Cudtheringa / Cootharinga / Cutheringa / Catherunga, an Aboriginal word for the hill. Over time, the Indigenous word fell out of use in official contexts (Mathew, 2008, p. 29).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -596,6 +603,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Kings Road",
+                "city": "TSV",
                 "description": "Named for a road in London (Mathew, 2008, p. 72).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -665,6 +673,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Braemar Crescent",
+                "city": "TSV",
                 "description": "\"Braemar is a village and district in Aberdeenshire, Scotland where Balmoral and Abergeldie castles are situated\" (Mathew, 2008, p. 121).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -710,6 +719,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Ching Street",
+                "city": "TSV",
                 "description": "Ostensibly named for a river in China in 1870 (Mathew, 2008, p. 31).",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
@@ -755,6 +765,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Ching Street",
+                "city": "TSV",
                 "description": "According to Mathew (2008), \"it was named in 1870 probably after a river in China\" (p. 120). It's unclear what river this might be but it could be the Jing River in central China or the Qing River, a tributary of the Yangtze.",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
