@@ -3085,6 +3085,324 @@
                     ]
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kenny Street",
+                "city": "CNS",
+                "description": "Named for James Kenny, proprietor in CNS, resposnible for the first footpaths in the city (Cairns Regional Council, 2021, \"Kenny Street\")",
+                "refs": ""
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        145.7738016,
+                        -16.9324696
+                    ],
+                    [
+                        145.7738334,
+                        -16.9324626
+                    ],
+                    [
+                        145.7738626,
+                        -16.9324529
+                    ],
+                    [
+                        145.7754838,
+                        -16.9311569
+                    ],
+                    [
+                        145.777013,
+                        -16.929964
+                    ],
+                    [
+                        145.77713,
+                        -16.9298755
+                    ],
+                    [
+                        145.7775651,
+                        -16.9295192
+                    ],
+                    [
+                        145.7776491,
+                        -16.9294426
+                    ],
+                    [
+                        145.777725,
+                        -16.9293609
+                    ],
+                    [
+                        145.7777663,
+                        -16.9293045
+                    ],
+                    [
+                        145.7778048,
+                        -16.929243
+                    ],
+                    [
+                        145.7778364,
+                        -16.9291739
+                    ],
+                    [
+                        145.7778571,
+                        -16.9291037
+                    ],
+                    [
+                        145.7778661,
+                        -16.9290673
+                    ],
+                    [
+                        145.7778725,
+                        -16.9290079
+                    ],
+                    [
+                        145.7778754,
+                        -16.9289551
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kenny Street",
+                "city": "CNS",
+                "description": "Named for James Kenny, proprietor in CNS, resposnible for the first footpaths in the city (Cairns Regional Council, 2021, \"Kenny Street\")",
+                "refs": ""
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        145.7701988,
+                        -16.9354054
+                    ],
+                    [
+                        145.7703189,
+                        -16.9353127
+                    ],
+                    [
+                        145.7712242,
+                        -16.9345912
+                    ],
+                    [
+                        145.7717259,
+                        -16.9342073
+                    ],
+                    [
+                        145.7718854,
+                        -16.9340121
+                    ],
+                    [
+                        145.7722752,
+                        -16.9337062
+                    ],
+                    [
+                        145.7723378,
+                        -16.933657
+                    ],
+                    [
+                        145.7723811,
+                        -16.933623
+                    ],
+                    [
+                        145.7733252,
+                        -16.932882
+                    ],
+                    [
+                        145.7734248,
+                        -16.9328015
+                    ],
+                    [
+                        145.7734972,
+                        -16.9327374
+                    ],
+                    [
+                        145.7735468,
+                        -16.932686
+                    ],
+                    [
+                        145.7735736,
+                        -16.9326463
+                    ],
+                    [
+                        145.773591,
+                        -16.9326042
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kenny Street",
+                "city": "CNS",
+                "description": "Named for James Kenny, proprietor in CNS, resposnible for the first footpaths in the city (Cairns Regional Council, 2021, \"Kenny Street\")",
+                "refs": ""
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        145.7677861,
+                        -16.9373044
+                    ],
+                    [
+                        145.7689948,
+                        -16.9363445
+                    ],
+                    [
+                        145.7700182,
+                        -16.9355458
+                    ],
+                    [
+                        145.7701099,
+                        -16.9354743
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kenny Street",
+                "city": "CNS",
+                "description": "Named for James Kenny, proprietor in CNS, resposnible for the first footpaths in the city (Cairns Regional Council, 2021, \"Kenny Street\")",
+                "refs": ""
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        145.7737064,
+                        -16.9327346
+                    ],
+                    [
+                        145.7736148,
+                        -16.9327634
+                    ],
+                    [
+                        145.7735746,
+                        -16.9327865
+                    ],
+                    [
+                        145.7735276,
+                        -16.9328289
+                    ],
+                    [
+                        145.7734914,
+                        -16.9328648
+                    ],
+                    [
+                        145.7733627,
+                        -16.9329764
+                    ],
+                    [
+                        145.7725406,
+                        -16.9336192
+                    ],
+                    [
+                        145.7724466,
+                        -16.9336911
+                    ],
+                    [
+                        145.7724013,
+                        -16.9337258
+                    ],
+                    [
+                        145.7722959,
+                        -16.9338064
+                    ],
+                    [
+                        145.7719438,
+                        -16.9340759
+                    ],
+                    [
+                        145.7717259,
+                        -16.9342073
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kenny Street",
+                "city": "CNS",
+                "description": "Named for James Kenny, proprietor in CNS, resposnible for the first footpaths in the city (Cairns Regional Council, 2021, \"Kenny Street\")",
+                "refs": ""
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        145.7779922,
+                        -16.9289093
+                    ],
+                    [
+                        145.7779875,
+                        -16.9289951
+                    ],
+                    [
+                        145.7779723,
+                        -16.9291114
+                    ],
+                    [
+                        145.7779647,
+                        -16.9291386
+                    ],
+                    [
+                        145.7779472,
+                        -16.9292014
+                    ],
+                    [
+                        145.7778994,
+                        -16.9293017
+                    ],
+                    [
+                        145.7778535,
+                        -16.929378
+                    ],
+                    [
+                        145.7777808,
+                        -16.9294621
+                    ],
+                    [
+                        145.777685,
+                        -16.9295604
+                    ],
+                    [
+                        145.7775436,
+                        -16.929672
+                    ],
+                    [
+                        145.7772044,
+                        -16.9299392
+                    ],
+                    [
+                        145.7770816,
+                        -16.9300294
+                    ],
+                    [
+                        145.7755679,
+                        -16.9312443
+                    ],
+                    [
+                        145.7739299,
+                        -16.9325224
+                    ],
+                    [
+                        145.7739072,
+                        -16.9325463
+                    ],
+                    [
+                        145.7738845,
+                        -16.9325728
+                    ]
+                ]
+            }
         }
     ]
 }
