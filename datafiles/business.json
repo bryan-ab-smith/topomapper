@@ -3091,8 +3091,8 @@
             "properties": {
                 "name": "Kenny Street",
                 "city": "CNS",
-                "description": "Named for James Kenny, proprietor in CNS, resposnible for the first footpaths in the city (Cairns Regional Council, 2021, \"Kenny Street\")",
-                "refs": ""
+                "description": "Named for James Kenny, proprietor in CNS, resposnible for the first footpaths in the city (Cairns Regional Council, 2021, \"Kenny Street\").",
+                "refs": "Cairns Regional Council. (2021). <i>Street & suburb name history</i>. Retrieved from https://www.cairns.qld.gov.au/region/heritage/street-suburb-names."
             },
             "geometry": {
                 "type": "LineString",
@@ -3169,8 +3169,8 @@
             "properties": {
                 "name": "Kenny Street",
                 "city": "CNS",
-                "description": "Named for James Kenny, proprietor in CNS, resposnible for the first footpaths in the city (Cairns Regional Council, 2021, \"Kenny Street\")",
-                "refs": ""
+                "description": "Named for James Kenny, proprietor in CNS, resposnible for the first footpaths in the city (Cairns Regional Council, 2021, \"Kenny Street\").",
+                "refs": "Cairns Regional Council. (2021). <i>Street & suburb name history</i>. Retrieved from https://www.cairns.qld.gov.au/region/heritage/street-suburb-names."
             },
             "geometry": {
                 "type": "LineString",
@@ -3239,8 +3239,8 @@
             "properties": {
                 "name": "Kenny Street",
                 "city": "CNS",
-                "description": "Named for James Kenny, proprietor in CNS, resposnible for the first footpaths in the city (Cairns Regional Council, 2021, \"Kenny Street\")",
-                "refs": ""
+                "description": "Named for James Kenny, proprietor in CNS, resposnible for the first footpaths in the city (Cairns Regional Council, 2021, \"Kenny Street\").",
+                "refs": "Cairns Regional Council. (2021). <i>Street & suburb name history</i>. Retrieved from https://www.cairns.qld.gov.au/region/heritage/street-suburb-names."
             },
             "geometry": {
                 "type": "LineString",
@@ -3269,8 +3269,8 @@
             "properties": {
                 "name": "Kenny Street",
                 "city": "CNS",
-                "description": "Named for James Kenny, proprietor in CNS, resposnible for the first footpaths in the city (Cairns Regional Council, 2021, \"Kenny Street\")",
-                "refs": ""
+                "description": "Named for James Kenny, proprietor in CNS, resposnible for the first footpaths in the city (Cairns Regional Council, 2021, \"Kenny Street\").",
+                "refs": "Cairns Regional Council. (2021). <i>Street & suburb name history</i>. Retrieved from https://www.cairns.qld.gov.au/region/heritage/street-suburb-names."
             },
             "geometry": {
                 "type": "LineString",
@@ -3331,8 +3331,8 @@
             "properties": {
                 "name": "Kenny Street",
                 "city": "CNS",
-                "description": "Named for James Kenny, proprietor in CNS, resposnible for the first footpaths in the city (Cairns Regional Council, 2021, \"Kenny Street\")",
-                "refs": ""
+                "description": "Named for James Kenny, proprietor in CNS, resposnible for the first footpaths in the city (Cairns Regional Council, 2021, \"Kenny Street\").",
+                "refs": "Cairns Regional Council. (2021). <i>Street & suburb name history</i>. Retrieved from https://www.cairns.qld.gov.au/region/heritage/street-suburb-names."
             },
             "geometry": {
                 "type": "LineString",
@@ -3400,6 +3400,246 @@
                     [
                         145.7738845,
                         -16.9325728
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Comport Street",
+                "city": "CNS",
+                "description": "\"Named after G.R. Comport, Manager of Cairns Branch of the National Bank about 1880\" (Cairns Regional Council, 2021, \"Kenny Street\").",
+                "refs": "Cairns Regional Council. (2021). <i>Street & suburb name history</i>. Retrieved from https://www.cairns.qld.gov.au/region/heritage/street-suburb-names."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        145.7677391,
+                        -16.9415384
+                    ],
+                    [
+                        145.767808,
+                        -16.9414872
+                    ],
+                    [
+                        145.7680276,
+                        -16.9413298
+                    ],
+                    [
+                        145.7699329,
+                        -16.9398256
+                    ],
+                    [
+                        145.7716282,
+                        -16.938492
+                    ],
+                    [
+                        145.7717072,
+                        -16.9384297
+                    ],
+                    [
+                        145.7722618,
+                        -16.9379945
+                    ],
+                    [
+                        145.7722956,
+                        -16.937969
+                    ],
+                    [
+                        145.7723477,
+                        -16.9379297
+                    ],
+                    [
+                        145.7724487,
+                        -16.9378469
+                    ],
+                    [
+                        145.7725514,
+                        -16.9377656
+                    ],
+                    [
+                        145.7742172,
+                        -16.9364484
+                    ],
+                    [
+                        145.7754646,
+                        -16.9354996
+                    ],
+                    [
+                        145.7756884,
+                        -16.9353494
+                    ],
+                    [
+                        145.7758292,
+                        -16.9352318
+                    ],
+                    [
+                        145.7758578,
+                        -16.9352079
+                    ],
+                    [
+                        145.7758713,
+                        -16.9351966
+                    ],
+                    [
+                        145.7760031,
+                        -16.9351521
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Comport Street",
+                "city": "CNS",
+                "description": "\"Named after G.R. Comport, Manager of Cairns Branch of the National Bank about 1880\" (Cairns Regional Council, 2021, \"Kenny Street\").",
+                "refs": "Cairns Regional Council. (2021). <i>Street & suburb name history</i>. Retrieved from https://www.cairns.qld.gov.au/region/heritage/street-suburb-names."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        145.7760031,
+                        -16.9351521
+                    ],
+                    [
+                        145.7759322,
+                        -16.9352658
+                    ],
+                    [
+                        145.7757083,
+                        -16.93542
+                    ],
+                    [
+                        145.7730609,
+                        -16.9375151
+                    ],
+                    [
+                        145.772419,
+                        -16.9380228
+                    ],
+                    [
+                        145.7723294,
+                        -16.9380943
+                    ],
+                    [
+                        145.7722214,
+                        -16.938181
+                    ],
+                    [
+                        145.7700086,
+                        -16.9399133
+                    ],
+                    [
+                        145.7682409,
+                        -16.9413085
+                    ],
+                    [
+                        145.7679977,
+                        -16.9414945
+                    ],
+                    [
+                        145.7679065,
+                        -16.9415618
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Comport Street",
+                "city": "CNS",
+                "description": "\"Named after G.R. Comport, Manager of Cairns Branch of the National Bank about 1880\" (Cairns Regional Council, 2021, \"Kenny Street\").",
+                "refs": "Cairns Regional Council. (2021). <i>Street & suburb name history</i>. Retrieved from https://www.cairns.qld.gov.au/region/heritage/street-suburb-names."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        145.7716282,
+                        -16.938492
+                    ],
+                    [
+                        145.7717675,
+                        -16.9384405
+                    ],
+                    [
+                        145.7721015,
+                        -16.9381762
+                    ],
+                    [
+                        145.772131,
+                        -16.9381582
+                    ],
+                    [
+                        145.7721524,
+                        -16.9381531
+                    ],
+                    [
+                        145.7721779,
+                        -16.9381531
+                    ],
+                    [
+                        145.7721967,
+                        -16.9381608
+                    ],
+                    [
+                        145.7722214,
+                        -16.938181
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Comport Street",
+                "city": "CNS",
+                "description": "\"Named after G.R. Comport, Manager of Cairns Branch of the National Bank about 1880\" (Cairns Regional Council, 2021, \"Kenny Street\").",
+                "refs": "Cairns Regional Council. (2021). <i>Street & suburb name history</i>. Retrieved from https://www.cairns.qld.gov.au/region/heritage/street-suburb-names."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        145.7730609,
+                        -16.9375151
+                    ],
+                    [
+                        145.7729142,
+                        -16.9375642
+                    ],
+                    [
+                        145.7726057,
+                        -16.9378106
+                    ],
+                    [
+                        145.7725755,
+                        -16.9378292
+                    ],
+                    [
+                        145.7725494,
+                        -16.9378414
+                    ],
+                    [
+                        145.7725226,
+                        -16.9378503
+                    ],
+                    [
+                        145.7724984,
+                        -16.9378542
+                    ],
+                    [
+                        145.7724735,
+                        -16.9378531
+                    ],
+                    [
+                        145.7724487,
+                        -16.9378469
                     ]
                 ]
             }
