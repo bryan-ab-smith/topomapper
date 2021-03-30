@@ -4485,6 +4485,200 @@
                     ]
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cook Street",
+                "city": "CNS",
+                "description": "Names for Captain James Cook (Cairns Regional Council, 2021, \"Cook Street\").",
+                "refs": "Cairns Regional Council. (2021). <i>Street & suburb name history</i>. Retrieved from https://www.cairns.qld.gov.au/region/heritage/street-suburb-names."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        145.7776116,
+                        -16.937466
+                      ],
+                      [
+                        145.7776044,
+                        -16.9374969
+                      ],
+                      [
+                        145.7775842,
+                        -16.9375509
+                      ],
+                      [
+                        145.7775521,
+                        -16.9376127
+                      ],
+                      [
+                        145.7775215,
+                        -16.9376538
+                      ],
+                      [
+                        145.7774727,
+                        -16.9377282
+                      ],
+                      [
+                        145.7774319,
+                        -16.9377718
+                      ],
+                      [
+                        145.7766989,
+                        -16.9383619
+                      ],
+                      [
+                        145.7764637,
+                        -16.9385132
+                      ],
+                      [
+                        145.7744509,
+                        -16.9401058
+                      ],
+                      [
+                        145.7743135,
+                        -16.9402145
+                      ],
+                      [
+                        145.77419,
+                        -16.9403151
+                      ],
+                      [
+                        145.7741239,
+                        -16.9403674
+                      ],
+                      [
+                        145.7731913,
+                        -16.9411046
+                      ],
+                      [
+                        145.7726709,
+                        -16.941516
+                      ],
+                      [
+                        145.7721827,
+                        -16.9419019
+                      ],
+                      [
+                        145.771086,
+                        -16.9427688
+                      ],
+                      [
+                        145.7708647,
+                        -16.9429767
+                      ],
+                      [
+                        145.7707909,
+                        -16.9430459
+                      ],
+                      [
+                        145.7707534,
+                        -16.9430934
+                      ],
+                      [
+                        145.7707118,
+                        -16.9431614
+                      ],
+                      [
+                        145.7706497,
+                        -16.9432728
+                      ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cook Street",
+                "city": "CNS",
+                "description": "Names for Captain James Cook (Cairns Regional Council, 2021, \"Cook Street\").",
+                "refs": "Cairns Regional Council. (2021). <i>Street & suburb name history</i>. Retrieved from https://www.cairns.qld.gov.au/region/heritage/street-suburb-names."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        145.7704287,
+                        -16.9430626
+                      ],
+                      [
+                        145.7704808,
+                        -16.9430549
+                      ],
+                      [
+                        145.7705478,
+                        -16.9430369
+                      ],
+                      [
+                        145.7706283,
+                        -16.9430113
+                      ],
+                      [
+                        145.7706994,
+                        -16.9429817
+                      ],
+                      [
+                        145.7707638,
+                        -16.942951
+                      ],
+                      [
+                        145.7708281,
+                        -16.9429176
+                      ],
+                      [
+                        145.7709032,
+                        -16.9428778
+                      ],
+                      [
+                        145.771086,
+                        -16.9427688
+                      ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cook Street",
+                "city": "CNS",
+                "description": "Names for Captain James Cook (Cairns Regional Council, 2021, \"Cook Street\").",
+                "refs": "Cairns Regional Council. (2021). <i>Street & suburb name history</i>. Retrieved from https://www.cairns.qld.gov.au/region/heritage/street-suburb-names."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        145.7764637,
+                        -16.9385132
+                      ],
+                      [
+                        145.7765455,
+                        -16.9384247
+                      ],
+                      [
+                        145.7765831,
+                        -16.9383887
+                      ],
+                      [
+                        145.7766515,
+                        -16.9383323
+                      ],
+                      [
+                        145.7773985,
+                        -16.9377267
+                      ],
+                      [
+                        145.7774385,
+                        -16.9376941
+                      ],
+                      [
+                        145.7775215,
+                        -16.9376538
+                      ]
+                ]
+            }
         }
     ]
 }

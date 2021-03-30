@@ -55,10 +55,12 @@ $(document).ready(function () {
     // The default style is a plain white one. 
     // Note: If you're rolling your own Topomapper instance, you'll need to change the token and style.
     mapboxgl.accessToken = mbToken;
+    // Townsville Centre: 146.814329, -19.258181
+    // Cairns Centre: 145.770923, -16.925765
     map = new mapboxgl.Map({
         container: 'map', // container id
         style: mbStyleLight,
-        center: [146.814329, -19.258181],
+        center: [145.770923, -16.925765],
         zoom: 13,
         attributionControl: false
     });
@@ -769,7 +771,7 @@ function reloadLayer(layerName) {
     map.addLayer({
         "id": layerName + "Layer",
         "type": "line",
-        "source": "euExplSource",
+        "source": layerName + 'Source',
         "paint": {
             "line-color": lineColour,
             "line-width": lineWidth,

@@ -96,7 +96,7 @@ Anything really. A quick and simple alternative to the included debug server mig
 
 ## License
 
-### Everything that isn't the GeoJSON data.
+### Everything that isn't the GeoJSON data (see below).
 
 MIT License
 
