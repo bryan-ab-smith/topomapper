@@ -3643,6 +3643,160 @@
                     ]
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Comport Street",
+                "city": "CNS",
+                "description": "Named for J.G. Fearnley shipping agent c. 1900 (Cairns Regional Council, 2021, \"Fearnley Street\").",
+                "refs": "Cairns Regional Council. (2021). <i>Street & suburb name history</i>. Retrieved from https://www.cairns.qld.gov.au/region/heritage/street-suburb-names."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        145.7746697,
+                        -16.9410046
+                    ],
+                    [
+                        145.7741239,
+                        -16.9403674
+                    ],
+                    [
+                        145.7731768,
+                        -16.9392832
+                    ],
+                    [
+                        145.7731043,
+                        -16.9392088
+                    ],
+                    [
+                        145.7730326,
+                        -16.9391606
+                    ],
+                    [
+                        145.7729578,
+                        -16.939127
+                    ],
+                    [
+                        145.7728857,
+                        -16.9390984
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Comport Street",
+                "city": "CNS",
+                "description": "Named for J.G. Fearnley shipping agent c. 1900 (Cairns Regional Council, 2021, \"Fearnley Street\").",
+                "refs": "Cairns Regional Council. (2021). <i>Street & suburb name history</i>. Retrieved from https://www.cairns.qld.gov.au/region/heritage/street-suburb-names."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        145.768628,
+                        -16.9340116
+                    ],
+                    [
+                        145.7686821,
+                        -16.9340185
+                    ],
+                    [
+                        145.7687192,
+                        -16.9340328
+                    ],
+                    [
+                        145.7687488,
+                        -16.9340557
+                    ],
+                    [
+                        145.7687764,
+                        -16.9340844
+                    ],
+                    [
+                        145.7700182,
+                        -16.9355458
+                    ],
+                    [
+                        145.7720142,
+                        -16.937863
+                    ],
+                    [
+                        145.7720921,
+                        -16.9379158
+                    ],
+                    [
+                        145.772143,
+                        -16.937953
+                    ],
+                    [
+                        145.7721685,
+                        -16.9379607
+                    ],
+                    [
+                        145.7722128,
+                        -16.9379671
+                    ],
+                    [
+                        145.7722476,
+                        -16.9379692
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Comport Street",
+                "city": "CNS",
+                "description": "Named for J.G. Fearnley shipping agent c. 1900 (Cairns Regional Council, 2021, \"Fearnley Street\").",
+                "refs": "Cairns Regional Council. (2021). <i>Street & suburb name history</i>. Retrieved from https://www.cairns.qld.gov.au/region/heritage/street-suburb-names."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        145.7717072,
+                        -16.9384297
+                    ],
+                    [
+                        145.7718172,
+                        -16.9382609
+                    ],
+                    [
+                        145.7720653,
+                        -16.9380671
+                    ],
+                    [
+                        145.7720733,
+                        -16.9380466
+                    ],
+                    [
+                        145.7720773,
+                        -16.9380197
+                    ],
+                    [
+                        145.7720773,
+                        -16.9379953
+                    ],
+                    [
+                        145.7720706,
+                        -16.9379671
+                    ],
+                    [
+                        145.7720559,
+                        -16.9379337
+                    ],
+                    [
+                        145.7720142,
+                        -16.937863
+                    ]
+                ]
+            }
         }
     ]
 }
