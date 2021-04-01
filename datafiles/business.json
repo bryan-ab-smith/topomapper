@@ -3260,6 +3260,10 @@
                     [
                         145.7701099,
                         -16.9354743
+                    ],
+                    [
+                        145.7701988,
+                        -16.9354054
                     ]
                 ]
             }
@@ -3647,7 +3651,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Comport Street",
+                "name": "Fearnley Street",
                 "city": "CNS",
                 "description": "Named for J.G. Fearnley shipping agent c. 1900 (Cairns Regional Council, 2021, \"Fearnley Street\").",
                 "refs": "Cairns Regional Council. (2021). <i>Street & suburb name history</i>. Retrieved from https://www.cairns.qld.gov.au/region/heritage/street-suburb-names."
@@ -3689,7 +3693,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Comport Street",
+                "name": "Fearnley Street",
                 "city": "CNS",
                 "description": "Named for J.G. Fearnley shipping agent c. 1900 (Cairns Regional Council, 2021, \"Fearnley Street\").",
                 "refs": "Cairns Regional Council. (2021). <i>Street & suburb name history</i>. Retrieved from https://www.cairns.qld.gov.au/region/heritage/street-suburb-names."
@@ -3751,7 +3755,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Comport Street",
+                "name": "Fearnley Street",
                 "city": "CNS",
                 "description": "Named for J.G. Fearnley shipping agent c. 1900 (Cairns Regional Council, 2021, \"Fearnley Street\").",
                 "refs": "Cairns Regional Council. (2021). <i>Street & suburb name history</i>. Retrieved from https://www.cairns.qld.gov.au/region/heritage/street-suburb-names."
@@ -3795,6 +3799,236 @@
                         145.7720142,
                         -16.937863
                     ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fearnley Street",
+                "city": "CNS",
+                "description": "Named for J.G. Fearnley shipping agent c. 1900 (Cairns Regional Council, 2021, \"Fearnley Street\").",
+                "refs": "Cairns Regional Council. (2021). <i>Street & suburb name history</i>. Retrieved from https://www.cairns.qld.gov.au/region/heritage/street-suburb-names."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        145.7674561,
+                        -16.9319825
+                    ],
+                    [
+                        145.7688822,
+                        -16.9336498
+                    ],
+                    [
+                        145.7703189,
+                        -16.9353127
+                    ],
+                    [
+                        145.7722584,
+                        -16.9375974
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fearnley Street",
+                "city": "CNS",
+                "description": "Named for J.G. Fearnley shipping agent c. 1900 (Cairns Regional Council, 2021, \"Fearnley Street\").",
+                "refs": "Cairns Regional Council. (2021). <i>Street & suburb name history</i>. Retrieved from https://www.cairns.qld.gov.au/region/heritage/street-suburb-names."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        145.7724487,
+                        -16.9378469
+                    ],
+                    [
+                        145.7723402,
+                        -16.937722
+                    ],
+                    [
+                        145.7722584,
+                        -16.9375974
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fearnley Street",
+                "city": "CNS",
+                "description": "Named for J.G. Fearnley shipping agent c. 1900 (Cairns Regional Council, 2021, \"Fearnley Street\").",
+                "refs": "Cairns Regional Council. (2021). <i>Street & suburb name history</i>. Retrieved from https://www.cairns.qld.gov.au/region/heritage/street-suburb-names."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        145.7673512,
+                        -16.9317661
+                    ],
+                    [
+                        145.7673552,
+                        -16.9317995
+                    ],
+                    [
+                        145.767374,
+                        -16.9318405
+                    ],
+                    [
+                        145.7674035,
+                        -16.931879
+                    ],
+                    [
+                        145.7674561,
+                        -16.9319825
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fearnley Street",
+                "city": "CNS",
+                "description": "Named for J.G. Fearnley shipping agent c. 1900 (Cairns Regional Council, 2021, \"Fearnley Street\").",
+                "refs": "Cairns Regional Council. (2021). <i>Street & suburb name history</i>. Retrieved from https://www.cairns.qld.gov.au/region/heritage/street-suburb-names."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        145.7674561,
+                        -16.9319825
+                    ],
+                    [
+                        145.7673652,
+                        -16.9319016
+                    ],
+                    [
+                        145.7672797,
+                        -16.9318104
+                    ],
+                    [
+                        145.7671849,
+                        -16.9316968
+                    ],
+                    [
+                        145.7671635,
+                        -16.9316596
+                    ],
+                    [
+                        145.767153,
+                        -16.9316267
+                    ],
+                    [
+                        145.7671519,
+                        -16.9315688
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fearnley Street",
+                "city": "CNS",
+                "description": "Named for J.G. Fearnley shipping agent c. 1900 (Cairns Regional Council, 2021, \"Fearnley Street\").",
+                "refs": "Cairns Regional Council. (2021). <i>Street & suburb name history</i>. Retrieved from https://www.cairns.qld.gov.au/region/heritage/street-suburb-names."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        145.7672797,
+                        -16.9318104
+                    ],
+                    [
+                        145.7672189,
+                        -16.9317748
+                    ],
+                    [
+                        145.7671688,
+                        -16.931752
+                    ],
+                    [
+                        145.7671219,
+                        -16.9317353
+                    ],
+                    [
+                        145.7670682,
+                        -16.9317302
+                    ],
+                    [
+                        145.7670193,
+                        -16.9317315
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fearnley Street",
+                "city": "CNS",
+                "description": "Named for J.G. Fearnley shipping agent c. 1900 (Cairns Regional Council, 2021, \"Fearnley Street\").",
+                "refs": "Cairns Regional Council. (2021). <i>Street & suburb name history</i>. Retrieved from https://www.cairns.qld.gov.au/region/heritage/street-suburb-names."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        145.7722584,
+                        -16.9375974
+                    ],
+                    [
+                        145.7723818,
+                        -16.9376925
+                    ],
+                    [
+                        145.7724126,
+                        -16.9377195
+                    ],
+                    [
+                        145.7724421,
+                        -16.9377336
+                    ],
+                    [
+                        145.7724931,
+                        -16.9377515
+                    ],
+                    [
+                        145.7725514,
+                        -16.9377656
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "William Street",
+                "city": "CNS",
+                "description": "Named for William Smith, resident who had ties with local businesses (Cairns Regional Council, 2021, \"William Street\").",
+                "refs": "Cairns Regional Council. (2021). <i>Street & suburb name history</i>. Retrieved from https://www.cairns.qld.gov.au/region/heritage/street-suburb-names."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        145.7587888,
+                        -16.941878
+                      ],
+                      [
+                        145.7594875,
+                        -16.9427117
+                      ]
                 ]
             }
         }

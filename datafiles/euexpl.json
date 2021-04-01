@@ -4679,6 +4679,40 @@
                       ]
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Toohey Street",
+                "city": "CNS",
+                "description": "Named for Jim Toohey, settler and explorer (Cairns Regional Council, 2021, \"Toohey Street\").",
+                "refs": "Cairns Regional Council. (2021). <i>Street & suburb name history</i>. Retrieved from https://www.cairns.qld.gov.au/region/heritage/street-suburb-names."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        145.7607112,
+                        -16.9403667
+                      ],
+                      [
+                        145.761602,
+                        -16.9414173
+                      ],
+                      [
+                        145.7622425,
+                        -16.9421906
+                      ],
+                      [
+                        145.7624763,
+                        -16.9424818
+                      ],
+                      [
+                        145.7627982,
+                        -16.9428635
+                      ]
+                ]
+            }
         }
     ]
 }

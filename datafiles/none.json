@@ -3790,6 +3790,168 @@
                     ]
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bollard Street",
+                "city": "CNS",
+                "description": "Surveyed and registered in 1940. Nothing other than this available thus far (Cairns Regional Council, 2021, \"Bollard Street\").",
+                "refs": "Cairns Regional Council. (2021). <i>Street & suburb name history</i>. Retrieved from https://www.cairns.qld.gov.au/region/heritage/street-suburb-names."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        145.7676198,
+                        -16.9347481
+                    ],
+                    [
+                        145.7689948,
+                        -16.9363445
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Owen Close",
+                "city": "CNS",
+                "description": "No information yet available.",
+                "refs": "--"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        145.7712242,
+                        -16.9345912
+                    ],
+                    [
+                        145.7701193,
+                        -16.9333544
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Knight Street",
+                "city": "CNS",
+                "description": "No information yet available.",
+                "refs": "--"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        145.761602,
+                        -16.9414173
+                    ],
+                    [
+                        145.7639881,
+                        -16.9395207
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Morrison Street",
+                "city": "CNS",
+                "description": "No information yet available.",
+                "refs": "--"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        145.7595177,
+                        -16.941305
+                      ],
+                      [
+                        145.7602971,
+                        -16.9421955
+                      ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hasell Street",
+                "city": "CNS",
+                "description": "Named for an architect but no more information found (Cairns Regional Council, 2021, \"Hasell Street\").",
+                "refs": "Cairns Regional Council. (2021). <i>Street & suburb name history</i>. Retrieved from https://www.cairns.qld.gov.au/region/heritage/street-suburb-names."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        145.764649,
+                        -16.9403089
+                      ],
+                      [
+                        145.7639881,
+                        -16.9395207
+                      ],
+                      [
+                        145.7631051,
+                        -16.9384846
+                      ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nelson Street",
+                "city": "CNS",
+                "description": "Surveyed in 1974, no other information available (Cairns Regional Council, 2021, \"Nelson Street\").",
+                "refs": "Cairns Regional Council. (2021). <i>Street & suburb name history</i>. Retrieved from https://www.cairns.qld.gov.au/region/heritage/street-suburb-names."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        145.7619166,
+                        -16.9383775
+                      ],
+                      [
+                        145.7638121,
+                        -16.9368685
+                      ],
+                      [
+                        145.7639011,
+                        -16.9368024
+                      ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nelson Street",
+                "city": "CNS",
+                "description": "Surveyed in 1974, no other information available (Cairns Regional Council, 2021, \"Nelson Street\").",
+                "refs": "Cairns Regional Council. (2021). <i>Street & suburb name history</i>. Retrieved from https://www.cairns.qld.gov.au/region/heritage/street-suburb-names."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        145.7596167,
+                        -16.939877
+                      ],
+                      [
+                        145.7617663,
+                        -16.9382017
+                      ]
+                ]
+            }
         }
     ]
 }

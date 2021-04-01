@@ -4461,6 +4461,188 @@
                     ]
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Palmer Street",
+                "city": "CNS",
+                "description": "Named for Sir Arthur Palmer, premier of QLD from 1870-1874 (Cairns Regional Council, 2021, \"Palmer Street\").",
+                "refs": "Cairns Regional Council. (2021). <i>Street & suburb name history</i>. Retrieved from https://www.cairns.qld.gov.au/region/heritage/street-suburb-names."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        145.7622425,
+                        -16.9421906
+                    ],
+                    [
+                        145.764649,
+                        -16.9403089
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hollingsworth Street",
+                "city": "CNS",
+                "description": "Named for D.C. Hollingsworth, surveyor for teh city from the 1930s to the 1970s (Cairns Regional Council, 2021, \"Hollingsworth Street\").",
+                "refs": "Cairns Regional Council. (2021). <i>Street & suburb name history</i>. Retrieved from https://www.cairns.qld.gov.au/region/heritage/street-suburb-names."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        145.7599421,
+                        -16.9442081
+                    ],
+                    [
+                        145.7601683,
+                        -16.9440623
+                    ],
+                    [
+                        145.7603896,
+                        -16.9438898
+                    ],
+                    [
+                        145.7604474,
+                        -16.9438623
+                    ],
+                    [
+                        145.7605082,
+                        -16.9438416
+                    ],
+                    [
+                        145.7605713,
+                        -16.9438282
+                    ],
+                    [
+                        145.7607188,
+                        -16.9438
+                    ],
+                    [
+                        145.7607691,
+                        -16.9437882
+                    ],
+                    [
+                        145.7608171,
+                        -16.9437697
+                    ],
+                    [
+                        145.7608619,
+                        -16.9437448
+                    ],
+                    [
+                        145.7609025,
+                        -16.943714
+                    ],
+                    [
+                        145.7613565,
+                        -16.9433465
+                    ],
+                    [
+                        145.7619372,
+                        -16.9428911
+                    ],
+                    [
+                        145.7624763,
+                        -16.9424818
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lazarus Street",
+                "city": "CNS",
+                "description": "Named for J Lazarus, Alderman from 1952 to 1976 (Cairns Regional Council, 2021, \"Lazarus Street\").",
+                "refs": "Cairns Regional Council. (2021). <i>Street & suburb name history</i>. Retrieved from https://www.cairns.qld.gov.au/region/heritage/street-suburb-names."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        145.7607432,
+                        -16.9370046
+                    ],
+                    [
+                        145.7612397,
+                        -16.9375855
+                    ],
+                    [
+                        145.7613134,
+                        -16.9376718
+                    ],
+                    [
+                        145.7617663,
+                        -16.9382017
+                    ],
+                    [
+                        145.7619166,
+                        -16.9383775
+                    ],
+                    [
+                        145.7622823,
+                        -16.9388054
+                    ],
+                    [
+                        145.762449,
+                        -16.9390005
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Morehead Street",
+                "city": "CNS",
+                "description": "Named (potentially) for Boyd D Morehead, one time postmaster and premier of QLD from 1888 to 1890 (Cairns Regional Council, 2021, \"Morehead Street\").",
+                "refs": "Cairns Regional Council. (2021). <i>Street & suburb name history</i>. Retrieved from https://www.cairns.qld.gov.au/region/heritage/street-suburb-names."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        145.7613134,
+                        -16.9376718
+                    ],
+                    [
+                        145.7632475,
+                        -16.9361341
+                    ],
+                    [
+                        145.7633307,
+                        -16.9360699
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Morehead Street",
+                "city": "CNS",
+                "description": "Named (potentially) for Boyd D Morehead, one time postmaster and premier of QLD from 1888 to 1890 (Cairns Regional Council, 2021, \"Morehead Street\").",
+                "refs": "Cairns Regional Council. (2021). <i>Street & suburb name history</i>. Retrieved from https://www.cairns.qld.gov.au/region/heritage/street-suburb-names."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        145.759109,
+                        -16.93928
+                    ],
+                    [
+                        145.7612397,
+                        -16.9375855
+                    ]
+                ]
+            }
         }
     ]
 }

@@ -32,21 +32,40 @@
             #ot_demo {
                 width: 100%;
             }
+
+            .secPad {
+                padding-top: 20pt;
+            }
+
+            #warning {
+                background-color: rgba(255, 0, 0, 0.2);
+                border: 1px solid;
+                border-color: rgb(128, 0, 0);
+                border-radius: 5pt;
+                color: rgb(128, 0, 0);
+                padding: 5pt;
+            }
         </style>
         
         <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.7.1/highlight.min.js"></script>
         <script>hljs.highlightAll();</script>
     </head>
     <body>
+        <div id='warning'>
+            NOTE: This document is a work in progress. As a result, portions are missing and things will change.
+        </div>
         <h2>Topomapper Developer Guide</h2>
         This document outlines the things to know if you want to contribute to the project.
-        <h3>Contributing</h3>
+        <h3 class='secPad'>Contributing</h3>
         If you want to contribute, you will need to do the following:
         <ol>
             <li>Find the namesake of a street with reputabule sources.</li>
             <li>Develop a specifically crafted GeoJSON entry.</li>
         </ol>
-        <h4>GeoJSON Format</h4>
+        <h4 class='secPad'>Namesakes (Odonyms)</h4>
+        The street names (odonyms) need to come from a reputable source as done any extra information to contextualise the namesake and/or relevant information.
+        <p></p>
+        <h4 class='secPad'>GeoJSON Format</h4>
         The GeoJson files are formatted accordingly:
         <pre><code class="json">
 {
@@ -128,7 +147,7 @@
     }
 }
         </code></pre>
-        <h4>Overpass Turbo</h4>
+        <h4 class='secPad'>Overpass Turbo</h4>
         Getting the coordinates of the street can be had by using <a href="https://overpass-turbo.eu/" target="_blank">Overpass Turbo</a>. The following query will get the street segments needed:
         <pre><code>
 [out:json][timeout:25];
@@ -152,9 +171,9 @@ out skel qt;
         </video>
         <p></p>
         You may very well have to stitch together multiple segments or include multiple GeoJSON entries as some streets are "interrupted" by urban features or may include seperate road segments that run parallel (eg. Woolcock Street, Townsville) that don't lend themselves to one continuous line. There is no maxmimum number of GeoJSON segments that are required - function matters most. However, you are asked to submit as few as reasonably possible (fewer entries makes for fewer possible sites for change/addition later).
-        <h4>Other Sources for Coordinates</h4>
+        <h4 class='secPad'>Other Sources for Coordinates</h4>
         You're welcome to use something other than Overpass Turbo but note that Topomapper uses OpenStreetMap so any other tool that you use must be mapped on to OpenStreetMap.
-        <h4>Maintenance</h4>
+        <h4 class='secPad'>Maintenance</h4>
         The layers that the GeoJSON files are mapped onto change and indeed, one of the ongoing challenges with Topomapper is keeping the GeoJSON files up to date with the revisions made in OpenStreetMap. If you submit something, you are asked (if possible) to keep an eye out on those streets that you submitted in case of changes. For example, consider the following:
         <p></p>
         <img src="broken_geojson.png" width="100%">
