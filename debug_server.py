@@ -22,6 +22,8 @@ try:
         # Credit to https://docs.python.org/2/library/simplehttpserver.html
         Handler = SimpleHTTPServer.SimpleHTTPRequestHandler
         httpd = SocketServer.TCPServer(('', port), Handler)
+        # https://stackoverflow.com/a/31746811
+        httpd.allow_reuse_address = True
         print('Running at http://localhost:{}. Press Ctrl-C to exit.'.format(port))
         httpd.serve_forever()
     else:
