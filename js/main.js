@@ -21,6 +21,7 @@ var walking = false;
 var curStyle = mbStyleLight;
 
 var lineColour = '#52489C' //'#30809F';
+var lineColourNone = "#301934";
 var lineWidth = 10;
 
 //
@@ -306,7 +307,7 @@ function getData() {
         "type": "line",
         "source": "noneSource",
         "paint": {
-            "line-color": "#000000",
+            "line-color": lineColourNone,
             "line-width": lineWidth,
             "line-opacity": 0.4
         }
