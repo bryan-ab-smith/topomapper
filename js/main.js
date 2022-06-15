@@ -20,7 +20,7 @@ var walking = false;
 
 var curStyle = mbStyleLight;
 
-var lineColour = '#C0C0C0' //'#30809F';
+var lineColour = '#52489C' //'#30809F';
 var lineWidth = 10;
 
 //
@@ -60,7 +60,7 @@ $(document).ready(function () {
     map = new mapboxgl.Map({
         container: 'map', // container id
         style: mbStyleLight,
-        center: [145.770923, -16.925765],
+        center: [146.814329, -19.258181],
         zoom: 13,
         attributionControl: false
     });
@@ -116,6 +116,7 @@ function toggleMapLayers() {
     map.on('style.load', function (e) {
         getData();
     })
+    $('.ui.sidebar.inverted').sidebar('toggle');
 }
 
 function getData() {
@@ -512,6 +513,7 @@ function showAbout() {
     $('#toolbarButtons').hide();
     $('#map').css('filter', 'blur(16px)');
     $('#searchInput').css('filter', 'blur(16px)');
+    $('.ui.sidebar.inverted').sidebar('toggle');
 }
 
 function closeAbout() {
@@ -521,6 +523,10 @@ function closeAbout() {
     $('#searchInput').css('filter', 'none');
     $('#aboutOverlay').css('-webkit-backdrop-filter', 'none');
     //$('#addOverlay').fadeOut('slow');
+}
+
+function showMenu() {
+    $('.ui.sidebar.inverted').sidebar('toggle');
 }
 
 function closeFirstRun() {
@@ -538,6 +544,7 @@ function toggleLayers() {
     $('#map').css('filter', 'blur(8px)');
     $('#searchInput').css('filter', 'blur(8px)');
     $('#toolbarButtons').css('filter', 'blur(8px)');
+    $('.ui.sidebar.inverted').sidebar('toggle');
 }
 
 function closeToggle() {
@@ -564,6 +571,7 @@ function easing(t) {
 }
 
 function tourShow() {
+    $('.ui.sidebar.inverted').sidebar('toggle');
     // https://github.com/mapbox/mapbox-gl-js/issues/4029
     const mapInteractionHandlers = [
         'scrollZoom', 'dragPan', 'touchZoomRotate', 'dragRotate', 'keyboard', 'boxZoom', 'doubleClickZoom'

@@ -60,33 +60,33 @@
 		<h5 id='refLabel' class='ui grey header'></h5>
 	</div>
 
+	<div class="ui sidebar inverted vertical menu right">
+		<a class="item" href="javascript:tourShow();">
+			<i class="street view icon"></i> Show Tour
+		</a>
+		<a class="item" href="javascript:toggleMapLayers();">
+			<i class="low vision icon"></i> Toggle Layers
+		</a>
+		<a class="item" href="javascript:showAbout();">
+			<i class="info icon"></i> About
+		</a>
+	</div>
 	<div class='pusher'>
 		<div id='map'></div>
 		<span id='toolbarButtons'>
-			<button class="ui basic icon tiny button" id="walkingSitButton" onclick="tourShow();">
+			<!-- <button class="ui basic icon tiny button" id="walkingSitButton" onclick="tourShow();">
 				<i class="street view icon"></i>
-			</button>
+			</button> 
 			<button class="ui basic icon tiny button" id="visibleButton" onclick="toggleMapLayers();">
 				<i class="low vision icon"></i>
 			</button>
-			<!--<button class="ui basic icon tiny button" id="visibleButton" onclick="toggleLayers();">
-				<i class="low vision icon"></i>
-			</button>
-			<button class="ui basic icon tiny button" id="legendButton" onclick="showLegend();">
-				<i class="tint icon"></i>
-			</button>-->
 			<button class="ui basic icon tiny button" id="aboutButton" onclick="showAbout();">
 				<i class="info icon"></i>
+			</button> -->
+
+			<button class="ui basic icon tiny button" id="menuButton" onclick="showMenu();">
+				<i class="bars icon"></i>
 			</button>
-			<!--<button class="circular ui icon large button" id="walkingSitButton" onclick="tourShow();">
-                <i class="street view icon"></i>
-            </button>
-			<button class="circular ui icon large button" id="visibleButton" onclick="toggleLayers();">
-				<i class="low vision icon"></i>
-			</button>
-			<button class="circular ui icon large button" id="legendButton" onclick="showLegend();">
-				<i class="tint icon"></i>
-			</button>-->
 		</span>
 
 		<span id='tourbarButtons'>
@@ -106,67 +106,9 @@
 				<i class="chevron right icon"></i>
 			</button>
 			<!--<button class="circular ui icon large button" id="refreshButton" onclick="getPoints('', false);">
-                    <i class="icon refresh"></i>
-                </button>-->
+					<i class="icon refresh"></i>
+				</button>-->
 		</span>
-
-		<!--<div id='searchInput' class='ui left icon input'>
-                <input id='textSearch' type='text' placeholder='Search...'>
-                <i class='search icon'></i>
-            </div>-->
-
-		<!--<div class="ui segments" id='searchInput'>
-				<div class="ui segment">
-					<i id='iconToolbar' class='ellipsis horizontal grey icon' onclick='toolbarToggle();'></i>
-					<div class='ui transparent left icon input'>
-						<input id='textSearch' type='text' placeholder='Search...'>
-						<i class='search icon'></i>
-					</div>
-				</div>
-				<div class="ui secondary segment" id='buttonToolbar'>
-					<div class='ui center aligned three column grid'>
-						<div class='row'>
-							<div class='four wide column'>
-								<label class='' onclick="getPoints('', false);">
-									<i class='icon refresh'></i>
-								</label>
-							</div>
-							<div class='two wide column'></div>
-							<div class='four wide column'>
-								<label class='' onclick='reCentreMap()'>
-									<i class='icon location arrow'></i>
-								</label>
-							</div>
-							<div class='two wide column'></div>
-							<div class='four wide column'>
-								<label class='' onclick='showShare()'>
-									<i class='icon external share'></i>
-								</label>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>-->
-		<!--<div id='searchInput' class='ui raised segment'>
-				<div class='ui transparent left icon input'>
-					<input id='textSearch' type='text' placeholder='Search...'>
-					<i class='search icon'></i>
-				</div>
-				<p></p>
-				<label class='ui circular icon small button'onclick="showAdd();">
-					<i class='icon plus'></i>
-				</label>
-			</div>
-			<label class='ui circular icon huge button' id='addStoryButton' onclick="showAdd();">
-				<i class='icon plus' id='uploadButtonIcon'></i>
-			</label>
-			<label class='ui circular icon huge button' id='refreshStoriesButton' onclick="getPoints('', false);">
-				<i class='icon refresh' id='refreshButtonIcon'></i>
-			</label>
-			<label class='ui circular icon huge button' id='centerLocButton' onclick='reCentreMap()'>
-				<i class='icon location arrow' id='centerLocButtonIcon'></i>
-			</label>
-		</div>-->
 
 		<div id='layerLegend' class='ui card'>
 			<div class='content'>
@@ -272,7 +214,7 @@
 								<tr>
 									<th class='single line'>Colour</th>
 									<th>Theme</th>
-								  </tr>
+								</tr>
 							</thead>
 							<tbody>
 								<tr>
@@ -390,6 +332,7 @@
 						(Australia).
 						<p></p>
 						<h3>Legend</h3>
+						When you trigger the menu (<i class="bars icon" style="font-size: 0.75em;"></i>), you will be presented with a list of options, explained below.
 						<table class='ui very basic inverted collapsing celled table' style='width: 100%;'>
 							<thead>
 								<tr>
@@ -534,6 +477,7 @@
 		<div id='pointLoadingInfo' class='ui center aligned inverted segment' style='display: none;'>
 			<p id='pointsLoadingText'>Loading street information. Please wait.</p>
 		</div>
+	</div>
 </body>
 
 </html>

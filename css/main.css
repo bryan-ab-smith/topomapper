@@ -182,7 +182,7 @@ body {
 	top: 5vh;
 }
 
-#legendButton, #centreMapButton, #visibleButton, #walkingSitButton, #aboutButton {
+#legendButton, #centreMapButton, #visibleButton, #walkingSitButton, #aboutButton, #menuButton {
     /*box-shadow: 3px 3px 5px grey;*/
     box-shadow: 0px 0px 0px 2px rgba(0,0,0,0.1);
 }
