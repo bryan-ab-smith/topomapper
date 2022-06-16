@@ -112,12 +112,19 @@ $(document).ready(function () {
 });
 
 function toggleMapLayers() {
-    curStyle == mbStyleLight ? curStyle = mbStyleSat : curStyle = mbStyleLight;
+    $('.ui.sidebar.inverted').sidebar('toggle');
+    if (curStyle == mbStyleLight) {
+        curStyle = mbStyleSat
+        $('#layerToggle').html('<i class="map outline icon"></i> Map</span>')
+    } else {
+        curStyle = mbStyleLight
+        $('#layerToggle').html('<i class="globe icon"></i> Satellite</span>')
+    }
+    // curStyle == mbStyleLight ? curStyle = mbStyleSat : curStyle = mbStyleLight;
     map.setStyle(curStyle);
     map.on('style.load', function (e) {
         getData();
     })
-    $('.ui.sidebar.inverted').sidebar('toggle');
 }
 
 function getData() {
