@@ -6,7 +6,7 @@ As part of a larger research project, this mobile friendly web application docum
 
 ![Topomapper Screenshot](img/combined.png)
 
-## Project
+## Project Details
 
 ### Progress
 
