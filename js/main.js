@@ -101,10 +101,12 @@ $(document).ready(function () {
         if (layerList.indexOf(clickedLayer) > -1) {
             console.log(map.queryRenderedFeatures(e.point)[0].properties)
             var image = map.queryRenderedFeatures(e.point)[0].properties.image;
-            if (image != ""){
+            var image_src = map.queryRenderedFeatures(e.point)[0].properties.image_src;
+            var image_licence = map.queryRenderedFeatures(e.point)[0].properties.image_licence;
+            if (image != undefined){
                 new mapboxgl.Popup()
                     .setLngLat(e.lngLat)
-                    .setHTML('<p></p><b>' + map.queryRenderedFeatures(e.point)[0].properties.name + '</b><p></p><p class="scrollDesc"><img class="ui tiny left floated circular image" src="/img/portraits/' + image + '">' + map.queryRenderedFeatures(e.point)[0].properties.description + '</p><b>References</b><br \\><p class="scrollDesc">' + map.queryRenderedFeatures(e.point)[0].properties.refs + '</p>')
+                    .setHTML('<p></p><b>' + map.queryRenderedFeatures(e.point)[0].properties.name + '</b><p></p><p class="scrollDesc"><img class="ui tiny left floated circular image" src="/img/portraits/' + image + '">' + map.queryRenderedFeatures(e.point)[0].properties.description + '</p><b>References</b><br \\><p class="scrollDesc">' + map.queryRenderedFeatures(e.point)[0].properties.refs + '<p></p><a href="' + image_src + '" target="_blank">Image (' + image_licence + ')</a></p>')
                     .addTo(map);
             } else {
                 new mapboxgl.Popup()
