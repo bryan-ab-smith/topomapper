@@ -99,10 +99,19 @@ $(document).ready(function () {
         var layerList = ['euExplLayer', 'atsiLayer', 'polLayer', 'busLayer', 'monarLayer', 'relLayer', 'warLayer', 'etcLayer', 'noneLayer', 'tpLayer', 'localLayer'];
         var clickedLayer = map.queryRenderedFeatures(e.point)[0].layer.id;
         if (layerList.indexOf(clickedLayer) > -1) {
-            new mapboxgl.Popup()
-                .setLngLat(e.lngLat)
-                .setHTML('<p></p><b>' + map.queryRenderedFeatures(e.point)[0].properties.name + '</b><p class="scrollDesc">' + map.queryRenderedFeatures(e.point)[0].properties.description + '</p><b>References</b><br \\><p class="scrollDesc">' + map.queryRenderedFeatures(e.point)[0].properties.refs + '</p>')
-                .addTo(map);
+            console.log(map.queryRenderedFeatures(e.point)[0].properties)
+            var image = map.queryRenderedFeatures(e.point)[0].properties.image;
+            if (image != ""){
+                new mapboxgl.Popup()
+                    .setLngLat(e.lngLat)
+                    .setHTML('<p></p><b>' + map.queryRenderedFeatures(e.point)[0].properties.name + '</b><p></p><p class="scrollDesc"><img class="ui tiny left floated circular image" src="/img/portraits/' + image + '">' + map.queryRenderedFeatures(e.point)[0].properties.description + '</p><b>References</b><br \\><p class="scrollDesc">' + map.queryRenderedFeatures(e.point)[0].properties.refs + '</p>')
+                    .addTo(map);
+            } else {
+                new mapboxgl.Popup()
+                    .setLngLat(e.lngLat)
+                    .setHTML('<p></p><b>' + map.queryRenderedFeatures(e.point)[0].properties.name + '</b><p class="scrollDesc">' + map.queryRenderedFeatures(e.point)[0].properties.description + '</p><b>References</b><br \\><p class="scrollDesc">' + map.queryRenderedFeatures(e.point)[0].properties.refs + '</p>')
+                    .addTo(map);
+            }
         }
 
     });
