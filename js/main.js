@@ -95,6 +95,9 @@ $(document).ready(function () {
 
 
     map.on('click', function (e) {
+        $('#menuStreetName').html('');
+        $('#menuStreetInfo').html('');
+        $('#menuStreetRefs').html('');
         //var layerList = ['euExplLayer', 'atsiLayer', 'polLayer', 'busLayer', 'monarLayer', 'relLayer', 'warLayer', 'etcLayer', 'noneLayer', 'tpLayer', 'localLayer', 'parksLayer'];
         var layerList = ['euExplLayer', 'atsiLayer', 'polLayer', 'busLayer', 'monarLayer', 'relLayer', 'warLayer', 'etcLayer', 'noneLayer', 'tpLayer', 'localLayer'];
         var clickedLayer = map.queryRenderedFeatures(e.point)[0].layer.id;
@@ -105,7 +108,10 @@ $(document).ready(function () {
             var refs = map.queryRenderedFeatures(e.point)[0].properties.refs
             var image_src = map.queryRenderedFeatures(e.point)[0].properties.image_src;
             var image_licence = map.queryRenderedFeatures(e.point)[0].properties.image_licence;
-            if (image != undefined){
+
+            // Just in case we go back to popups
+            
+            /*if (image != undefined) {
                 new mapboxgl.Popup()
                     .setLngLat(e.lngLat)
                     .setHTML('<p></p><b>' + toponym + '</b><p></p><p class="scrollDesc"><img class="ui tiny left floated circular image" src="/img/portraits/' + image + '">' + desc + '</p><b>References</b><br \\><p class="scrollDesc">' + refs + '<p></p><a href="' + image_src + '" target="_blank">Image (' + image_licence + ')</a></p>')
@@ -115,12 +121,19 @@ $(document).ready(function () {
                     .setLngLat(e.lngLat)
                     .setHTML('<p></p><b>' + toponym + '</b><p class="scrollDesc">' + desc + '</p><b>References</b><br \\><p class="scrollDesc">' + refs + '</p>')
                     .addTo(map);
+            }*/
+            if (image != undefined) {
+                $('#menuStreetName').html(toponym);
+                $('#menuStreetInfo').html('<img class="ui tiny left floated circular image" src="/img/portraits/' + image + '">' + desc);
+                $('#menuStreetRefs').html(refs + '<p></p><a href="' + image_src + '">Image (' + image_licence + ')</a>');
+                $('#menuInfo').sidebar('toggle');
+            } else {
+                $('#menuStreetName').html(toponym);
+                $('#menuStreetInfo').html(desc);
+                $('#menuStreetRefs').html(refs);
+                $('#menuInfo').sidebar('toggle');
             }
         }
-
-        $('#menuInfo').sidebar('toggle');
-        $('#menuStreetName').html(toponym);
-        $('#menuStreetInfo').html(desc);
 
     });
 
@@ -552,7 +565,7 @@ function closeAbout() {
 }
 
 function showMenu() {
-    $('.ui.sidebar.inverted').sidebar('toggle');
+    $('#menuSidebar').sidebar('toggle');
 }
 
 function closeFirstRun() {
