@@ -99,22 +99,28 @@ $(document).ready(function () {
         var layerList = ['euExplLayer', 'atsiLayer', 'polLayer', 'busLayer', 'monarLayer', 'relLayer', 'warLayer', 'etcLayer', 'noneLayer', 'tpLayer', 'localLayer'];
         var clickedLayer = map.queryRenderedFeatures(e.point)[0].layer.id;
         if (layerList.indexOf(clickedLayer) > -1) {
-            console.log(map.queryRenderedFeatures(e.point)[0].properties)
+            var toponym = map.queryRenderedFeatures(e.point)[0].properties.name;
+            var desc = map.queryRenderedFeatures(e.point)[0].properties.description;
             var image = map.queryRenderedFeatures(e.point)[0].properties.image;
+            var refs = map.queryRenderedFeatures(e.point)[0].properties.refs
             var image_src = map.queryRenderedFeatures(e.point)[0].properties.image_src;
             var image_licence = map.queryRenderedFeatures(e.point)[0].properties.image_licence;
             if (image != undefined){
                 new mapboxgl.Popup()
                     .setLngLat(e.lngLat)
-                    .setHTML('<p></p><b>' + map.queryRenderedFeatures(e.point)[0].properties.name + '</b><p></p><p class="scrollDesc"><img class="ui tiny left floated circular image" src="img/portraits/' + image + '">' + map.queryRenderedFeatures(e.point)[0].properties.description + '</p><b>References</b><br \\><p class="scrollDesc">' + map.queryRenderedFeatures(e.point)[0].properties.refs + '<p></p><a href="' + image_src + '" target="_blank">Image (' + image_licence + ')</a></p>')
+                    .setHTML('<p></p><b>' + toponym + '</b><p></p><p class="scrollDesc"><img class="ui tiny left floated circular image" src="/img/portraits/' + image + '">' + desc + '</p><b>References</b><br \\><p class="scrollDesc">' + refs + '<p></p><a href="' + image_src + '" target="_blank">Image (' + image_licence + ')</a></p>')
                     .addTo(map);
             } else {
                 new mapboxgl.Popup()
                     .setLngLat(e.lngLat)
-                    .setHTML('<p></p><b>' + map.queryRenderedFeatures(e.point)[0].properties.name + '</b><p class="scrollDesc">' + map.queryRenderedFeatures(e.point)[0].properties.description + '</p><b>References</b><br \\><p class="scrollDesc">' + map.queryRenderedFeatures(e.point)[0].properties.refs + '</p>')
+                    .setHTML('<p></p><b>' + toponym + '</b><p class="scrollDesc">' + desc + '</p><b>References</b><br \\><p class="scrollDesc">' + refs + '</p>')
                     .addTo(map);
             }
         }
+
+        $('#menuInfo').sidebar('toggle');
+        $('#menuStreetName').html(toponym);
+        $('#menuStreetInfo').html(desc);
 
     });
 
@@ -123,7 +129,8 @@ $(document).ready(function () {
 });
 
 function toggleMapLayers() {
-    $('.ui.sidebar.inverted').sidebar('toggle');
+    // $('.ui.sidebar.inverted').sidebar('toggle');
+    $('#menuSidebar').sidebar('toggle');
     if (curStyle == mbStyleLight) {
         curStyle = mbStyleSat
         $('#layerToggle').html('<i class="map outline icon"></i> Map</span>')
