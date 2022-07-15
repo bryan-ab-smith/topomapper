@@ -7,6 +7,9 @@
                 "name": "Sturt Street",
                 "city": "TSV",
                 "description": "Named for Captain Charles Sturt, one time Surveyor General of South Australia (Mathew, 2008, p. 115).",
+                "image": "charles_sturt_pd.jpg",
+                "image_src": "https://commons.wikimedia.org/wiki/File:Australia_1930_stamp_Charles_Sturt_explorer.jpg",
+                "image_licence": "Public Domain",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
             "geometry": {
@@ -165,6 +168,9 @@
                 "name": "Sturt Street",
                 "city": "TSV",
                 "description": "Named for Captain Charles Sturt, one time Surveyor General of South Australia (Mathew, 2008, p. 115).",
+                "image": "charles_sturt_pd.jpg",
+                "image_src": "https://commons.wikimedia.org/wiki/File:Australia_1930_stamp_Charles_Sturt_explorer.jpg",
+                "image_licence": "Public Domain",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
             "geometry": {
@@ -315,6 +321,9 @@
                 "name": "Sturt Street",
                 "city": "TSV",
                 "description": "Named for Captain Charles Sturt, one time Surveyor General of South Australia (Mathew, 2008, p. 115).",
+                "image": "charles_sturt_pd.jpg",
+                "image_src": "https://commons.wikimedia.org/wiki/File:Australia_1930_stamp_Charles_Sturt_explorer.jpg",
+                "image_licence": "Public Domain",
                 "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
             "geometry": {
