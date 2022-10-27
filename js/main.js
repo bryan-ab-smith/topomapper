@@ -123,8 +123,8 @@ $(document).ready(function () {
                     .addTo(map);
             }*/
             if (image != undefined) {
-                $('#menuStreetName').html(toponym);
-                $('#menuStreetInfo').html('<img class="ui tiny left floated circular image" src="/img/portraits/' + image + '">' + desc);
+                $('#menuStreetName').html('<img class="ui avatar image" src="img/portraits/' + image + '">' + toponym);
+                $('#menuStreetInfo').html(desc);
                 $('#menuStreetRefs').html(refs + '<p></p><a href="' + image_src + '">Image (' + image_licence + ')</a>');
                 $('#menuInfo').sidebar('toggle');
             } else {
@@ -143,7 +143,7 @@ $(document).ready(function () {
 
 function toggleMapLayers() {
     // $('.ui.sidebar.inverted').sidebar('toggle');
-    $('#menuSidebar').sidebar('toggle');
+    // $('#menuSidebar').sidebar('toggle');
     if (curStyle == mbStyleLight) {
         curStyle = mbStyleSat
         $('#layerToggle').html('<i class="map outline icon"></i> Map</span>')
@@ -552,7 +552,7 @@ function showAbout() {
     $('#toolbarButtons').hide();
     $('#map').css('filter', 'blur(16px)');
     $('#searchInput').css('filter', 'blur(16px)');
-    $('.ui.sidebar.inverted').sidebar('toggle');
+    // $('.ui.sidebar.inverted').sidebar('toggle');
 }
 
 function closeAbout() {
@@ -610,7 +610,7 @@ function easing(t) {
 }
 
 function tourShow() {
-    $('.ui.sidebar.inverted').sidebar('toggle');
+    // $('.ui.sidebar.inverted').sidebar('toggle');
     // https://github.com/mapbox/mapbox-gl-js/issues/4029
     const mapInteractionHandlers = [
         'scrollZoom', 'dragPan', 'touchZoomRotate', 'dragRotate', 'keyboard', 'boxZoom', 'doubleClickZoom'
