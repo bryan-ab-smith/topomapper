@@ -32,8 +32,11 @@
             "properties": {
                 "name": "Alexandra Street",
                 "city": "TSV",
-                "description": "Named for \"Alexandra of Denmark (1844-1925) [who] married Albert Edward (later Edward VII), the eldest son of Queen Victoria in 1863\" (Mathew, 2008, p. 6).",
-                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+                "description": "Named for \"Alexandra of Denmark (1844-1925) [who] married Albert Edward (later Edward VII), the eldest son of Queen Victoria in 1863\" (Mathew, 2008, p. 6). \"A most indefatigable letter-writer\" for whom \"thirty or forty letters from her pen is no unusual daily occurrence\" (\"Queen Alexandra\", 1903, p. 39), Alexandra was widely loved, with one newspaper article written about her, reporting that \"her conduct and deportment were admirable in every way,\" a description that was argued to have echoed Charles Dickens's own description of her (\"QUEEN ALEXANDRA\", 1913, p. 6). Alexandra also partook in photography as a craft, producing albums with designs and watercolours including one of collages produced in c. 1866-1869 (Royal Collection Trust, n.d).",
+                "image": "alexandra_pd.jpg",
+                "image_src": "https://commons.wikimedia.org/wiki/File:Alexandra_of_Denmark02.jpg",
+                "image_licence": "Public domain",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service.<p></p>Queen Alexandra. (1903, Sept 11). <i>The Week</i>, p. 39.<p></p>QUEEN ALEXANDRA. (1913, Mar 11). <i>The Register</i>, p. 6.<p></p>Royal Collection Trust. (n.d.). <i>Album of designs, incorporating photographs c.1866-9</i>. Retrieved from <a href='https://www.rct.uk/collection/2300089/album-of-designs-incorporating-photographs#/referer/233758/creator'>https://www.rct.uk/collection/2300089/album-of-designs-incorporating-photographs#/referer/233758/creator</a>."
             },
             "geometry": {
                 "type": "LineString",
@@ -78,8 +81,11 @@
             "properties": {
                 "name": "Alexandra Street",
                 "city": "TSV",
-                "description": "Named for \"Alexandra of Denmark (1844-1925) [who] married Albert Edward (later Edward VII), the eldest son of Queen Victoria in 1863\" (Mathew, 2008, p. 6).",
-                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+                "description": "Named for \"Alexandra of Denmark (1844-1925) [who] married Albert Edward (later Edward VII), the eldest son of Queen Victoria in 1863\" (Mathew, 2008, p. 6). \"A most indefatigable letter-writer\" for whom \"thirty or forty letters from her pen is no unusual daily occurrence\" (\"Queen Alexandra\", 1903, p. 39), Alexandra was widely loved, with one newspaper article written about her, reporting that \"her conduct and deportment were admirable in every way,\" a description that was argued to have echoed Charles Dickens's own description of her (\"QUEEN ALEXANDRA\", 1913, p. 6). Alexandra also partook in photography as a craft, producing albums with designs and watercolours including one of collages produced in c. 1866-1869 (Royal Collection Trust, n.d).",
+                "image": "alexandra_pd.jpg",
+                "image_src": "https://commons.wikimedia.org/wiki/File:Alexandra_of_Denmark02.jpg",
+                "image_licence": "Public domain",
+                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service.<p></p>Queen Alexandra. (1903, Sept 11). <i>The Week</i>, p. 39.<p></p>QUEEN ALEXANDRA. (1913, Mar 11). <i>The Register</i>, p. 6.<p></p>Royal Collection Trust. (n.d.). <i>Album of designs, incorporating photographs c.1866-9</i>. Retrieved from <a href='https://www.rct.uk/collection/2300089/album-of-designs-incorporating-photographs#/referer/233758/creator'>https://www.rct.uk/collection/2300089/album-of-designs-incorporating-photographs#/referer/233758/creator</a>."
             },
             "geometry": {
                 "type": "LineString",

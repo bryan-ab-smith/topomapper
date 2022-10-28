@@ -123,7 +123,7 @@ $(document).ready(function () {
                     .addTo(map);
             }*/
             if (image != undefined) {
-                $('#menuStreetName').html('<img class="ui avatar image" src="img/portraits/' + image + '">' + toponym);
+                $('#menuStreetName').html('<img class="ui avatar image" src="img/portraits/' + image + '" style="width: 3em !important; height: 3em !important;">' + toponym);
                 $('#menuStreetInfo').html(desc);
                 $('#menuStreetRefs').html(refs + '<p></p><a href="' + image_src + '">Image (' + image_licence + ')</a>');
                 $('#menuInfo').sidebar('toggle');
