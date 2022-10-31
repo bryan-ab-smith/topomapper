@@ -878,8 +878,8 @@
             "properties": {
                 "name": "Anthony Street",
                 "city": "TSV",
-                "description": "Named for Albert Joseph Anthony, Chairman of the Townsville Harbour Board in the mid 20<sup>th</sup> century (Mathew, 2008, p. 9).",
-                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+                "description": "Named for Albert Joseph Anthony, Chairman of the Townsville Harbour Board in the mid 20<sup>th</sup> century (Mathew, 2008, p. 9). As a business person, Anthony took over the <i>All Nations Warehouse</i> import business along with their mother Wadiha (Monsour, 2017), both of who were members of the Lebanese community in North Queensland.  Anthony was a prominent figure in the community, with a full page description of his marriage to Mena Sarks suggesting that it was a \"wedding of interest to country folk of N.S.W. and Queensland\" (\"WEDDING BELLS\", 1937, p. 8). In one engagement notice, Anthony is described as \"a nephew of his Beautitude Patriarch Arida, of Antioch\" (\"ENGAGEMENT NOTICES\", 1936, p. 1), a prominent Maronite religious figure central in the efforts for an independent Lebanon (Abisaab, 2014).",
+                "refs": "Abisaab, M. (2014). Warmed or Burnt by Fire? The Lebanese Maronite Church Navigates French Colonial Policies, 1935. <i>Arab Studies Quarterly, 36</i>(4), 292-312.<p></p>ENGAGEMENT NOTICES. (1936, Feb 22). <i>The Courier-Mail</i>, p. 1.<p></p>Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service.<p></p>Monsour, A. (2017). <i>Serving Queensland - Lebanese Storekeepers</i>. Retrieved from <a href=\"https://www.slq.qld.gov.au/blog/serving-queensland-lebanese-storekeepers\">https://www.slq.qld.gov.au/blog/serving-queensland-lebanese-storekeepers</a>.<p></p>WEDDING BELLS. (1937, Apr 1). <i>The North-Western Watchman</i>, p. 8."
             },
             "geometry": {
                 "type": "LineString",
