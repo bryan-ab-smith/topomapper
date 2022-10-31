@@ -7,3 +7,4 @@ update_remote.sh
 electron/
 gen_report.py
 deploy_prod.sh
+~$Master Info.xlsx
