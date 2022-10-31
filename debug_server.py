@@ -1,5 +1,11 @@
 import platform
+from signal import signal, SIGPIPE, SIG_DFL 
 import sys
+
+# https://linuxpip.org/broken-pipe-python-error/#Avoid_Errno_32_Broken_pipe_by_ignoring_SIGPIPE
+# Broken pipe errors were thrown up for no particular reason.
+# This suppresses these.
+signal(SIGPIPE, SIG_DFL)
 
 try:
     # Python 3
@@ -35,3 +41,5 @@ try:
             httpd.serve_forever()
 except KeyboardInterrupt:
     sys.exit(0)
+except BrokenPipeError:
+    pass

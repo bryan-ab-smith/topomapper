@@ -128,7 +128,7 @@ $(document).ready(function () {
                 $('#menuStreetRefs').html(refs + '<p></p><a href="' + image_src + '">Image (' + image_licence + ')</a>');
                 $('#menuInfo').sidebar('toggle');
             } else {
-                $('#menuStreetName').html(toponym);
+                $('#menuStreetName').html('<i class="user outline icon"></i>' + toponym);
                 $('#menuStreetInfo').html(desc);
                 $('#menuStreetRefs').html(refs);
                 $('#menuInfo').sidebar('toggle');
