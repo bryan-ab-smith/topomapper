@@ -1,16 +1,4 @@
 {
-    "mathew_flinders_pd": {
-        "license": "Public Domain",
-        "url": "https://commons.wikimedia.org/wiki/File:Toussaint_Antoine_DE_CHAZAL_DE_Chamerel_-_Portrait_of_Captain_Matthew_Flinders,_RN,_1774-1814_-_Google_Art_Project.jpg",
-        "archive": "Art Gallery of South Australia",
-        "archive_url": "https://www.agsa.sa.gov.au/collection-publications/collection/works/portrait-of-captain-matthew-flinders-rn-1774-1814/22970/"
-    },
-    "charles_sturt_pd": {
-        "license": "Public Domain",
-        "url": "https://commons.wikimedia.org/wiki/File:Australia_1930_stamp_Charles_Sturt_explorer.jpg",
-        "archive": "N/A - Personal Picture",
-        "archive_url": "N/A"
-    },
     "alexandra_pd": {
         "license": "Public Domain",
         "url": "https://commons.wikimedia.org/wiki/File:Alexandra_of_Denmark02.jpg",
@@ -22,5 +10,23 @@
         "url": "https://townsville.spydus.com/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?IRN=12427522&FMT=IMG&SETLVL=",
         "archive": "Townsville CityLibraries",
         "archive_url": "https://townsville.spydus.com/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?IRN=12427522&FMT=IMG&SETLVL="
+    },
+    "archer_nocopyright": {
+        "license": "No copyright.",
+        "url": "https://collections.slq.qld.gov.au/viewer/IE193625",
+        "archive": "State Library of Queensland",
+        "archive_url": "https://collections.slq.qld.gov.au/viewer/IE193625"
+    },
+    "charles_sturt_pd": {
+        "license": "Public Domain",
+        "url": "https://commons.wikimedia.org/wiki/File:Australia_1930_stamp_Charles_Sturt_explorer.jpg",
+        "archive": "N/A - Personal Picture",
+        "archive_url": "N/A"
+    },
+    "mathew_flinders_pd": {
+        "license": "Public Domain",
+        "url": "https://commons.wikimedia.org/wiki/File:Toussaint_Antoine_DE_CHAZAL_DE_Chamerel_-_Portrait_of_Captain_Matthew_Flinders,_RN,_1774-1814_-_Google_Art_Project.jpg",
+        "archive": "Art Gallery of South Australia",
+        "archive_url": "https://www.agsa.sa.gov.au/collection-publications/collection/works/portrait-of-captain-matthew-flinders-rn-1774-1814/22970/"
     }
 }
