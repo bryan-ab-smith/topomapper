@@ -11,6 +11,12 @@
         "archive": "Townsville CityLibraries",
         "archive_url": "https://townsville.spydus.com/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?IRN=12427522&FMT=IMG&SETLVL="
     },
+    "armati_permission_granted": {
+        "license": "Permission granted for public access and copying.",
+        "url": "https://townsville.spydus.com/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?IRN=12377732&FMT=IMG&SETLVL=",
+        "archive": "Townsville CityLibraries",
+        "archive_url": "https://townsville.spydus.com/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?IRN=12377732&FMT=IMG&SETLVL="
+    },
     "archer_nocopyright": {
         "license": "No copyright.",
         "url": "https://collections.slq.qld.gov.au/viewer/IE193625",

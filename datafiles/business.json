@@ -7,6 +7,9 @@
                 "name": "Armati Street",
                 "city": "TSV",
                 "description": "Named for Pio Vico Armati (see Mathew, 1979), late 19th and early 20th century. Owned and operated multiple chemist shops on Flinders Street (Mathew, 2008, p. 10).",
+                "image": "armati_permission_granted.png",
+                "image_src": "https://townsville.spydus.com/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?IRN=12377732&FMT=IMG&SETLVL=",
+                "image_licence": "Permission granted for public access and copying",
                 "refs": "Mathew, J. Details Armati Family [Letter to D. Armati]. (1979, August 03). Townsville, QLD.<p></p>Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
             },
             "geometry": {
