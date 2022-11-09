@@ -178,8 +178,11 @@
             "properties": {
                 "name": "Arundel Court",
                 "city": "TSV",
-                "description": "\"Named after a palace at Hampton, near London, built by Cardinal Wolsey and enlarged by Henry VIII\" (Mathew, 2008, p. 11).",
-                "refs": "Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service."
+                "description": "\"Named after a palace at Hampton, near London, built by Cardinal Wolsey and enlarged by Henry VIII\" (Mathew, 2008, p. 11). When Henry VIII took possession, he undertook a remodelling that lasted ten years, one of many renovation and change projects that has resulted in its original desing being lost to history (Foyle, 2002). An object of curiosity for many who believe in the paranormal, the Palace has been the subject of psychological research that looks to understand how the \"haunting\" of the palace is experienced (see Wiseman et al., 2002). The palace is now a tourist site.",
+                "image": "arundel_court_hampton_court_palace.jpg",
+                "image_src": "https://commons.wikimedia.org/wiki/File:Great_Gate,_Hampton_Court_Palace.jpg",
+                "image_licence": "Creative Commons Attribution-Share Alike 2.0 Generic: https://creativecommons.org/licenses/by-sa/2.0/deed.en. Courtesy of Luke Nicolaides.",
+                "refs": "Foyle, J. (2002). A Reconstruction of Thomas Wolsey's Great Hall at Hampton Court Palace. <i>Architectural History, 45</i>(2), 128-158.<p></p>Mathew, J. (2008). <i>Highways and Byways: The Origin of Townsville Street Names</i> (Revised ed.). Townsville, QLD: Townsville Library Service.<p></p>Wiseman, R., Watt, C., Greening, E., Stevens, P. & O'Kefffe, C. (2002). An investigation into the alleged haunting of Hampton Court Palace: Psychological variables and magnetic fields. <i>Journal of Parapsychology, 66</i>(4), 387-408."
             },
             "geometry": {
                 "type": "LineString",
