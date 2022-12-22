@@ -22,7 +22,7 @@ The following suburbs have been mapped:
 Next up:
 - Nothing for now.
 
-NOTE: Efforts to map will slow down as each of the five suburbs above will be cleaned up, proofed and filled out with further context.
+NOTE: Efforts to map will slow down adding new streets as each of the five suburbs above will be cleaned up, proofed and filled out with further context.
 
 __Cairns__
 
@@ -61,11 +61,43 @@ It is possible (and likely for those that aren't much older than these) that it 
 ## Known Issues
 
 ### Street Level Data
-- None as of yet.
+- None as of yet. The only known issue is an ongoing one: the changes in OSM data means that the mapping of GeoJSON data may not be perfect. An example of this can be seen below.
+
+![Street Misalignment](img/street_misalignment_example.png).
+
+The ever shifting OSM and Mapbox data means that this will be an issue for the foreseeable future.
 
 ## Development
+Want to work on Topomapper? The instructions below will set you up for development.
 
-### Install/deploy on your own server
+### Set up the environment
+As a web application that is written in HTML, CSS, and JS, the app can simply be made available on a web server. If you don't have a web server available, or you don't want to set one up, a debugging server written in Python is provided as part of the code here. To run it, you first need to install Python.
+
+#### Installing Python
+If you're running this on a Mac or Linux box, you've already got Python installed. Simply execute the following at the command line.
+
+##### macOS
+Open /Applications/Terminal.app and run the follwing (type it and press enter):
+
+    cd <path to where Topomapper is> && python3 debug_server.py
+
+##### Linux
+Open up a command line prompt (gnome-terminal or Konsole for example) and run the following:
+
+    cd <path to where Topomapper is> && python3 debug_server.py
+
+##### Windows
+First, you will need to install Python. Download it from [here](https://www.python.org/downloads/windows/).
+
+Second, open up a command prompt. To do this, press the Windows Key + R and enter ***cmd.exe*** (press enter). In the window that appears, type the following:
+
+    cd <path to where Topomapper is>
+
+Next, run the following:
+
+    python debug_server.py
+
+### Install/deploy on your own server (this also includes local development)
 
 1. Clone the code
 
@@ -77,14 +109,8 @@ It is possible (and likely for those that aren't much older than these) that it 
 
 4. Rename js/mapbox.js.template to js/mapbox.js.
 
-5. Upload everything to your web server and everything should work.
+5. Upload everything to your web server and everything should work. You can also run the local debug server here.
 
-### Local development
-
-#### Included debug server
-The debug_server.py script is a simple non-logging web server that you can use to quickly setup an environment to debug and play with Topomapper. While it will work to serve Topomapper, you are strongly discouraged from using this as a production (ie. public) facing server.
-
-The server is written in Python and works with Python 2 and 3 (and should therefore work on any platform that Python supports including Windows, macOS, Linux and others). To run it, simply execute the script (it will detect the Python version automatically and run as needed) and head over to localhost:8000.
 
 #### Other options
 
@@ -100,7 +126,7 @@ Anything really. A quick and simple alternative to the included debug server mig
 
 MIT License
 
-Copyright (c) 2019-2020 Bryan Smith.
+Copyright (c) 2019-2023 Bryan Smith.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
